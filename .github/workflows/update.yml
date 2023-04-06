@@ -31,9 +31,10 @@ jobs:
     - run: pip install -r requirements.txt
     - run: python src/generate.py
     # TODO: Run the tagging only on the scheduled cron
+    # TODO: Generate a nice diff for each release.
     - uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: Update Total Expense Ratios
-          commit_author: 'github-actions[bot] <github-actions[bot]@users.noreply.github.com>'
-          file_pattern: '*.csv'
-          tagging_message: 'v${{ steps.current-time.outputs.formattedTime }}'
+      with:
+        commit_message: Update Total Expense Ratios
+        commit_author: 'github-actions[bot] <github-actions[bot]@users.noreply.github.com>'
+        file_pattern: '*.csv'
+        tagging_message: 'v${{ steps.current-time.outputs.formattedTime }}'
