@@ -10,6 +10,13 @@ Watch the repository for any releases to get notified of any changes.
 
 TODO: Create a Mastodon bot that posts updates as they happen.
 
+## Why
+
+The emails sent by Mutual Funds are quite useless, as they don't contain the actual TER change, just a notification of the change.
+You're expected to go to the website, and find the TER details on your own.
+
+This is a simple tracker that allows you to watch the TER changes for all funds.
+
 ## License
 
 Licensed under the [MIT License](https://nemo.mit-license.org/). See LICENSE file for details.

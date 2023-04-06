@@ -6,6 +6,7 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:
 permissions:
   contents: write
 jobs:
@@ -20,7 +21,7 @@ jobs:
         # Versioning is current date
         # Intentionally without leading zeroes
         # to comply with semver
-        format: "YYYY.M.D"
+        format: "YYYY.M.D+HHmm"
     - uses: actions/checkout@v3
       with:
         ref: ${{ github.head_ref }}
@@ -30,7 +31,6 @@ jobs:
         cache: 'pip'
     - run: pip install -r requirements.txt
     - run: python src/generate.py
-    # TODO: Run the tagging only on the scheduled cron
     # TODO: Generate a nice diff for each release.
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
@@ -38,3 +38,11 @@ jobs:
         commit_author: 'github-actions[bot] <github-actions[bot]@users.noreply.github.com>'
         file_pattern: '*.csv'
         tagging_message: 'v${{ steps.current-time.outputs.formattedTime }}'
+      if: ${{ github.event_name == 'schedule' }}
+    # Do not tag if this is a non-scheduled run
+    - uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: Update Total Expense Ratios
+        commit_author: 'github-actions[bot] <github-actions[bot]@users.noreply.github.com>'
+        file_pattern: '*.csv'
+      if: ${{ github.event_name == 'push' || github.event_name == 'workflow_dispatch'}}
