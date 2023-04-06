@@ -2,7 +2,7 @@ name: Update Data
 on:
   schedule:
     # Run every 4 hours, at the 35th minute
-    - cron: '35 */4 * * *'
+    - cron: '35 * * * *'
   push:
     branches:
       - main
