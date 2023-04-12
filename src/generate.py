@@ -37,13 +37,19 @@ def fetch_ter(date, scheme_category):
         return []
     if tables[0][0] != EXPECTED_HEADERS:
         return []
-    d = date.strftime("%d-%b-%Y")
-    # Drop the Date, and only keep rows with matching date
-    return [
-        [row[0]] + [float(ter) for ter in row[2:]]
-        for row in tables[0][1:]
-        if row[1] == date.strftime("%d-%b-%Y")
-    ]
+    ret_d = {}
+    for row in tables[0][1:]:
+        scheme_name = row[0]
+        scheme_date = datetime.strptime(row[1], "%d-%b-%Y").date()
+        data = [scheme_date, scheme_name] + [float(ter) for ter in row[2:]]
+        if (
+            scheme_name in ret_d
+            and scheme_date >= ret_d[scheme_name][0]
+        ):
+            ret_d[scheme_name] = data
+        else:
+            ret_d[scheme_name] = data
+    return [row[1:] for row in ret_d.values()]
 
 
 def get_ters(scheme_categories):
@@ -57,7 +63,7 @@ def get_ters(scheme_categories):
 
 
 def write_csv(filename, data):
-    with open(filename, "w") as csvfile:
+    with open(filename, "w", newline='') as csvfile:
         spamwriter = csv.writer(
             csvfile, delimiter=",", quotechar='"', quoting=csv.QUOTE_NONNUMERIC
         )
