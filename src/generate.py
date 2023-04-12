@@ -72,7 +72,19 @@ def write_csv(filename, data):
             spamwriter.writerow(row)
 
 
+FILENAME = "data.csv"
 if __name__ == "__main__":
     data = get_ters(range(1, 70))
     data = sorted(data, key=lambda row: row[0].lower())
-    write_csv("data.csv", data)
+    write_csv(FILENAME, data)
+    if sys.argv[1]:
+        from csv_diff import load_csv, compare
+        diff = compare(
+            load_csv(open(sys.argv[1]), key="Scheme Name"),
+            load_csv(open(FILENAME), key="Scheme Name")
+        )
+
+        total_ter_header = EXPECTED_HEADERS[-1]
+        for row in diff['changed']:
+            if total_ter_header in row['changes']:
+                print(f" - {row['key']} changed its TER from {row['changes'][total_ter_header][0]} to {row['changes'][total_ter_header][1]}")
