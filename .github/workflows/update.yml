@@ -32,6 +32,7 @@ jobs:
     - run: pip install -r requirements.txt
     # Make a copy of the data.csv file
     - run: cp data.csv /tmp/data.csv
+    # This generates a diff in /tmp/diff.txt
     - run: python src/generate.py /tmp/data.csv > /tmp/diff.txt
     - uses: stefanzweifel/git-auto-commit-action@v4
       id: scheduled_commit_action

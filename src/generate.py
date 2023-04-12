@@ -1,4 +1,5 @@
 from datetime import date, datetime, timedelta
+from csv_diff import load_csv, compare
 import http.client
 import html2csv
 import sys
@@ -42,10 +43,7 @@ def fetch_ter(date, scheme_category):
         scheme_name = row[0]
         scheme_date = datetime.strptime(row[1], "%d-%b-%Y").date()
         data = [scheme_date, scheme_name] + [float(ter) for ter in row[2:]]
-        if (
-            scheme_name in ret_d
-            and scheme_date >= ret_d[scheme_name][0]
-        ):
+        if scheme_name in ret_d and scheme_date >= ret_d[scheme_name][0]:
             ret_d[scheme_name] = data
         else:
             ret_d[scheme_name] = data
@@ -63,7 +61,7 @@ def get_ters(scheme_categories):
 
 
 def write_csv(filename, data):
-    with open(filename, "w", newline='') as csvfile:
+    with open(filename, "w", newline="") as csvfile:
         spamwriter = csv.writer(
             csvfile, delimiter=",", quotechar='"', quoting=csv.QUOTE_NONNUMERIC
         )
@@ -77,14 +75,20 @@ if __name__ == "__main__":
     data = get_ters(range(1, 70))
     data = sorted(data, key=lambda row: row[0].lower())
     write_csv(FILENAME, data)
+    # Pass a second argument for the old file version
+    # to generate a diff to stdout
     if sys.argv[1]:
-        from csv_diff import load_csv, compare
         diff = compare(
             load_csv(open(sys.argv[1]), key="Scheme Name"),
-            load_csv(open(FILENAME), key="Scheme Name")
+            load_csv(open(FILENAME), key="Scheme Name"),
         )
 
         total_ter_header = EXPECTED_HEADERS[-1]
-        for row in diff['changed']:
-            if total_ter_header in row['changes']:
-                print(f" - {row['key']} changed its TER from {row['changes'][total_ter_header][0]} to {row['changes'][total_ter_header][1]}")
+        for row in diff["changed"]:
+            if total_ter_header in row["changes"]:
+                old = row["changes"][total_ter_header][0]
+                new = row["changes"][total_ter_header][1]
+                if new <= old:
+                    print(f" - \"{row['key']}\" lowered its TER from {old} to {new}")
+                else:
+                    print(f" - \"{row['key']}\" increased its TER from {old} to {new}")
