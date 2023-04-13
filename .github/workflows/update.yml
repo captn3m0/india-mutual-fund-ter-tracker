@@ -30,14 +30,20 @@ jobs:
         python-version: '3.10'
         cache: 'pip'
     - run: pip install -r requirements.txt
-    # Make a copy of the data.csv file
     - run: cp data.csv /tmp/data.csv
-    # This generates a diff in /tmp/diff.txt
-    - run: python src/generate.py /tmp/data.csv > /tmp/diff.txt
+    # TODO: Use pygit instead of an older copy.
+    - run: |
+        echo "changelog<<__EOL__" > $GITHUB_OUTPUT
+        python src/generate.py /tmp/data.csv | tee -a "$GITHUB_OUTPUT"
+        echo "__EOL__" >> $GITHUB_OUTPUT
+      id: generate
     - uses: stefanzweifel/git-auto-commit-action@v4
       id: scheduled_commit_action
       with:
-        commit_message: Update Total Expense Ratios
+        commit_message: |
+          Update Total Expense Ratios
+
+          ${{steps.generate.outputs.changelog}}
         commit_author: 'github-actions[bot] <github-actions[bot]@users.noreply.github.com>'
         file_pattern: '*.csv'
         tagging_message: 'v${{ steps.current-time.outputs.formattedTime }}'
