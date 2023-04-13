@@ -48,7 +48,7 @@ jobs:
         file_pattern: '*.csv'
         tagging_message: 'v${{ steps.current-time.outputs.formattedTime }}'
       if: ${{ github.event_name == 'schedule' }}
-    - run: gh release create 'v${{ steps.current-time.outputs.formattedTime }}' --latest --notes-file /tmp/diff.txt data.csv
+    - run: gh release create 'v${{ steps.current-time.outputs.formattedTime }}' --latest --notes "Automated Release. Please see attached `data.csv` for the dataset. \n\n${{steps.generate.outputs.changelog}}" data.csv
       if: steps.scheduled_commit_action.outputs.changes_detected == 'true'
       env:
         GH_TOKEN: ${{ github.token }}
