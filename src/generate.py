@@ -56,8 +56,11 @@ def get_ters(scheme_categories):
         # the timedelta is to account for the delay in publishing.
         # so we check the TER for yesterday
         d = date.today() - timedelta(days=1)
-        new_data =  fetch_ter(d, scheme_category)
-        print(f"[+] Category {scheme_categories} -> {len(new_data)} rows.")
+        new_data = fetch_ter(d, scheme_category)
+        print(
+            f"[+] Category {scheme_category} -> {len(new_data)} rows.",
+            file=sys.stderr,
+        )
         data += new_data
     return data
 
@@ -79,7 +82,7 @@ if __name__ == "__main__":
     write_csv(FILENAME, data)
     # Pass a second argument for the old file version
     # to generate a diff to stdout
-    if len(sys.argv) >=2:
+    if len(sys.argv) >= 2:
         diff = compare(
             load_csv(open(sys.argv[1]), key="Scheme Name"),
             load_csv(open(FILENAME), key="Scheme Name"),
