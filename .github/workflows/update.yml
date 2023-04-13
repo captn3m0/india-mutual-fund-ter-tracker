@@ -44,6 +44,8 @@ jobs:
       if: ${{ github.event_name == 'schedule' }}
     - run: gh release create 'v${{ steps.current-time.outputs.formattedTime }}' --latest --notes-file /tmp/diff.txt data.csv
       if: steps.scheduled_commit_action.outputs.changes_detected == 'true'
+      env:
+        GH_TOKEN: ${{ github.token }}
     # Do not tag if this is a non-scheduled run
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
