@@ -54,7 +54,7 @@ jobs:
       if: ${{ github.event_name == 'schedule' }}
     - name: Create GitHub Release
       run: |
-        gh release create 'v${{ steps.current-time.outputs.formattedTime }}' --latest --notes 'Automated Release. ${{steps.generate.outputs.changelog}}' data.csv
+        gh release create 'v${{ steps.current-time.outputs.formattedTime }}' --latest --notes '${{steps.generate.outputs.changelog}}' data.csv
       if: steps.scheduled_commit_action.outputs.changes_detected == 'true'
       env:
         GH_TOKEN: ${{ github.token }}
