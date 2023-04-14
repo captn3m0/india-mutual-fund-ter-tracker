@@ -30,14 +30,18 @@ jobs:
         python-version: '3.10'
         cache: 'pip'
     - run: pip install -r requirements.txt
-    - run: cp data.csv /tmp/data.csv
+    - name: Run Tests
+      run: python -m pytest test/
     # TODO: Use pygit instead of an older copy.
-    - run: |
-        echo "changelog<<__EOL__" > $GITHUB_OUTPUT
-        python src/generate.py /tmp/data.csv | tee -a "$GITHUB_OUTPUT"
-        echo "__EOL__" >> $GITHUB_OUTPUT
+    - name: Update dataset
       id: generate
+      run: |
+        cp data.csv /tmp/data.csv
+        echo "changelog<<__EOL__" > "$GITHUB_OUTPUT"
+        python -m src /tmp/data.csv | tee -a "$GITHUB_OUTPUT"
+        echo "__EOL__" >> "$GITHUB_OUTPUT"
     - uses: stefanzweifel/git-auto-commit-action@v4
+      name: Commit Updates
       id: scheduled_commit_action
       with:
         commit_message: |
@@ -48,14 +52,19 @@ jobs:
         file_pattern: '*.csv'
         tagging_message: 'v${{ steps.current-time.outputs.formattedTime }}'
       if: ${{ github.event_name == 'schedule' }}
-    - run: gh release create 'v${{ steps.current-time.outputs.formattedTime }}' --latest --notes 'Automated Release. \n\n${{steps.generate.outputs.changelog}}' data.csv
+    - name: Create GitHub Release
+      run: |
+        gh release create 'v${{ steps.current-time.outputs.formattedTime }}' --latest --notes 'Automated Release. ${{steps.generate.outputs.changelog}}' data.csv
       if: steps.scheduled_commit_action.outputs.changes_detected == 'true'
       env:
         GH_TOKEN: ${{ github.token }}
     # Do not tag if this is a non-scheduled run
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        commit_message: Update Total Expense Ratios
+        commit_message: |
+          Update Total Expense Ratios
+
+          ${{steps.generate.outputs.changelog}}
         commit_author: 'github-actions[bot] <github-actions[bot]@users.noreply.github.com>'
         file_pattern: '*.csv'
       if: ${{ github.event_name == 'push' || github.event_name == 'workflow_dispatch'}}

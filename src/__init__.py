@@ -5,8 +5,6 @@ import html2csv
 import sys
 import csv
 
-conn = http.client.HTTPSConnection("www.amfiindia.com")
-
 EXPECTED_HEADERS = [
     "Scheme Name",
     "TER Date",
@@ -24,16 +22,25 @@ EXPECTED_HEADERS = [
 
 FINAL_HEADERS = [EXPECTED_HEADERS[0]] + EXPECTED_HEADERS[2:]
 
+def generate_diff(old_file, new_file, outf=sys.stdout):
+    diff = compare(
+        load_csv(open(old_file), key="Scheme Name"),
+        load_csv(open(new_file), key="Scheme Name"),
+    )
 
-def fetch_ter(date, scheme_category):
-    d = date.strftime("%-m-%Y")
-    payload = f"MonthTER={d}&MF_ID=-1&NAV_ID=1&SchemeCat_Desc={scheme_category}"
-    headers = {"Content-Type": "application/x-www-form-urlencoded"}
-    conn.request("POST", "/modules/LoadTERData", payload, headers)
-    res = conn.getresponse()
+    total_ter_header = EXPECTED_HEADERS[-1]
+    for row in diff["changed"]:
+        if total_ter_header in row["changes"]:
+            old = row["changes"][total_ter_header][0]
+            new = row["changes"][total_ter_header][1]
+            if new <= old:
+                print(f" - \"{row['key']}\" lowered its TER from {old} to {new}", file=outf)
+            else:
+                print(f" - \"{row['key']}\" increased its TER from {old} to {new}", file=outf)
+
+def parse_ter(html):
     convertor = html2csv.Converter()
-    data = res.read().decode("utf-8")
-    tables = convertor.convert_to_list(data)
+    tables = convertor.convert_to_list(html)
     if len(tables) == 0 or len(tables[0]) == 0:
         return []
     if tables[0][0] != EXPECTED_HEADERS:
@@ -50,13 +57,23 @@ def fetch_ter(date, scheme_category):
     return [row[1:] for row in ret_d.values()]
 
 
-def get_ters(scheme_categories):
+def fetch_ter(conn, date, scheme_category):
+    d = date.strftime("%-m-%Y")
+    payload = f"MonthTER={d}&MF_ID=-1&NAV_ID=1&SchemeCat_Desc={scheme_category}"
+    headers = {"Content-Type": "application/x-www-form-urlencoded"}
+    conn.request("POST", "/modules/LoadTERData", payload, headers)
+    res = conn.getresponse()
+    html = res.read().decode("utf-8")
+    return parse_ter(html)
+
+
+def get_ters(conn, scheme_categories):
     data = []
     for scheme_category in scheme_categories:
         # the timedelta is to account for the delay in publishing.
         # so we check the TER for yesterday
         d = date.today() - timedelta(days=1)
-        new_data = fetch_ter(d, scheme_category)
+        new_data = fetch_ter(conn, d, scheme_category)
         print(
             f"[+] Category {scheme_category} -> {len(new_data)} rows.",
             file=sys.stderr,
@@ -73,27 +90,3 @@ def write_csv(filename, data):
         spamwriter.writerow(FINAL_HEADERS)
         for row in data:
             spamwriter.writerow(row)
-
-
-FILENAME = "data.csv"
-if __name__ == "__main__":
-    data = get_ters(range(1, 70))
-    data = sorted(data, key=lambda row: row[0].lower())
-    write_csv(FILENAME, data)
-    # Pass a second argument for the old file version
-    # to generate a diff to stdout
-    if len(sys.argv) >= 2:
-        diff = compare(
-            load_csv(open(sys.argv[1]), key="Scheme Name"),
-            load_csv(open(FILENAME), key="Scheme Name"),
-        )
-
-        total_ter_header = EXPECTED_HEADERS[-1]
-        for row in diff["changed"]:
-            if total_ter_header in row["changes"]:
-                old = row["changes"][total_ter_header][0]
-                new = row["changes"][total_ter_header][1]
-                if new <= old:
-                    print(f" - \"{row['key']}\" lowered its TER from {old} to {new}")
-                else:
-                    print(f" - \"{row['key']}\" increased its TER from {old} to {new}")
