@@ -71,3 +71,6 @@ jobs:
       if: steps.commit.outputs.changes_detected == 'true' && ( ! contains(steps.generate.outputs.changelog, 'TER') )
       env:
         GH_TOKEN: ${{ github.token }}
+    - name: Post to Mastodon
+      run: echo '${{steps.generate.outputs.changelog}}' | python src/toot.py
+      if: steps.commit.outputs.changes_detected == 'true' && contains(steps.generate.outputs.changelog, 'TER')
