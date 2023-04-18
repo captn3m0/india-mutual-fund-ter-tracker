@@ -42,7 +42,7 @@ jobs:
         echo "__EOL__" >> "$GITHUB_OUTPUT"
     - uses: stefanzweifel/git-auto-commit-action@v4
       name: Commit Updates
-      id: scheduled_commit_action
+      id: commit
       with:
         commit_message: |
           Update Total Expense Ratios
@@ -51,20 +51,18 @@ jobs:
         commit_author: 'github-actions[bot] <github-actions[bot]@users.noreply.github.com>'
         file_pattern: '*.csv'
         tagging_message: 'v${{ steps.current-time.outputs.formattedTime }}'
-      if: ${{ github.event_name == 'schedule' }}
-    - name: Create GitHub Release
+    - name: Create GitHub Release (TER Changes)
       run: |
-        gh release create 'v${{ steps.current-time.outputs.formattedTime }}' --latest --notes '${{steps.generate.outputs.changelog}}' data.csv
-      if: steps.scheduled_commit_action.outputs.changes_detected == 'true'
+        gh release create 'v${{ steps.current-time.outputs.formattedTime }}' --latest --notes 'Changes for Direct Plans:
+        ${{steps.generate.outputs.changelog}}' data.csv
+      # Run this if changes were detected, and changelog was not empty
+      if: steps.commit.outputs.changes_detected == 'true' && contains(steps.generate.outputs.changelog, 'TER')
       env:
         GH_TOKEN: ${{ github.token }}
-    # Do not tag if this is a non-scheduled run
-    - uses: stefanzweifel/git-auto-commit-action@v4
-      with:
-        commit_message: |
-          Update Total Expense Ratios
-
-          ${{steps.generate.outputs.changelog}}
-        commit_author: 'github-actions[bot] <github-actions[bot]@users.noreply.github.com>'
-        file_pattern: '*.csv'
-      if: ${{ github.event_name == 'push' || github.event_name == 'workflow_dispatch'}}
+    - name: Create GitHub Release (No Direct Plan Changes)
+      run: |
+        gh release create 'v${{ steps.current-time.outputs.formattedTime }}' --latest --notes 'No TER changes in any Direct Plans' data.csv
+      # Run this if changes were detected, and changelog was empty.
+      if: steps.commit.outputs.changes_detected == 'true' && ( ! contains(steps.generate.outputs.changelog, 'TER') )
+      env:
+        GH_TOKEN: ${{ github.token }}
