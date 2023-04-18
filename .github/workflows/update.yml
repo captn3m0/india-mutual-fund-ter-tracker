@@ -50,7 +50,7 @@ jobs:
           Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}/jobs/${{ github.job }}
           Workflow: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}/workflow
 
-          Changelog:
+          Changes in TER (Direct Plans only):
 
           ${{steps.generate.outputs.changelog}}
         commit_author: 'github-actions[bot] <github-actions[bot]@users.noreply.github.com>'
