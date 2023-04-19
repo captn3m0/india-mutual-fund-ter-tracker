@@ -51,6 +51,7 @@
 "Aditya Birla Sun Life Long Duration Fund",1.02,0.0,0.0,0.06,1.07,0.36,0.0,0.0,0.06,0.41
 "Aditya Birla Sun Life Low Duration Fund",1.12,0.0,0.0,0.05,1.17,0.34,0.0,0.0,0.05,0.39
 "Aditya Birla Sun Life Manufacturing Equity Fund",2.2,0.0,0.05,0.23,2.48,1.32,0.0,0.05,0.23,1.6
+"Aditya Birla Sun Life Medium Term Plan",1.4,0.0,0.0,0.12,1.52,0.75,0.0,0.0,0.12,0.87
 "Aditya Birla Sun Life MIDCAP Fund",1.77,0.0,0.05,0.16,1.98,0.92,0.0,0.05,0.16,1.13
 "Aditya Birla Sun Life MNC Fund",1.81,0.0,0.05,0.19,2.05,1.11,0.0,0.05,0.19,1.35
 "Aditya Birla Sun Life Money Manager Fund",0.3,0.0,0.0,0.03,0.33,0.18,0.0,0.0,0.03,0.21
@@ -152,6 +153,7 @@
 "Axis Silver Fund of Fund",0.65,0.0,0.05,0.0,0.7,0.1,0.0,0.05,0.0,0.15
 "Axis Small Cap Fund",1.58,0.0,0.05,0.06,1.69,0.42,0.0,0.05,0.06,0.53
 "Axis Special Situations Fund",1.94,0.0,0.05,0.09,2.08,0.48,0.0,0.05,0.08,0.61
+"Axis Strategic Bond Fund",1.03,0.0,0.0,0.05,1.08,0.34,0.0,0.0,0.05,0.39
 "Axis Treasury Advantage Fund",0.58,0.0,0.0,0.04,0.62,0.25,0.0,0.0,0.04,0.29
 "Axis Triple Advantage Fund",1.89,0.0,0.05,0.1,2.04,0.57,0.0,0.05,0.1,0.72
 "Axis Ultra Short Term Fund",1.15,0.0,0.0,0.04,1.19,0.27,0.0,0.0,0.04,0.31
@@ -164,6 +166,7 @@
 "BANDHAN Balanced Advantage Fund",1.81,0.0,0.05,0.08,1.94,0.45,0.0,0.05,0.08,0.58
 "BANDHAN Banking & PSU Debt Fund",0.58,0.0,0.0,0.04,0.62,0.28,0.0,0.0,0.04,0.32
 "Bandhan Bond Fund - Income Plan",1.79,0.0,0.0,0.19,1.98,1.13,0.0,0.0,0.19,1.32
+"Bandhan Bond Fund - Medium Term Plan",1.36,0.0,0.0,0.11,1.47,0.65,0.0,0.0,0.11,0.76
 "Bandhan Bond Fund - Short Term Plan",0.73,0.0,0.0,0.04,0.77,0.26,0.0,0.0,0.04,0.3
 "Bandhan Core Equity Fund",1.84,0.0,0.05,0.13,2.02,0.7,0.0,0.05,0.12,0.87
 "BANDHAN Corporate Bond Fund",0.57,0.0,0.0,0.04,0.61,0.27,0.0,0.0,0.04,0.31
@@ -242,6 +245,7 @@
 "BARODA BNP PARIBAS LARGE CAP FUND",1.97,0.0,0.05,0.12,2.14,0.76,0.0,0.05,0.12,0.93
 "BARODA BNP PARIBAS LIQUID FUND",0.24,0.0,0.0,0.02,0.26,0.17,0.0,0.0,0.02,0.19
 "BARODA BNP PARIBAS LOW DURATION FUND",0.97,0.0,0.0,0.05,1.02,0.34,0.0,0.0,0.05,0.39
+"Baroda BNP Paribas Medium Duration Fund (scheme has one segregated portfolio)",0.88,0.0,0.0,0.09,0.97,0.6,0.0,0.0,0.09,0.69
 "Baroda BNP Paribas Mid Cap Fund",2.0,0.0,0.05,0.07,2.12,0.47,0.0,0.05,0.07,0.59
 "Baroda BNP Paribas Money Market Fund",0.37,0.0,0.0,0.02,0.39,0.18,0.0,0.0,0.02,0.2
 "Baroda BNP Paribas Multi Asset Fund",1.99,0.0,0.05,0.04,2.08,0.29,0.0,0.05,0.04,0.38
@@ -291,6 +295,7 @@
 "DSP 10Y G-Sec Fund",0.48,0.0,0.0,0.04,0.52,0.27,0.0,0.0,0.04,0.31
 "DSP Arbitrage fund",0.93,0.0,0.0,0.04,0.97,0.29,0.0,0.0,0.04,0.33
 "DSP Banking & PSU Debt Fund",0.53,0.0,0.0,0.04,0.57,0.28,0.0,0.0,0.04,0.32
+"DSP Bond Fund",0.66,0.0,0.0,0.05,0.71,0.34,0.0,0.0,0.05,0.39
 "DSP Corporate Bond Fund",0.47,0.0,0.0,0.03,0.5,0.22,0.0,0.0,0.03,0.25
 "DSP Credit Risk Fund",1.38,0.0,0.0,0.05,1.43,0.33,0.0,0.0,0.05,0.38
 "DSP CRISIL SDL Plus G-Sec Apr 2033 50:50 Index Fund",0.47,0.0,0.0,0.02,0.49,0.14,0.0,0.0,0.02,0.16
@@ -439,6 +444,7 @@
 "HDFC Liquid Fund",0.3,0.0,0.0,0.0,0.3,0.2,0.0,0.0,0.0,0.2
 "HDFC Long Duration Debt Fund",0.6,0.0,0.0,0.0,0.6,0.25,0.0,0.0,0.0,0.25
 "HDFC Low Duration  Fund",0.99,0.0,0.0,0.05,1.04,0.38,0.0,0.0,0.05,0.43
+"HDFC Medium Term Debt Fund",1.22,0.0,0.0,0.07,1.29,0.51,0.0,0.0,0.07,0.58
 "HDFC Mid-Cap Opportunities Fund",1.42,0.0,0.05,0.14,1.61,0.76,0.0,0.05,0.14,0.95
 "HDFC MNC Fund",2.25,0.0,0.05,0.18,2.48,1.1,0.0,0.05,0.18,1.33
 "HDFC Money Market Fund",0.41,0.0,0.0,0.0,0.41,0.21,0.0,0.0,0.0,0.21
@@ -510,6 +516,7 @@
 "HSBC Managed Solutions - Conservative",0.86,0.0,0.0,0.0,0.86,0.09,0.0,0.0,0.0,0.09
 "HSBC Managed Solutions - Growth",1.01,0.0,0.0,0.0,1.01,0.09,0.0,0.0,0.0,0.09
 "HSBC Managed Solutions - Moderate",1.13,0.0,0.0,0.0,1.13,0.09,0.0,0.0,0.0,0.09
+"HSBC Medium Duration Fund",1.05,0.0,0.0,0.05,1.1,0.35,0.0,0.0,0.05,0.4
 "HSBC Medium to Long Duration Fund",1.82,0.0,0.0,0.09,1.91,0.59,0.0,0.0,0.09,0.68
 "HSBC Midcap Fund",1.66,0.0,0.05,0.09,1.8,0.58,0.0,0.05,0.09,0.72
 "HSBC Money Market Fund",0.52,0.0,0.0,0.03,0.55,0.22,0.0,0.0,0.03,0.25
@@ -562,6 +569,7 @@
 "ICICI Prudential Long Term Bond Fund",1.79,0.0,0.0,0.23,2.02,1.27,0.0,0.0,0.23,1.5
 "ICICI Prudential Long Term Equity Fund (Tax Saving)",1.61,0.0,0.0,0.2,1.81,1.11,0.0,0.0,0.2,1.31
 "ICICI Prudential Manufacturing Fund",2.17,0.0,0.05,0.25,2.47,1.38,0.0,0.05,0.25,1.68
+"ICICI Prudential Medium Term Bond Fund",1.25,0.0,0.05,0.11,1.41,0.61,0.0,0.05,0.11,0.77
 "ICICI Prudential Midcap Fund",1.76,0.0,0.05,0.17,1.98,0.94,0.0,0.05,0.17,1.16
 "ICICI PRUDENTIAL MNC FUND",1.99,0.0,0.05,0.12,2.16,0.67,0.0,0.05,0.12,0.84
 "ICICI Prudential Money Market Fund",0.31,0.0,0.0,0.0,0.31,0.21,0.0,0.0,0.0,0.21
@@ -694,6 +702,7 @@
 "Invesco India Infrastructure Fund",2.25,0.0,0.05,0.14,2.44,0.89,0.0,0.05,0.14,1.08
 "Invesco India Largecap Fund",2.17,0.0,0.0,0.09,2.26,0.72,0.0,0.0,0.09,0.81
 "Invesco India Liquid Fund",0.22,0.0,0.0,0.0,0.22,0.15,0.0,0.0,0.0,0.15
+"Invesco India Medium Duration Fund",1.3,0.0,0.0,0.05,1.35,0.35,0.0,0.0,0.05,0.4
 "Invesco India Midcap Fund",1.82,0.0,0.05,0.09,1.96,0.58,0.0,0.05,0.09,0.72
 "Invesco India Money Market Fund",0.53,0.0,0.0,0.02,0.55,0.2,0.0,0.0,0.02,0.22
 "Invesco India Multicap Fund",1.85,0.0,0.05,0.08,1.98,0.53,0.0,0.05,0.07,0.65
@@ -771,6 +780,7 @@
 "Kotak Liquid Fund",0.32,0.0,0.0,0.0,0.32,0.2,0.0,0.0,0.0,0.2
 "Kotak Low Duration Fund",1.12,0.0,0.0,0.06,1.18,0.37,0.0,0.0,0.06,0.43
 "Kotak Manufacture In India Fund",2.05,0.0,0.05,0.07,2.17,0.46,0.0,0.0,0.07,0.53
+"Kotak Medium Term Fund",1.5,0.0,0.0,0.08,1.58,0.5,0.0,0.0,0.08,0.58
 "Kotak Money Market Fund",0.33,0.0,0.0,0.03,0.36,0.23,0.0,0.0,0.03,0.26
 "Kotak Multi Asset Allocator Fund of Fund - Dynamic",0.83,0.0,0.05,0.0,0.88,0.13,0.0,0.0,0.0,0.13
 "Kotak Multicap Fund",1.75,0.0,0.05,0.03,1.83,0.2,0.0,0.0,0.03,0.23
@@ -1032,6 +1042,7 @@
 "Nippon India Silver ETF",0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.01,0.51
 "Nippon India Silver ETF FOF",0.5,0.0,0.05,0.01,0.56,0.07,0.0,0.05,0.01,0.13
 "Nippon India Small Cap Fund",1.47,0.0,0.05,0.11,1.63,0.66,0.0,0.05,0.11,0.82
+"Nippon India Strategic Debt Fund (Number of Segregated Portfolios - 2)",1.68,0.0,0.05,0.2,1.93,1.13,0.0,0.05,0.2,1.38
 "Nippon India Taiwan Equity Fund",2.22,0.0,0.05,0.13,2.4,0.82,0.0,0.05,0.13,1.0
 "Nippon India Tax Saver (ELSS) Fund",1.59,0.0,0.0,0.15,1.74,0.91,0.0,0.0,0.15,1.06
 "Nippon India Ultra Short Duration Fund (Number of Segregated Portfolio -1)",1.14,0.0,0.0,0.04,1.18,0.34,0.0,0.0,0.04,0.38
@@ -1140,6 +1151,7 @@
 "SBI MAGNUM GLOBAL FUND",1.7,0.05,0.05,0.17,1.97,1.02,0.0,0.05,0.17,1.24
 "SBI MAGNUM INCOME FUND",1.35,0.0,0.0,0.11,1.46,0.69,0.0,0.0,0.11,0.8
 "SBI MAGNUM LOW DURATION FUND",0.89,0.0,0.0,0.05,0.94,0.33,0.0,0.0,0.05,0.38
+"SBI MAGNUM MEDIUM DURATION FUND",1.12,0.0,0.0,0.09,1.21,0.59,0.0,0.0,0.09,0.68
 "SBI Magnum MIDCAP FUND",1.62,0.1,0.05,0.13,1.9,0.78,0.0,0.05,0.13,0.96
 "SBI MAGNUM ULTRA SHORT DURATION FUND",0.5,0.0,0.0,0.04,0.54,0.27,0.0,0.0,0.04,0.31
 "SBI MULTI ASSET ALLOCATION FUND",1.6,0.05,0.05,0.13,1.83,0.7,0.0,0.05,0.13,0.88
@@ -1193,6 +1205,7 @@
 "Sundaram Large Cap Fund ( Formerly Know as Sundaram Blue Chip Fund)",1.81,0.0,0.05,0.06,1.93,0.48,0.0,0.05,0.06,0.6
 "Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund)",0.27,0.0,0.0,0.02,0.29,0.15,0.0,0.0,0.02,0.17
 "Sundaram Low Duration Fund (Formerly Known as Principal Low Duration Fund)",1.25,0.0,0.0,0.03,1.28,0.3,0.0,0.0,0.03,0.33
+"Sundaram Medium Term Bond Fund",2.0,0.0,0.0,0.17,2.17,1.09,0.0,0.0,0.17,1.26
 "Sundaram Mid Cap Fund",1.65,0.0,0.05,0.13,1.83,0.81,0.0,0.05,0.13,0.99
 "Sundaram Money Market Fund",0.32,0.0,0.0,0.02,0.34,0.23,0.0,0.0,0.02,0.25
 "Sundaram Multi Cap Fund (Formerly Known as Principal Multi Cap Growth Fund)",1.92,0.0,0.05,0.13,2.1,0.8,0.0,0.05,0.13,0.98
@@ -1281,6 +1294,7 @@
 "Union Large & Midcap Fund",2.25,0.0,0.05,0.14,2.44,0.93,0.0,0.05,0.14,1.12
 "Union Largecap Fund",2.24,0.0,0.05,0.24,2.53,1.49,0.0,0.05,0.24,1.78
 "Union Liquid Fund",0.17,0.0,0.0,0.0,0.17,0.07,0.0,0.0,0.0,0.07
+"Union Medium Duration Fund",0.82,0.0,0.0,0.08,0.9,0.55,0.0,0.0,0.08,0.63
 "Union Midcap Fund",2.2,0.0,0.05,0.1,2.35,0.74,0.0,0.05,0.1,0.89
 "Union Money Market Fund",1.01,0.0,0.0,0.02,1.03,0.27,0.0,0.0,0.02,0.29
 "Union Multicap Fund",2.25,0.0,0.05,0.15,2.45,0.98,0.0,0.05,0.15,1.18
@@ -1312,6 +1326,7 @@
 "UTI - Liquid Cash Plan",0.22,0.0,0.0,0.01,0.23,0.13,0.0,0.0,0.01,0.14
 "UTI - Long Term Equity Fund ( Tax Saving )",1.82,0.0,0.0,0.1,1.92,0.85,0.0,0.0,0.1,0.95
 "UTI - Mastershare Unit Scheme",1.6,0.0,0.05,0.08,1.73,0.81,0.0,0.05,0.08,0.94
+"UTI - Medium Term Fund",1.45,0.0,0.05,0.12,1.62,0.84,0.0,0.05,0.12,1.01
 "UTI - Mid Cap Fund",1.66,0.0,0.05,0.13,1.84,0.82,0.0,0.05,0.13,1.0
 "UTI - MNC Fund",1.86,0.0,0.05,0.16,2.07,1.04,0.0,0.05,0.16,1.25
 "UTI - Money Market Fund",0.25,0.0,0.0,0.02,0.27,0.18,0.0,0.0,0.02,0.2
