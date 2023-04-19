@@ -78,9 +78,9 @@ jobs:
         GH_TOKEN: ${{ github.token }}
     - name: Post to Mastodon
       run: |
-      python src/toot.py <<EOF
-      ${{steps.generate.outputs.changelog}}
-      EOF
+        python src/toot.py <<EOF
+        ${{steps.generate.outputs.changelog}}
+        EOF
       if: steps.commit.outputs.changes_detected == 'true' && contains(steps.generate.outputs.changelog, 'TER')
       env:
           MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
