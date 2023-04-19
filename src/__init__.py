@@ -22,6 +22,8 @@ EXPECTED_HEADERS = [
 
 FINAL_HEADERS = [EXPECTED_HEADERS[0]] + EXPECTED_HEADERS[2:]
 
+KNOWN_VALID_CATEGORIES = [6] + list(range(14,56))
+
 def generate_diff(old_file, new_file, outf=sys.stdout):
     diff = compare(
         load_csv(open(old_file), key="Scheme Name"),
@@ -73,11 +75,18 @@ def get_ters(conn, scheme_categories):
         # the timedelta is to account for the delay in publishing.
         # so we check the TER for yesterday
         d = date.today() - timedelta(days=1)
-        new_data = fetch_ter(conn, d, scheme_category)
-        print(
-            f"[+] Category {scheme_category} -> {len(new_data)} rows.",
-            file=sys.stderr,
-        )
+        if scheme_category in KNOWN_VALID_CATEGORIES:
+            new_data = []
+            fetch_count = 0
+            while len(new_data) == 0:
+                if fetch_count > 0:
+                    print("[+] Refetching category {scheme_category} (Count={fetch_count})")
+                new_data = fetch_ter(conn, d, scheme_category)
+                fetch_count+=1
+        else:
+            new_data = fetch_ter(conn, d, scheme_category)
+            if len(new_data) > 0:
+                print(f"[+] Unexpectedly Found {len(new_data)} rows in {scheme_category}")
         data += new_data
     return data
 

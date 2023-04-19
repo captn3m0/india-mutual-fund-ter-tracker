@@ -71,7 +71,7 @@ jobs:
         GH_TOKEN: ${{ github.token }}
     - name: Create GitHub Release (No TER Changes)
       run: |
-        gh release create 'v${{ steps.current-time.outputs.formattedTime }}' --latest --notes 'No TER changes in any Direct Plans' data.csv
+        gh release create 'v1.${{ steps.current-time.outputs.formattedTime }}' --latest --notes 'No TER changes in any Direct Plans' data.csv
       # Run this if changes were detected, and changelog was empty.
       if: steps.commit.outputs.changes_detected == 'true' && ( ! contains(steps.generate.outputs.changelog, 'TER') )
       env:
