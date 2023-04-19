@@ -34,9 +34,9 @@ def generate_diff(old_file, new_file, outf=sys.stdout):
             old = row["changes"][total_ter_header][0]
             new = row["changes"][total_ter_header][1]
             if new <= old:
-                print(f" - \"{row['key']}\" lowered its TER from {old} to {new}", file=outf)
+                print(f"- \"{row['key']}\" lowered its TER from {old} to {new}", file=outf)
             else:
-                print(f" - \"{row['key']}\" increased its TER from {old} to {new}", file=outf)
+                print(f"- \"{row['key']}\" increased its TER from {old} to {new}", file=outf)
 
 def parse_ter(html):
     convertor = html2csv.Converter()

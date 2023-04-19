@@ -31,6 +31,11 @@ You can follow these changes over:
 Note that the changelog only includes changes made to TER for Direct plans. Regular
 plan TER changes are tracked, but not announced.
 
+## Versioning
+
+- New versions are tagged as `v1.YYYYDDD.k`, where `YYYYDDD` is the year and day of the year, and `k` is the hour of the day (That goes up to 24)
+- This allows us to be compatible with Semver, and only bump major version in case of breaking changes in the schema.
+
 ## License
 
 Licensed under the [MIT License](https://nemo.mit-license.org/). See LICENSE file for details.

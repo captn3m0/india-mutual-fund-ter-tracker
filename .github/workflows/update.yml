@@ -1,7 +1,7 @@
 name: Update Data
 on:
   schedule:
-    # Run every 4 hours, at the 35th minute
+    # Run every hour, at the 35th minute
     - cron: '35 * * * *'
   push:
     branches:
@@ -17,11 +17,10 @@ jobs:
     - name: Get current date
       uses: josStorer/get-current-time@v2
       id: current-time
+      # See README.md for explanation
       with:
-        # Versioning is current date
-        # Intentionally without leading zeroes
-        # to comply with semver
-        format: "YYYY.M.D+HHmm"
+        format: YYYYDDD.k
+        timezone: Asia/Kolkata
     - uses: actions/checkout@v3
       with:
         ref: ${{ github.head_ref }}
@@ -50,21 +49,27 @@ jobs:
           Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}/jobs/${{ github.job }}
           Workflow: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}/workflow
 
-          Changes in TER (Direct Plans only):
+          Changes in TER (Direct Plans):
 
           ${{steps.generate.outputs.changelog}}
         commit_author: 'github-actions[bot] <github-actions[bot]@users.noreply.github.com>'
         file_pattern: '*.csv'
-        tagging_message: 'v${{ steps.current-time.outputs.formattedTime }}'
+        tagging_message: 'v1.${{ steps.current-time.outputs.formattedTime }}'
+    # We use heredoc (<<) in bash to avoid quoting issues (some schemes have both single and double quotes)
+    # and pass the release notes as stdin instead
+    # and use --notes-file - to use stdin as notes-file instead.
     - name: Create GitHub Release (TER Changes)
       run: |
-        gh release create 'v${{ steps.current-time.outputs.formattedTime }}' --latest --notes 'Changes for Direct Plans:
-        ${{steps.generate.outputs.changelog}}' data.csv
+        gh release create 'v1.${{ steps.current-time.outputs.formattedTime }}' --latest --notes-file - data.csv <<EOF
+        Total Expense Ratio Changes (Direct Plans):
+
+        ${{steps.generate.outputs.changelog}}
+        EOF
       # Run this if changes were detected, and changelog was not empty
       if: steps.commit.outputs.changes_detected == 'true' && contains(steps.generate.outputs.changelog, 'TER')
       env:
         GH_TOKEN: ${{ github.token }}
-    - name: Create GitHub Release (No Direct Plan Changes)
+    - name: Create GitHub Release (No TER Changes)
       run: |
         gh release create 'v${{ steps.current-time.outputs.formattedTime }}' --latest --notes 'No TER changes in any Direct Plans' data.csv
       # Run this if changes were detected, and changelog was empty.
@@ -72,5 +77,11 @@ jobs:
       env:
         GH_TOKEN: ${{ github.token }}
     - name: Post to Mastodon
-      run: echo '${{steps.generate.outputs.changelog}}' | python src/toot.py
+      run: |
+      python src/toot.py <<EOF
+      ${{steps.generate.outputs.changelog}}
+      EOF
       if: steps.commit.outputs.changes_detected == 'true' && contains(steps.generate.outputs.changelog, 'TER')
+      env:
+          MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
+          MASTODON_API_BASE_URL: ${{ secrets.MASTODON_API_BASE_URL }}

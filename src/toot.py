@@ -23,8 +23,6 @@ def chunk_strings(strings, maxlength):
 # read stdin and split it by line into a list
 def get_toots():
     lines = sys.stdin.read().splitlines()
-    print(lines)
-    print(chunk_strings(lines, MAX_TOOT_LENGTH))
     for chunk in chunk_strings(lines, MAX_TOOT_LENGTH):
         yield post_text(chunk)
 
@@ -39,5 +37,5 @@ if __name__ == '__main__':
     for toot in get_toots():
         print("***")
         print(toot)
-        # mastodon.toot(toot)
+        mastodon.toot(toot)
         print("***")
