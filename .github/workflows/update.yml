@@ -46,7 +46,7 @@ jobs:
         commit_message: |
           Update Total Expense Ratios
 
-          Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}/jobs/${{ github.job }}
+          Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
           Workflow: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}/workflow
 
           Changes in TER (Direct Plans):
