@@ -80,13 +80,13 @@ def get_ters(conn, scheme_categories):
             fetch_count = 0
             while len(new_data) == 0:
                 if fetch_count > 0:
-                    print("[+] Refetching category {scheme_category} (Count={fetch_count})")
+                    print(f"[+] Refetching category {scheme_category} (Count={fetch_count})", sys.stderr)
                 new_data = fetch_ter(conn, d, scheme_category)
                 fetch_count+=1
         else:
             new_data = fetch_ter(conn, d, scheme_category)
             if len(new_data) > 0:
-                print(f"[+] Unexpectedly Found {len(new_data)} rows in {scheme_category}")
+                print(f"[+] Unexpectedly Found {len(new_data)} rows in {scheme_category}", sys.stderr)
         data += new_data
     return data
 
