@@ -248,7 +248,7 @@
 "Baroda BNP Paribas Medium Duration Fund (scheme has one segregated portfolio)",0.88,0.0,0.0,0.09,0.97,0.6,0.0,0.0,0.09,0.69
 "Baroda BNP Paribas Mid Cap Fund",2.01,0.0,0.05,0.08,2.14,0.56,0.0,0.05,0.08,0.69
 "Baroda BNP Paribas Money Market Fund",0.37,0.0,0.0,0.02,0.39,0.18,0.0,0.0,0.02,0.2
-"Baroda BNP Paribas Multi Asset Fund",2.02,0.0,0.05,0.01,2.08,0.17,0.0,0.05,0.01,0.23
+"Baroda BNP Paribas Multi Asset Fund",2.01,0.0,0.05,0.01,2.07,0.16,0.0,0.05,0.01,0.22
 "Baroda BNP Paribas Multi Cap Fund",1.94,0.0,0.05,0.15,2.14,0.94,0.0,0.05,0.15,1.14
 "Baroda BNP Paribas NIFTY SDL December 2026 INDEX Fund",0.44,0.0,0.0,0.01,0.45,0.14,0.0,0.0,0.01,0.15
 "Baroda BNP Paribas NIFTY SDL December 2028 INDEX Fund",0.44,0.0,0.0,0.01,0.45,0.14,0.0,0.0,0.01,0.15
@@ -555,7 +555,7 @@
 "ICICI Prudential ESG Fund",2.0,0.0,0.05,0.12,2.17,0.68,0.0,0.05,0.12,0.85
 "ICICI Prudential Exports & Services Fund",2.06,0.0,0.05,0.26,2.37,1.47,0.0,0.05,0.26,1.78
 "ICICI Prudential Flexicap Fund",1.6,0.0,0.05,0.08,1.73,0.48,0.0,0.05,0.08,0.61
-"ICICI Prudential Floating Interest Fund",1.27,0.0,0.0,0.0,1.27,0.61,0.0,0.0,0.0,0.61
+"ICICI Prudential Floating Interest Fund",1.28,0.0,0.0,0.0,1.28,0.62,0.0,0.0,0.0,0.62
 "ICICI Prudential FMCG Fund",2.01,0.0,0.05,0.2,2.26,1.19,0.0,0.05,0.2,1.44
 "ICICI Prudential Focused Equity Fund",1.75,0.0,0.05,0.09,1.89,0.51,0.0,0.05,0.09,0.65
 "ICICI Prudential Gilt Fund",1.09,0.0,0.0,0.0,1.09,0.56,0.0,0.0,0.0,0.56
@@ -583,7 +583,7 @@
 "ICICI Prudential Nifty 100 ETF",0.48,0.0,0.0,0.0,0.48,0.0,0.0,0.0,0.0,0.0
 "ICICI Prudential Nifty 100 Low Volatility 30 ETF",0.36,0.0,0.0,0.03,0.39,0.0,0.0,0.0,0.0,0.0
 "ICICI Prudential Nifty 100 Low Volatility 30 ETF FOF",0.63,0.0,0.0,0.02,0.65,0.1,0.0,0.0,0.02,0.12
-"ICICI Prudential Nifty 200 Momentum 30 ETF",0.4,0.0,0.0,0.0,0.4,0.0,0.0,0.0,0.0,0.0
+"ICICI Prudential Nifty 200 Momentum 30 ETF",0.3,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0
 "ICICI Prudential Nifty 200 Momentum 30 Index Fund",0.99,0.0,0.0,0.0,0.99,0.34,0.0,0.0,0.0,0.34
 "ICICI Prudential Nifty 5 yr Benchmark G-SEC ETF",0.2,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0
 "ICICI Prudential Nifty 50 ETF",0.03,0.0,0.0,0.0,0.03,0.0,0.0,0.0,0.0,0.0
@@ -616,7 +616,7 @@
 "ICICI Prudential Nifty SDL Sep 2027 Index Fund",0.32,0.0,0.0,0.03,0.35,0.17,0.0,0.0,0.03,0.2
 "ICICI Prudential Nifty Smallcap 250 Index Fund",1.0,0.0,0.0,0.0,1.0,0.3,0.0,0.0,0.0,0.3
 "ICICI Prudential Nifty50 Equal Weight Index Fund",1.0,0.0,0.0,0.0,1.0,0.35,0.0,0.0,0.0,0.35
-"ICICI Prudential Nifty50 Value 20 ETF",0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0
+"ICICI Prudential Nifty50 Value 20 ETF",0.25,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.0,0.0
 "ICICI Prudential Overnight Fund",0.19,0.0,0.0,0.0,0.19,0.1,0.0,0.0,0.0,0.1
 "ICICI Prudential Passive Multi-Asset Fund of Funds",0.46,0.0,0.05,0.0,0.51,0.02,0.0,0.05,0.0,0.07
 "ICICI Prudential Passive Strategy Fund (FOF)",0.32,0.0,0.05,0.0,0.37,0.01,0.0,0.05,0.0,0.06
@@ -930,7 +930,7 @@
 "Motilal Oswal Long Term Equity Fund",1.87,0.0,0.0,0.1,1.97,0.67,0.0,0.0,0.1,0.77
 "Motilal Oswal Midcap Fund",1.73,0.0,0.05,0.1,1.88,0.62,0.0,0.05,0.1,0.77
 "Motilal Oswal MSCI EAFE Top 100 Select Index Fund",0.95,0.0,0.05,0.0,1.0,0.39,0.0,0.05,0.0,0.44
-"MOTILAL OSWAL MULTI ASSET FUND",1.85,0.0,0.05,0.12,2.02,0.75,0.0,0.05,0.12,0.92
+"MOTILAL OSWAL MULTI ASSET FUND",1.84,0.0,0.05,0.12,2.01,0.75,0.0,0.05,0.12,0.92
 "Motilal Oswal Nasdaq 100 ETF",0.5,0.0,0.0,0.08,0.58,0.0,0.0,0.0,0.0,0.0
 "Motilal Oswal Nasdaq 100 Fund of Fund",0.5,0.0,0.05,0.01,0.56,0.1,0.0,0.05,0.01,0.16
 "Motilal Oswal Nasdaq Q50 ETF",0.38,0.0,0.0,0.04,0.42,0.0,0.0,0.0,0.0,0.0
