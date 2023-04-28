@@ -307,7 +307,7 @@
 "DSP Equity Savings Fund",1.37,0.0,0.0,0.08,1.45,0.53,0.0,0.0,0.08,0.61
 "DSP Flexi Cap Fund",1.64,0.0,0.05,0.1,1.79,0.58,0.0,0.05,0.1,0.73
 "DSP Floater Fund",0.4,0.0,0.0,0.02,0.42,0.2,0.0,0.0,0.02,0.22
-"DSP Focus Fund",1.93,0.0,0.05,0.15,2.13,0.87,0.0,0.05,0.15,1.07
+"DSP Focus Fund",1.92,0.0,0.05,0.15,2.12,0.86,0.0,0.05,0.15,1.06
 "DSP Global Allocation Fund",1.99,0.0,0.0,0.01,2.0,1.43,0.0,0.0,0.01,1.44
 "DSP Global Innovation Fund of Fund",2.0,0.0,0.0,0.01,2.01,1.1,0.0,0.0,0.01,1.11
 "DSP Government Securities Fund",1.07,0.0,0.0,0.06,1.13,0.43,0.0,0.0,0.06,0.49
@@ -419,17 +419,17 @@
 "HDFC Balanced Advantage Fund",1.32,0.0,0.05,0.12,1.49,0.69,0.0,0.05,0.12,0.86
 "HDFC Banking & Financial Services Fund",1.83,0.0,0.05,0.03,1.91,0.33,0.0,0.05,0.03,0.41
 "HDFC Banking and PSU Debt Fund",0.76,0.0,0.0,0.05,0.81,0.34,0.0,0.0,0.05,0.39
-"HDFC Business Cycle Fund",1.85,0.0,0.05,0.04,1.94,0.44,0.0,0.05,0.04,0.53
+"HDFC Business Cycle Fund",1.84,0.0,0.05,0.04,1.93,0.43,0.0,0.05,0.04,0.52
 "HDFC Capital Builder Value Fund",1.71,0.0,0.05,0.15,1.91,0.84,0.0,0.05,0.15,1.04
 "HDFC Childrens Gift Fund",1.67,0.0,0.0,0.13,1.8,0.82,0.0,0.0,0.13,0.95
 "HDFC Corporate Bond Fund",0.56,0.0,0.0,0.04,0.6,0.28,0.0,0.0,0.04,0.32
 "HDFC Credit Risk Debt Fund",1.38,0.0,0.05,0.13,1.56,0.77,0.0,0.05,0.13,0.95
 "HDFC Developed World Indexes Fund Of Funds",0.66,0.0,0.05,0.0,0.71,0.16,0.0,0.05,0.0,0.21
-"HDFC Dividend Yield Fund",1.8,0.0,0.05,0.06,1.91,0.6,0.0,0.05,0.06,0.71
+"HDFC Dividend Yield Fund",1.79,0.0,0.05,0.06,1.9,0.59,0.0,0.05,0.06,0.7
 "HDFC Dynamic Debt Fund",1.67,0.0,0.0,0.05,1.72,0.44,0.0,0.0,0.05,0.49
 "HDFC Dynamic PE Ratio Fund of Funds",1.0,0.0,0.0,0.0,1.0,0.22,0.0,0.0,0.0,0.22
 "HDFC Equity Savings Fund",1.84,0.0,0.05,0.16,2.05,0.89,0.0,0.05,0.16,1.1
-"HDFC Flexi Cap Fund",1.44,0.0,0.05,0.13,1.62,0.82,0.0,0.05,0.13,1.0
+"HDFC Flexi Cap Fund",1.43,0.0,0.05,0.13,1.61,0.81,0.0,0.05,0.13,0.99
 "HDFC Floating Rate Debt Fund",0.45,0.0,0.0,0.03,0.48,0.23,0.0,0.0,0.03,0.26
 "HDFC Focused 30 Fund",1.74,0.0,0.05,0.02,1.81,0.43,0.0,0.05,0.02,0.5
 "HDFC Gilt Fund",0.84,0.0,0.0,0.05,0.89,0.41,0.0,0.0,0.05,0.46
@@ -447,7 +447,7 @@
 "HDFC Long Duration Debt Fund",0.6,0.0,0.0,0.0,0.6,0.25,0.0,0.0,0.0,0.25
 "HDFC Low Duration  Fund",0.99,0.0,0.0,0.05,1.04,0.38,0.0,0.0,0.05,0.43
 "HDFC Medium Term Debt Fund",1.22,0.0,0.0,0.07,1.29,0.51,0.0,0.0,0.07,0.58
-"HDFC Mid-Cap Opportunities Fund",1.42,0.0,0.05,0.14,1.61,0.76,0.0,0.05,0.14,0.95
+"HDFC Mid-Cap Opportunities Fund",1.41,0.0,0.05,0.14,1.6,0.75,0.0,0.05,0.14,0.94
 "HDFC MNC Fund",2.25,0.0,0.05,0.18,2.48,1.1,0.0,0.05,0.18,1.33
 "HDFC Money Market Fund",0.41,0.0,0.0,0.0,0.41,0.21,0.0,0.0,0.0,0.21
 "HDFC Multi Cap Fund",1.68,0.0,0.05,0.05,1.78,0.53,0.0,0.05,0.05,0.63
@@ -482,7 +482,7 @@
 "HDFC Overnight Fund",0.2,0.0,0.0,0.0,0.2,0.1,0.0,0.0,0.0,0.1
 "HDFC Retirement Savings Fund - Equity Plan",1.81,0.0,0.0,0.07,1.88,0.69,0.0,0.0,0.07,0.76
 "HDFC Retirement Savings Fund - Hybrid-Debt Plan",2.0,0.0,0.0,0.15,2.15,0.85,0.0,0.0,0.15,1.0
-"HDFC Retirement Savings Fund - Hybrid-Equity Plan",2.07,0.0,0.0,0.12,2.19,0.89,0.0,0.0,0.12,1.01
+"HDFC Retirement Savings Fund - Hybrid-Equity Plan",2.06,0.0,0.0,0.12,2.18,0.88,0.0,0.0,0.12,1.0
 "HDFC S&P BSE 500 ETF",0.3,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0
 "HDFC S&P BSE 500 INDEX FUND",1.0,0.0,0.0,0.0,1.0,0.3,0.0,0.0,0.0,0.3
 "HDFC S&P BSE SENSEX Exchange Traded Fund",0.05,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.0,0.0
@@ -491,7 +491,7 @@
 "HDFC Silver ETF Fund of Fund",0.6,0.0,0.0,0.0,0.6,0.2,0.0,0.0,0.0,0.2
 "HDFC Small Cap Fund",1.55,0.0,0.05,0.1,1.7,0.64,0.0,0.05,0.1,0.79
 "HDFC Taxsaver",1.61,0.0,0.0,0.14,1.75,1.01,0.0,0.0,0.14,1.15
-"HDFC Top 100 Fund",1.5,0.0,0.05,0.14,1.69,0.92,0.0,0.05,0.14,1.11
+"HDFC Top 100 Fund",1.49,0.0,0.05,0.14,1.68,0.91,0.0,0.05,0.14,1.1
 "HDFC Ultra Short Term Fund",0.65,0.0,0.0,0.04,0.69,0.3,0.0,0.0,0.04,0.34
 "HSBC Aggressive Hybrid Fund",1.73,0.0,0.05,0.11,1.89,0.69,0.0,0.05,0.11,0.85
 "HSBC Arbitrage Fund",0.92,0.0,0.0,0.04,0.96,0.24,0.0,0.0,0.04,0.28
@@ -687,10 +687,10 @@
 "Invesco India - Invesco EQQQ Nasdaq-100 ETF Fund of Fund",0.4,0.0,0.0,0.0,0.4,0.14,0.0,0.0,0.0,0.14
 "Invesco India - Invesco Global Consumer Trends Fund of Fund",1.41,0.0,0.05,0.06,1.52,0.39,0.0,0.05,0.06,0.5
 "Invesco India - Invesco Global Equity Income Fund of Fund",1.25,0.0,0.05,0.08,1.38,0.6,0.0,0.05,0.07,0.72
-"Invesco India - Invesco Pan European Equity Fund of Fund",0.85,0.0,0.05,0.04,0.94,0.42,0.0,0.05,0.04,0.51
+"Invesco India - Invesco Pan European Equity Fund of Fund",0.85,0.0,0.05,0.05,0.95,0.42,0.0,0.05,0.04,0.51
 "Invesco India Arbitrage Fund",1.05,0.0,0.0,0.0,1.05,0.38,0.0,0.0,0.0,0.38
 "Invesco India Banking & PSU Debt Fund",0.67,0.0,0.0,0.03,0.7,0.25,0.0,0.0,0.03,0.28
-"Invesco India Contra Fund",1.62,0.0,0.05,0.07,1.74,0.49,0.0,0.05,0.07,0.61
+"Invesco India Contra Fund",1.61,0.0,0.05,0.07,1.73,0.49,0.0,0.05,0.07,0.61
 "Invesco India Corporate Bond Fund",0.63,0.0,0.0,0.03,0.66,0.25,0.0,0.0,0.03,0.28
 "Invesco India Credit Risk Fund",1.5,0.0,0.0,0.0,1.5,0.28,0.0,0.0,0.0,0.28
 "Invesco India Dynamic Equity Fund",2.15,0.0,0.05,0.12,2.32,0.79,0.0,0.05,0.11,0.95
@@ -855,13 +855,13 @@
 "Mahindra Manulife Dynamic Bond Fund",1.52,0.0,0.0,0.06,1.58,0.45,0.0,0.0,0.06,0.51
 "Mahindra Manulife ELSS Fund",2.22,0.0,0.0,0.08,2.3,0.62,0.0,0.0,0.08,0.7
 "Mahindra Manulife Equity Savings Fund",2.25,0.0,0.05,0.09,2.39,0.58,0.0,0.05,0.09,0.72
-"Mahindra Manulife Flexi Cap Fund",2.08,0.0,0.05,0.04,2.17,0.35,0.0,0.05,0.04,0.44
+"Mahindra Manulife Flexi Cap Fund",2.07,0.0,0.05,0.04,2.16,0.34,0.0,0.05,0.04,0.43
 "Mahindra Manulife Focused Fund",2.18,0.0,0.05,0.07,2.3,0.48,0.0,0.05,0.07,0.6
 "Mahindra Manulife Large & Mid Cap Fund",2.02,0.0,0.05,0.05,2.12,0.41,0.0,0.05,0.06,0.52
 "Mahindra Manulife Large Cap Fund",2.25,0.0,0.05,0.09,2.39,0.59,0.0,0.05,0.09,0.73
 "Mahindra Manulife Liquid Fund",0.24,0.0,0.0,0.01,0.25,0.13,0.0,0.0,0.01,0.14
 "Mahindra Manulife Low Duration Fund",1.12,0.0,0.0,0.04,1.16,0.32,0.0,0.0,0.04,0.36
-"Mahindra Manulife Mid Cap Fund",2.03,0.0,0.05,0.07,2.15,0.52,0.0,0.05,0.07,0.64
+"Mahindra Manulife Mid Cap Fund",2.02,0.0,0.05,0.07,2.14,0.51,0.0,0.05,0.07,0.63
 "Mahindra Manulife Multi Cap Fund",1.94,0.0,0.05,0.05,2.04,0.39,0.0,0.05,0.05,0.49
 "Mahindra Manulife Overnight Fund",0.21,0.0,0.0,0.01,0.22,0.11,0.0,0.0,0.01,0.12
 "Mahindra Manulife Short Duration Fund",1.23,0.0,0.0,0.02,1.25,0.27,0.0,0.0,0.02,0.29
