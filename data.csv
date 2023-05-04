@@ -271,12 +271,12 @@
 "Bharat Bond FoF- April 2025",0.0,0.0,0.05,0.01,0.06,0.0,0.0,0.05,0.01,0.06
 "Bharat Bond FoF- April 2031",0.0,0.0,0.05,0.01,0.06,0.0,0.0,0.05,0.01,0.06
 "Canara Robeco Banking and PSU Debt Fund",0.65,0.0,0.0,0.06,0.71,0.37,0.0,0.0,0.06,0.43
-"Canara Robeco Bluechip Equity Fund",1.62,0.0,0.05,0.03,1.7,0.32,0.0,0.05,0.03,0.4
+"Canara Robeco Bluechip Equity Fund",1.62,0.0,0.05,0.02,1.69,0.32,0.0,0.05,0.02,0.39
 "Canara Robeco Conservative Hybrid Fund",1.67,0.0,0.05,0.08,1.8,0.46,0.0,0.05,0.07,0.58
 "Canara Robeco Consumer Trends Fund",2.06,0.0,0.05,0.12,2.23,0.81,0.0,0.05,0.12,0.98
 "Canara Robeco Corporate Bond Fund",0.98,0.0,0.0,0.05,1.03,0.35,0.0,0.0,0.04,0.39
 "Canara Robeco Dynamic Bond Fund",1.65,0.0,0.0,0.1,1.75,0.58,0.0,0.0,0.09,0.67
-"Canara Robeco Emerging Equities",1.55,0.0,0.05,0.05,1.65,0.46,0.0,0.05,0.05,0.56
+"Canara Robeco Emerging Equities",1.55,0.0,0.05,0.05,1.65,0.45,0.0,0.05,0.05,0.55
 "Canara Robeco Equity Hybrid Fund",1.63,0.0,0.05,0.06,1.74,0.47,0.0,0.05,0.06,0.58
 "Canara Robeco Equity Taxsaver Fund",1.71,0.0,0.0,0.05,1.76,0.51,0.0,0.0,0.05,0.56
 "Canara Robeco Flexi Cap Fund",1.62,0.0,0.05,0.04,1.71,0.4,0.0,0.05,0.04,0.49
@@ -292,7 +292,7 @@
 "Canara Robeco Short Duration Fund",0.97,0.0,0.0,0.06,1.03,0.37,0.0,0.0,0.06,0.43
 "Canara Robeco Small Cap Fund",1.7,0.0,0.05,0.04,1.79,0.32,0.0,0.05,0.04,0.41
 "Canara Robeco Ultra Short Term Fund",0.89,0.0,0.0,0.06,0.95,0.35,0.0,0.0,0.06,0.41
-"Canara Robeco Value Fund",2.14,0.0,0.05,0.07,2.26,0.56,0.0,0.05,0.07,0.68
+"Canara Robeco Value Fund",2.13,0.0,0.05,0.07,2.25,0.55,0.0,0.05,0.07,0.67
 "CPSE ETF",0.0,0.0,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.05
 "DSP 10Y G-SEC Fund",0.48,0.0,0.0,0.04,0.52,0.27,0.0,0.0,0.04,0.31
 "DSP Arbitrage Fund",0.95,0.0,0.0,0.04,0.99,0.31,0.0,0.0,0.04,0.35
@@ -580,7 +580,7 @@
 "ICICI Prudential Midcap Fund",1.76,0.0,0.05,0.17,1.98,0.94,0.0,0.05,0.17,1.16
 "ICICI Prudential MNC Fund",1.99,0.0,0.05,0.12,2.16,0.67,0.0,0.05,0.12,0.84
 "ICICI Prudential Money Market Fund",0.31,0.0,0.0,0.0,0.31,0.21,0.0,0.0,0.0,0.21
-"ICICI Prudential Multi-Asset Fund",1.51,0.0,0.05,0.16,1.72,0.93,0.0,0.05,0.16,1.14
+"ICICI Prudential Multi-Asset Fund",1.5,0.0,0.05,0.16,1.71,0.92,0.0,0.05,0.16,1.13
 "ICICI Prudential Multicap Fund",1.65,0.0,0.05,0.15,1.85,0.86,0.0,0.05,0.15,1.06
 "ICICI Prudential NASDAQ 100 Index Fund",1.0,0.0,0.0,0.0,1.0,0.5,0.0,0.0,0.0,0.5
 "ICICI Prudential Nifty 10 Yr Benchmark G-SEC ETF",0.14,0.0,0.0,0.0,0.14,0.0,0.0,0.0,0.0,0.0
@@ -745,7 +745,7 @@
 "JM Equity Hybrid Fund",2.24,0.0,0.05,0.16,2.45,1.2,0.0,0.05,0.16,1.41
 "JM Flexicap Fund",2.25,0.0,0.05,0.17,2.47,1.25,0.0,0.05,0.17,1.47
 "JM Focused Fund",2.23,0.0,0.05,0.19,2.47,1.35,0.0,0.05,0.19,1.59
-"JM Large Cap Fund",2.23,0.0,0.05,0.22,2.5,1.48,0.0,0.05,0.22,1.75
+"JM Large Cap Fund",2.23,0.0,0.05,0.21,2.49,1.48,0.0,0.05,0.21,1.74
 "JM Liquid Fund",0.25,0.0,0.0,0.0,0.25,0.15,0.0,0.0,0.0,0.15
 "JM Low Duration Fund",0.77,0.0,0.0,0.02,0.79,0.32,0.0,0.0,0.02,0.34
 "JM Medium to Long Duration Fund",0.99,0.0,0.0,0.04,1.03,0.44,0.0,0.0,0.04,0.48
@@ -836,7 +836,7 @@
 "LIC MF Large Cap Fund",2.17,0.0,0.05,0.17,2.39,1.17,0.0,0.05,0.17,1.39
 "LIC MF Liquid Fund",0.29,0.0,0.0,0.01,0.3,0.15,0.0,0.0,0.01,0.16
 "LIC MF Money Market Fund",0.6,0.0,0.0,0.01,0.61,0.17,0.0,0.0,0.01,0.18
-"LIC MF Multi Cap Fund",2.24,0.0,0.05,0.09,2.38,0.59,0.0,0.05,0.09,0.73
+"LIC MF Multi Cap Fund",2.24,0.0,0.05,0.09,2.38,0.58,0.0,0.05,0.09,0.72
 "LIC MF Nifty 100 ETF",0.25,0.0,0.0,0.03,0.28,0.0,0.0,0.0,0.0,0.0
 "LIC MF Nifty 50 ETF",0.1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0
 "LIC MF Nifty 50 Index Fund",1.0,0.0,0.0,0.01,1.01,0.19,0.0,0.0,0.01,0.2
