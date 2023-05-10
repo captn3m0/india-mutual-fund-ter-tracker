@@ -10,11 +10,11 @@
 "Aditya Birla Sun Life Bal Bhavishya Yojna",2.18,0.0,0.0,0.1,2.28,0.68,0.0,0.0,0.1,0.78
 "Aditya Birla Sun Life Balanced Advantage Fund",1.67,0.0,0.05,0.05,1.77,0.34,0.0,0.05,0.05,0.44
 "Aditya Birla Sun Life Banking & PSU Debt Fund",0.66,0.0,0.0,0.05,0.71,0.31,0.0,0.0,0.05,0.36
-"Aditya Birla Sun Life Banking and Financial Services Fund",1.82,0.0,0.05,0.15,2.03,0.88,0.0,0.05,0.15,1.08
+"Aditya Birla Sun Life Banking and Financial Services Fund",1.83,0.0,0.05,0.15,2.03,0.89,0.0,0.05,0.15,1.09
 "Aditya Birla Sun Life Business Cycle Fund",1.92,0.0,0.05,0.12,2.09,0.72,0.0,0.05,0.12,0.89
 "Aditya Birla Sun Life Commodity Equities Fund - Global Agri Plan",1.57,0.0,0.0,0.17,1.74,1.12,0.0,0.0,0.17,1.29
 "Aditya Birla Sun Life Corporate Bond Fund",0.42,0.0,0.0,0.04,0.45,0.26,0.0,0.0,0.04,0.29
-"Aditya Birla Sun Life Credit Risk Fund",1.39,0.0,0.05,0.1,1.54,0.54,0.0,0.05,0.1,0.69
+"Aditya Birla Sun Life Credit Risk Fund",1.39,0.0,0.05,0.1,1.54,0.54,0.0,0.05,0.1,0.68
 "Aditya Birla Sun Life CRISIL IBX 50:50 Gilt Plus SDL APR 2028 Index Fund",0.33,0.0,0.0,0.02,0.35,0.18,0.0,0.0,0.02,0.2
 "Aditya Birla Sun Life CRISIL IBX 60:40 SDL+ AAA PSU APR 2026 Index Fund",0.43,0.0,0.0,0.02,0.45,0.18,0.0,0.0,0.02,0.2
 "Aditya Birla Sun Life CRISIL IBX 60:40 SDL+AAA PSU-APR 2025 Index Fund",0.33,0.0,0.0,0.02,0.36,0.18,0.0,0.0,0.02,0.21
@@ -64,7 +64,7 @@
 "Aditya Birla Sun Life Multi Asset Allocation Fund",1.93,0.0,0.04,0.04,2.01,0.3,0.0,0.04,0.04,0.38
 "Aditya Birla Sun Life Multi-Cap Fund",1.76,0.0,0.05,0.07,1.88,0.46,0.0,0.05,0.07,0.58
 "Aditya Birla Sun Life NASDAQ 100 FoF",0.65,0.0,0.0,0.03,0.67,0.43,0.0,0.0,0.03,0.45
-"Aditya Birla Sun Life Nifty 200 Momentum 30 ETF",0.43,0.0,0.0,0.07,0.5,0.0,0.0,0.0,0.0,0.0
+"Aditya Birla Sun Life Nifty 200 Momentum 30 ETF",0.43,0.0,0.0,0.07,0.49,0.0,0.0,0.0,0.0,0.0
 "Aditya Birla Sun Life Nifty 200 Quality 30 ETF",0.38,0.0,0.0,0.06,0.44,0.0,0.0,0.0,0.0,0.0
 "Aditya Birla Sun Life Nifty 50 Equal Weight Index Fund",1.0,0.0,0.0,0.06,1.06,0.33,0.0,0.0,0.06,0.39
 "Aditya Birla Sun Life Nifty 50 ETF",0.05,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.0,0.0
@@ -82,7 +82,7 @@
 "Aditya Birla Sun Life Nifty Smallcap 50 Index Fund",1.0,0.0,0.0,0.05,1.05,0.42,0.0,0.0,0.05,0.47
 "Aditya Birla Sun Life Overnight Fund",0.16,0.0,0.0,0.01,0.17,0.06,0.0,0.0,0.01,0.07
 "Aditya Birla Sun Life Pharma and Healthcare Fund",2.25,0.0,0.05,0.15,2.45,0.9,0.0,0.05,0.15,1.1
-"Aditya Birla Sun Life PSU Equity Fund",2.03,0.0,0.05,0.11,2.19,0.63,0.0,0.05,0.11,0.79
+"Aditya Birla Sun Life PSU Equity Fund",2.04,0.0,0.05,0.11,2.2,0.64,0.0,0.05,0.11,0.8
 "Aditya Birla Sun Life Pure Value Fund",1.75,0.0,0.05,0.15,1.95,0.9,0.0,0.05,0.15,1.1
 "Aditya Birla Sun Life Regular Savings Fund",1.69,0.0,0.05,0.13,1.88,0.74,0.0,0.05,0.13,0.93
 "Aditya Birla Sun Life Retirement Fund-The 30s Plan",2.25,0.0,0.0,0.14,2.39,0.9,0.0,0.0,0.14,1.04
@@ -419,7 +419,7 @@
 "Franklin India Short-Term Income Plan (No. of Segregated Portfolios- 3)",0.04,0.0,0.0,0.0,0.04,0.04,0.0,0.0,0.0,0.04
 "Franklin India Smaller Companies Fund",1.64,0.0,0.05,0.11,1.8,0.68,0.0,0.05,0.11,0.84
 "Franklin India Taxshield",1.73,0.0,0.0,0.11,1.84,0.76,0.0,0.0,0.11,0.87
-"Franklin India Technology Fund",2.17,0.0,0.05,0.14,2.36,0.91,0.0,0.05,0.14,1.1
+"Franklin India Technology Fund",2.17,0.0,0.05,0.14,2.36,0.9,0.0,0.05,0.14,1.09
 "HDFC Arbitrage Fund",0.9,0.0,0.0,0.05,0.95,0.38,0.0,0.0,0.05,0.43
 "HDFC Asset Allocator Fund of Funds",1.2,0.0,0.05,0.0,1.25,0.01,0.0,0.05,0.0,0.06
 "HDFC Balanced Advantage Fund",1.32,0.0,0.05,0.12,1.49,0.69,0.0,0.05,0.12,0.86
@@ -876,7 +876,7 @@
 "Mahindra Manulife Ultra Short Duration Fund",0.68,0.0,0.0,0.03,0.71,0.26,0.0,0.0,0.03,0.29
 "Mirae Asset Arbitrage Fund",0.94,0.0,0.0,0.03,0.97,0.24,0.0,0.0,0.03,0.27
 "Mirae Asset Balanced Advantage Fund",2.06,0.0,0.05,0.1,2.21,0.6,0.0,0.05,0.1,0.75
-"Mirae Asset Banking and Financial Services Fund",1.98,0.0,0.05,0.07,2.1,0.43,0.0,0.05,0.07,0.55
+"Mirae Asset Banking and Financial Services Fund",1.99,0.0,0.05,0.07,2.11,0.43,0.0,0.05,0.07,0.55
 "Mirae Asset Banking and PSU Debt Fund",0.78,0.0,0.0,0.04,0.82,0.34,0.0,0.0,0.04,0.38
 "Mirae Asset Cash Management Fund",0.23,0.0,0.0,0.02,0.25,0.13,0.0,0.0,0.02,0.15
 "Mirae Asset Cash Management Fund",0.23,0.0,0.0,0.02,0.25,0.12,0.0,0.0,0.02,0.14
