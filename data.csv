@@ -128,7 +128,7 @@
 "Axis Growth Opportunities Fund",1.63,0.0,0.05,0.07,1.75,0.45,0.0,0.05,0.07,0.57
 "Axis Liquid Fund",0.2,0.0,0.0,0.02,0.22,0.13,0.0,0.0,0.02,0.15
 "Axis Long Duration Fund",0.75,0.0,0.0,0.0,0.75,0.2,0.0,0.0,0.0,0.2
-"Axis Long Term Equity Fund",1.45,0.0,0.0,0.11,1.56,0.71,0.0,0.0,0.11,0.82
+"Axis Long Term Equity Fund",1.45,0.0,0.0,0.11,1.56,0.7,0.0,0.0,0.11,0.81
 "Axis Midcap Fund",1.52,0.0,0.05,0.07,1.64,0.43,0.0,0.05,0.07,0.55
 "Axis Money Market Fund",0.33,0.0,0.0,0.03,0.36,0.18,0.0,0.0,0.03,0.21
 "Axis Multi Asset Allocation Fund",1.89,0.0,0.05,0.1,2.04,0.57,0.0,0.05,0.1,0.72
@@ -318,7 +318,7 @@
 "DSP Gold ETF",0.0,0.0,0.0,0.0,0.0,0.48,0.0,0.0,0.02,0.5
 "DSP Government Securities Fund",1.0,0.0,0.0,0.07,1.07,0.47,0.0,0.0,0.07,0.54
 "DSP Healthcare Fund",1.99,0.0,0.05,0.11,2.15,0.65,0.0,0.05,0.11,0.81
-"DSP India T.I.G.E.R. Fund",1.91,0.0,0.05,0.18,2.14,1.0,0.0,0.05,0.18,1.23
+"DSP India T.I.G.E.R. Fund",1.9,0.0,0.05,0.18,2.13,0.99,0.0,0.05,0.18,1.22
 "DSP Liquidity Fund",0.2,0.0,0.0,0.02,0.22,0.13,0.0,0.0,0.02,0.15
 "DSP Low Duration Fund",0.56,0.0,0.0,0.04,0.6,0.26,0.0,0.0,0.04,0.3
 "DSP Midcap Fund",1.57,0.0,0.05,0.1,1.72,0.62,0.0,0.05,0.1,0.77
@@ -861,7 +861,7 @@
 "Mahindra Manulife Balanced Advantage Fund",2.2,0.0,0.05,0.07,2.32,0.5,0.0,0.05,0.07,0.62
 "Mahindra Manulife Consumption Fund",2.24,0.0,0.05,0.1,2.39,0.68,0.0,0.05,0.1,0.83
 "Mahindra Manulife Dynamic Bond Fund",1.52,0.0,0.0,0.06,1.58,0.45,0.0,0.0,0.06,0.51
-"Mahindra Manulife ELSS Fund",2.22,0.0,0.0,0.08,2.3,0.62,0.0,0.0,0.08,0.7
+"Mahindra Manulife ELSS Fund",2.21,0.0,0.0,0.08,2.29,0.61,0.0,0.0,0.08,0.69
 "Mahindra Manulife Equity Savings Fund",2.25,0.0,0.05,0.09,2.39,0.58,0.0,0.05,0.09,0.72
 "Mahindra Manulife Flexi Cap Fund",2.08,0.0,0.05,0.04,2.17,0.34,0.0,0.05,0.04,0.43
 "Mahindra Manulife Focused Fund",2.17,0.0,0.05,0.07,2.29,0.47,0.0,0.05,0.07,0.59
@@ -937,7 +937,7 @@
 "Motilal Oswal Gold and Silver Etfs Fund of Funds",0.5,0.0,0.0,0.01,0.51,0.15,0.0,0.0,0.01,0.16
 "Motilal Oswal Large and Midcap Fund",1.92,0.0,0.05,0.08,2.05,0.54,0.0,0.05,0.08,0.67
 "Motilal Oswal Liquid Fund",0.35,0.0,0.0,0.01,0.36,0.2,0.0,0.0,0.01,0.21
-"Motilal Oswal Long Term Equity Fund",1.86,0.0,0.0,0.09,1.95,0.66,0.0,0.0,0.09,0.75
+"Motilal Oswal Long Term Equity Fund",1.85,0.0,0.0,0.09,1.94,0.65,0.0,0.0,0.09,0.74
 "Motilal Oswal Midcap Fund",1.72,0.0,0.05,0.1,1.87,0.61,0.0,0.05,0.1,0.76
 "Motilal Oswal MSCI EAFE Top 100 Select Index Fund",0.95,0.0,0.05,0.0,1.0,0.39,0.0,0.05,0.0,0.44
 "Motilal Oswal Multi Asset Fund",1.83,0.0,0.05,0.12,2.0,0.74,0.0,0.05,0.12,0.91
@@ -1131,7 +1131,7 @@
 "SBI Banking & PSU Fund",0.77,0.0,0.0,0.04,0.81,0.3,0.0,0.0,0.04,0.34
 "SBI Blue Chip Fund",1.42,0.07,0.05,0.12,1.66,0.73,0.0,0.05,0.12,0.9
 "SBI Conservative Hybrid Fund",0.98,0.0,0.05,0.08,1.11,0.48,0.0,0.05,0.08,0.61
-"SBI Consumption Opportunities Fund",1.99,0.1,0.05,0.16,2.3,0.95,0.0,0.05,0.16,1.16
+"SBI Consumption Opportunities Fund",1.98,0.1,0.05,0.16,2.29,0.94,0.0,0.05,0.16,1.15
 "SBI Contra Fund",1.6,0.1,0.05,0.12,1.87,0.72,0.0,0.05,0.12,0.89
 "SBI Corporate Bond Fund",0.75,0.0,0.0,0.04,0.79,0.3,0.0,0.0,0.04,0.34
 "SBI CPSE Bond Plus SDL SEP 2026 50:50 Index Fund",0.37,0.0,0.0,0.02,0.39,0.19,0.0,0.0,0.02,0.21
