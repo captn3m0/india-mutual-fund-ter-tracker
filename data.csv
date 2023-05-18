@@ -28,14 +28,14 @@
 "Aditya Birla Sun Life CRISIL IBX SDL JUN 2032 Index Fund",0.55,0.0,0.0,0.03,0.58,0.2,0.0,0.0,0.03,0.23
 "Aditya Birla Sun Life CRISIL Liquid Overnight ETF",0.0,0.0,0.0,0.0,0.0,0.58,0.0,0.0,0.0,0.58
 "Aditya Birla Sun Life CRISIL Overnight Fund AI Index ETF",0.0,0.0,0.0,0.0,0.0,0.58,0.0,0.0,0.0,0.58
-"Aditya Birla Sun Life Digital India Fund",1.78,0.0,0.05,0.1,1.93,0.65,0.0,0.05,0.1,0.8
+"Aditya Birla Sun Life Digital India Fund",1.78,0.0,0.05,0.1,1.94,0.65,0.0,0.05,0.1,0.81
 "Aditya Birla Sun Life Dividend Yield Fund",2.1,0.0,0.05,0.24,2.39,1.4,0.0,0.05,0.24,1.69
 "Aditya Birla Sun Life Dynamic Bond Fund",1.1,0.0,0.0,0.09,1.19,0.55,0.0,0.0,0.09,0.64
 "Aditya Birla Sun Life ELSS Tax Relief '96",1.57,0.0,0.0,0.13,1.7,0.79,0.0,0.0,0.13,0.92
 "Aditya Birla Sun Life Equity Advantage Fund",1.72,0.0,0.05,0.17,1.94,0.92,0.0,0.05,0.17,1.14
 "Aditya Birla Sun Life Equity Hybrid '95 Fund",1.64,0.0,0.05,0.15,1.84,0.86,0.0,0.05,0.15,1.06
 "Aditya Birla Sun Life Equity Savings Fund",2.05,0.0,0.04,0.18,2.28,1.03,0.0,0.04,0.18,1.26
-"Aditya Birla Sun Life ESG Fund",2.13,0.0,0.05,0.12,2.3,0.71,0.0,0.05,0.12,0.88
+"Aditya Birla Sun Life ESG Fund",2.14,0.0,0.05,0.12,2.31,0.72,0.0,0.05,0.12,0.89
 "Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan",1.04,0.0,0.0,0.03,1.07,0.19,0.0,0.0,0.03,0.22
 "Aditya Birla Sun Life Financial Planning Fund - Conservative Plan",0.74,0.0,0.05,0.03,0.83,0.28,0.0,0.05,0.03,0.37
 "Aditya Birla Sun Life Financial Planning Fund - Moderate Plan",0.89,0.0,0.05,0.04,0.98,0.29,0.0,0.05,0.04,0.38
@@ -96,7 +96,7 @@
 "Aditya Birla Sun Life Silver ETF",0.35,0.0,0.0,0.02,0.37,0.0,0.0,0.0,0.0,0.0
 "Aditya Birla Sun Life Silver ETF FoF",0.64,0.0,0.0,0.0,0.64,0.15,0.0,0.0,0.0,0.15
 "Aditya Birla Sun Life Small Cap Fund",1.79,0.0,0.05,0.13,1.97,0.76,0.0,0.05,0.13,0.94
-"Aditya Birla Sun Life Special Opportunities Fund",2.21,0.0,0.05,0.15,2.4,0.86,0.0,0.05,0.15,1.05
+"Aditya Birla Sun Life Special Opportunities Fund",2.21,0.0,0.05,0.15,2.41,0.86,0.0,0.05,0.15,1.06
 "Aditya Birla Sun Life Tax Plan",1.43,0.0,0.0,0.12,1.55,0.83,0.0,0.0,0.12,0.95
 "Aditya Birla Sun Life Tax Relief '96",1.57,0.0,0.0,0.13,1.69,0.79,0.0,0.0,0.13,0.91
 "Axis All Seasons Debt Fund of Funds",0.55,0.0,0.0,0.02,0.57,0.2,0.0,0.0,0.02,0.22
@@ -106,7 +106,7 @@
 "Axis Bluechip Fund",1.43,0.0,0.05,0.08,1.56,0.49,0.0,0.05,0.08,0.62
 "Axis Business Cycles Fund",1.87,0.0,0.05,0.08,2.0,0.43,0.0,0.05,0.07,0.55
 "Axis Children's Gift Fund",2.13,0.0,0.0,0.21,2.34,0.92,0.0,0.0,0.15,1.07
-"Axis Corporate Debt Fund",0.9,0.0,0.0,0.03,0.93,0.2,0.0,0.0,0.02,0.22
+"Axis Corporate Debt Fund",0.9,0.0,0.0,0.03,0.93,0.22,0.0,0.0,0.03,0.25
 "Axis Credit Risk Fund",1.55,0.0,0.0,0.11,1.66,0.69,0.0,0.0,0.11,0.8
 "Axis CRISIL IBX 50:50 Gilt Plus SDL June 2028 Index Fund",0.4,0.0,0.0,0.0,0.4,0.18,0.0,0.0,0.0,0.18
 "Axis CRISIL IBX 50:50 Gilt Plus SDL September 2027 Index Fund",0.4,0.0,0.0,0.0,0.4,0.15,0.0,0.0,0.0,0.15
@@ -127,11 +127,11 @@
 "Axis Gold Fund",0.5,0.0,0.0,0.0,0.5,0.17,0.0,0.0,0.0,0.17
 "Axis Greater China Equity Fund of Fund",1.45,0.0,0.05,0.05,1.55,0.34,0.0,0.05,0.04,0.43
 "Axis Growth Opportunities Fund",1.63,0.0,0.05,0.07,1.75,0.44,0.0,0.05,0.07,0.56
-"Axis Liquid Fund",0.2,0.0,0.0,0.02,0.22,0.13,0.0,0.0,0.02,0.15
+"Axis Liquid Fund",0.22,0.0,0.0,0.02,0.24,0.15,0.0,0.0,0.02,0.17
 "Axis Long Duration Fund",0.75,0.0,0.0,0.0,0.75,0.2,0.0,0.0,0.0,0.2
 "Axis Long Term Equity Fund",1.45,0.0,0.0,0.11,1.56,0.7,0.0,0.0,0.11,0.81
 "Axis Midcap Fund",1.52,0.0,0.05,0.07,1.64,0.43,0.0,0.05,0.07,0.55
-"Axis Money Market Fund",0.33,0.0,0.0,0.03,0.36,0.18,0.0,0.0,0.03,0.21
+"Axis Money Market Fund",0.33,0.0,0.0,0.02,0.35,0.13,0.0,0.0,0.02,0.15
 "Axis Multi Asset Allocation Fund",1.88,0.0,0.05,0.1,2.03,0.57,0.0,0.05,0.1,0.72
 "Axis Multicap Fund",1.74,0.0,0.05,0.07,1.86,0.36,0.0,0.05,0.06,0.47
 "Axis NASDAQ 100 Fund of Fund",0.64,0.0,0.0,0.0,0.64,0.2,0.0,0.0,0.0,0.2
@@ -155,10 +155,10 @@
 "Axis Retirement Savings Fund - Conservative Plan",2.0,0.0,0.0,0.09,2.09,0.37,0.0,0.0,0.05,0.42
 "Axis Retirement Savings Fund - Dynamic Plan",2.24,0.0,0.0,0.1,2.34,0.52,0.0,0.0,0.08,0.6
 "Axis S&P BSE SENSEX ETF",0.2,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0
-"Axis Short Term Fund",0.94,0.0,0.0,0.03,0.97,0.27,0.0,0.0,0.03,0.3
+"Axis Short Term Fund",0.94,0.0,0.0,0.03,0.97,0.31,0.0,0.0,0.03,0.34
 "Axis Silver ETF",0.35,0.0,0.0,0.02,0.37,0.0,0.0,0.0,0.0,0.0
 "Axis Silver Fund of Fund",0.65,0.0,0.05,0.0,0.7,0.1,0.0,0.05,0.0,0.15
-"Axis Small Cap Fund",1.58,0.0,0.05,0.07,1.7,0.44,0.0,0.05,0.07,0.56
+"Axis Small Cap Fund",1.58,0.0,0.05,0.07,1.7,0.43,0.0,0.05,0.07,0.55
 "Axis Special Situations Fund",1.94,0.0,0.05,0.09,2.08,0.48,0.0,0.05,0.08,0.61
 "Axis Strategic Bond Fund",1.03,0.0,0.0,0.05,1.08,0.34,0.0,0.0,0.05,0.39
 "Axis Treasury Advantage Fund",0.58,0.0,0.0,0.04,0.62,0.25,0.0,0.0,0.04,0.29
@@ -323,7 +323,7 @@
 "DSP Liquidity Fund",0.2,0.0,0.0,0.02,0.22,0.13,0.0,0.0,0.02,0.15
 "DSP Low Duration Fund",0.56,0.0,0.0,0.04,0.6,0.26,0.0,0.0,0.04,0.3
 "DSP Midcap Fund",1.57,0.0,0.05,0.1,1.72,0.62,0.0,0.05,0.1,0.77
-"DSP Natural Resources and New Energy Fund",2.17,0.0,0.0,0.14,2.31,1.11,0.0,0.0,0.14,1.25
+"DSP Natural Resources and New Energy Fund",2.17,0.0,0.0,0.13,2.3,1.08,0.0,0.0,0.13,1.21
 "DSP Nifty 1D Rate Liquid ETF",0.0,0.0,0.0,0.0,0.0,0.24,0.0,0.0,0.01,0.25
 "DSP Nifty 50 Equal Weight ETF",0.0,0.0,0.0,0.0,0.0,0.26,0.0,0.0,0.03,0.29
 "DSP Nifty 50 Equal Weight Index Fund",0.85,0.0,0.0,0.05,0.9,0.35,0.0,0.0,0.05,0.4
