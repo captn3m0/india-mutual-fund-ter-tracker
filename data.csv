@@ -214,7 +214,7 @@
 "Bandhan Midcap Fund",2.18,0.0,0.05,0.1,2.33,0.56,0.0,0.05,0.09,0.7
 "Bandhan Money Manager Fund",0.9,0.0,0.0,0.03,0.93,0.19,0.0,0.0,0.03,0.22
 "Bandhan Multi Cap Fund",1.99,0.0,0.05,0.07,2.11,0.44,0.0,0.05,0.07,0.56
-"Bandhan Multi Cap Fund",1.99,0.0,0.05,0.07,2.11,0.44,0.0,0.05,0.07,0.56
+"Bandhan Multi Cap Fund",1.99,0.0,0.05,0.07,2.11,0.43,0.0,0.05,0.07,0.55
 "Bandhan Nifty 100 Index Fund",0.6,0.0,0.0,0.02,0.62,0.09,0.0,0.0,0.02,0.11
 "Bandhan Nifty 100 Index Fund",0.6,0.0,0.0,0.02,0.62,0.09,0.0,0.0,0.02,0.11
 "Bandhan Nifty 50 ETF",0.08,0.0,0.0,0.0,0.08,0.0,0.0,0.0,0.0,0.0
@@ -230,7 +230,7 @@
 "Bandhan Regular Savings Fund",1.86,0.0,0.05,0.18,2.09,0.94,0.0,0.05,0.17,1.16
 "Bandhan S&P BSE SENSEX ETF",0.35,0.0,0.0,0.0,0.35,0.0,0.0,0.0,0.0,0.0
 "Bandhan S&P BSE SENSEX ETF",0.35,0.0,0.0,0.0,0.35,0.0,0.0,0.0,0.0,0.0
-"Bandhan Sterling Value Fund",1.7,0.0,0.05,0.11,1.86,0.66,0.0,0.05,0.11,0.82
+"Bandhan Sterling Value Fund",1.69,0.0,0.05,0.11,1.85,0.66,0.0,0.05,0.11,0.82
 "Bandhan Tax Advantage (ELSS) Fund",1.74,0.0,0.0,0.1,1.84,0.64,0.0,0.0,0.1,0.74
 "Bandhan Transportation and Logistics Fund",2.25,0.0,0.05,0.11,2.41,0.66,0.0,0.05,0.1,0.81
 "Bandhan Transportation and Logistics Fund",2.25,0.0,0.05,0.11,2.41,0.66,0.0,0.05,0.1,0.81
@@ -793,17 +793,17 @@
 "Kotak Bluechip Fund",1.69,0.0,0.05,0.07,1.81,0.47,0.0,0.0,0.07,0.54
 "Kotak Bond Fund",1.68,0.0,0.0,0.09,1.77,0.55,0.0,0.0,0.09,0.64
 "Kotak Bond Short Term Fund",1.13,0.0,0.0,0.04,1.17,0.32,0.0,0.0,0.04,0.36
-"Kotak Business Cycle Fund",1.86,0.0,0.05,0.02,1.93,0.23,0.0,0.0,0.02,0.25
+"Kotak Business Cycle Fund",1.85,0.0,0.05,0.02,1.92,0.23,0.0,0.0,0.02,0.25
 "Kotak Corporate Bond Fund",0.63,0.0,0.0,0.04,0.67,0.29,0.0,0.0,0.04,0.33
 "Kotak Credit Risk Fund",1.55,0.0,0.05,0.1,1.7,0.64,0.0,0.0,0.1,0.74
 "Kotak Debt Hybrid Fund",1.67,0.0,0.05,0.06,1.78,0.39,0.0,0.0,0.06,0.45
 "Kotak Dynamic Bond Fund",1.25,0.0,0.0,0.05,1.3,0.35,0.0,0.0,0.05,0.4
-"Kotak Emerging Equity Fund",1.47,0.0,0.05,0.04,1.56,0.35,0.0,0.0,0.04,0.39
+"Kotak Emerging Equity Fund",1.46,0.0,0.05,0.04,1.55,0.35,0.0,0.0,0.04,0.39
 "Kotak Equity Arbitrage Fund",0.97,0.0,0.0,0.04,1.01,0.39,0.0,0.0,0.04,0.43
-"Kotak Equity Hybrid Fund",1.77,0.0,0.05,0.06,1.88,0.45,0.0,0.0,0.06,0.51
+"Kotak Equity Hybrid Fund",1.76,0.0,0.05,0.06,1.87,0.45,0.0,0.0,0.06,0.51
 "Kotak Equity Opportunities Fund",1.57,0.0,0.05,0.06,1.68,0.43,0.0,0.0,0.06,0.49
 "Kotak Equity Savings Fund",1.86,0.0,0.05,0.13,2.04,0.88,0.0,0.0,0.13,1.01
-"Kotak ESG Opportunities Fund",2.03,0.0,0.05,0.07,2.15,0.34,0.0,0.0,0.07,0.41
+"Kotak ESG Opportunities Fund",2.02,0.0,0.05,0.07,2.14,0.34,0.0,0.0,0.07,0.41
 "Kotak Flexicap Fund",1.4,0.0,0.05,0.08,1.53,0.55,0.0,0.0,0.08,0.63
 "Kotak Floating Rate Fund",0.6,0.0,0.0,0.02,0.62,0.2,0.0,0.0,0.02,0.22
 "Kotak Focused Equity Fund",1.83,0.0,0.05,0.06,1.94,0.4,0.0,0.0,0.06,0.46
@@ -821,7 +821,7 @@
 "Kotak Medium Term Fund",1.5,0.0,0.0,0.08,1.58,0.53,0.0,0.0,0.08,0.61
 "Kotak Money Market Fund",0.33,0.0,0.0,0.03,0.36,0.23,0.0,0.0,0.03,0.26
 "Kotak Multi Asset Allocator Fund of Fund - Dynamic",0.81,0.0,0.05,0.0,0.86,0.11,0.0,0.0,0.0,0.11
-"Kotak Multicap Fund",1.74,0.0,0.05,0.04,1.83,0.2,0.0,0.0,0.04,0.24
+"Kotak Multicap Fund",1.73,0.0,0.05,0.04,1.82,0.2,0.0,0.0,0.04,0.24
 "Kotak NASDAQ 100 Fund of Fund",0.65,0.0,0.0,0.02,0.67,0.25,0.0,0.0,0.02,0.27
 "Kotak Nifty 100 Low Volatility 30 ETF",0.3,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0
 "Kotak Nifty 1D Rate Liquid ETF",0.25,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.0,0.0
@@ -845,7 +845,7 @@
 "Kotak Nifty SDL Plus AAA PSU Bond JUL 2028 60:40 Index Fund",0.37,0.0,0.0,0.02,0.39,0.18,0.0,0.0,0.02,0.2
 "Kotak Nifty Smallcap 50 Index Fund",1.0,0.0,0.0,0.04,1.04,0.36,0.0,0.0,0.04,0.4
 "Kotak Overnight Fund",0.19,0.0,0.0,0.0,0.19,0.08,0.0,0.0,0.0,0.08
-"Kotak Pioneer Fund",1.82,0.0,0.05,0.05,1.92,0.38,0.0,0.0,0.05,0.43
+"Kotak Pioneer Fund",1.81,0.0,0.05,0.05,1.91,0.38,0.0,0.0,0.05,0.43
 "Kotak S&P BSE SENSEX ETF",0.25,0.0,0.0,0.03,0.28,0.0,0.0,0.0,0.0,0.0
 "Kotak Savings Fund",0.76,0.0,0.0,0.04,0.8,0.32,0.0,0.0,0.04,0.36
 "Kotak Silver ETF",0.45,0.0,0.0,0.0,0.45,0.0,0.0,0.0,0.0,0.0
