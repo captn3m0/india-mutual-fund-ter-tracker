@@ -419,7 +419,7 @@
 "Franklin India Debt Hybrid Fund (No. of Segregated Portfolios - 1)",1.3,0.0,0.0,0.08,1.38,0.53,0.0,0.0,0.08,0.61
 "Franklin India Dynamic Asset Allocation Fund of Funds",1.86,0.0,0.05,0.06,1.97,0.95,0.0,0.05,0.06,1.06
 "Franklin India Equity Advantage Fund",1.83,0.0,0.05,0.14,2.02,0.84,0.0,0.05,0.14,1.03
-"Franklin India Equity Hybrid Fund",1.98,0.0,0.05,0.12,2.15,0.7,0.0,0.05,0.11,0.86
+"Franklin India Equity Hybrid Fund",1.97,0.0,0.05,0.12,2.14,0.7,0.0,0.05,0.11,0.86
 "Franklin India Equity Savings Fund",1.97,0.0,0.0,0.06,2.03,0.47,0.0,0.0,0.06,0.53
 "Franklin India Feeder - Franklin U. S. Opportunities Fund",1.4,0.0,0.05,0.07,1.52,0.43,0.0,0.05,0.07,0.55
 "Franklin India Feeder - Templeton European Opportunities Fund",1.27,0.0,0.05,0.06,1.38,0.41,0.0,0.05,0.06,0.52
@@ -772,7 +772,7 @@
 "ITI Multi Cap Fund",2.22,0.0,0.05,0.05,2.32,0.4,0.0,0.05,0.05,0.5
 "ITI Overnight Fund",0.18,0.0,0.0,0.0,0.18,0.08,0.0,0.0,0.0,0.08
 "ITI Pharma and Healthcare Fund",2.25,0.0,0.05,0.04,2.34,0.34,0.0,0.05,0.04,0.43
-"ITI Small Cap Fund",2.01,0.0,0.05,0.02,2.08,0.21,0.0,0.05,0.02,0.28
+"ITI Small Cap Fund",2.0,0.0,0.05,0.02,2.07,0.21,0.0,0.05,0.02,0.28
 "ITI Ultra Short Duration Fund",0.95,0.0,0.0,0.0,0.95,0.1,0.0,0.0,0.0,0.1
 "ITI Value Fund",2.25,0.0,0.05,0.05,2.35,0.36,0.0,0.05,0.05,0.46
 "JM Arbitrage Fund",1.04,0.0,0.0,0.02,1.06,0.33,0.0,0.0,0.02,0.35
@@ -956,7 +956,7 @@
 "Motilal Oswal Flexi Cap Fund",1.61,0.0,0.05,0.13,1.79,0.78,0.0,0.05,0.13,0.96
 "Motilal Oswal Focused Fund",1.91,0.0,0.05,0.13,2.09,0.78,0.0,0.05,0.13,0.96
 "Motilal Oswal Gold and Silver Etfs Fund of Funds",0.5,0.0,0.0,0.01,0.51,0.15,0.0,0.0,0.01,0.16
-"Motilal Oswal Large and Midcap Fund",1.92,0.0,0.05,0.08,2.05,0.53,0.0,0.05,0.08,0.66
+"Motilal Oswal Large and Midcap Fund",1.91,0.0,0.05,0.08,2.04,0.52,0.0,0.05,0.08,0.65
 "Motilal Oswal Liquid Fund",0.35,0.0,0.0,0.01,0.36,0.2,0.0,0.0,0.01,0.21
 "Motilal Oswal Long Term Equity Fund",1.84,0.0,0.0,0.09,1.93,0.64,0.0,0.0,0.09,0.73
 "Motilal Oswal Midcap Fund",1.71,0.0,0.05,0.09,1.85,0.6,0.0,0.05,0.09,0.74
@@ -1009,7 +1009,7 @@
 "Nippon India Banking & PSU Debt Fund",0.7,0.0,0.0,0.04,0.74,0.31,0.0,0.0,0.04,0.35
 "Nippon India Consumption Fund",2.25,0.0,0.05,0.21,2.51,1.2,0.0,0.05,0.21,1.46
 "Nippon India Corporate Bond Fund",0.63,0.0,0.0,0.04,0.67,0.3,0.0,0.0,0.04,0.34
-"Nippon India Credit Risk Fund (Number of Segregated Portfolios- 2)",1.48,0.0,0.05,0.11,1.64,0.65,0.0,0.05,0.11,0.81
+"Nippon India Credit Risk Fund (Number of Segregated Portfolios- 2)",1.48,0.0,0.05,0.1,1.63,0.65,0.0,0.05,0.1,0.8
 "Nippon India Dynamic Bond Fund",0.67,0.0,0.0,0.03,0.7,0.28,0.0,0.0,0.03,0.31
 "Nippon India Equity Hybrid Fund (Number of Segregated Portfolios - 2)",1.81,0.0,0.05,0.18,2.04,1.05,0.0,0.05,0.18,1.28
 "Nippon India Equity Savings Fund (Number of Segregated Portfolios - 2)",1.5,0.0,0.05,0.11,1.66,0.65,0.0,0.05,0.11,0.81
@@ -1104,7 +1104,7 @@
 "PGIM India Gilt Fund",1.4,0.0,0.0,0.06,1.46,0.39,0.0,0.0,0.05,0.44
 "PGIM India Global Equity Opportunities Fund",1.42,0.0,0.05,0.08,1.55,0.47,0.0,0.05,0.08,0.6
 "PGIM India Global Select Real Estate Securities Fund of Fund",1.31,0.0,0.05,0.07,1.43,0.47,0.0,0.05,0.07,0.59
-"PGIM India Hybrid Equity Fund",2.17,0.0,0.05,0.11,2.33,0.58,0.0,0.05,0.09,0.72
+"PGIM India Hybrid Equity Fund",2.17,0.0,0.05,0.1,2.32,0.58,0.0,0.05,0.09,0.72
 "PGIM India Large Cap Fund",2.25,0.0,0.05,0.13,2.43,0.75,0.0,0.05,0.12,0.92
 "PGIM India Liquid Fund (Earlier Known as PGIM India Insta Cash Fund)",0.26,0.0,0.0,0.02,0.28,0.12,0.0,0.0,0.01,0.13
 "PGIM India Low Duration Fund",1.13,0.0,0.0,0.05,1.18,0.33,0.0,0.0,0.03,0.36
@@ -1230,7 +1230,7 @@
 "Sundaram Consumption Fund (Formerly Known as Sundaram Rural and Consumption Fund)",2.01,0.0,0.05,0.18,2.25,1.14,0.0,0.05,0.18,1.38
 "Sundaram Corporate Bond Fund",0.49,0.0,0.0,0.03,0.51,0.26,0.0,0.0,0.03,0.28
 "Sundaram Debt Oriented Hybrid Fund",2.0,0.0,0.0,0.17,2.17,1.09,0.0,0.0,0.17,1.26
-"Sundaram Diversified Equity",1.94,0.0,0.0,0.22,2.16,1.36,0.0,0.0,0.22,1.58
+"Sundaram Diversified Equity",1.94,0.0,0.0,0.22,2.15,1.36,0.0,0.0,0.22,1.57
 "Sundaram Dividend Yield Fund (Formerly Known as Principal Dividend Yield Fund)",2.25,0.0,0.05,0.2,2.5,1.23,0.0,0.05,0.2,1.48
 "Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund)",2.25,0.0,0.0,0.07,2.32,0.57,0.0,0.0,0.07,0.64
 "Sundaram Financial Services Opportunities Fund",2.18,0.0,0.05,0.12,2.35,0.79,0.0,0.05,0.12,0.96
@@ -1239,7 +1239,7 @@
 "Sundaram Global Brand Fund",2.2,0.0,0.05,0.03,2.28,1.19,0.0,0.05,0.02,1.26
 "Sundaram Infrastructure Advantage Fund (Erstwhile Sundaram Capex Opportunities)",2.19,0.0,0.05,0.28,2.52,1.65,0.0,0.05,0.28,1.98
 "Sundaram Large and Midcap Fund",1.71,0.0,0.05,0.08,1.84,0.61,0.0,0.05,0.08,0.74
-"Sundaram Large Cap Fund ( Formerly Know as Sundaram Blue Chip Fund)",1.81,0.0,0.05,0.06,1.91,0.48,0.0,0.05,0.06,0.58
+"Sundaram Large Cap Fund ( Formerly Know as Sundaram Blue Chip Fund)",1.81,0.0,0.05,0.05,1.91,0.47,0.0,0.05,0.05,0.58
 "Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund)",0.27,0.0,0.0,0.02,0.29,0.15,0.0,0.0,0.02,0.17
 "Sundaram Low Duration Fund (Formerly Known as Principal Low Duration Fund)",1.25,0.0,0.0,0.03,1.28,0.3,0.0,0.0,0.03,0.33
 "Sundaram Medium Term Bond Fund",2.0,0.0,0.0,0.17,2.17,1.09,0.0,0.0,0.17,1.26
@@ -1312,7 +1312,7 @@
 "Taurus Nifty 50 Index Fund",0.99,0.0,0.05,0.0,1.04,0.58,0.0,0.05,0.0,0.63
 "Taurus Tax Shield",2.22,0.0,0.0,0.23,2.45,1.55,0.0,0.0,0.23,1.78
 "Templeton India Equity Income Fund",1.97,0.0,0.05,0.16,2.18,0.95,0.0,0.05,0.15,1.15
-"Templeton India Value Fund",2.05,0.0,0.05,0.11,2.21,0.69,0.0,0.05,0.11,0.85
+"Templeton India Value Fund",2.05,0.0,0.05,0.11,2.21,0.68,0.0,0.05,0.11,0.84
 "TRUSTMF Banking & PSU Debt Fund",0.7,0.0,0.0,0.01,0.71,0.2,0.0,0.0,0.01,0.21
 "TRUSTMF Corporate Bond Fund",0.63,0.0,0.0,0.02,0.65,0.23,0.0,0.0,0.02,0.25
 "TRUSTMF Liquid Fund",0.25,0.0,0.0,0.0,0.25,0.1,0.0,0.0,0.0,0.1
@@ -1332,13 +1332,13 @@
 "Union Largecap Fund",2.25,0.0,0.05,0.23,2.53,1.44,0.0,0.05,0.23,1.72
 "Union Liquid Fund",0.17,0.0,0.0,0.0,0.17,0.07,0.0,0.0,0.0,0.07
 "Union Medium Duration Fund",0.82,0.0,0.0,0.08,0.9,0.55,0.0,0.0,0.08,0.63
-"Union Midcap Fund",2.19,0.0,0.05,0.09,2.33,0.68,0.0,0.05,0.09,0.82
+"Union Midcap Fund",2.18,0.0,0.05,0.09,2.32,0.67,0.0,0.05,0.09,0.81
 "Union Money Market Fund",1.01,0.0,0.0,0.02,1.03,0.27,0.0,0.0,0.02,0.29
 "Union Multicap Fund",2.24,0.0,0.05,0.14,2.43,0.92,0.0,0.05,0.14,1.11
 "Union Overnight Fund",0.18,0.0,0.0,0.0,0.18,0.08,0.0,0.0,0.0,0.08
 "Union Retirement Fund",2.25,0.0,0.0,0.04,2.29,0.5,0.0,0.0,0.04,0.54
 "Union Small Cap Fund",2.13,0.0,0.05,0.15,2.33,1.02,0.0,0.05,0.15,1.22
-"Union Tax Saver (ELSS) Fund (Formerly Union Long Term Equity Fund)",2.2,0.0,0.0,0.19,2.39,1.3,0.0,0.0,0.19,1.49
+"Union Tax Saver (ELSS) Fund (Formerly Union Long Term Equity Fund)",2.19,0.0,0.0,0.19,2.38,1.29,0.0,0.0,0.19,1.48
 "Union Value Discovery Fund",2.24,0.0,0.05,0.2,2.49,1.26,0.0,0.05,0.2,1.51
 "UTI - Arbitrage Fund",0.9,0.0,0.0,0.02,0.92,0.32,0.0,0.0,0.02,0.34
 "UTI - Banking & PSU Debt Fund",0.55,0.0,0.0,0.01,0.56,0.22,0.0,0.0,0.01,0.23
@@ -1357,7 +1357,7 @@
 "UTI - Gilt Fund",0.85,0.0,0.0,0.08,0.93,0.59,0.0,0.0,0.08,0.67
 "UTI - Gold Exchange Traded Fund",0.5,0.0,0.0,0.04,0.54,0.0,0.0,0.0,0.0,0.0
 "UTI - Healthcare Fund",2.18,0.0,0.05,0.18,2.41,1.23,0.0,0.05,0.18,1.46
-"UTI - Hybrid Equity Fund",1.74,0.0,0.05,0.16,1.95,1.12,0.0,0.05,0.16,1.33
+"UTI - Hybrid Equity Fund",1.73,0.0,0.05,0.16,1.94,1.11,0.0,0.05,0.16,1.32
 "UTI - India Consumer Fund",2.25,0.0,0.05,0.25,2.55,1.49,0.0,0.05,0.25,1.79
 "UTI - Infrastructure Fund",1.95,0.0,0.05,0.26,2.26,1.61,0.0,0.05,0.26,1.92
 "UTI - Liquid Cash Plan",0.24,0.0,0.0,0.01,0.25,0.15,0.0,0.0,0.01,0.16
@@ -1382,7 +1382,7 @@
 "UTI - Value Opportunities Fund",1.66,0.0,0.05,0.15,1.86,0.97,0.0,0.05,0.15,1.17
 "UTI CRISIL SDL Maturity April 2033 Index Fund",0.4,0.0,0.0,0.01,0.41,0.13,0.0,0.0,0.01,0.14
 "UTI CRISIL SDL Maturity June 2027 Index Fund",0.4,0.0,0.0,0.01,0.41,0.14,0.0,0.0,0.01,0.15
-"UTI Focused Equity Fund",1.86,0.0,0.05,0.01,1.92,0.31,0.0,0.05,0.01,0.37
+"UTI Focused Equity Fund",1.85,0.0,0.05,0.01,1.91,0.3,0.0,0.05,0.01,0.36
 "UTI Gilt Fund with 10 Year Constant Duration",0.68,0.0,0.0,0.02,0.7,0.19,0.0,0.0,0.02,0.21
 "UTI Gold ETF Fund of Fund",0.5,0.0,0.0,0.0,0.5,0.1,0.0,0.0,0.0,0.1
 "UTI Long Duration Fund",1.45,0.0,0.0,0.05,1.5,0.4,0.0,0.0,0.05,0.45
@@ -1404,7 +1404,7 @@
 "WhiteOak Capital Flexi Cap Fund",1.99,0.0,0.05,0.04,2.08,0.42,0.0,0.05,0.04,0.51
 "WhiteOak Capital Large Cap Fund",2.25,0.0,0.05,0.05,2.35,0.52,0.0,0.05,0.05,0.62
 "WhiteOak Capital Liquid Fund",0.35,0.0,0.0,0.01,0.36,0.25,0.0,0.0,0.01,0.26
-"WhiteOak Capital Mid Cap Fund",2.19,0.0,0.05,0.05,2.29,0.51,0.0,0.05,0.05,0.61
+"WhiteOak Capital Mid Cap Fund",2.18,0.0,0.05,0.05,2.28,0.5,0.0,0.05,0.05,0.6
 "WhiteOak Capital Multi Asset Allocation Fund",1.5,0.0,0.05,0.03,1.58,0.35,0.0,0.05,0.03,0.43
 "WhiteOak Capital Tax Saver Fund",2.25,0.0,0.0,0.05,2.3,0.59,0.0,0.0,0.05,0.64
 "WhiteOak Capital Ultra Short Term Fund",0.97,0.0,0.0,0.02,0.99,0.3,0.0,0.0,0.02,0.32
