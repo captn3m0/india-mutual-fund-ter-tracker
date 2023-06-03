@@ -101,7 +101,7 @@
 "Axis Balanced Advantage Fund",1.84,0.0,0.05,0.11,2.0,0.57,0.0,0.05,0.1,0.72
 "Axis Banking & PSU Debt Fund",0.58,0.0,0.0,0.05,0.63,0.29,0.0,0.0,0.04,0.33
 "Axis Bluechip Fund",1.43,0.0,0.05,0.08,1.56,0.49,0.0,0.05,0.08,0.62
-"Axis Business Cycles Fund",1.87,0.0,0.05,0.08,2.0,0.42,0.0,0.05,0.07,0.54
+"Axis Business Cycles Fund",1.86,0.0,0.05,0.08,1.99,0.42,0.0,0.05,0.07,0.54
 "Axis Children's Gift Fund",2.13,0.0,0.0,0.21,2.34,0.9,0.0,0.0,0.15,1.05
 "Axis Corporate Debt Fund",0.9,0.0,0.0,0.03,0.93,0.22,0.0,0.0,0.03,0.25
 "Axis Credit Risk Fund",1.55,0.0,0.0,0.11,1.66,0.69,0.0,0.0,0.11,0.8
@@ -126,7 +126,7 @@
 "Axis Growth Opportunities Fund",1.62,0.0,0.05,0.07,1.74,0.43,0.0,0.05,0.07,0.55
 "Axis Liquid Fund",0.22,0.0,0.0,0.02,0.24,0.15,0.0,0.0,0.02,0.17
 "Axis Long Duration Fund",0.75,0.0,0.0,0.01,0.76,0.2,0.0,0.0,0.01,0.21
-"Axis Long Term Equity Fund",1.45,0.0,0.0,0.11,1.56,0.7,0.0,0.0,0.11,0.81
+"Axis Long Term Equity Fund",1.44,0.0,0.0,0.11,1.55,0.7,0.0,0.0,0.11,0.81
 "Axis Midcap Fund",1.51,0.0,0.05,0.07,1.63,0.43,0.0,0.05,0.07,0.55
 "Axis Money Market Fund",0.33,0.0,0.0,0.02,0.35,0.13,0.0,0.0,0.02,0.15
 "Axis Multi Asset Allocation Fund",1.88,0.0,0.05,0.1,2.03,0.57,0.0,0.05,0.1,0.72
@@ -157,7 +157,7 @@
 "Axis Silver Fund of Fund",0.65,0.0,0.05,0.0,0.7,0.1,0.0,0.05,0.0,0.15
 "Axis Small Cap Fund",1.57,0.0,0.05,0.07,1.69,0.43,0.0,0.05,0.07,0.55
 "Axis Special Situations Fund",1.94,0.0,0.05,0.09,2.08,0.48,0.0,0.05,0.08,0.61
-"Axis Strategic Bond Fund",1.03,0.0,0.0,0.05,1.08,0.34,0.0,0.0,0.05,0.39
+"Axis Strategic Bond Fund",1.03,0.0,0.0,0.05,1.08,0.3,0.0,0.0,0.04,0.34
 "Axis Treasury Advantage Fund",0.58,0.0,0.0,0.04,0.62,0.25,0.0,0.0,0.04,0.29
 "Axis Ultra Short Term Fund",1.15,0.0,0.0,0.04,1.19,0.27,0.0,0.0,0.04,0.31
 "Axis Value Fund",2.25,0.0,0.05,0.16,2.46,0.92,0.0,0.05,0.16,1.13
@@ -869,7 +869,7 @@
 "LIC MF Large Cap Fund",2.17,0.0,0.05,0.17,2.39,1.17,0.0,0.05,0.17,1.39
 "LIC MF Liquid Fund",0.29,0.0,0.0,0.01,0.3,0.15,0.0,0.0,0.01,0.16
 "LIC MF Money Market Fund",0.6,0.0,0.0,0.01,0.61,0.17,0.0,0.0,0.01,0.18
-"LIC MF Multi Cap Fund",2.23,0.0,0.05,0.09,2.37,0.58,0.0,0.05,0.09,0.72
+"LIC MF Multi Cap Fund",2.23,0.0,0.05,0.09,2.37,0.57,0.0,0.05,0.09,0.71
 "LIC MF Nifty 100 ETF",0.25,0.0,0.0,0.03,0.28,0.0,0.0,0.0,0.0,0.0
 "LIC MF Nifty 50 ETF",0.1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0
 "LIC MF Nifty 50 Index Fund",1.0,0.0,0.0,0.01,1.01,0.19,0.0,0.0,0.01,0.2
@@ -913,12 +913,12 @@
 "Mirae Asset Emerging Bluechip Fund",1.48,0.0,0.05,0.08,1.61,0.54,0.0,0.05,0.08,0.67
 "Mirae Asset Equity Allocator Fund of Fund",0.11,0.0,0.03,0.0,0.14,0.0,0.0,0.03,0.0,0.03
 "Mirae Asset Equity Savings Fund",1.36,0.0,0.0,0.06,1.42,0.42,0.0,0.0,0.06,0.48
-"Mirae Asset Flexi Cap Fund",2.12,0.0,0.05,0.1,2.27,0.58,0.0,0.05,0.09,0.72
+"Mirae Asset Flexi Cap Fund",2.12,0.0,0.05,0.09,2.26,0.58,0.0,0.05,0.09,0.72
 "Mirae Asset Focused Fund",1.62,0.0,0.05,0.07,1.74,0.43,0.0,0.05,0.07,0.55
 "Mirae Asset Global Electric & Autonomous Vehicles Etfs Fund of Fund",0.46,0.0,0.05,0.0,0.51,0.12,0.0,0.05,0.0,0.17
 "Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund",0.32,0.0,0.05,0.0,0.37,0.1,0.0,0.05,0.0,0.15
 "Mirae Asset Gold ETF",0.34,0.0,0.0,0.0,0.34,0.0,0.0,0.0,0.0,0.0
-"Mirae Asset Great Consumer Fund",1.87,0.0,0.05,0.06,1.98,0.37,0.0,0.05,0.06,0.48
+"Mirae Asset Great Consumer Fund",1.86,0.0,0.05,0.06,1.97,0.37,0.0,0.05,0.06,0.48
 "Mirae Asset Hang Seng Tech ETF",0.49,0.0,0.0,0.08,0.57,0.0,0.0,0.0,0.0,0.0
 "Mirae Asset Hang Seng Tech ETF Fund of Fund",0.5,0.0,0.05,0.01,0.56,0.05,0.0,0.05,0.01,0.11
 "Mirae Asset Healthcare Fund",1.95,0.0,0.05,0.08,2.08,0.48,0.0,0.05,0.08,0.61
