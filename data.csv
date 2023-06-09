@@ -688,21 +688,21 @@
 "ICICI Prudential Ultra Short Term Fund",0.84,0.0,0.0,0.0,0.84,0.39,0.0,0.0,0.0,0.39
 "ICICI Prudential US Bluechip Equity Fund",1.83,0.0,0.05,0.15,2.03,0.91,0.0,0.05,0.15,1.11
 "ICICI Prudential Value Discovery Fund",1.46,0.0,0.05,0.16,1.67,0.93,0.0,0.05,0.16,1.14
-"IDBI Banking & Financial Services Fund",2.24,0.0,0.05,0.21,2.5,1.24,0.0,0.05,0.21,1.5
+"IDBI Banking & Financial Services Fund",2.24,0.01,0.05,0.21,2.51,1.24,0.0,0.05,0.21,1.5
 "IDBI Credit Risk Fund",1.26,0.0,0.0,0.08,1.34,0.53,0.0,0.0,0.08,0.61
-"IDBI Dividend Yield Fund",2.24,0.01,0.05,0.21,2.51,1.24,0.0,0.05,0.21,1.5
-"IDBI Equity Advantage Fund",2.24,0.0,0.0,0.17,2.41,1.04,0.0,0.0,0.17,1.21
+"IDBI Dividend Yield Fund",2.24,0.02,0.05,0.21,2.52,1.24,0.0,0.05,0.21,1.5
+"IDBI Equity Advantage Fund",2.24,0.01,0.0,0.17,2.42,1.04,0.0,0.0,0.17,1.21
 "IDBI Equity Savings Fund",1.92,0.0,0.05,0.15,2.12,0.95,0.0,0.05,0.15,1.15
-"IDBI Flexi Cap Fund",2.25,0.01,0.05,0.16,2.47,0.96,0.0,0.05,0.16,1.17
+"IDBI Flexi Cap Fund",2.25,0.02,0.05,0.16,2.48,0.96,0.0,0.05,0.16,1.17
 "IDBI Focused 30 Equity Fund",2.24,0.0,0.05,0.22,2.51,1.34,0.0,0.05,0.22,1.61
 "IDBI Gold Exchange Traded Fund",0.35,0.0,0.0,0.0,0.35,0.0,0.0,0.0,0.0,0.0
 "IDBI Gold Fund",0.6,0.0,0.05,0.02,0.67,0.19,0.0,0.05,0.02,0.26
 "IDBI Healthcare Fund",2.24,0.02,0.05,0.17,2.48,1.02,0.0,0.05,0.17,1.24
-"IDBI Hybrid Equity Fund",2.24,0.0,0.05,0.23,2.52,1.39,0.0,0.05,0.23,1.67
-"IDBI India Top 100 Equity Fund",2.19,0.01,0.05,0.17,2.42,1.03,0.0,0.05,0.17,1.25
+"IDBI Hybrid Equity Fund",2.24,0.01,0.05,0.23,2.53,1.39,0.0,0.05,0.23,1.67
+"IDBI India Top 100 Equity Fund",2.19,0.02,0.05,0.17,2.43,1.03,0.0,0.05,0.17,1.25
 "IDBI Liquid Fund",0.16,0.0,0.0,0.01,0.17,0.12,0.0,0.0,0.01,0.13
-"IDBI Long Term Value Fund",2.24,0.0,0.05,0.23,2.52,1.39,0.0,0.05,0.23,1.67
-"IDBI Midcap Fund",2.23,0.0,0.05,0.22,2.5,1.35,0.0,0.05,0.22,1.62
+"IDBI Long Term Value Fund",2.24,0.01,0.05,0.23,2.53,1.39,0.0,0.05,0.23,1.67
+"IDBI Midcap Fund",2.23,0.01,0.05,0.22,2.51,1.35,0.0,0.05,0.22,1.62
 "IDBI Nifty 50 Index Fund",0.88,0.0,0.0,0.02,0.9,0.3,0.0,0.0,0.02,0.32
 "IDBI Nifty Next 50 Index Fund",0.88,0.0,0.0,0.02,0.9,0.3,0.0,0.0,0.02,0.32
 "IDBI Short Term Bond Fund",0.71,0.0,0.0,0.04,0.75,0.24,0.0,0.0,0.04,0.28
@@ -1132,7 +1132,7 @@
 "Quant Multi Asset Fund",1.75,0.0,0.0,0.06,1.81,0.5,0.0,0.0,0.06,0.56
 "Quant Overnight Fund",0.22,0.0,0.0,0.01,0.23,0.1,0.0,0.0,0.01,0.11
 "Quant Quantamental Fund",2.0,0.0,0.0,0.06,2.06,0.5,0.0,0.0,0.06,0.56
-"Quant Small Cap Fund",1.6,0.0,0.05,0.09,1.74,0.5,0.0,0.05,0.09,0.64
+"Quant Small Cap Fund",1.5,0.0,0.05,0.09,1.64,0.5,0.0,0.05,0.09,0.64
 "Quant Tax Plan",1.6,0.0,0.0,0.07,1.67,0.5,0.0,0.0,0.07,0.57
 "Quant Value Fund",2.0,0.0,0.0,0.07,2.07,0.5,0.0,0.0,0.07,0.57
 "Quantum Dynamic Bond Fund",0.66,0.0,0.0,0.07,0.73,0.54,0.0,0.0,0.07,0.61
@@ -1236,7 +1236,7 @@
 "Sundaram Dividend Yield Fund (Formerly Known as Principal Dividend Yield Fund)",2.25,0.0,0.05,0.2,2.5,1.23,0.0,0.05,0.2,1.48
 "Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund)",2.25,0.0,0.0,0.07,2.32,0.57,0.0,0.0,0.07,0.64
 "Sundaram Financial Services Opportunities Fund",2.17,0.0,0.05,0.12,2.34,0.78,0.0,0.05,0.12,0.95
-"Sundaram Flexicap Fund",1.9,0.0,0.05,0.0,1.95,0.18,0.0,0.05,0.0,0.23
+"Sundaram Flexicap Fund",1.91,0.0,0.05,0.0,1.96,0.19,0.0,0.05,0.0,0.24
 "Sundaram Focused Fund (Formerly Known as Principal Focused Multicap Fund)",2.12,0.0,0.05,0.18,2.35,1.09,0.0,0.05,0.18,1.32
 "Sundaram Global Brand Fund",2.2,0.0,0.05,0.03,2.28,1.19,0.0,0.05,0.02,1.26
 "Sundaram Infrastructure Advantage Fund (Erstwhile Sundaram Capex Opportunities)",2.19,0.0,0.05,0.28,2.52,1.65,0.0,0.05,0.28,1.98
