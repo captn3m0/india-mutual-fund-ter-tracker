@@ -10,7 +10,7 @@
 "Aditya Birla Sun Life Bal Bhavishya Yojna",2.17,0.0,0.0,0.09,2.26,0.62,0.0,0.0,0.09,0.71
 "Aditya Birla Sun Life Balanced Advantage Fund",1.65,0.0,0.05,0.1,1.79,0.56,0.0,0.05,0.1,0.7
 "Aditya Birla Sun Life Banking & PSU Debt Fund",0.66,0.0,0.0,0.05,0.71,0.31,0.0,0.0,0.05,0.36
-"Aditya Birla Sun Life Banking and Financial Services Fund",1.82,0.0,0.05,0.15,2.02,0.88,0.0,0.05,0.15,1.08
+"Aditya Birla Sun Life Banking and Financial Services Fund",1.82,0.0,0.05,0.15,2.01,0.88,0.0,0.05,0.15,1.07
 "Aditya Birla Sun Life Business Cycle Fund",1.93,0.0,0.05,0.13,2.11,0.73,0.0,0.05,0.13,0.91
 "Aditya Birla Sun Life Commodity Equities Fund - Global Agri Plan",1.56,0.0,0.0,0.18,1.74,1.04,0.0,0.0,0.18,1.22
 "Aditya Birla Sun Life Corporate Bond Fund",0.45,0.0,0.0,0.04,0.49,0.27,0.0,0.0,0.04,0.31
@@ -39,7 +39,7 @@
 "Aditya Birla Sun Life Financial Planning Fund - Moderate Plan",0.89,0.0,0.05,0.04,0.98,0.29,0.0,0.05,0.04,0.38
 "Aditya Birla Sun Life Flexi Cap Fund",1.54,0.0,0.05,0.13,1.72,0.72,0.0,0.05,0.13,0.9
 "Aditya Birla Sun Life Floating Rate Fund",0.43,0.0,0.0,0.03,0.45,0.2,0.0,0.0,0.03,0.23
-"Aditya Birla Sun Life Focused Equity Fund",1.68,0.0,0.05,0.12,1.86,0.72,0.0,0.05,0.12,0.9
+"Aditya Birla Sun Life Focused Equity Fund",1.68,0.0,0.05,0.12,1.85,0.72,0.0,0.05,0.12,0.89
 "Aditya Birla Sun Life Frontline Equity Fund",1.49,0.0,0.05,0.15,1.69,0.83,0.0,0.05,0.15,1.03
 "Aditya Birla Sun Life Global Emerging Opportunities Fund",1.01,0.0,0.05,0.08,1.13,0.51,0.0,0.05,0.08,0.63
 "Aditya Birla Sun Life Global Excellence Equity Fund of Fund",1.2,0.0,0.0,0.08,1.28,0.6,0.0,0.0,0.08,0.68
@@ -48,7 +48,7 @@
 "Aditya Birla Sun Life Government Securities Fund",0.9,0.0,0.0,0.04,0.94,0.25,0.0,0.0,0.04,0.29
 "Aditya Birla Sun Life Income Fund",0.83,0.0,0.0,0.07,0.89,0.43,0.0,0.0,0.07,0.49
 "Aditya Birla Sun Life India Gennext Fund",1.76,0.0,0.05,0.11,1.92,0.7,0.0,0.05,0.11,0.86
-"Aditya Birla Sun Life Infrastructure Fund",2.19,0.0,0.05,0.24,2.48,1.38,0.0,0.05,0.24,1.67
+"Aditya Birla Sun Life Infrastructure Fund",2.18,0.0,0.05,0.24,2.47,1.37,0.0,0.05,0.24,1.66
 "Aditya Birla Sun Life International Equity Fund Plan A",2.24,0.0,0.05,0.22,2.51,1.46,0.0,0.05,0.22,1.73
 "Aditya Birla Sun Life International Equity Fund Plan B",2.23,0.0,0.05,0.31,2.59,1.83,0.0,0.05,0.31,2.19
 "Aditya Birla Sun Life Liquid Fund",0.31,0.0,0.0,0.03,0.34,0.19,0.0,0.0,0.03,0.21
@@ -60,7 +60,7 @@
 "Aditya Birla Sun Life MNC Fund",1.78,0.0,0.05,0.18,2.01,1.03,0.0,0.05,0.18,1.26
 "Aditya Birla Sun Life Money Manager Fund",0.3,0.0,0.0,0.03,0.33,0.18,0.0,0.0,0.03,0.21
 "Aditya Birla Sun Life Multi - Index Fund of Funds",0.59,0.0,0.0,0.03,0.62,0.19,0.0,0.0,0.03,0.22
-"Aditya Birla Sun Life Multi Asset Allocation Fund",1.9,0.0,0.04,0.03,1.98,0.27,0.0,0.04,0.03,0.35
+"Aditya Birla Sun Life Multi Asset Allocation Fund",1.9,0.0,0.04,0.03,1.97,0.27,0.0,0.04,0.03,0.34
 "Aditya Birla Sun Life Multi-Cap Fund",1.75,0.0,0.05,0.08,1.88,0.45,0.0,0.05,0.08,0.58
 "Aditya Birla Sun Life NASDAQ 100 FoF",0.65,0.0,0.0,0.05,0.7,0.29,0.0,0.0,0.05,0.34
 "Aditya Birla Sun Life Nifty 200 Momentum 30 ETF",0.3,0.0,0.0,0.02,0.32,0.0,0.0,0.0,0.0,0.0
@@ -911,16 +911,16 @@
 "Mahindra Manulife Ultra Short Duration Fund",0.68,0.0,0.0,0.03,0.71,0.26,0.0,0.0,0.03,0.29
 "Mirae Asset Arbitrage Fund",0.94,0.0,0.0,0.03,0.97,0.24,0.0,0.0,0.02,0.26
 "Mirae Asset Balanced Advantage Fund",2.04,0.0,0.05,0.11,2.2,0.63,0.0,0.05,0.11,0.79
-"Mirae Asset Banking and Financial Services Fund",1.98,0.0,0.05,0.09,2.12,0.51,0.0,0.05,0.08,0.64
+"Mirae Asset Banking and Financial Services Fund",1.97,0.0,0.05,0.09,2.11,0.51,0.0,0.05,0.08,0.64
 "Mirae Asset Banking and PSU Debt Fund",0.78,0.0,0.0,0.04,0.82,0.35,0.0,0.0,0.04,0.39
 "Mirae Asset Cash Management Fund",0.23,0.0,0.0,0.02,0.25,0.13,0.0,0.0,0.02,0.15
 "Mirae Asset Corporate Bond Fund",0.85,0.0,0.0,0.06,0.91,0.41,0.0,0.0,0.05,0.46
 "Mirae Asset CRISIL IBX Gilt Index - April 2033 Index Fund",0.49,0.0,0.0,0.01,0.5,0.14,0.0,0.0,0.01,0.15
 "Mirae Asset Dynamic Bond Fund",1.1,0.0,0.0,0.02,1.12,0.19,0.0,0.0,0.02,0.21
-"Mirae Asset Emerging Bluechip Fund",1.48,0.0,0.05,0.08,1.61,0.55,0.0,0.05,0.08,0.68
+"Mirae Asset Emerging Bluechip Fund",1.48,0.0,0.05,0.08,1.61,0.54,0.0,0.05,0.08,0.67
 "Mirae Asset Equity Allocator Fund of Fund",0.11,0.0,0.03,0.0,0.14,0.0,0.0,0.03,0.0,0.03
 "Mirae Asset Equity Savings Fund",1.36,0.0,0.0,0.05,1.41,0.4,0.0,0.0,0.05,0.45
-"Mirae Asset Flexi Cap Fund",2.09,0.0,0.05,0.09,2.23,0.56,0.0,0.05,0.09,0.7
+"Mirae Asset Flexi Cap Fund",2.08,0.0,0.05,0.09,2.22,0.56,0.0,0.05,0.09,0.7
 "Mirae Asset Focused Fund",1.62,0.0,0.05,0.08,1.75,0.46,0.0,0.05,0.07,0.58
 "Mirae Asset Global Electric & Autonomous Vehicles Etfs Fund of Fund",0.46,0.0,0.05,0.01,0.52,0.14,0.0,0.05,0.01,0.2
 "Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund",0.32,0.0,0.05,0.01,0.38,0.13,0.0,0.05,0.01,0.19
@@ -930,8 +930,8 @@
 "Mirae Asset Hang Seng Tech ETF Fund of Fund",0.5,0.0,0.05,0.02,0.57,0.08,0.0,0.05,0.02,0.15
 "Mirae Asset Healthcare Fund",1.94,0.0,0.05,0.08,2.07,0.47,0.0,0.05,0.08,0.6
 "Mirae Asset Hybrid-Equity Fund",1.65,0.0,0.05,0.05,1.75,0.31,0.0,0.05,0.05,0.41
-"Mirae Asset Large Cap Fund",1.43,0.0,0.05,0.07,1.55,0.43,0.0,0.05,0.07,0.55
-"Mirae Asset Midcap Fund",1.61,0.0,0.05,0.08,1.74,0.49,0.0,0.05,0.08,0.62
+"Mirae Asset Large Cap Fund",1.42,0.0,0.05,0.07,1.54,0.43,0.0,0.05,0.07,0.55
+"Mirae Asset Midcap Fund",1.6,0.0,0.05,0.08,1.73,0.49,0.0,0.05,0.08,0.62
 "Mirae Asset Money Market Fund",0.62,0.0,0.0,0.04,0.66,0.26,0.0,0.0,0.03,0.29
 "Mirae Asset Nifty 100 ESG Sector Leaders ETF",0.5,0.0,0.0,0.09,0.59,0.0,0.0,0.0,0.0,0.0
 "Mirae Asset Nifty 100 ESG Sector Leaders Fund of Fund",0.41,0.0,0.05,0.01,0.47,0.01,0.0,0.05,0.01,0.07
@@ -1089,7 +1089,7 @@
 "Nippon India Taiwan Equity Fund",2.22,0.0,0.05,0.13,2.4,0.82,0.0,0.05,0.13,1.0
 "Nippon India Tax Saver (ELSS) Fund",1.58,0.0,0.0,0.15,1.73,0.9,0.0,0.0,0.15,1.05
 "Nippon India Ultra Short Duration Fund (Number of Segregated Portfolio -1)",1.12,0.0,0.0,0.04,1.16,0.33,0.0,0.0,0.04,0.37
-"Nippon India US Equity Opportunites Fund",2.2,0.0,0.05,0.17,2.42,1.06,0.0,0.05,0.17,1.28
+"Nippon India US Equity Opportunites Fund",2.19,0.0,0.05,0.17,2.41,1.05,0.0,0.05,0.17,1.27
 "Nippon India Value Fund",1.71,0.0,0.05,0.17,1.93,1.0,0.0,0.05,0.17,1.22
 "Nippon India Vision Fund",1.78,0.0,0.05,0.23,2.06,1.29,0.0,0.05,0.23,1.57
 "NJ Arbitrage Fund",0.96,0.0,0.0,0.04,1.0,0.29,0.0,0.0,0.03,0.32
