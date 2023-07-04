@@ -244,7 +244,7 @@
 "Baroda BNP Paribas Focused Fund",2.25,0.0,0.05,0.07,2.37,0.49,0.0,0.05,0.07,0.61
 "Baroda BNP Paribas Funds Aqua Fund of Fund",1.5,0.0,0.05,0.05,1.6,0.44,0.0,0.05,0.05,0.54
 "Baroda BNP Paribas Gilt Fund",0.44,0.0,0.0,0.01,0.45,0.13,0.0,0.0,0.01,0.14
-"Baroda BNP Paribas India Consumption Fund",2.05,0.0,0.05,0.09,2.19,0.63,0.0,0.05,0.09,0.77
+"Baroda BNP Paribas India Consumption Fund",2.05,0.0,0.05,0.1,2.2,0.63,0.0,0.05,0.1,0.78
 "Baroda BNP Paribas Large and Mid Cap Fund",2.15,0.0,0.05,0.14,2.34,0.86,0.0,0.05,0.14,1.05
 "Baroda BNP Paribas Large Cap Fund",1.96,0.0,0.05,0.12,2.13,0.78,0.0,0.05,0.12,0.95
 "Baroda BNP Paribas Liquid Fund",0.27,0.0,0.0,0.02,0.29,0.17,0.0,0.0,0.02,0.19
@@ -430,7 +430,7 @@
 "HDFC Arbitrage Fund",0.9,0.0,0.0,0.06,0.96,0.38,0.0,0.0,0.06,0.44
 "HDFC Asset Allocator Fund of Funds",1.2,0.0,0.05,0.0,1.25,0.08,0.0,0.05,0.0,0.13
 "HDFC Balanced Advantage Fund",1.3,0.0,0.05,0.12,1.47,0.68,0.0,0.05,0.12,0.85
-"HDFC Banking & Financial Services Fund",1.82,0.0,0.05,0.06,1.93,0.41,0.0,0.05,0.06,0.52
+"HDFC Banking & Financial Services Fund",1.81,0.0,0.05,0.06,1.92,0.4,0.0,0.05,0.06,0.51
 "HDFC Banking and PSU Debt Fund",0.76,0.0,0.0,0.05,0.81,0.34,0.0,0.0,0.05,0.39
 "HDFC Business Cycle Fund",1.83,0.0,0.05,0.07,1.95,0.43,0.0,0.05,0.07,0.55
 "HDFC Capital Builder Value Fund",1.69,0.0,0.05,0.15,1.89,0.81,0.0,0.05,0.15,1.01
@@ -701,8 +701,8 @@
 "Invesco India Equity & Bond Fund",2.25,0.0,0.05,0.1,2.4,0.62,0.0,0.05,0.09,0.76
 "Invesco India Equity Savings Fund",2.15,0.0,0.05,0.09,2.29,0.59,0.0,0.05,0.08,0.72
 "Invesco India ESG Equity Fund",2.21,0.0,0.05,0.1,2.36,0.65,0.0,0.05,0.1,0.8
-"Invesco India Financial Services Fund",2.23,0.0,0.05,0.13,2.41,0.91,0.0,0.05,0.12,1.08
-"Invesco India Flexi Cap Fund",2.05,0.0,0.05,0.04,2.14,0.38,0.0,0.05,0.04,0.47
+"Invesco India Financial Services Fund",2.22,0.0,0.05,0.13,2.4,0.91,0.0,0.05,0.12,1.08
+"Invesco India Flexi Cap Fund",2.05,0.0,0.05,0.05,2.15,0.38,0.0,0.05,0.04,0.47
 "Invesco India Focused 20 Equity Fund",1.93,0.0,0.05,0.07,2.05,0.51,0.0,0.05,0.07,0.63
 "Invesco India Gilt Fund",1.25,0.0,0.0,0.0,1.25,0.48,0.0,0.0,0.0,0.48
 "Invesco India Gold Exchange Traded Fund",0.55,0.0,0.0,0.0,0.55,0.0,0.0,0.0,0.0,0.0
@@ -1048,7 +1048,7 @@
 "Nippon India Silver ETF FoF",0.5,0.0,0.05,0.01,0.56,0.15,0.0,0.05,0.01,0.21
 "Nippon India Small Cap Fund",1.43,0.0,0.05,0.1,1.58,0.6,0.0,0.05,0.1,0.75
 "Nippon India Strategic Debt Fund (Number of Segregated Portfolios - 2)",1.68,0.0,0.05,0.2,1.93,1.13,0.0,0.05,0.2,1.38
-"Nippon India Taiwan Equity Fund",2.21,0.0,0.05,0.13,2.39,0.81,0.0,0.05,0.13,0.99
+"Nippon India Taiwan Equity Fund",2.2,0.0,0.05,0.13,2.38,0.8,0.0,0.05,0.13,0.98
 "Nippon India Tax Saver (ELSS) Fund",1.58,0.0,0.0,0.15,1.73,0.9,0.0,0.0,0.15,1.05
 "Nippon India Ultra Short Duration Fund (Number of Segregated Portfolio -1)",1.12,0.0,0.0,0.04,1.16,0.33,0.0,0.0,0.04,0.37
 "Nippon India US Equity Opportunites Fund",2.19,0.0,0.05,0.17,2.41,1.05,0.0,0.05,0.17,1.27
