@@ -441,7 +441,7 @@
 "HDFC Childrens Gift Fund",1.66,0.0,0.0,0.13,1.79,0.83,0.0,0.0,0.13,0.96
 "HDFC Corporate Bond Fund",0.56,0.0,0.0,0.04,0.6,0.28,0.0,0.0,0.04,0.32
 "HDFC Credit Risk Debt Fund",1.38,0.0,0.05,0.13,1.56,0.77,0.0,0.05,0.13,0.95
-"HDFC Defence Fund",2.03,0.0,0.05,0.14,2.22,0.8,0.0,0.05,0.14,0.99
+"HDFC Defence Fund",2.02,0.0,0.05,0.14,2.21,0.79,0.0,0.05,0.14,0.98
 "HDFC Developed World Indexes Fund of Funds",0.66,0.0,0.05,0.0,0.71,0.16,0.0,0.05,0.0,0.21
 "HDFC Dividend Yield Fund",1.78,0.0,0.05,0.06,1.89,0.38,0.0,0.05,0.06,0.49
 "HDFC Dynamic Debt Fund",1.67,0.0,0.0,0.05,1.72,0.44,0.0,0.0,0.05,0.49
@@ -470,7 +470,7 @@
 "HDFC Mid-Cap Opportunities Fund",1.38,0.0,0.05,0.12,1.55,0.71,0.0,0.05,0.12,0.88
 "HDFC MNC Fund",2.25,0.0,0.05,0.19,2.49,1.05,0.0,0.05,0.19,1.29
 "HDFC Money Market Fund",0.41,0.0,0.0,0.0,0.41,0.21,0.0,0.0,0.0,0.21
-"HDFC Multi Cap Fund",1.65,0.0,0.05,0.09,1.79,0.43,0.0,0.05,0.09,0.57
+"HDFC Multi Cap Fund",1.66,0.0,0.05,0.09,1.8,0.44,0.0,0.05,0.09,0.58
 "HDFC Multi-Asset Fund",1.92,0.0,0.05,0.13,2.1,0.68,0.0,0.05,0.13,0.86
 "HDFC Nifty 100 Equal Weight Index Fund",1.0,0.0,0.0,0.0,1.0,0.4,0.0,0.0,0.0,0.4
 "HDFC Nifty 100 ETF",0.3,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0
@@ -948,6 +948,7 @@
 "Motilal Oswal Nifty 500 Index Fund",1.0,0.0,0.0,0.04,1.04,0.33,0.0,0.0,0.04,0.37
 "Motilal Oswal Nifty Bank Index Fund",0.96,0.0,0.0,0.04,1.0,0.29,0.0,0.0,0.04,0.33
 "Motilal Oswal Nifty G-SEC MAY 2029 Index Fund",0.33,0.0,0.0,0.01,0.34,0.13,0.0,0.0,0.01,0.14
+"Motilal Oswal Nifty Microcap 250 Index Fund",0.98,0.0,0.05,0.02,1.05,0.28,0.0,0.05,0.02,0.35
 "Motilal Oswal Nifty Midcap 100 ETF",0.2,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0
 "Motilal Oswal Nifty Midcap 150 Index Fund",0.97,0.0,0.0,0.03,1.0,0.27,0.0,0.0,0.03,0.3
 "Motilal Oswal Nifty Next 50 Index Fund",0.99,0.0,0.0,0.04,1.03,0.31,0.0,0.0,0.04,0.35
@@ -1060,7 +1061,7 @@
 "Nippon India Value Fund",1.7,0.0,0.05,0.17,1.92,0.99,0.0,0.05,0.17,1.21
 "Nippon India Vision Fund",1.78,0.0,0.05,0.23,2.06,1.29,0.0,0.05,0.23,1.57
 "NJ Arbitrage Fund",0.96,0.0,0.0,0.04,1.0,0.29,0.0,0.0,0.03,0.32
-"NJ Balanced Advantage Fund",1.76,0.0,0.05,0.07,1.88,0.46,0.0,0.05,0.07,0.58
+"NJ Balanced Advantage Fund",1.76,0.0,0.05,0.08,1.89,0.46,0.0,0.05,0.07,0.58
 "NJ ELSS Tax Saver Scheme",2.25,0.0,0.0,0.1,2.35,0.53,0.0,0.0,0.08,0.61
 "NJ Overnight Fund",0.15,0.0,0.0,0.0,0.15,0.05,0.0,0.0,0.0,0.05
 "Parag Parikh Conservative Hybrid Fund",0.6,0.0,0.0,0.03,0.63,0.3,0.0,0.0,0.03,0.33
@@ -1352,7 +1353,7 @@
 "UTI - Retirement Benefit Pension Fund",1.51,0.0,0.05,0.12,1.68,0.88,0.0,0.05,0.12,1.05
 "UTI - S&P BSE SENSEX Next 50 Exchange Traded Fund",0.2,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0
 "UTI - Short Term Income Fund",0.9,0.0,0.0,0.06,0.96,0.3,0.0,0.0,0.04,0.34
-"UTI - Transportation and Logistics Fund",1.86,0.0,0.05,0.13,2.04,0.79,0.0,0.05,0.13,0.97
+"UTI - Transportation and Logistics Fund",1.87,0.0,0.05,0.13,2.05,0.8,0.0,0.05,0.13,0.98
 "UTI - Treasury Advantage Fund",0.4,0.0,0.0,0.04,0.44,0.3,0.0,0.0,0.04,0.34
 "UTI - Ultra Short Term Fund",0.9,0.0,0.0,0.05,0.95,0.37,0.0,0.0,0.05,0.42
 "UTI - Unit Linked Insurance Plan",1.46,0.0,0.05,0.12,1.63,0.78,0.0,0.05,0.12,0.95
