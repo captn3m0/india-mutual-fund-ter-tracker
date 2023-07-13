@@ -377,7 +377,7 @@
 "Edelweiss Mid Cap Fund",1.78,0.0,0.05,0.06,1.89,0.36,0.0,0.05,0.06,0.47
 "Edelweiss Money Market Fund",0.94,0.0,0.0,0.03,0.97,0.24,0.0,0.0,0.03,0.27
 "Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund",1.0,0.0,0.0,0.04,1.04,0.43,0.0,0.0,0.04,0.47
-"Edelweiss Multi Asset Allocation Fund",0.59,0.0,0.05,0.02,0.66,0.29,0.0,0.05,0.02,0.36
+"Edelweiss Multi Asset Allocation Fund",0.59,0.0,0.05,0.03,0.67,0.29,0.0,0.05,0.03,0.37
 "Edelweiss Nifty 100 Quality 30 Index Fund",0.83,0.0,0.0,0.03,0.86,0.27,0.0,0.0,0.03,0.3
 "Edelweiss Nifty 50 Index Fund",0.63,0.0,0.0,0.02,0.65,0.23,0.0,0.0,0.02,0.25
 "Edelweiss Nifty Large Midcap 250 Index Fund",0.92,0.0,0.0,0.03,0.95,0.27,0.0,0.0,0.03,0.3
@@ -420,7 +420,7 @@
 "Franklin India Short-Term Income Plan (No. of Segregated Portfolios- 3)",0.04,0.0,0.0,0.0,0.04,0.04,0.0,0.0,0.0,0.04
 "Franklin India Smaller Companies Fund",1.63,0.0,0.05,0.11,1.79,0.66,0.0,0.05,0.11,0.82
 "Franklin India Taxshield",1.72,0.0,0.0,0.11,1.83,0.73,0.0,0.0,0.11,0.84
-"Franklin India Technology Fund",2.14,0.0,0.05,0.14,2.33,0.87,0.0,0.05,0.14,1.06
+"Franklin India Technology Fund",2.13,0.0,0.05,0.14,2.32,0.86,0.0,0.05,0.14,1.05
 "Groww Aggressive Hybrid Fund (Formerly Known as Indiabulls Equity Hybrid Fund)",2.25,0.0,0.05,0.0,2.3,0.8,0.0,0.05,0.0,0.85
 "Groww Arbitrage Fund (Formerly Known as Indiabulls Arbitrage Fund)",1.14,0.0,0.0,0.0,1.14,0.44,0.0,0.0,0.0,0.44
 "Groww Dynamic Bond Fund (Formerly Known as Indiabulls Dynamic Bond Fund)",1.45,0.0,0.0,0.0,1.45,0.45,0.0,0.0,0.0,0.45
@@ -934,7 +934,7 @@
 "Motilal Oswal Large and Midcap Fund",1.9,0.0,0.05,0.08,2.03,0.51,0.0,0.05,0.08,0.64
 "Motilal Oswal Liquid Fund",0.35,0.0,0.0,0.01,0.36,0.2,0.0,0.0,0.01,0.21
 "Motilal Oswal Long Term Equity Fund",1.83,0.0,0.0,0.09,1.92,0.63,0.0,0.0,0.09,0.72
-"Motilal Oswal Midcap Fund",1.7,0.0,0.05,0.09,1.84,0.59,0.0,0.05,0.09,0.73
+"Motilal Oswal Midcap Fund",1.69,0.0,0.05,0.09,1.83,0.58,0.0,0.05,0.09,0.72
 "Motilal Oswal MSCI EAFE Top 100 Select Index Fund",0.95,0.0,0.05,0.0,1.0,0.39,0.0,0.05,0.0,0.44
 "Motilal Oswal Multi Asset Fund",1.79,0.0,0.05,0.11,1.95,0.7,0.0,0.05,0.11,0.86
 "Motilal Oswal NASDAQ 100 ETF",0.5,0.0,0.0,0.08,0.58,0.0,0.0,0.0,0.0,0.0
@@ -1236,7 +1236,7 @@
 "Tata Balanced Advantage Fund",1.67,0.0,0.05,0.04,1.76,0.27,0.0,0.05,0.04,0.36
 "Tata Banking & Financial Services Fund",1.94,0.0,0.05,0.07,2.06,0.44,0.0,0.05,0.07,0.56
 "Tata Banking & PSU Debt Fund",0.7,0.0,0.0,0.02,0.72,0.23,0.0,0.0,0.02,0.25
-"Tata Business Cycle Fund",2.05,0.0,0.05,0.06,2.16,0.42,0.0,0.05,0.06,0.53
+"Tata Business Cycle Fund",2.05,0.0,0.05,0.06,2.16,0.41,0.0,0.05,0.06,0.52
 "Tata Corporate Bond Fund",0.84,0.0,0.0,0.04,0.88,0.3,0.0,0.0,0.04,0.34
 "Tata CRISIL-IBX Gilt Index - April 2026 Index Fund",0.35,0.0,0.0,0.01,0.36,0.1,0.0,0.0,0.01,0.11
 "Tata Digital India Fund",1.66,0.0,0.05,0.03,1.74,0.28,0.0,0.05,0.03,0.36
@@ -1244,20 +1244,20 @@
 "Tata Equity P/E Fund",1.68,0.0,0.05,0.12,1.85,0.7,0.0,0.05,0.12,0.87
 "Tata Equity Savings Fund",1.09,0.0,0.0,0.04,1.13,0.38,0.0,0.0,0.04,0.42
 "Tata Ethical Fund",1.92,0.0,0.05,0.12,2.09,0.73,0.0,0.05,0.12,0.9
-"Tata Flexi Cap Fund",1.87,0.0,0.05,0.09,2.01,0.6,0.0,0.05,0.09,0.74
+"Tata Flexi Cap Fund",1.87,0.0,0.05,0.09,2.01,0.59,0.0,0.05,0.09,0.73
 "Tata Floating Rate Fund",0.7,0.0,0.0,0.03,0.73,0.27,0.0,0.0,0.03,0.3
 "Tata Focused Equity Fund",1.98,0.0,0.05,0.07,2.1,0.48,0.0,0.05,0.07,0.6
 "Tata Gilt Securities Fund",1.58,0.0,0.0,0.14,1.72,0.83,0.0,0.0,0.14,0.97
 "Tata Housing Opportunities Fund",2.24,0.0,0.05,0.09,2.38,0.56,0.0,0.05,0.09,0.7
 "Tata Hybrid Equity Fund",1.78,0.0,0.05,0.13,1.96,0.8,0.0,0.05,0.13,0.98
-"Tata India Consumer Fund",1.94,0.0,0.05,0.11,2.1,0.68,0.0,0.05,0.11,0.84
-"Tata India Pharma & Healthcare Fund",2.22,0.0,0.05,0.12,2.39,0.79,0.0,0.05,0.12,0.96
+"Tata India Consumer Fund",1.94,0.0,0.05,0.11,2.1,0.67,0.0,0.05,0.11,0.83
+"Tata India Pharma & Healthcare Fund",2.21,0.0,0.05,0.12,2.38,0.79,0.0,0.05,0.12,0.96
 "Tata India Tax Savings Fund",1.77,0.0,0.0,0.1,1.87,0.66,0.0,0.0,0.1,0.76
 "Tata Infrastructure Fund",2.01,0.0,0.05,0.2,2.26,1.2,0.0,0.05,0.2,1.45
 "Tata Large & Mid Cap Fund",1.73,0.0,0.05,0.11,1.89,0.71,0.0,0.05,0.11,0.87
 "Tata Large Cap Fund",1.94,0.0,0.05,0.17,2.16,1.0,0.0,0.05,0.17,1.22
 "Tata Liquid Fund",0.3,0.0,0.0,0.02,0.32,0.19,0.0,0.0,0.02,0.21
-"Tata Mid Cap Growth Fund",1.88,0.0,0.05,0.13,2.06,0.77,0.0,0.05,0.13,0.95
+"Tata Mid Cap Growth Fund",1.87,0.0,0.05,0.13,2.05,0.77,0.0,0.05,0.13,0.95
 "Tata Money Market Fund",0.4,0.0,0.0,0.02,0.42,0.15,0.0,0.0,0.02,0.17
 "Tata Multi Asset Opportunities Fund",1.94,0.0,0.05,0.05,2.04,0.4,0.0,0.05,0.05,0.5
 "Tata Multicap Fund",1.9,0.0,0.05,0.02,1.97,0.24,0.0,0.05,0.02,0.31
@@ -1385,7 +1385,7 @@
 "WhiteOak Capital Flexi Cap Fund",1.96,0.0,0.05,0.04,2.05,0.39,0.0,0.05,0.04,0.48
 "WhiteOak Capital Large Cap Fund",2.25,0.0,0.05,0.07,2.37,0.54,0.0,0.05,0.07,0.66
 "WhiteOak Capital Liquid Fund",0.35,0.0,0.0,0.01,0.36,0.25,0.0,0.0,0.01,0.26
-"WhiteOak Capital Mid Cap Fund",2.15,0.0,0.05,0.05,2.25,0.47,0.0,0.05,0.05,0.57
+"WhiteOak Capital Mid Cap Fund",2.14,0.0,0.05,0.04,2.23,0.46,0.0,0.05,0.04,0.55
 "WhiteOak Capital Multi Asset Allocation Fund",1.57,0.0,0.05,0.05,1.67,0.42,0.0,0.05,0.05,0.52
 "WhiteOak Capital Tax Saver Fund",2.25,0.0,0.0,0.05,2.3,0.59,0.0,0.0,0.05,0.64
 "WhiteOak Capital Ultra Short Term Fund",0.97,0.0,0.0,0.02,0.99,0.3,0.0,0.0,0.02,0.32
