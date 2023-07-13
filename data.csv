@@ -312,16 +312,16 @@
 "DSP Flexi Cap Fund",1.63,0.0,0.05,0.1,1.78,0.58,0.0,0.05,0.1,0.73
 "DSP Floater Fund",0.49,0.0,0.0,0.02,0.51,0.2,0.0,0.0,0.02,0.22
 "DSP Focus Fund",1.91,0.0,0.05,0.15,2.11,0.84,0.0,0.05,0.15,1.04
-"DSP Global Allocation Fund",1.99,-0.22,0.0,0.01,1.78,1.37,0.0,0.0,0.01,1.38
+"DSP Global Allocation Fund",1.99,0.0,0.0,0.01,2.0,1.37,0.0,0.0,0.01,1.38
 "DSP Global Innovation Fund of Fund",2.0,-0.32,0.0,0.04,1.72,1.19,0.0,0.0,0.04,1.23
 "DSP Gold ETF",0.0,0.0,0.0,0.0,0.0,0.46,0.0,0.0,0.02,0.48
 "DSP Government Securities Fund",0.97,0.0,0.0,0.07,1.04,0.47,0.0,0.0,0.07,0.54
-"DSP Healthcare Fund",1.96,-0.32,0.05,0.1,1.79,0.6,0.0,0.05,0.1,0.75
+"DSP Healthcare Fund",1.96,0.0,0.05,0.1,2.11,0.6,0.0,0.05,0.1,0.75
 "DSP India T.I.G.E.R. Fund",1.88,0.0,0.05,0.18,2.11,1.02,0.0,0.05,0.18,1.25
 "DSP Liquidity Fund",0.21,0.0,0.0,0.02,0.23,0.13,0.0,0.0,0.02,0.15
 "DSP Low Duration Fund",0.59,0.0,0.0,0.04,0.63,0.26,0.0,0.0,0.04,0.3
 "DSP Midcap Fund",1.56,0.0,0.05,0.1,1.71,0.6,0.0,0.05,0.1,0.75
-"DSP Natural Resources and New Energy Fund",2.17,-0.28,0.0,0.13,2.02,1.04,0.0,0.0,0.13,1.17
+"DSP Natural Resources and New Energy Fund",2.17,0.0,0.0,0.13,2.3,1.04,0.0,0.0,0.13,1.17
 "DSP Nifty 1D Rate Liquid ETF",0.0,0.0,0.0,0.0,0.0,0.24,0.0,0.0,0.01,0.25
 "DSP Nifty 50 Equal Weight ETF",0.0,0.0,0.0,0.0,0.0,0.26,0.0,0.0,0.03,0.29
 "DSP Nifty 50 Equal Weight Index Fund",0.84,0.0,0.0,0.05,0.89,0.35,0.0,0.0,0.05,0.4
@@ -345,12 +345,12 @@
 "DSP Tax Saver Fund",1.59,0.0,0.0,0.1,1.69,0.67,0.0,0.0,0.1,0.77
 "DSP Top 100 Equity Fund",1.81,0.0,0.05,0.18,2.04,1.03,0.0,0.05,0.18,1.26
 "DSP Ultra Short Fund",0.99,0.0,0.0,0.04,1.03,0.26,0.0,0.0,0.04,0.3
-"DSP US Flexible Equity Fund",2.25,-0.18,0.0,0.09,2.16,1.4,0.0,0.0,0.09,1.49
+"DSP US Flexible Equity Fund",2.25,0.0,0.0,0.09,2.34,1.4,0.0,0.0,0.09,1.49
 "DSP Value Fund",1.61,0.0,0.0,0.1,1.71,0.84,0.0,0.0,0.1,0.94
-"DSP World Agriculture Fund",2.16,-0.06,0.0,0.17,2.27,1.76,0.0,0.0,0.17,1.93
-"DSP World Energy Fund",2.09,-0.01,0.0,0.08,2.16,1.47,0.0,0.0,0.08,1.55
-"DSP World Gold Fund of Fund",2.25,-0.13,0.0,0.08,2.2,1.6,0.0,0.0,0.08,1.68
-"DSP World Mining Fund",2.11,-0.64,0.0,0.05,1.52,1.46,0.0,0.0,0.05,1.51
+"DSP World Agriculture Fund",2.16,0.0,0.0,0.17,2.33,1.76,0.0,0.0,0.17,1.93
+"DSP World Energy Fund",2.09,0.0,0.0,0.08,2.17,1.47,0.0,0.0,0.08,1.55
+"DSP World Gold Fund of Fund",2.25,0.0,0.0,0.08,2.33,1.6,0.0,0.0,0.08,1.68
+"DSP World Mining Fund",2.11,0.0,0.0,0.05,2.16,1.46,0.0,0.0,0.05,1.51
 "Edelweiss Aggressive Hybrid Fund",2.24,0.0,0.05,0.07,2.36,0.45,0.0,0.05,0.07,0.57
 "Edelweiss Arbitrage Fund",1.05,0.0,0.0,0.05,1.1,0.34,0.0,0.0,0.05,0.39
 "Edelweiss ASEAN Equity Off-shore Fund",1.28,0.0,0.05,0.09,1.42,0.57,0.0,0.05,0.09,0.71
@@ -1127,13 +1127,13 @@
 "Samco Flexi Cap Fund",2.15,0.0,0.05,0.08,2.28,0.7,0.0,0.05,0.08,0.83
 "Samco Overnight Fund",0.3,0.0,0.0,0.0,0.3,0.1,0.0,0.0,0.0,0.1
 "SBI Arbitrage Opportunities Fund",0.92,0.0,0.0,0.05,0.97,0.35,0.0,0.0,0.05,0.4
-"SBI Balanced Advantage Fund",1.5,0.0,0.05,0.1,1.65,0.6,0.0,0.05,0.1,0.75
+"SBI Balanced Advantage Fund",1.5,0.02,0.05,0.1,1.67,0.6,0.0,0.05,0.1,0.75
 "SBI Banking & Financial Services Fund",1.73,0.02,0.05,0.1,1.9,0.62,0.0,0.05,0.1,0.77
 "SBI Banking & PSU Fund",0.77,0.0,0.0,0.04,0.81,0.3,0.0,0.0,0.04,0.34
 "SBI Blue Chip Fund",1.4,0.04,0.05,0.11,1.6,0.71,0.0,0.05,0.11,0.87
 "SBI Conservative Hybrid Fund",0.98,0.0,0.05,0.08,1.11,0.48,0.0,0.05,0.08,0.61
-"SBI Consumption Opportunities Fund",1.96,0.0,0.05,0.15,2.16,0.91,0.0,0.05,0.15,1.11
-"SBI Contra Fund",1.58,0.0,0.05,0.11,1.74,0.68,0.0,0.05,0.11,0.84
+"SBI Consumption Opportunities Fund",1.96,0.02,0.05,0.15,2.18,0.91,0.0,0.05,0.15,1.11
+"SBI Contra Fund",1.58,0.05,0.05,0.11,1.79,0.68,0.0,0.05,0.11,0.84
 "SBI Corporate Bond Fund",0.75,0.0,0.0,0.04,0.79,0.3,0.0,0.0,0.04,0.34
 "SBI CPSE Bond Plus SDL SEP 2026 50:50 Index Fund",0.37,0.0,0.0,0.02,0.39,0.19,0.0,0.0,0.02,0.21
 "SBI Credit Risk Fund",1.42,0.0,0.0,0.12,1.54,0.78,0.0,0.0,0.12,0.9
@@ -1145,9 +1145,9 @@
 "SBI Equity Hybrid Fund",1.3,0.04,0.05,0.1,1.49,0.63,0.0,0.05,0.1,0.78
 "SBI Equity Minimum Variance Fund",0.7,0.0,0.0,0.04,0.74,0.38,0.0,0.0,0.04,0.42
 "SBI Equity Savings Fund",1.05,0.0,0.05,0.09,1.19,0.53,0.0,0.05,0.09,0.67
-"SBI Flexicap Fund",1.53,0.0,0.05,0.11,1.69,0.69,0.0,0.05,0.11,0.85
+"SBI Flexicap Fund",1.53,0.05,0.05,0.11,1.74,0.69,0.0,0.05,0.11,0.85
 "SBI Floating Rate Debt Fund",0.43,0.0,0.0,0.03,0.46,0.23,0.0,0.0,0.03,0.26
-"SBI Focused Equity Fund",1.46,0.0,0.05,0.09,1.6,0.57,0.0,0.05,0.09,0.71
+"SBI Focused Equity Fund",1.46,0.02,0.05,0.09,1.62,0.57,0.0,0.05,0.09,0.71
 "SBI Gold ETF",0.58,0.0,0.0,0.06,0.64,0.0,0.0,0.0,0.0,0.0
 "SBI Gold Fund",0.42,0.0,0.0,0.0,0.42,0.1,0.0,0.0,0.0,0.1
 "SBI Healthcare Opportunities Fund",1.91,0.02,0.05,0.14,2.12,0.85,0.0,0.05,0.14,1.04
@@ -1157,19 +1157,19 @@
 "SBI Liquid Fund",0.28,0.0,0.0,0.02,0.3,0.16,0.0,0.0,0.02,0.18
 "SBI Long Duration Fund",0.65,0.0,0.0,0.02,0.67,0.2,0.0,0.0,0.02,0.22
 "SBI Long Term Equity Fund",1.56,0.08,0.0,0.12,1.76,0.88,0.0,0.0,0.12,1.0
-"SBI Magnum Children's Benefit Fund - Investment Plan",2.05,0.1,0.0,0.13,2.28,0.86,0.0,0.0,0.13,0.99
+"SBI Magnum Children's Benefit Fund - Investment Plan",2.04,0.05,0.0,0.13,2.22,0.85,0.0,0.0,0.13,0.98
 "SBI Magnum Children's Benefit Fund - Savings Plan",1.1,0.0,0.0,0.11,1.21,0.75,0.0,0.0,0.11,0.86
 "SBI Magnum Comma Fund",2.23,0.0,0.05,0.29,2.57,1.69,0.0,0.05,0.29,2.03
 "SBI Magnum Constant Maturity Fund",0.6,0.0,0.0,0.03,0.63,0.27,0.0,0.0,0.03,0.3
-"SBI Magnum Equity ESG Fund",1.72,0.05,0.05,0.19,2.01,1.1,0.0,0.05,0.19,1.34
+"SBI Magnum Equity ESG Fund",1.72,0.02,0.05,0.19,1.98,1.1,0.0,0.05,0.19,1.34
 "SBI Magnum Gilt Fund",0.88,0.0,0.0,0.06,0.94,0.4,0.0,0.0,0.06,0.46
-"SBI Magnum Global Fund",1.68,0.0,0.05,0.17,1.9,1.0,0.0,0.05,0.17,1.22
+"SBI Magnum Global Fund",1.68,0.04,0.05,0.17,1.94,1.0,0.0,0.05,0.17,1.22
 "SBI Magnum Income Fund",1.35,0.0,0.0,0.11,1.46,0.69,0.0,0.0,0.11,0.8
 "SBI Magnum Low Duration Fund",0.96,0.0,0.0,0.05,1.01,0.33,0.0,0.0,0.05,0.38
 "SBI Magnum Medium Duration Fund",1.12,0.0,0.0,0.09,1.21,0.59,0.0,0.0,0.09,0.68
 "SBI Magnum Midcap Fund",1.59,0.08,0.05,0.12,1.84,0.74,0.0,0.05,0.12,0.91
 "SBI Magnum Ultra Short Duration Fund",0.5,0.0,0.0,0.04,0.54,0.27,0.0,0.0,0.04,0.31
-"SBI Multi Asset Allocation Fund",1.6,0.0,0.05,0.13,1.78,0.79,0.0,0.05,0.13,0.97
+"SBI Multi Asset Allocation Fund",1.6,0.02,0.05,0.13,1.8,0.79,0.0,0.05,0.13,0.97
 "SBI Multicap Fund",1.57,0.03,0.05,0.13,1.78,0.7,0.0,0.05,0.13,0.88
 "SBI Nifty 10 Yr Benchmark G-SEC ETF",0.14,0.0,0.0,0.0,0.14,0.0,0.0,0.0,0.0,0.0
 "SBI Nifty 200 Quality 30 ETF",0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0
@@ -1196,7 +1196,7 @@
 "SBI Savings Fund",0.73,0.0,0.0,0.03,0.76,0.2,0.0,0.0,0.03,0.23
 "SBI Short Term Debt Fund",0.8,0.0,0.0,0.04,0.84,0.3,0.0,0.0,0.04,0.34
 "SBI Small Cap Fund",1.52,0.0,0.05,0.09,1.66,0.57,0.0,0.05,0.09,0.71
-"SBI Technology Opportunities Fund",1.8,0.1,0.05,0.11,2.06,0.72,0.0,0.05,0.11,0.88
+"SBI Technology Opportunities Fund",1.8,0.02,0.05,0.11,1.98,0.72,0.0,0.05,0.11,0.88
 "Shriram Balanced Advantage Fund",2.25,0.3,0.05,0.05,2.65,0.55,0.0,0.05,0.05,0.65
 "Shriram Flexi Cap Fund",2.25,0.25,0.05,0.07,2.62,0.6,0.0,0.05,0.07,0.72
 "Shriram Hybrid Equity Fund",2.25,0.25,0.05,0.1,2.65,0.8,0.0,0.05,0.1,0.95
