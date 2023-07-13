@@ -676,23 +676,23 @@
 "ICICI Prudential Value Discovery Fund",1.45,0.0,0.05,0.16,1.66,0.92,0.0,0.05,0.16,1.13
 "IDBI Banking & Financial Services Fund",2.24,0.0,0.05,0.21,2.5,1.24,0.0,0.05,0.21,1.5
 "IDBI Credit Risk Fund",1.26,0.0,0.0,0.08,1.34,0.53,0.0,0.0,0.08,0.61
-"IDBI Dividend Yield Fund",2.24,0.01,0.05,0.21,2.51,1.24,0.0,0.05,0.21,1.5
+"IDBI Dividend Yield Fund",2.24,0.0,0.05,0.21,2.5,1.24,0.0,0.05,0.21,1.5
 "IDBI Equity Advantage Fund",2.24,0.0,0.0,0.17,2.41,1.04,0.0,0.0,0.17,1.21
 "IDBI Equity Savings Fund",1.92,0.0,0.05,0.15,2.12,0.95,0.0,0.05,0.15,1.15
 "IDBI Flexi Cap Fund",2.25,0.0,0.05,0.16,2.46,0.96,0.0,0.05,0.16,1.17
 "IDBI Focused 30 Equity Fund",2.24,0.0,0.05,0.22,2.51,1.34,0.0,0.05,0.22,1.61
 "IDBI Gold Exchange Traded Fund",0.35,0.0,0.0,0.0,0.35,0.0,0.0,0.0,0.0,0.0
 "IDBI Gold Fund",0.6,0.0,0.05,0.02,0.67,0.19,0.0,0.05,0.02,0.26
-"IDBI Healthcare Fund",2.24,0.01,0.05,0.17,2.47,1.02,0.0,0.05,0.17,1.24
+"IDBI Healthcare Fund",2.24,0.0,0.05,0.17,2.46,1.02,0.0,0.05,0.17,1.24
 "IDBI Hybrid Equity Fund",2.24,0.0,0.05,0.23,2.52,1.39,0.0,0.05,0.23,1.67
-"IDBI India Top 100 Equity Fund",2.19,0.01,0.05,0.17,2.42,1.03,0.0,0.05,0.17,1.25
+"IDBI India Top 100 Equity Fund",2.19,0.0,0.05,0.17,2.41,1.03,0.0,0.05,0.17,1.25
 "IDBI Liquid Fund",0.16,0.0,0.0,0.01,0.17,0.12,0.0,0.0,0.01,0.13
-"IDBI Long Term Value Fund",2.24,0.01,0.05,0.23,2.53,1.39,0.0,0.05,0.23,1.67
-"IDBI Midcap Fund",2.23,0.01,0.05,0.22,2.51,1.35,0.0,0.05,0.22,1.62
+"IDBI Long Term Value Fund",2.24,0.0,0.05,0.23,2.52,1.39,0.0,0.05,0.23,1.67
+"IDBI Midcap Fund",2.23,0.0,0.05,0.22,2.5,1.35,0.0,0.05,0.22,1.62
 "IDBI Nifty 50 Index Fund",0.88,0.0,0.0,0.02,0.9,0.3,0.0,0.0,0.02,0.32
 "IDBI Nifty Next 50 Index Fund",0.88,0.0,0.0,0.02,0.9,0.3,0.0,0.0,0.02,0.32
 "IDBI Short Term Bond Fund",0.71,0.0,0.0,0.04,0.75,0.24,0.0,0.0,0.04,0.28
-"IDBI Small Cap Fund",2.24,0.01,0.05,0.21,2.51,1.28,0.0,0.05,0.21,1.54
+"IDBI Small Cap Fund",2.24,0.0,0.05,0.21,2.5,1.28,0.0,0.05,0.21,1.54
 "IDBI Ultra Short Term Fund",0.42,0.0,0.0,0.02,0.44,0.23,0.0,0.0,0.02,0.25
 "Invesco India - Invesco EQQQ NASDAQ-100 ETF Fund of Fund",0.4,0.0,0.0,0.0,0.4,0.14,0.0,0.0,0.0,0.14
 "Invesco India - Invesco Global Consumer Trends Fund of Fund",1.41,0.0,0.05,0.06,1.52,0.39,0.0,0.05,0.06,0.5
@@ -757,7 +757,7 @@
 "JM Large Cap Fund",2.23,0.0,0.05,0.21,2.49,1.48,0.0,0.05,0.21,1.74
 "JM Liquid Fund",0.25,0.0,0.0,0.0,0.25,0.15,0.0,0.0,0.0,0.15
 "JM Low Duration Fund",0.77,0.0,0.0,0.03,0.8,0.32,0.0,0.0,0.03,0.35
-"JM Medium to Long Duration Fund",0.99,0.0,0.0,0.04,1.03,0.44,0.0,0.0,0.04,0.48
+"JM Medium to Long Duration Fund",0.99,0.0,0.0,0.03,1.02,0.44,0.0,0.0,0.03,0.47
 "JM Midcap Fund",2.25,0.0,0.05,0.01,2.31,0.35,0.0,0.05,0.01,0.41
 "JM Overnight Fund",0.14,0.0,0.0,0.0,0.14,0.07,0.0,0.0,0.0,0.07
 "JM Short Duration Fund",1.17,0.0,0.0,0.02,1.19,0.3,0.0,0.0,0.02,0.32
@@ -1207,7 +1207,7 @@
 "Sundaram Arbitrage Fund(Formerly Known as Prinicpal Arbitrage Fund)",0.85,0.0,0.0,0.02,0.87,0.26,0.0,0.0,0.02,0.28
 "Sundaram Balanced Advantage Fund (Formerly Known as Principal Balanced Advantage Fund)",1.95,0.0,0.05,0.06,2.07,0.45,0.0,0.05,0.06,0.57
 "Sundaram Banking & PSU Debt Fund",0.35,0.0,0.0,0.02,0.37,0.21,0.0,0.0,0.02,0.23
-"Sundaram Consumption Fund (Formerly Known as Sundaram Rural and Consumption Fund)",2.0,0.0,0.05,0.18,2.23,1.13,0.0,0.05,0.18,1.36
+"Sundaram Consumption Fund (Formerly Known as Sundaram Rural and Consumption Fund)",2.0,0.0,0.05,0.18,2.24,1.13,0.0,0.05,0.18,1.37
 "Sundaram Corporate Bond Fund",0.49,0.0,0.0,0.03,0.51,0.26,0.0,0.0,0.03,0.28
 "Sundaram Debt Oriented Hybrid Fund",2.0,0.0,0.0,0.17,2.17,1.09,0.0,0.0,0.17,1.26
 "Sundaram Diversified Equity",1.94,0.0,0.0,0.22,2.15,1.36,0.0,0.0,0.22,1.57
@@ -1223,7 +1223,7 @@
 "Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund)",0.27,0.0,0.0,0.02,0.29,0.15,0.0,0.0,0.02,0.17
 "Sundaram Low Duration Fund (Formerly Known as Principal Low Duration Fund)",1.25,0.0,0.0,0.03,1.28,0.3,0.0,0.0,0.03,0.33
 "Sundaram Medium Term Bond Fund",2.0,0.0,0.0,0.17,2.17,1.09,0.0,0.0,0.17,1.26
-"Sundaram Mid Cap Fund",1.64,0.0,0.05,0.12,1.8,0.8,0.0,0.05,0.12,0.96
+"Sundaram Mid Cap Fund",1.64,0.0,0.05,0.12,1.81,0.8,0.0,0.05,0.12,0.97
 "Sundaram Money Market Fund",0.32,0.0,0.0,0.02,0.34,0.23,0.0,0.0,0.02,0.25
 "Sundaram Multi Cap Fund (Formerly Known as Principal Multi Cap Growth Fund)",1.91,0.0,0.05,0.12,2.08,0.79,0.0,0.05,0.12,0.96
 "Sundaram Nifty 100 Equal Weight Fund (Formerly Known as Principal Nifty 100 Equal Weight Fund)",1.0,0.0,0.0,0.03,1.03,0.54,0.0,0.0,0.03,0.57
