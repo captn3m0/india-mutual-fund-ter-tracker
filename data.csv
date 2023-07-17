@@ -840,7 +840,7 @@
 "LIC MF Flexi Cap Fund",2.25,0.0,0.05,0.24,2.54,1.46,0.0,0.05,0.23,1.74
 "LIC MF Government Securities Fund",1.35,0.0,0.05,0.08,1.48,0.63,0.0,0.05,0.08,0.76
 "LIC MF Infrastructure Fund",2.25,0.0,0.05,0.22,2.52,1.23,0.0,0.05,0.19,1.47
-"LIC MF Large & Mid Cap Fund",1.89,0.0,0.05,0.09,2.03,0.68,0.0,0.05,0.09,0.82
+"LIC MF Large & Mid Cap Fund",1.88,0.0,0.05,0.09,2.02,0.68,0.0,0.05,0.09,0.82
 "LIC MF Large Cap Fund",2.17,0.0,0.05,0.17,2.39,1.17,0.0,0.05,0.17,1.39
 "LIC MF Liquid Fund",0.29,0.0,0.0,0.01,0.3,0.15,0.0,0.0,0.01,0.16
 "LIC MF Money Market Fund",0.6,0.0,0.0,0.01,0.61,0.17,0.0,0.0,0.01,0.18
@@ -1093,7 +1093,7 @@
 "PGIM India Small Cap Fund",1.88,0.0,0.05,0.04,1.97,0.28,0.0,0.05,0.04,0.37
 "PGIM India Ultra Short Duration Fund (Earlier Known as PGIM India Ultra Short Term Fund)",0.85,0.0,0.0,0.05,0.9,0.24,0.0,0.0,0.03,0.27
 "Quant Absolute Fund",1.75,0.0,0.0,0.06,1.81,0.5,0.0,0.0,0.06,0.56
-"Quant Active Fund",1.6,0.0,0.0,0.08,1.68,0.5,0.0,0.0,0.08,0.58
+"Quant Active Fund",1.5,0.0,0.0,0.08,1.58,0.5,0.0,0.0,0.08,0.58
 "Quant Bfsi Fund",2.25,0.0,0.0,0.08,2.33,0.5,0.0,0.0,0.08,0.58
 "Quant Business Cycle Fund",2.25,0.0,0.0,0.08,2.33,0.5,0.0,0.0,0.08,0.58
 "Quant Dynamic Asset Allocation Fund",2.25,0.0,0.0,0.08,2.33,0.5,0.0,0.0,0.08,0.58
@@ -1215,7 +1215,7 @@
 "Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund)",2.24,0.0,0.0,0.07,2.32,0.56,0.0,0.0,0.07,0.64
 "Sundaram Financial Services Opportunities Fund",2.15,0.0,0.05,0.11,2.31,0.76,0.0,0.05,0.11,0.92
 "Sundaram Flexicap Fund",1.89,0.0,0.05,0.0,1.94,0.17,0.0,0.05,0.0,0.22
-"Sundaram Focused Fund (Formerly Known as Principal Focused Multicap Fund)",2.1,0.0,0.05,0.18,2.32,1.07,0.0,0.05,0.18,1.29
+"Sundaram Focused Fund (Formerly Known as Principal Focused Multicap Fund)",2.1,0.0,0.05,0.17,2.32,1.07,0.0,0.05,0.17,1.29
 "Sundaram Global Brand Fund",2.2,0.0,0.05,0.03,2.28,1.19,0.0,0.05,0.02,1.26
 "Sundaram Infrastructure Advantage Fund (Erstwhile Sundaram Capex Opportunities)",2.18,0.0,0.05,0.28,2.51,1.64,0.0,0.05,0.28,1.97
 "Sundaram Large and Midcap Fund",1.7,0.0,0.05,0.08,1.83,0.6,0.0,0.05,0.08,0.73
@@ -1225,12 +1225,12 @@
 "Sundaram Medium Term Bond Fund",2.0,0.0,0.0,0.17,2.17,1.09,0.0,0.0,0.17,1.26
 "Sundaram Mid Cap Fund",1.64,0.0,0.05,0.12,1.8,0.8,0.0,0.05,0.12,0.96
 "Sundaram Money Market Fund",0.32,0.0,0.0,0.02,0.34,0.23,0.0,0.0,0.02,0.25
-"Sundaram Multi Cap Fund (Formerly Known as Principal Multi Cap Growth Fund)",1.9,0.0,0.05,0.12,2.08,0.78,0.0,0.05,0.12,0.96
+"Sundaram Multi Cap Fund (Formerly Known as Principal Multi Cap Growth Fund)",1.9,0.0,0.05,0.12,2.07,0.78,0.0,0.05,0.12,0.95
 "Sundaram Nifty 100 Equal Weight Fund (Formerly Known as Principal Nifty 100 Equal Weight Fund)",1.0,0.0,0.0,0.03,1.03,0.54,0.0,0.0,0.03,0.57
 "Sundaram Overnight Fund",0.18,0.0,0.0,0.0,0.18,0.09,0.0,0.0,0.0,0.09
 "Sundaram Services Fund",1.83,0.0,0.05,0.09,1.97,0.64,0.0,0.05,0.09,0.78
 "Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund)",0.84,0.0,0.0,0.02,0.86,0.26,0.0,0.0,0.02,0.28
-"Sundaram Small Cap Fund",1.85,0.0,0.05,0.11,2.02,0.73,0.0,0.05,0.11,0.9
+"Sundaram Small Cap Fund",1.85,0.0,0.05,0.11,2.01,0.73,0.0,0.05,0.11,0.89
 "Sundaram Tax Savings Fund (Formerly Known as Principal Tax Savings Fund)",2.04,0.0,0.0,0.25,2.29,1.52,0.0,0.0,0.25,1.77
 "Sundaram Ultra Short Duration Fund (Formerly Known as Principal Ultra Short Term Fund)",1.37,0.0,0.0,0.01,1.39,0.16,0.0,0.0,0.01,0.18
 "Tata Arbitrage Fund",1.04,0.0,0.0,0.03,1.07,0.26,0.0,0.0,0.03,0.29
