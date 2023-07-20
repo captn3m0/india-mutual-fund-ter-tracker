@@ -9,9 +9,9 @@
 "Aditya Birla Sun Life Arbitrage Fund",0.87,0.0,0.0,0.02,0.89,0.19,0.0,0.0,0.02,0.21
 "Aditya Birla Sun Life Asset Allocator FoF",1.26,0.0,0.04,0.04,1.34,0.32,0.0,0.04,0.04,0.4
 "Aditya Birla Sun Life Bal Bhavishya Yojna",2.15,0.0,0.0,0.09,2.24,0.6,0.0,0.0,0.09,0.69
-"Aditya Birla Sun Life Balanced Advantage Fund",1.65,0.0,0.05,0.09,1.78,0.56,0.0,0.05,0.09,0.69
+"Aditya Birla Sun Life Balanced Advantage Fund",1.65,0.0,0.05,0.09,1.78,0.55,0.0,0.05,0.09,0.69
 "Aditya Birla Sun Life Banking & PSU Debt Fund",0.66,0.0,0.0,0.05,0.71,0.31,0.0,0.0,0.05,0.36
-"Aditya Birla Sun Life Banking and Financial Services Fund",1.81,0.0,0.05,0.15,2.01,0.87,0.0,0.05,0.15,1.07
+"Aditya Birla Sun Life Banking and Financial Services Fund",1.81,0.0,0.05,0.15,2.0,0.87,0.0,0.05,0.15,1.06
 "Aditya Birla Sun Life Business Cycle Fund",1.93,0.0,0.05,0.13,2.1,0.73,0.0,0.05,0.13,0.9
 "Aditya Birla Sun Life Commodity Equities Fund - Global Agri Plan",1.56,0.0,0.0,0.18,1.74,1.04,0.0,0.0,0.18,1.22
 "Aditya Birla Sun Life Corporate Bond Fund",0.45,0.0,0.0,0.04,0.49,0.27,0.0,0.0,0.04,0.31
@@ -31,10 +31,10 @@
 "Aditya Birla Sun Life Dividend Yield Fund",2.07,0.0,0.05,0.23,2.35,1.32,0.0,0.05,0.23,1.6
 "Aditya Birla Sun Life Dynamic Bond Fund",1.1,0.0,0.0,0.09,1.19,0.55,0.0,0.0,0.09,0.64
 "Aditya Birla Sun Life ELSS Tax Relief '96",1.56,0.0,0.0,0.13,1.69,0.79,0.0,0.0,0.13,0.92
-"Aditya Birla Sun Life Equity Advantage Fund",1.71,0.0,0.05,0.16,1.93,0.89,0.0,0.05,0.16,1.11
+"Aditya Birla Sun Life Equity Advantage Fund",1.71,0.0,0.05,0.16,1.92,0.89,0.0,0.05,0.16,1.1
 "Aditya Birla Sun Life Equity Hybrid '95 Fund",1.64,0.0,0.05,0.15,1.84,0.86,0.0,0.05,0.15,1.06
 "Aditya Birla Sun Life Equity Savings Fund",2.11,0.0,0.05,0.19,2.35,1.09,0.0,0.05,0.19,1.33
-"Aditya Birla Sun Life ESG Fund",2.15,0.0,0.05,0.13,2.33,0.76,0.0,0.05,0.13,0.94
+"Aditya Birla Sun Life ESG Fund",2.15,0.0,0.05,0.13,2.32,0.76,0.0,0.05,0.13,0.93
 "Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan",1.04,0.0,0.0,0.02,1.06,0.24,0.0,0.0,0.02,0.26
 "Aditya Birla Sun Life Financial Planning Fund - Conservative Plan",0.74,0.0,0.05,0.03,0.83,0.28,0.0,0.05,0.03,0.37
 "Aditya Birla Sun Life Financial Planning Fund - Moderate Plan",0.89,0.0,0.05,0.04,0.98,0.29,0.0,0.05,0.04,0.38
@@ -48,7 +48,7 @@
 "Aditya Birla Sun Life Gold Fund",0.5,0.0,0.0,0.01,0.51,0.14,0.0,0.0,0.01,0.15
 "Aditya Birla Sun Life Government Securities Fund",0.9,0.0,0.0,0.04,0.94,0.25,0.0,0.0,0.04,0.29
 "Aditya Birla Sun Life Income Fund",0.83,0.0,0.0,0.07,0.89,0.43,0.0,0.0,0.07,0.49
-"Aditya Birla Sun Life India Gennext Fund",1.75,0.0,0.05,0.11,1.92,0.69,0.0,0.05,0.11,0.85
+"Aditya Birla Sun Life India Gennext Fund",1.75,0.0,0.05,0.11,1.91,0.69,0.0,0.05,0.11,0.85
 "Aditya Birla Sun Life Infrastructure Fund",2.17,0.0,0.05,0.24,2.46,1.36,0.0,0.05,0.24,1.65
 "Aditya Birla Sun Life International Equity Fund Plan A",2.24,0.0,0.05,0.22,2.51,1.46,0.0,0.05,0.22,1.73
 "Aditya Birla Sun Life International Equity Fund Plan B",2.23,0.0,0.05,0.31,2.59,1.83,0.0,0.05,0.31,2.19
@@ -62,9 +62,9 @@
 "Aditya Birla Sun Life Money Manager Fund",0.3,0.0,0.0,0.03,0.33,0.18,0.0,0.0,0.03,0.21
 "Aditya Birla Sun Life Multi - Index Fund of Funds",0.59,0.0,0.0,0.03,0.62,0.19,0.0,0.0,0.03,0.22
 "Aditya Birla Sun Life Multi Asset Allocation Fund",1.88,0.0,0.04,0.03,1.96,0.25,0.0,0.04,0.03,0.33
-"Aditya Birla Sun Life Multi-Cap Fund",1.74,0.0,0.05,0.07,1.87,0.44,0.0,0.05,0.07,0.57
+"Aditya Birla Sun Life Multi-Cap Fund",1.74,0.0,0.05,0.07,1.86,0.44,0.0,0.05,0.07,0.56
 "Aditya Birla Sun Life NASDAQ 100 FoF",0.65,0.0,0.0,0.05,0.7,0.29,0.0,0.0,0.05,0.34
-"Aditya Birla Sun Life Nifty 200 Momentum 30 ETF",0.31,0.0,0.0,0.02,0.32,0.0,0.0,0.0,0.0,0.0
+"Aditya Birla Sun Life Nifty 200 Momentum 30 ETF",0.31,0.0,0.0,0.02,0.33,0.0,0.0,0.0,0.0,0.0
 "Aditya Birla Sun Life Nifty 200 Quality 30 ETF",0.34,0.0,0.0,0.02,0.36,0.0,0.0,0.0,0.0,0.0
 "Aditya Birla Sun Life Nifty 50 Equal Weight Index Fund",1.0,0.0,0.0,0.03,1.03,0.36,0.0,0.0,0.03,0.39
 "Aditya Birla Sun Life Nifty 50 ETF",0.05,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.0,0.0
@@ -82,8 +82,8 @@
 "Aditya Birla Sun Life Nifty Smallcap 50 Index Fund",1.0,0.0,0.0,0.05,1.05,0.45,0.0,0.0,0.05,0.5
 "Aditya Birla Sun Life Overnight Fund",0.17,0.0,0.0,0.01,0.18,0.06,0.0,0.0,0.01,0.07
 "Aditya Birla Sun Life Pharma and Healthcare Fund",2.25,0.0,0.05,0.15,2.45,0.9,0.0,0.05,0.15,1.1
-"Aditya Birla Sun Life PSU Equity Fund",2.02,0.0,0.05,0.11,2.17,0.62,0.0,0.05,0.11,0.77
-"Aditya Birla Sun Life Pure Value Fund",1.74,0.0,0.05,0.15,1.94,0.87,0.0,0.05,0.15,1.07
+"Aditya Birla Sun Life PSU Equity Fund",2.01,0.0,0.05,0.11,2.17,0.61,0.0,0.05,0.11,0.77
+"Aditya Birla Sun Life Pure Value Fund",1.74,0.0,0.05,0.15,1.93,0.87,0.0,0.05,0.15,1.06
 "Aditya Birla Sun Life Regular Savings Fund",1.7,0.0,0.05,0.13,1.88,0.75,0.0,0.05,0.13,0.93
 "Aditya Birla Sun Life Retirement Fund-The 30s Plan",2.25,0.0,0.0,0.14,2.39,0.9,0.0,0.0,0.14,1.04
 "Aditya Birla Sun Life Retirement Fund-The 40s Plan",2.25,0.0,0.0,0.14,2.38,0.86,0.0,0.0,0.14,0.99
