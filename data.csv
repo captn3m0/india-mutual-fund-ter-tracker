@@ -393,7 +393,7 @@
 "Edelweiss Nifty Smallcap 250 Index Fund",0.91,0.0,0.0,0.01,0.92,0.13,0.0,0.0,0.01,0.14
 "Edelweiss Overnight Fund",0.15,0.0,0.0,0.01,0.16,0.1,0.0,0.0,0.01,0.11
 "Edelweiss Recently Listed IPO Fund",2.07,0.0,0.05,0.12,2.24,0.72,0.0,0.05,0.12,0.89
-"Edelweiss Small Cap Fund",1.89,0.0,0.05,0.05,1.99,0.35,0.0,0.05,0.05,0.45
+"Edelweiss Small Cap Fund",1.89,0.0,0.05,0.06,2.0,0.35,0.0,0.05,0.06,0.46
 "Edelweiss US Technology Equity Fund of Fund",1.43,0.0,0.05,0.08,1.56,0.52,0.0,0.05,0.08,0.65
 "Edelweiss US Value Equity Offshore Fund",1.45,0.0,0.05,0.06,1.56,0.56,0.0,0.05,0.06,0.67
 "Franklin Asian Equity Fund",2.25,0.0,0.05,0.17,2.47,1.07,0.0,0.05,0.17,1.29
@@ -438,9 +438,9 @@
 "HDFC Arbitrage Fund",0.9,0.0,0.0,0.06,0.96,0.4,0.0,0.0,0.06,0.46
 "HDFC Asset Allocator Fund of Funds",1.2,0.0,0.05,0.0,1.25,0.08,0.0,0.05,0.0,0.13
 "HDFC Balanced Advantage Fund",1.29,0.0,0.05,0.12,1.46,0.67,0.0,0.05,0.12,0.84
-"HDFC Banking & Financial Services Fund",1.81,0.0,0.05,0.06,1.92,0.4,0.0,0.05,0.06,0.51
+"HDFC Banking & Financial Services Fund",1.82,0.0,0.05,0.06,1.93,0.41,0.0,0.05,0.06,0.52
 "HDFC Banking and PSU Debt Fund",0.76,0.0,0.0,0.05,0.81,0.34,0.0,0.0,0.05,0.39
-"HDFC Business Cycle Fund",1.82,0.0,0.05,0.07,1.94,0.39,0.0,0.05,0.07,0.51
+"HDFC Business Cycle Fund",1.83,0.0,0.05,0.07,1.95,0.4,0.0,0.05,0.07,0.52
 "HDFC Capital Builder Value Fund",1.69,0.0,0.05,0.15,1.89,0.81,0.0,0.05,0.15,1.01
 "HDFC Childrens Gift Fund",1.65,0.0,0.0,0.13,1.78,0.82,0.0,0.0,0.13,0.95
 "HDFC Corporate Bond Fund",0.56,0.0,0.0,0.04,0.6,0.31,0.0,0.0,0.04,0.35
@@ -472,7 +472,7 @@
 "HDFC Mid-Cap Opportunities Fund",1.37,0.0,0.05,0.12,1.54,0.7,0.0,0.05,0.12,0.87
 "HDFC MNC Fund",2.25,0.0,0.05,0.19,2.49,1.05,0.0,0.05,0.19,1.29
 "HDFC Money Market Fund",0.41,0.0,0.0,0.0,0.41,0.23,0.0,0.0,0.0,0.23
-"HDFC Multi Cap Fund",1.64,0.0,0.05,0.08,1.77,0.42,0.0,0.05,0.08,0.55
+"HDFC Multi Cap Fund",1.65,0.0,0.05,0.08,1.78,0.43,0.0,0.05,0.08,0.56
 "HDFC Multi-Asset Fund",1.91,0.0,0.05,0.13,2.09,0.67,0.0,0.05,0.13,0.85
 "HDFC Nifty 100 Equal Weight Index Fund",1.0,0.0,0.0,0.0,1.0,0.4,0.0,0.0,0.0,0.4
 "HDFC Nifty 100 ETF",0.3,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0
@@ -832,7 +832,7 @@
 "Kotak Tax Saver Fund",1.75,0.0,0.0,0.07,1.82,0.5,0.0,0.0,0.07,0.57
 "LIC MF Aggressive Hybrid Fund",2.22,0.0,0.05,0.19,2.46,1.16,0.0,0.05,0.19,1.4
 "LIC MF Arbitrage Fund",0.97,0.0,0.0,0.0,0.97,0.31,0.0,0.0,0.0,0.31
-"LIC MF Balanced Advantage Fund",2.05,0.0,0.05,0.03,2.13,0.28,0.0,0.05,0.03,0.36
+"LIC MF Balanced Advantage Fund",2.05,0.0,0.05,0.04,2.14,0.28,0.0,0.05,0.03,0.36
 "LIC MF Banking & PSU Debt Fund",0.8,0.0,0.0,0.03,0.83,0.25,0.0,0.0,0.03,0.28
 "LIC MF Banking and Financial Services Fund",2.25,0.0,0.05,0.21,2.51,1.29,0.0,0.05,0.2,1.54
 "LIC MF Bond Fund",1.21,0.0,0.0,0.01,1.22,0.2,0.0,0.0,0.01,0.21
@@ -842,7 +842,7 @@
 "LIC MF ELSS",2.08,0.0,0.0,0.17,2.25,1.12,0.0,0.0,0.17,1.29
 "LIC MF Equity Hybrid Fund",2.22,0.0,0.05,0.19,2.46,1.16,0.0,0.05,0.19,1.4
 "LIC MF Equity Savings Fund",1.92,0.0,0.05,0.15,2.12,0.95,0.0,0.05,0.15,1.15
-"LIC MF Flexi Cap Fund",2.11,0.0,0.05,0.21,2.37,1.34,0.0,0.05,0.21,1.6
+"LIC MF Flexi Cap Fund",2.11,0.0,0.05,0.22,2.38,1.34,0.0,0.05,0.21,1.6
 "LIC MF Focused 30 Equity Fund",2.24,0.0,0.05,0.22,2.51,1.34,0.0,0.05,0.22,1.61
 "LIC MF Gold ETF Fund of Fund",0.6,0.0,0.05,0.02,0.67,0.19,0.0,0.05,0.02,0.26
 "LIC MF Gold Exchange Traded Fund",0.35,0.0,0.0,0.0,0.35,0.0,0.0,0.0,0.0,0.0
@@ -1144,7 +1144,7 @@
 "Quantum Gold Fund",0.0,0.0,0.0,0.0,0.0,0.7,0.0,0.0,0.08,0.78
 "Quantum Gold Savings Fund",0.21,0.0,0.0,0.0,0.21,0.06,0.0,0.0,0.0,0.06
 "Quantum India ESG Equity Fund",1.98,0.0,0.0,0.1,2.08,0.73,0.0,0.0,0.1,0.83
-"Quantum Liquid Fund",0.24,0.0,0.0,0.02,0.26,0.14,0.0,0.0,0.02,0.16
+"Quantum Liquid Fund",0.24,0.0,0.0,0.01,0.25,0.14,0.0,0.0,0.01,0.15
 "Quantum Long Term Equity Value Fund",1.87,0.0,0.0,0.13,2.0,0.97,0.0,0.0,0.13,1.1
 "Quantum Multi Asset Fund of Funds",0.47,0.0,0.0,0.0,0.47,0.1,0.0,0.0,0.0,0.1
 "Quantum Nifty 50 ETF",0.0,0.0,0.0,0.0,0.0,0.08,0.0,0.0,0.01,0.09
