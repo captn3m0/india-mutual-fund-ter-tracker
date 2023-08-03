@@ -361,7 +361,7 @@
 "Edelweiss Arbitrage Fund",1.05,0.0,0.0,0.05,1.1,0.34,0.0,0.0,0.05,0.39
 "Edelweiss ASEAN Equity Off-shore Fund",1.28,0.0,0.05,0.09,1.42,0.57,0.0,0.05,0.09,0.71
 "Edelweiss Balanced Advantage Fund",1.61,0.0,0.05,0.06,1.72,0.38,0.0,0.05,0.06,0.49
-"Edelweiss Banking and PSU Debt Fund",0.6,0.0,0.0,0.04,0.64,0.29,0.0,0.0,0.04,0.33
+"Edelweiss Banking and PSU Debt Fund",0.65,0.0,0.0,0.05,0.7,0.34,0.0,0.0,0.05,0.39
 "Edelweiss CRISIL IBX 50:50 Gilt Plus SDL April 2037 Index Fund",0.43,0.0,0.0,0.02,0.45,0.16,0.0,0.0,0.02,0.18
 "Edelweiss CRISIL IBX 50:50 Gilt Plus SDL June 2027 Index Fund",0.41,0.0,0.0,0.02,0.43,0.17,0.0,0.0,0.02,0.19
 "Edelweiss CRISIL IBX 50:50 Gilt Plus SDL SEP 2028 Index Fund",0.43,0.0,0.0,0.02,0.45,0.18,0.0,0.0,0.02,0.2
@@ -373,11 +373,11 @@
 "Edelweiss Europe Dynamic Equity Offshore Fund",1.27,0.0,0.05,0.06,1.38,0.44,0.0,0.05,0.06,0.55
 "Edelweiss Flexi Cap Fund",1.99,0.0,0.05,0.06,2.1,0.39,0.0,0.05,0.06,0.5
 "Edelweiss Focused Equity Fund",2.21,0.0,0.05,0.09,2.35,0.58,0.0,0.05,0.09,0.72
-"Edelweiss Gold and Silver ETF FoF",0.56,0.0,0.05,0.03,0.64,0.16,0.0,0.05,0.03,0.24
-"Edelweiss Government Securities Fund",1.24,0.0,0.0,0.09,1.33,0.58,0.0,0.0,0.09,0.67
+"Edelweiss Gold and Silver ETF FoF",0.56,0.0,0.05,0.02,0.63,0.13,0.0,0.05,0.02,0.2
+"Edelweiss Government Securities Fund",1.09,0.0,0.0,0.06,1.15,0.43,0.0,0.0,0.06,0.49
 "Edelweiss Greater China Equity Off-shore Fund",1.47,0.0,0.05,0.09,1.61,0.54,0.0,0.05,0.09,0.68
 "Edelweiss Large & Mid Cap Fund",1.9,0.0,0.05,0.06,2.01,0.4,0.0,0.05,0.06,0.51
-"Edelweiss Large Cap Fund",2.23,0.0,0.05,0.12,2.4,0.72,0.0,0.05,0.12,0.89
+"Edelweiss Large Cap Fund",2.15,0.0,0.05,0.11,2.31,0.68,0.0,0.05,0.11,0.84
 "Edelweiss Liquid Fund",0.37,0.0,0.0,0.02,0.39,0.13,0.0,0.0,0.02,0.15
 "Edelweiss Long Term Equity Fund (Tax Savings)",2.24,0.0,0.0,0.09,2.33,0.6,0.0,0.0,0.09,0.69
 "Edelweiss Mid Cap Fund",1.77,0.0,0.05,0.06,1.88,0.35,0.0,0.05,0.06,0.46
@@ -390,11 +390,11 @@
 "Edelweiss Nifty Midcap150 Momentum 50 Index Fund",0.91,0.0,0.0,0.01,0.92,0.13,0.0,0.0,0.01,0.14
 "Edelweiss Nifty Next 50 Index Fund",0.81,0.0,0.0,0.01,0.82,0.08,0.0,0.0,0.01,0.09
 "Edelweiss Nifty PSU Bond Plus SDL APR 2026 50:50 Index Fund",0.38,0.0,0.0,0.02,0.4,0.18,0.0,0.0,0.02,0.2
-"Edelweiss Nifty PSU Bond Plus SDL APR 2027 50:50 Index Fund",0.38,0.0,0.0,0.02,0.4,0.18,0.0,0.0,0.02,0.2
+"Edelweiss Nifty PSU Bond Plus SDL APR 2027 50:50 Index Fund",0.39,0.0,0.0,0.02,0.41,0.18,0.0,0.0,0.02,0.2
 "Edelweiss Nifty Smallcap 250 Index Fund",0.91,0.0,0.0,0.01,0.92,0.13,0.0,0.0,0.01,0.14
 "Edelweiss Overnight Fund",0.15,0.0,0.0,0.01,0.16,0.1,0.0,0.0,0.01,0.11
 "Edelweiss Recently Listed IPO Fund",2.07,0.0,0.05,0.12,2.24,0.72,0.0,0.05,0.12,0.89
-"Edelweiss Small Cap Fund",1.89,0.0,0.05,0.06,2.0,0.35,0.0,0.05,0.06,0.46
+"Edelweiss Small Cap Fund",1.89,0.0,0.05,0.05,1.99,0.35,0.0,0.05,0.05,0.45
 "Edelweiss US Technology Equity Fund of Fund",1.43,0.0,0.05,0.08,1.56,0.52,0.0,0.05,0.08,0.65
 "Edelweiss US Value Equity Offshore Fund",1.45,0.0,0.05,0.06,1.56,0.56,0.0,0.05,0.06,0.67
 "Franklin Asian Equity Fund",2.25,0.0,0.05,0.17,2.47,1.07,0.0,0.05,0.17,1.29
@@ -708,10 +708,10 @@
 "Invesco India Dynamic Equity Fund",2.15,0.0,0.05,0.12,2.32,0.79,0.0,0.05,0.11,0.95
 "Invesco India Equity & Bond Fund",2.25,0.0,0.05,0.11,2.41,0.71,0.0,0.05,0.1,0.86
 "Invesco India Equity Savings Fund",2.14,0.0,0.05,0.1,2.29,0.65,0.0,0.05,0.09,0.79
-"Invesco India ESG Equity Fund",2.21,0.0,0.05,0.12,2.38,0.77,0.0,0.05,0.12,0.94
+"Invesco India ESG Equity Fund",2.22,0.0,0.05,0.12,2.39,0.77,0.0,0.05,0.12,0.94
 "Invesco India Financial Services Fund",2.23,0.0,0.05,0.13,2.41,0.94,0.0,0.05,0.13,1.12
-"Invesco India Flexi Cap Fund",2.04,0.0,0.05,0.07,2.16,0.53,0.0,0.05,0.07,0.65
-"Invesco India Focused 20 Equity Fund",1.93,0.0,0.05,0.08,2.06,0.56,0.0,0.05,0.08,0.69
+"Invesco India Flexi Cap Fund",2.05,0.0,0.05,0.07,2.17,0.53,0.0,0.05,0.07,0.65
+"Invesco India Focused 20 Equity Fund",1.94,0.0,0.05,0.08,2.07,0.56,0.0,0.05,0.08,0.69
 "Invesco India Gilt Fund",1.25,0.0,0.0,0.0,1.25,0.48,0.0,0.0,0.0,0.48
 "Invesco India Gold Exchange Traded Fund",0.55,0.0,0.0,0.0,0.55,0.0,0.0,0.0,0.0,0.0
 "Invesco India Gold Fund",0.45,0.0,0.0,0.0,0.45,0.2,0.0,0.0,0.0,0.2
@@ -875,11 +875,11 @@
 "LIC MF Ultra Short Term Fund",1.0,0.0,0.0,0.0,1.0,0.75,0.0,0.0,0.0,0.75
 "LIC MF Unit Linked Insurance Scheme (ULIS)",2.25,0.0,0.0,0.24,2.49,1.44,0.0,0.0,0.23,1.67
 "Mahindra Manulife Aggressive Hybrid Fund",2.15,0.0,0.05,0.07,2.27,0.48,0.0,0.05,0.07,0.6
-"Mahindra Manulife Arbitrage Fund",1.11,0.0,0.0,0.02,1.13,0.32,0.0,0.0,0.03,0.35
+"Mahindra Manulife Arbitrage Fund",1.13,0.0,0.0,0.03,1.16,0.33,0.0,0.0,0.03,0.36
 "Mahindra Manulife Asia Pacific Reits FoF",1.29,0.0,0.05,0.04,1.38,0.34,0.0,0.05,0.04,0.43
 "Mahindra Manulife Balanced Advantage Fund",2.21,0.0,0.05,0.07,2.33,0.5,0.0,0.05,0.07,0.62
 "Mahindra Manulife Consumption Fund",2.24,0.0,0.05,0.1,2.39,0.68,0.0,0.05,0.1,0.83
-"Mahindra Manulife Dynamic Bond Fund",1.52,0.0,0.0,0.06,1.58,0.45,0.0,0.0,0.06,0.51
+"Mahindra Manulife Dynamic Bond Fund",1.53,0.0,0.0,0.06,1.59,0.45,0.0,0.0,0.06,0.51
 "Mahindra Manulife ELSS Fund",2.19,0.0,0.0,0.08,2.27,0.59,0.0,0.0,0.08,0.67
 "Mahindra Manulife Equity Savings Fund",2.25,0.0,0.05,0.09,2.39,0.58,0.0,0.05,0.09,0.72
 "Mahindra Manulife Flexi Cap Fund",2.04,0.0,0.05,0.04,2.13,0.31,0.0,0.05,0.04,0.4
@@ -891,7 +891,7 @@
 "Mahindra Manulife Mid Cap Fund",1.98,0.0,0.05,0.07,2.1,0.47,0.0,0.05,0.07,0.59
 "Mahindra Manulife Multi Cap Fund",1.91,0.0,0.05,0.05,2.01,0.36,0.0,0.05,0.05,0.46
 "Mahindra Manulife Overnight Fund",0.19,0.0,0.0,0.0,0.19,0.09,0.0,0.0,0.0,0.09
-"Mahindra Manulife Short Duration Fund",1.23,0.0,0.0,0.02,1.25,0.27,0.0,0.0,0.02,0.29
+"Mahindra Manulife Short Duration Fund",1.24,0.0,0.0,0.02,1.26,0.27,0.0,0.0,0.02,0.29
 "Mahindra Manulife Small Cap Fund",2.04,0.0,0.05,0.03,2.12,0.29,0.0,0.05,0.03,0.37
 "Mahindra Manulife Ultra Short Duration Fund",0.68,0.0,0.0,0.03,0.71,0.26,0.0,0.0,0.03,0.29
 "Mirae Asset Arbitrage Fund",0.94,0.0,0.0,0.03,0.97,0.24,0.0,0.0,0.02,0.26
@@ -1145,7 +1145,7 @@
 "Quantum Gold Fund",0.0,0.0,0.0,0.0,0.0,0.7,0.0,0.0,0.08,0.78
 "Quantum Gold Savings Fund",0.21,0.0,0.0,0.0,0.21,0.06,0.0,0.0,0.0,0.06
 "Quantum India ESG Equity Fund",1.98,0.0,0.0,0.1,2.08,0.73,0.0,0.0,0.1,0.83
-"Quantum Liquid Fund",0.24,0.0,0.0,0.01,0.25,0.14,0.0,0.0,0.01,0.15
+"Quantum Liquid Fund",0.24,0.0,0.0,0.02,0.26,0.14,0.0,0.0,0.02,0.16
 "Quantum Long Term Equity Value Fund",1.87,0.0,0.0,0.13,2.0,0.97,0.0,0.0,0.13,1.1
 "Quantum Multi Asset Fund of Funds",0.47,0.0,0.0,0.0,0.47,0.1,0.0,0.0,0.0,0.1
 "Quantum Nifty 50 ETF",0.0,0.0,0.0,0.0,0.0,0.08,0.0,0.0,0.01,0.09
