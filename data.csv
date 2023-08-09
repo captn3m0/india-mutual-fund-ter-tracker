@@ -255,7 +255,7 @@
 "Baroda BNP Paribas Liquid Fund",0.27,0.0,0.0,0.02,0.29,0.17,0.0,0.0,0.02,0.19
 "Baroda BNP Paribas Low Duration Fund",1.04,0.0,0.0,0.05,1.09,0.32,0.0,0.0,0.05,0.37
 "Baroda BNP Paribas Medium Duration Fund (Scheme has One Segregated Portfolio)",0.88,0.0,0.0,0.09,0.97,0.6,0.0,0.0,0.09,0.69
-"Baroda BNP Paribas Mid Cap Fund",1.97,0.0,0.05,0.08,2.1,0.52,0.0,0.05,0.08,0.65
+"Baroda BNP Paribas Mid Cap Fund",1.97,0.0,0.05,0.07,2.09,0.52,0.0,0.05,0.07,0.64
 "Baroda BNP Paribas Money Market Fund",0.39,0.0,0.0,0.03,0.42,0.2,0.0,0.0,0.03,0.23
 "Baroda BNP Paribas Multi Asset Fund",2.01,0.0,0.05,0.01,2.07,0.16,0.0,0.05,0.01,0.22
 "Baroda BNP Paribas Multi Cap Fund",1.92,0.0,0.05,0.15,2.12,0.92,0.0,0.05,0.15,1.12
@@ -279,7 +279,7 @@
 "Canara Robeco Banking and PSU Debt Fund",0.65,0.0,0.0,0.06,0.71,0.36,0.0,0.0,0.06,0.42
 "Canara Robeco Bluechip Equity Fund",1.61,0.0,0.05,0.04,1.7,0.34,0.0,0.05,0.04,0.43
 "Canara Robeco Conservative Hybrid Fund",1.68,0.0,0.05,0.09,1.82,0.49,0.0,0.05,0.08,0.62
-"Canara Robeco Consumer Trends Fund",2.03,0.0,0.05,0.12,2.2,0.77,0.0,0.05,0.12,0.94
+"Canara Robeco Consumer Trends Fund",2.02,0.0,0.05,0.12,2.19,0.77,0.0,0.05,0.12,0.94
 "Canara Robeco Corporate Bond Fund",0.98,0.0,0.0,0.05,1.03,0.34,0.0,0.0,0.04,0.38
 "Canara Robeco Dynamic Bond Fund",1.65,0.0,0.0,0.1,1.75,0.55,0.0,0.0,0.09,0.64
 "Canara Robeco Emerging Equities",1.53,0.0,0.05,0.07,1.65,0.46,0.0,0.05,0.07,0.58
@@ -292,7 +292,7 @@
 "Canara Robeco Income Fund",1.78,0.0,0.0,0.1,1.88,0.66,0.0,0.0,0.1,0.76
 "Canara Robeco Infrastructure",2.25,0.0,0.05,0.18,2.48,1.01,0.0,0.05,0.16,1.22
 "Canara Robeco Liquid Fund",0.17,0.0,0.0,0.01,0.18,0.1,0.0,0.0,0.01,0.11
-"Canara Robeco Mid Cap Fund",1.97,0.0,0.05,0.06,2.08,0.49,0.0,0.05,0.06,0.6
+"Canara Robeco Mid Cap Fund",1.97,0.0,0.05,0.06,2.08,0.48,0.0,0.05,0.06,0.59
 "Canara Robeco Multi Cap Fund",1.96,0.0,0.05,0.04,2.05,0.31,0.0,0.05,0.04,0.4
 "Canara Robeco Overnight Fund",0.1,0.0,0.0,0.01,0.11,0.09,0.0,0.0,0.01,0.1
 "Canara Robeco Savings Fund",0.55,0.0,0.0,0.05,0.6,0.26,0.0,0.0,0.04,0.3
@@ -1240,15 +1240,15 @@
 "Sundaram Arbitrage Fund(Formerly Known as Prinicpal Arbitrage Fund)",0.85,0.0,0.0,0.02,0.87,0.26,0.0,0.0,0.02,0.28
 "Sundaram Balanced Advantage Fund (Formerly Known as Principal Balanced Advantage Fund)",1.95,0.0,0.05,0.06,2.07,0.45,0.0,0.05,0.06,0.57
 "Sundaram Banking & PSU Debt Fund",0.35,0.0,0.0,0.02,0.37,0.21,0.0,0.0,0.02,0.23
-"Sundaram Consumption Fund (Formerly Known as Sundaram Rural and Consumption Fund)",2.0,0.0,0.05,0.18,2.24,1.13,0.0,0.05,0.18,1.37
+"Sundaram Consumption Fund (Formerly Known as Sundaram Rural and Consumption Fund)",2.0,0.0,0.05,0.18,2.23,1.13,0.0,0.05,0.18,1.36
 "Sundaram Corporate Bond Fund",0.49,0.0,0.0,0.03,0.51,0.26,0.0,0.0,0.03,0.28
 "Sundaram Debt Oriented Hybrid Fund",2.0,0.0,0.0,0.17,2.17,1.09,0.0,0.0,0.17,1.26
 "Sundaram Diversified Equity",1.94,0.0,0.0,0.22,2.15,1.36,0.0,0.0,0.22,1.57
 "Sundaram Dividend Yield Fund (Formerly Known as Principal Dividend Yield Fund)",2.22,0.0,0.05,0.2,2.47,1.2,0.0,0.05,0.2,1.45
 "Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund)",2.22,0.0,0.0,0.07,2.29,0.54,0.0,0.0,0.07,0.61
 "Sundaram Financial Services Opportunities Fund",2.13,0.0,0.05,0.11,2.29,0.74,0.0,0.05,0.11,0.9
-"Sundaram Flexicap Fund",1.89,0.0,0.05,0.0,1.94,0.16,0.0,0.05,0.0,0.21
-"Sundaram Focused Fund (Formerly Known as Principal Focused Multicap Fund)",2.09,0.0,0.05,0.17,2.32,1.06,0.0,0.05,0.17,1.29
+"Sundaram Flexicap Fund",1.88,0.0,0.05,0.0,1.93,0.16,0.0,0.05,0.0,0.21
+"Sundaram Focused Fund (Formerly Known as Principal Focused Multicap Fund)",2.09,0.0,0.05,0.17,2.31,1.06,0.0,0.05,0.17,1.28
 "Sundaram Global Brand Fund",2.2,0.0,0.05,0.03,2.28,1.19,0.0,0.05,0.02,1.26
 "Sundaram Infrastructure Advantage Fund (Erstwhile Sundaram Capex Opportunities)",2.18,0.0,0.05,0.27,2.5,1.64,0.0,0.05,0.27,1.96
 "Sundaram Large and Midcap Fund",1.7,0.0,0.05,0.08,1.83,0.6,0.0,0.05,0.08,0.73
@@ -1337,7 +1337,7 @@
 "Union Corporate Bond Fund",0.65,0.0,0.0,0.04,0.69,0.35,0.0,0.0,0.04,0.39
 "Union Dynamic Bond Fund",1.33,0.0,0.0,0.17,1.5,1.09,0.0,0.0,0.17,1.26
 "Union Equity Savings Fund",1.75,0.0,0.0,0.17,1.92,1.15,0.0,0.0,0.17,1.32
-"Union Flexi Cap Fund",1.95,0.0,0.05,0.11,2.11,0.76,0.0,0.05,0.11,0.92
+"Union Flexi Cap Fund",1.95,0.0,0.05,0.11,2.11,0.75,0.0,0.05,0.11,0.91
 "Union Focused Fund",2.25,0.0,0.05,0.18,2.48,1.19,0.0,0.05,0.18,1.42
 "Union Gilt Fund",1.08,0.0,0.0,0.07,1.15,0.51,0.0,0.0,0.07,0.58
 "Union Hybrid Equity Fund",2.22,0.0,0.05,0.18,2.45,1.11,0.0,0.05,0.18,1.34
@@ -1350,7 +1350,7 @@
 "Union Multicap Fund",2.22,0.0,0.05,0.14,2.41,0.9,0.0,0.05,0.14,1.09
 "Union Overnight Fund",0.18,0.0,0.0,0.0,0.18,0.08,0.0,0.0,0.0,0.08
 "Union Retirement Fund",2.25,0.0,0.0,0.04,2.29,0.5,0.0,0.0,0.04,0.54
-"Union Small Cap Fund",2.07,0.0,0.05,0.14,2.26,0.96,0.0,0.05,0.14,1.15
+"Union Small Cap Fund",2.06,0.0,0.05,0.14,2.25,0.95,0.0,0.05,0.14,1.14
 "Union Tax Saver (ELSS) Fund (Formerly Union Long Term Equity Fund)",2.18,0.0,0.0,0.19,2.37,1.28,0.0,0.0,0.19,1.47
 "Union Value Discovery Fund",2.24,0.0,0.05,0.2,2.49,1.26,0.0,0.05,0.2,1.51
 "UTI - Arbitrage Fund",0.9,0.0,0.0,0.02,0.92,0.32,0.0,0.0,0.02,0.34
