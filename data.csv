@@ -315,16 +315,16 @@
 "DSP Flexi Cap Fund",1.63,0.0,0.05,0.1,1.78,0.59,0.0,0.05,0.1,0.74
 "DSP Floater Fund",0.46,0.0,0.0,0.02,0.48,0.2,0.0,0.0,0.02,0.22
 "DSP Focus Fund",1.91,0.0,0.05,0.15,2.11,0.86,0.0,0.05,0.15,1.06
-"DSP Global Allocation Fund",1.99,-0.15,0.0,0.01,1.85,1.37,0.0,0.0,0.01,1.38
+"DSP Global Allocation Fund",1.99,0.0,0.0,0.01,2.0,1.37,0.0,0.0,0.01,1.38
 "DSP Global Innovation Fund of Fund",2.0,-0.28,0.0,0.07,1.79,1.26,0.0,0.0,0.07,1.33
 "DSP Gold ETF",0.0,0.0,0.0,0.0,0.0,0.38,0.0,0.0,0.03,0.41
 "DSP Government Securities Fund",0.97,0.0,0.0,0.07,1.04,0.47,0.0,0.0,0.07,0.54
-"DSP Healthcare Fund",1.93,-0.12,0.05,0.1,1.96,0.57,0.0,0.05,0.1,0.72
+"DSP Healthcare Fund",1.93,0.0,0.05,0.1,2.08,0.57,0.0,0.05,0.1,0.72
 "DSP India T.I.G.E.R. Fund",1.86,0.0,0.05,0.18,2.09,1.0,0.0,0.05,0.18,1.23
 "DSP Liquidity Fund",0.23,0.0,0.0,0.02,0.25,0.13,0.0,0.0,0.02,0.15
 "DSP Low Duration Fund",0.58,0.0,0.0,0.04,0.62,0.26,0.0,0.0,0.04,0.3
 "DSP Midcap Fund",1.56,0.0,0.05,0.1,1.71,0.61,0.0,0.05,0.1,0.76
-"DSP Natural Resources and New Energy Fund",2.17,-0.15,0.0,0.14,2.16,1.11,0.0,0.0,0.14,1.25
+"DSP Natural Resources and New Energy Fund",2.17,0.0,0.0,0.14,2.31,1.11,0.0,0.0,0.14,1.25
 "DSP Nifty 1D Rate Liquid ETF",0.0,0.0,0.0,0.0,0.0,0.24,0.0,0.0,0.01,0.25
 "DSP Nifty 50 Equal Weight ETF",0.0,0.0,0.0,0.0,0.0,0.26,0.0,0.0,0.03,0.29
 "DSP Nifty 50 Equal Weight Index Fund",0.84,0.0,0.0,0.05,0.89,0.35,0.0,0.0,0.05,0.4
@@ -351,12 +351,12 @@
 "DSP Tax Saver Fund",1.59,0.0,0.0,0.1,1.69,0.68,0.0,0.0,0.1,0.78
 "DSP Top 100 Equity Fund",1.8,0.0,0.05,0.18,2.03,1.02,0.0,0.05,0.18,1.25
 "DSP Ultra Short Fund",0.99,0.0,0.0,0.04,1.03,0.26,0.0,0.0,0.04,0.3
-"DSP US Flexible Equity Fund",2.25,-0.15,0.0,0.09,2.19,1.4,0.0,0.0,0.09,1.49
+"DSP US Flexible Equity Fund",2.25,0.0,0.0,0.09,2.34,1.4,0.0,0.0,0.09,1.49
 "DSP Value Fund",1.62,0.0,0.0,0.1,1.72,0.84,0.0,0.0,0.1,0.94
-"DSP World Agriculture Fund",2.17,-0.05,0.0,0.14,2.26,1.59,0.0,0.0,0.14,1.73
-"DSP World Energy Fund",2.09,-0.03,0.0,0.08,2.14,1.47,0.0,0.0,0.08,1.55
-"DSP World Gold Fund of Fund",2.25,-0.11,0.0,0.09,2.23,1.62,0.0,0.0,0.09,1.71
-"DSP World Mining Fund",2.11,-0.85,0.0,0.05,1.31,1.46,0.0,0.0,0.05,1.51
+"DSP World Agriculture Fund",2.17,0.0,0.0,0.14,2.31,1.59,0.0,0.0,0.14,1.73
+"DSP World Energy Fund",2.09,0.0,0.0,0.08,2.17,1.47,0.0,0.0,0.08,1.55
+"DSP World Gold Fund of Fund",2.25,0.0,0.0,0.09,2.34,1.62,0.0,0.0,0.09,1.71
+"DSP World Mining Fund",2.11,0.0,0.0,0.05,2.16,1.46,0.0,0.0,0.05,1.51
 "Edelweiss Aggressive Hybrid Fund",2.24,0.0,0.05,0.07,2.36,0.45,0.0,0.05,0.07,0.57
 "Edelweiss Arbitrage Fund",1.05,0.0,0.0,0.05,1.1,0.34,0.0,0.0,0.05,0.39
 "Edelweiss ASEAN Equity Off-shore Fund",1.28,0.0,0.05,0.09,1.42,0.57,0.0,0.05,0.09,0.71
@@ -520,7 +520,7 @@
 "HDFC Ultra Short Term Fund",0.65,0.0,0.0,0.04,0.69,0.32,0.0,0.0,0.04,0.36
 "HSBC Aggressive Hybrid Fund",1.72,0.0,0.05,0.11,1.88,0.68,0.0,0.05,0.11,0.84
 "HSBC Arbitrage Fund",0.91,0.0,0.0,0.03,0.94,0.24,0.0,0.0,0.03,0.27
-"HSBC Asia Pacific (Ex Japan) Dividend Yield Fund",1.25,0.0,0.05,0.09,1.39,0.54,0.0,0.05,0.05,0.64
+"HSBC Asia Pacific (Ex Japan) Dividend Yield Fund",1.24,0.0,0.05,0.09,1.38,0.54,0.0,0.05,0.05,0.64
 "HSBC Balanced Advantage Fund",1.97,0.0,0.05,0.1,2.12,0.63,0.0,0.05,0.1,0.78
 "HSBC Banking and PSU Debt Fund",0.58,0.0,0.0,0.03,0.61,0.2,0.0,0.0,0.03,0.23
 "HSBC Brazil Fund",1.39,0.0,0.05,0.13,1.57,0.68,0.0,0.05,0.11,0.84
