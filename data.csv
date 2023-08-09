@@ -425,7 +425,7 @@
 "Franklin India Short-Term Income Plan (No. of Segregated Portfolios- 3)",0.04,0.0,0.0,0.0,0.04,0.04,0.0,0.0,0.0,0.04
 "Franklin India Smaller Companies Fund",1.62,0.0,0.05,0.11,1.78,0.65,0.0,0.05,0.11,0.81
 "Franklin India Taxshield",1.71,0.0,0.0,0.11,1.82,0.72,0.0,0.0,0.11,0.83
-"Franklin India Technology Fund",2.09,0.0,0.05,0.14,2.28,0.82,0.0,0.05,0.14,1.01
+"Franklin India Technology Fund",2.1,0.0,0.05,0.14,2.29,0.82,0.0,0.05,0.14,1.01
 "Groww Aggressive Hybrid Fund (Formerly Known as Indiabulls Equity Hybrid Fund)",2.25,0.0,0.05,0.0,2.3,0.8,0.0,0.05,0.0,0.85
 "Groww Arbitrage Fund (Formerly Known as Indiabulls Arbitrage Fund)",1.14,0.0,0.0,0.0,1.14,0.44,0.0,0.0,0.0,0.44
 "Groww Dynamic Bond Fund (Formerly Known as Indiabulls Dynamic Bond Fund)",1.45,0.0,0.0,0.0,1.45,0.45,0.0,0.0,0.0,0.45
@@ -464,7 +464,7 @@
 "HDFC Income Fund",1.95,0.0,0.0,0.07,2.02,0.69,0.0,0.0,0.07,0.76
 "HDFC Index Fund-Nifty 50 Plan",0.4,0.0,0.0,0.0,0.4,0.2,0.0,0.0,0.0,0.2
 "HDFC Index Fund-S&P BSE SENSEX Plan",0.4,0.0,0.0,0.0,0.4,0.2,0.0,0.0,0.0,0.2
-"HDFC Infrastructure Fund",2.15,0.0,0.05,0.25,2.45,1.42,0.0,0.05,0.25,1.72
+"HDFC Infrastructure Fund",2.14,0.0,0.05,0.25,2.44,1.41,0.0,0.05,0.25,1.71
 "HDFC Large and Mid Cap Fund",1.6,0.0,0.05,0.15,1.8,0.8,0.0,0.05,0.15,1.0
 "HDFC Liquid Fund",0.3,0.0,0.0,0.0,0.3,0.2,0.0,0.0,0.0,0.2
 "HDFC Long Duration Debt Fund",0.6,0.0,0.0,0.0,0.6,0.25,0.0,0.0,0.0,0.25
@@ -906,10 +906,10 @@
 "Mirae Asset Corporate Bond Fund",0.85,0.0,0.0,0.06,0.91,0.41,0.0,0.0,0.05,0.46
 "Mirae Asset CRISIL IBX Gilt Index - April 2033 Index Fund",0.44,0.0,0.0,0.01,0.45,0.14,0.0,0.0,0.01,0.15
 "Mirae Asset Dynamic Bond Fund",1.1,0.0,0.0,0.02,1.12,0.19,0.0,0.0,0.02,0.21
-"Mirae Asset Emerging Bluechip Fund",1.47,0.0,0.05,0.08,1.6,0.53,0.0,0.05,0.08,0.66
+"Mirae Asset Emerging Bluechip Fund",1.46,0.0,0.05,0.08,1.59,0.53,0.0,0.05,0.08,0.66
 "Mirae Asset Equity Allocator Fund of Fund",0.09,0.0,0.03,0.0,0.12,0.0,0.0,0.03,0.0,0.03
 "Mirae Asset Equity Savings Fund",1.33,0.0,0.0,0.05,1.38,0.38,0.0,0.0,0.05,0.43
-"Mirae Asset Flexi Cap Fund",2.04,0.0,0.05,0.08,2.17,0.52,0.0,0.05,0.08,0.65
+"Mirae Asset Flexi Cap Fund",2.04,0.0,0.05,0.08,2.17,0.51,0.0,0.05,0.08,0.64
 "Mirae Asset Focused Fund",1.62,0.0,0.05,0.08,1.75,0.47,0.0,0.05,0.08,0.6
 "Mirae Asset Global Electric & Autonomous Vehicles Etfs Fund of Fund",0.46,0.0,0.05,0.01,0.52,0.14,0.0,0.05,0.01,0.2
 "Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund",0.32,0.0,0.05,0.01,0.38,0.13,0.0,0.05,0.01,0.19
@@ -950,7 +950,7 @@
 "Mirae Asset Savings Fund",0.89,0.0,0.0,0.03,0.92,0.3,0.0,0.0,0.03,0.33
 "Mirae Asset Short Term Fund",1.11,0.0,0.0,0.04,1.15,0.29,0.0,0.0,0.03,0.32
 "Mirae Asset Silver ETF",0.39,0.0,0.0,0.0,0.39,0.0,0.0,0.0,0.0,0.0
-"Mirae Asset Tax Saver Fund",1.54,0.0,0.0,0.07,1.61,0.53,0.0,0.0,0.07,0.6
+"Mirae Asset Tax Saver Fund",1.53,0.0,0.0,0.07,1.6,0.53,0.0,0.0,0.07,0.6
 "Mirae Asset Ultra Short Duration Fund",0.45,0.0,0.0,0.02,0.47,0.26,0.0,0.0,0.02,0.28
 "Motilal Oswal 5 Year G-SEC Fund of Fund",0.2,0.0,0.0,0.0,0.2,0.13,0.0,0.0,0.0,0.13
 "Motilal Oswal Asset Allocation Fund of Fund- Aggressive",0.68,0.0,0.0,0.0,0.68,0.14,0.0,0.0,0.0,0.14
@@ -965,7 +965,7 @@
 "Motilal Oswal Long Term Equity Fund",1.83,0.0,0.0,0.09,1.92,0.63,0.0,0.0,0.09,0.72
 "Motilal Oswal Midcap Fund",1.7,0.0,0.05,0.09,1.84,0.58,0.0,0.05,0.09,0.72
 "Motilal Oswal MSCI EAFE Top 100 Select Index Fund",0.95,0.0,0.05,0.0,1.0,0.39,0.0,0.05,0.0,0.44
-"Motilal Oswal Multi Asset Fund",1.86,0.0,0.05,0.12,2.03,0.76,0.0,0.05,0.12,0.93
+"Motilal Oswal Multi Asset Fund",1.85,0.0,0.05,0.12,2.02,0.75,0.0,0.05,0.12,0.92
 "Motilal Oswal NASDAQ 100 ETF",0.5,0.0,0.0,0.08,0.58,0.0,0.0,0.0,0.0,0.0
 "Motilal Oswal NASDAQ 100 Fund of Fund",0.5,0.0,0.05,0.01,0.56,0.11,0.0,0.05,0.01,0.17
 "Motilal Oswal NASDAQ Q50 ETF",0.38,0.0,0.0,0.04,0.42,0.0,0.0,0.0,0.0,0.0
