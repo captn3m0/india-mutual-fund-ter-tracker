@@ -255,7 +255,7 @@
 "Baroda BNP Paribas Liquid Fund",0.27,0.0,0.0,0.02,0.29,0.17,0.0,0.0,0.02,0.19
 "Baroda BNP Paribas Low Duration Fund",1.04,0.0,0.0,0.05,1.09,0.32,0.0,0.0,0.05,0.37
 "Baroda BNP Paribas Medium Duration Fund (Scheme has One Segregated Portfolio)",0.88,0.0,0.0,0.09,0.97,0.6,0.0,0.0,0.09,0.69
-"Baroda BNP Paribas Mid Cap Fund",1.97,0.0,0.05,0.08,2.1,0.52,0.0,0.05,0.08,0.65
+"Baroda BNP Paribas Mid Cap Fund",1.97,0.0,0.05,0.07,2.09,0.52,0.0,0.05,0.07,0.64
 "Baroda BNP Paribas Money Market Fund",0.39,0.0,0.0,0.03,0.42,0.2,0.0,0.0,0.03,0.23
 "Baroda BNP Paribas Multi Asset Fund",2.01,0.0,0.05,0.01,2.07,0.16,0.0,0.05,0.01,0.22
 "Baroda BNP Paribas Multi Cap Fund",1.92,0.0,0.05,0.15,2.12,0.92,0.0,0.05,0.15,1.12
@@ -277,29 +277,29 @@
 "Bharat Bond FoF- April 2025",0.0,0.0,0.05,0.01,0.06,0.0,0.0,0.05,0.01,0.06
 "Bharat Bond FoF- April 2031",0.0,0.0,0.05,0.01,0.06,0.0,0.0,0.05,0.01,0.06
 "Canara Robeco Banking and PSU Debt Fund",0.65,0.0,0.0,0.06,0.71,0.36,0.0,0.0,0.06,0.42
-"Canara Robeco Bluechip Equity Fund",1.61,0.0,0.05,0.04,1.7,0.34,0.0,0.05,0.04,0.43
-"Canara Robeco Conservative Hybrid Fund",1.68,0.0,0.05,0.09,1.82,0.49,0.0,0.05,0.08,0.62
-"Canara Robeco Consumer Trends Fund",2.03,0.0,0.05,0.12,2.2,0.77,0.0,0.05,0.12,0.94
-"Canara Robeco Corporate Bond Fund",0.98,0.0,0.0,0.05,1.03,0.34,0.0,0.0,0.04,0.38
+"Canara Robeco Bluechip Equity Fund",1.61,0.0,0.05,0.05,1.71,0.35,0.0,0.05,0.05,0.45
+"Canara Robeco Conservative Hybrid Fund",1.68,0.0,0.05,0.08,1.81,0.45,0.0,0.05,0.07,0.57
+"Canara Robeco Consumer Trends Fund",2.03,0.0,0.05,0.12,2.2,0.76,0.0,0.05,0.12,0.93
+"Canara Robeco Corporate Bond Fund",0.98,0.0,0.0,0.05,1.03,0.32,0.0,0.0,0.04,0.36
 "Canara Robeco Dynamic Bond Fund",1.65,0.0,0.0,0.1,1.75,0.55,0.0,0.0,0.09,0.64
 "Canara Robeco Emerging Equities",1.53,0.0,0.05,0.07,1.65,0.46,0.0,0.05,0.07,0.58
-"Canara Robeco Equity Hybrid Fund",1.62,0.0,0.05,0.07,1.74,0.49,0.0,0.05,0.07,0.61
-"Canara Robeco Equity Taxsaver Fund",1.69,0.0,0.0,0.06,1.75,0.51,0.0,0.0,0.06,0.57
+"Canara Robeco Equity Hybrid Fund",1.62,0.0,0.05,0.08,1.75,0.48,0.0,0.05,0.08,0.61
+"Canara Robeco Equity Taxsaver Fund",1.69,0.0,0.0,0.06,1.75,0.5,0.0,0.0,0.06,0.56
 "Canara Robeco Flexi Cap Fund",1.61,0.0,0.05,0.06,1.72,0.43,0.0,0.05,0.06,0.54
-"Canara Robeco Focused Equity Fund",1.91,0.0,0.05,0.06,2.02,0.41,0.0,0.05,0.06,0.52
+"Canara Robeco Focused Equity Fund",1.91,0.0,0.05,0.06,2.02,0.38,0.0,0.05,0.06,0.49
 "Canara Robeco Gilt 1988",1.0,0.0,0.0,0.17,1.17,0.0,0.0,0.0,0.0,0.0
 "Canara Robeco Gilt Fund",1.17,0.0,0.0,0.08,1.25,0.45,0.0,0.0,0.08,0.53
 "Canara Robeco Income Fund",1.78,0.0,0.0,0.1,1.88,0.66,0.0,0.0,0.1,0.76
-"Canara Robeco Infrastructure",2.25,0.0,0.05,0.18,2.48,1.01,0.0,0.05,0.16,1.22
+"Canara Robeco Infrastructure",2.25,0.0,0.05,0.18,2.48,0.99,0.0,0.05,0.16,1.2
 "Canara Robeco Liquid Fund",0.17,0.0,0.0,0.01,0.18,0.1,0.0,0.0,0.01,0.11
-"Canara Robeco Mid Cap Fund",1.97,0.0,0.05,0.06,2.08,0.48,0.0,0.05,0.06,0.59
-"Canara Robeco Multi Cap Fund",1.96,0.0,0.05,0.04,2.05,0.31,0.0,0.05,0.04,0.4
+"Canara Robeco Mid Cap Fund",1.97,0.0,0.05,0.06,2.08,0.45,0.0,0.05,0.06,0.56
+"Canara Robeco Multi Cap Fund",1.96,0.0,0.05,0.04,2.05,0.3,0.0,0.05,0.04,0.39
 "Canara Robeco Overnight Fund",0.1,0.0,0.0,0.01,0.11,0.09,0.0,0.0,0.01,0.1
 "Canara Robeco Savings Fund",0.55,0.0,0.0,0.05,0.6,0.26,0.0,0.0,0.04,0.3
-"Canara Robeco Short Duration Fund",0.97,0.0,0.0,0.06,1.03,0.34,0.0,0.0,0.06,0.4
+"Canara Robeco Short Duration Fund",0.97,0.0,0.0,0.06,1.03,0.36,0.0,0.0,0.06,0.42
 "Canara Robeco Small Cap Fund",1.65,0.0,0.05,0.04,1.74,0.33,0.0,0.05,0.04,0.42
-"Canara Robeco Ultra Short Term Fund",0.89,0.0,0.0,0.06,0.95,0.34,0.0,0.0,0.06,0.4
-"Canara Robeco Value Fund",2.09,0.0,0.05,0.09,2.23,0.57,0.0,0.05,0.09,0.71
+"Canara Robeco Ultra Short Term Fund",0.89,0.0,0.0,0.06,0.95,0.38,0.0,0.0,0.06,0.44
+"Canara Robeco Value Fund",2.09,0.0,0.05,0.08,2.22,0.54,0.0,0.05,0.08,0.67
 "CPSE ETF",0.0,0.0,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.05
 "DSP 10Y G-SEC Fund",0.47,0.0,0.0,0.04,0.51,0.27,0.0,0.0,0.04,0.31
 "DSP Arbitrage Fund",0.95,0.0,0.0,0.05,1.0,0.31,0.0,0.0,0.05,0.36
@@ -317,7 +317,7 @@
 "DSP Focus Fund",1.91,0.0,0.05,0.15,2.11,0.86,0.0,0.05,0.15,1.06
 "DSP Global Allocation Fund",1.99,0.0,0.0,0.01,2.0,1.37,0.0,0.0,0.01,1.38
 "DSP Global Innovation Fund of Fund",2.0,0.0,0.0,0.07,2.07,1.26,0.0,0.0,0.07,1.33
-"DSP Gold ETF",0.0,0.0,0.0,0.0,0.0,0.38,0.0,0.0,0.03,0.41
+"DSP Gold ETF",0.0,0.0,0.0,0.0,0.0,0.46,0.0,0.0,0.02,0.48
 "DSP Government Securities Fund",0.97,0.0,0.0,0.07,1.04,0.47,0.0,0.0,0.07,0.54
 "DSP Healthcare Fund",1.93,0.0,0.05,0.1,2.08,0.57,0.0,0.05,0.1,0.72
 "DSP India T.I.G.E.R. Fund",1.86,0.0,0.05,0.18,2.09,1.0,0.0,0.05,0.18,1.23
@@ -524,7 +524,7 @@
 "HSBC Balanced Advantage Fund",1.97,0.0,0.05,0.1,2.12,0.63,0.0,0.05,0.1,0.78
 "HSBC Banking and PSU Debt Fund",0.58,0.0,0.0,0.03,0.61,0.2,0.0,0.0,0.03,0.23
 "HSBC Brazil Fund",1.39,0.0,0.05,0.13,1.57,0.68,0.0,0.05,0.11,0.84
-"HSBC Business Cycles Fund",2.2,0.0,0.05,0.19,2.44,1.12,0.0,0.05,0.19,1.36
+"HSBC Business Cycles Fund",2.2,0.0,0.05,0.19,2.44,1.13,0.0,0.05,0.19,1.37
 "HSBC Conservative Hybrid Fund",1.98,0.0,0.0,0.18,2.16,1.15,0.0,0.0,0.18,1.33
 "HSBC Corporate Bond Fund",0.6,0.0,0.0,0.03,0.63,0.26,0.0,0.0,0.03,0.29
 "HSBC Credit Risk Fund",1.51,0.0,0.05,0.11,1.67,0.69,0.0,0.05,0.11,0.85
@@ -1091,7 +1091,7 @@
 "Nippon India Tax Saver (ELSS) Fund",1.58,0.0,0.0,0.14,1.72,0.9,0.0,0.0,0.14,1.04
 "Nippon India Ultra Short Duration Fund (Number of Segregated Portfolio -1)",1.12,0.0,0.0,0.04,1.16,0.33,0.0,0.0,0.04,0.37
 "Nippon India US Equity Opportunites Fund",2.19,0.0,0.05,0.17,2.41,1.05,0.0,0.05,0.17,1.27
-"Nippon India Value Fund",1.7,0.0,0.05,0.16,1.91,0.97,0.0,0.05,0.16,1.18
+"Nippon India Value Fund",1.7,0.0,0.05,0.17,1.92,0.97,0.0,0.05,0.17,1.19
 "Nippon India Vision Fund",1.77,0.0,0.05,0.22,2.04,1.27,0.0,0.05,0.22,1.54
 "NJ Arbitrage Fund",0.96,0.0,0.0,0.04,1.0,0.28,0.0,0.0,0.03,0.31
 "NJ Balanced Advantage Fund",1.76,0.0,0.05,0.08,1.89,0.46,0.0,0.05,0.07,0.58
@@ -1176,7 +1176,7 @@
 "SBI CRISIL IBX SDL Index - September 2027 Fund",0.4,0.0,0.0,0.03,0.43,0.2,0.0,0.0,0.03,0.23
 "SBI Dividend Yield Fund",1.73,0.0,0.05,0.11,1.89,0.61,0.0,0.05,0.11,0.77
 "SBI Dynamic Bond Fund",1.3,0.0,0.05,0.08,1.43,0.53,0.0,0.05,0.08,0.66
-"SBI Equity Hybrid Fund",1.29,0.04,0.05,0.1,1.48,0.62,0.0,0.05,0.1,0.77
+"SBI Equity Hybrid Fund",1.3,0.04,0.05,0.1,1.49,0.63,0.0,0.05,0.1,0.78
 "SBI Equity Minimum Variance Fund",0.7,0.0,0.0,0.04,0.74,0.38,0.0,0.0,0.04,0.42
 "SBI Equity Savings Fund",1.05,0.0,0.05,0.09,1.19,0.53,0.0,0.05,0.09,0.67
 "SBI Flexicap Fund",1.53,0.05,0.05,0.11,1.74,0.69,0.0,0.05,0.11,0.85
