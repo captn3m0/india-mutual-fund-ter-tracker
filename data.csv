@@ -400,7 +400,7 @@
 "Edelweiss US Value Equity Offshore Fund",1.45,0.0,0.05,0.06,1.56,0.56,0.0,0.05,0.06,0.67
 "Franklin Asian Equity Fund",2.25,0.0,0.05,0.21,2.51,1.26,0.0,0.05,0.21,1.52
 "Franklin Build India Fund",1.96,0.0,0.05,0.15,2.16,0.89,0.0,0.05,0.15,1.09
-"Franklin India Balanced Advantage Fund",1.99,0.0,0.05,0.01,2.05,0.13,0.0,0.05,0.01,0.19
+"Franklin India Balanced Advantage Fund",1.99,0.0,0.05,0.01,2.05,0.14,0.0,0.05,0.01,0.2
 "Franklin India Banking & PSU Debt Fund",0.47,0.0,0.0,0.02,0.49,0.14,0.0,0.0,0.01,0.15
 "Franklin India Bluechip Fund",1.66,0.0,0.05,0.12,1.83,0.73,0.0,0.05,0.12,0.9
 "Franklin India Corporate Debt Fund",0.72,0.0,0.0,0.02,0.74,0.18,0.0,0.0,0.02,0.2
@@ -420,7 +420,7 @@
 "Franklin India Multi - Asset Solution Fund of Funds",1.86,0.0,0.05,0.07,1.98,0.93,0.0,0.05,0.06,1.04
 "Franklin India NSE Nifty 50 Index Fund",0.6,0.0,0.0,0.02,0.62,0.22,0.0,0.0,0.02,0.24
 "Franklin India Opportunities Fund",2.04,0.0,0.05,0.2,2.29,1.25,0.0,0.05,0.19,1.49
-"Franklin India Overnight Fund",0.15,0.0,0.0,0.01,0.16,0.1,0.0,0.0,0.01,0.11
+"Franklin India Overnight Fund",0.15,0.0,0.0,0.01,0.16,0.1,0.0,0.0,0.0,0.1
 "Franklin India Pension Plan",2.0,0.0,0.05,0.22,2.27,1.23,0.0,0.05,0.21,1.49
 "Franklin India Prima Fund",1.63,0.0,0.05,0.12,1.8,0.75,0.0,0.05,0.12,0.92
 "Franklin India Short-Term Income Plan (No. of Segregated Portfolios- 3)",0.04,0.0,0.0,0.0,0.04,0.04,0.0,0.0,0.0,0.04
@@ -1087,7 +1087,7 @@
 "Nippon India Short Term Fund",0.93,0.0,0.0,0.04,0.97,0.32,0.0,0.0,0.04,0.36
 "Nippon India Silver ETF",0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.01,0.51
 "Nippon India Silver ETF FoF",0.5,0.0,0.05,0.01,0.56,0.15,0.0,0.05,0.01,0.21
-"Nippon India Small Cap Fund",1.43,0.0,0.05,0.1,1.58,0.6,0.0,0.05,0.1,0.75
+"Nippon India Small Cap Fund",1.42,0.0,0.05,0.1,1.57,0.59,0.0,0.05,0.1,0.74
 "Nippon India Strategic Debt Fund (Number of Segregated Portfolios - 2)",1.68,0.0,0.05,0.2,1.93,1.13,0.0,0.05,0.2,1.38
 "Nippon India Taiwan Equity Fund",2.22,0.0,0.05,0.12,2.39,0.82,0.0,0.05,0.12,0.99
 "Nippon India Tax Saver (ELSS) Fund",1.58,0.0,0.0,0.14,1.72,0.9,0.0,0.0,0.14,1.04
@@ -1111,7 +1111,7 @@
 "PGIM India Dynamic Bond Fund",1.6,0.0,0.0,0.04,1.64,0.33,0.0,0.0,0.04,0.37
 "PGIM India ELSS Tax Saver Fund (Earlier Known as PGIM India Long Term Equity Fund)",2.22,0.0,0.0,0.11,2.33,0.74,0.0,0.0,0.11,0.85
 "PGIM India Emerging Markets Equity Fund",1.5,0.0,0.05,0.07,1.62,0.45,0.0,0.05,0.07,0.57
-"PGIM India Equity Savings Fund",1.2,0.0,0.0,0.06,1.26,0.41,0.0,0.0,0.05,0.46
+"PGIM India Equity Savings Fund",1.25,0.0,0.0,0.06,1.31,0.46,0.0,0.0,0.05,0.51
 "PGIM India Flexi Cap Fund",1.69,0.0,0.05,0.04,1.78,0.3,0.0,0.05,0.04,0.39
 "PGIM India Gilt Fund",1.4,0.0,0.0,0.06,1.46,0.39,0.0,0.0,0.05,0.44
 "PGIM India Global Equity Opportunities Fund",1.42,0.0,0.05,0.08,1.55,0.47,0.0,0.05,0.08,0.6
@@ -1397,6 +1397,7 @@
 "UTI - Ultra Short Term Fund",0.9,0.0,0.0,0.05,0.95,0.37,0.0,0.0,0.05,0.42
 "UTI - Unit Linked Insurance Plan",1.46,0.0,0.05,0.12,1.63,0.78,0.0,0.05,0.12,0.95
 "UTI - Value Opportunities Fund",1.65,0.0,0.05,0.15,1.85,0.96,0.0,0.05,0.15,1.16
+"UTI Balanced Advantage Fund",1.87,0.0,0.05,0.04,1.96,0.42,0.0,0.05,0.04,0.51
 "UTI CRISIL SDL Maturity April 2033 Index Fund",0.4,0.0,0.0,0.01,0.41,0.13,0.0,0.0,0.01,0.14
 "UTI CRISIL SDL Maturity June 2027 Index Fund",0.4,0.0,0.0,0.01,0.41,0.14,0.0,0.0,0.01,0.15
 "UTI Focused Equity Fund",1.87,0.0,0.05,0.01,1.93,0.32,0.0,0.05,0.01,0.38
