@@ -444,17 +444,17 @@
 "HDFC Banking & Financial Services Fund",1.82,0.0,0.05,0.06,1.93,0.41,0.0,0.05,0.06,0.52
 "HDFC Banking and PSU Debt Fund",0.76,0.0,0.0,0.05,0.81,0.34,0.0,0.0,0.05,0.39
 "HDFC Business Cycle Fund",1.83,0.0,0.05,0.07,1.95,0.4,0.0,0.05,0.07,0.52
-"HDFC Capital Builder Value Fund",1.7,0.0,0.05,0.15,1.9,0.82,0.0,0.05,0.15,1.02
+"HDFC Capital Builder Value Fund",1.69,0.0,0.05,0.15,1.89,0.81,0.0,0.05,0.15,1.01
 "HDFC Childrens Gift Fund",1.65,0.0,0.0,0.13,1.78,0.82,0.0,0.0,0.13,0.95
 "HDFC Corporate Bond Fund",0.56,0.0,0.0,0.04,0.6,0.31,0.0,0.0,0.04,0.35
 "HDFC Credit Risk Debt Fund",1.38,0.0,0.05,0.13,1.56,0.77,0.0,0.05,0.13,0.95
-"HDFC Defence Fund",2.0,0.0,0.05,0.14,2.19,0.73,0.0,0.05,0.14,0.92
-"HDFC Developed World Indexes Fund of Funds",0.66,0.0,0.05,0.0,0.71,0.16,0.0,0.05,0.0,0.21
+"HDFC Defence Fund",1.99,0.0,0.05,0.14,2.18,0.72,0.0,0.05,0.14,0.91
+"HDFC Developed World Indexes Fund of Funds",0.64,0.0,0.05,0.0,0.69,0.16,0.0,0.05,0.0,0.21
 "HDFC Dividend Yield Fund",1.77,0.0,0.05,0.06,1.88,0.37,0.0,0.05,0.06,0.48
 "HDFC Dynamic Debt Fund",1.67,0.0,0.0,0.05,1.72,0.64,0.0,0.0,0.05,0.69
 "HDFC Dynamic PE Ratio Fund of Funds",1.0,0.0,0.0,0.0,1.0,0.22,0.0,0.0,0.0,0.22
 "HDFC Equity Savings Fund",1.81,0.0,0.05,0.16,2.02,0.9,0.0,0.05,0.16,1.11
-"HDFC Flexi Cap Fund",1.41,0.0,0.05,0.14,1.6,0.76,0.0,0.05,0.14,0.95
+"HDFC Flexi Cap Fund",1.4,0.0,0.05,0.14,1.59,0.75,0.0,0.05,0.14,0.94
 "HDFC Floating Rate Debt Fund",0.45,0.0,0.0,0.03,0.48,0.23,0.0,0.0,0.03,0.26
 "HDFC Focused 30 Fund",1.68,0.0,0.05,0.08,1.81,0.41,0.0,0.05,0.08,0.54
 "HDFC Gilt Fund",0.84,0.0,0.0,0.05,0.89,0.41,0.0,0.0,0.05,0.46
@@ -1255,7 +1255,7 @@
 "Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund)",2.22,0.0,0.0,0.07,2.28,0.54,0.0,0.0,0.07,0.6
 "Sundaram Financial Services Opportunities Fund",2.13,0.0,0.05,0.11,2.29,0.74,0.0,0.05,0.11,0.9
 "Sundaram Flexicap Fund",1.89,0.0,0.05,0.0,1.94,0.17,0.0,0.05,0.0,0.22
-"Sundaram Focused Fund (Formerly Known as Principal Focused Multicap Fund)",2.09,0.0,0.05,0.17,2.32,1.06,0.0,0.05,0.17,1.29
+"Sundaram Focused Fund (Formerly Known as Principal Focused Multicap Fund)",2.09,0.0,0.05,0.17,2.31,1.06,0.0,0.05,0.17,1.28
 "Sundaram Global Brand Fund",2.2,0.0,0.05,0.03,2.28,1.19,0.0,0.05,0.02,1.26
 "Sundaram Infrastructure Advantage Fund (Erstwhile Sundaram Capex Opportunities)",2.18,0.0,0.05,0.27,2.5,1.64,0.0,0.05,0.27,1.96
 "Sundaram Large and Midcap Fund",1.7,0.0,0.05,0.08,1.83,0.6,0.0,0.05,0.08,0.73
@@ -1265,7 +1265,7 @@
 "Sundaram Medium Term Bond Fund",2.0,0.0,0.0,0.17,2.17,1.09,0.0,0.0,0.17,1.26
 "Sundaram Mid Cap Fund",1.63,0.0,0.05,0.12,1.8,0.79,0.0,0.05,0.12,0.96
 "Sundaram Money Market Fund",0.32,0.0,0.0,0.02,0.34,0.23,0.0,0.0,0.02,0.25
-"Sundaram Multi Cap Fund (Formerly Known as Principal Multi Cap Growth Fund)",1.89,0.0,0.05,0.12,2.07,0.77,0.0,0.05,0.12,0.95
+"Sundaram Multi Cap Fund (Formerly Known as Principal Multi Cap Growth Fund)",1.89,0.0,0.05,0.12,2.06,0.77,0.0,0.05,0.12,0.94
 "Sundaram Nifty 100 Equal Weight Fund (Formerly Known as Principal Nifty 100 Equal Weight Fund)",1.0,0.0,0.0,0.03,1.03,0.54,0.0,0.0,0.03,0.57
 "Sundaram Overnight Fund",0.18,0.0,0.0,0.0,0.18,0.09,0.0,0.0,0.0,0.09
 "Sundaram Services Fund",1.82,0.0,0.05,0.09,1.96,0.63,0.0,0.05,0.09,0.77
@@ -1344,7 +1344,7 @@
 "Union Corporate Bond Fund",0.65,0.0,0.0,0.04,0.69,0.35,0.0,0.0,0.04,0.39
 "Union Dynamic Bond Fund",1.33,0.0,0.0,0.17,1.5,1.09,0.0,0.0,0.17,1.26
 "Union Equity Savings Fund",1.75,0.0,0.0,0.17,1.92,1.14,0.0,0.0,0.17,1.31
-"Union Flexi Cap Fund",1.94,0.0,0.05,0.11,2.1,0.75,0.0,0.05,0.11,0.91
+"Union Flexi Cap Fund",1.94,0.0,0.05,0.1,2.09,0.75,0.0,0.05,0.1,0.9
 "Union Focused Fund",2.25,0.0,0.05,0.18,2.48,1.19,0.0,0.05,0.18,1.42
 "Union Gilt Fund",1.08,0.0,0.0,0.07,1.15,0.51,0.0,0.0,0.07,0.58
 "Union Hybrid Equity Fund",2.22,0.0,0.05,0.18,2.45,1.11,0.0,0.05,0.18,1.34
