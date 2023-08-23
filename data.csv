@@ -413,7 +413,7 @@
 "Franklin India Feeder - Templeton European Opportunities Fund",1.28,0.0,0.05,0.06,1.39,0.41,0.0,0.05,0.06,0.52
 "Franklin India Flexi Cap Fund",1.59,0.0,0.05,0.13,1.77,0.78,0.0,0.05,0.13,0.96
 "Franklin India Floating Rate Fund",0.87,0.0,0.0,0.04,0.91,0.18,0.0,0.0,0.02,0.2
-"Franklin India Focused Equity Fund",1.62,0.0,0.05,0.13,1.8,0.79,0.0,0.05,0.13,0.97
+"Franklin India Focused Equity Fund",1.62,0.0,0.05,0.13,1.8,0.78,0.0,0.05,0.13,0.96
 "Franklin India Government Securities Fund",1.0,0.0,0.0,0.08,1.08,0.49,0.0,0.0,0.07,0.56
 "Franklin India Liquid Fund",0.19,0.0,0.0,0.01,0.2,0.12,0.0,0.0,0.01,0.13
 "Franklin India Money Market Fund",0.25,0.0,0.0,0.0,0.25,0.1,0.0,0.0,0.0,0.1
@@ -423,7 +423,7 @@
 "Franklin India Overnight Fund",0.15,0.0,0.0,0.01,0.16,0.1,0.0,0.0,0.0,0.1
 "Franklin India Pension Plan",2.0,0.0,0.05,0.22,2.27,1.23,0.0,0.05,0.21,1.49
 "Franklin India Prima Fund",1.63,0.0,0.05,0.12,1.8,0.75,0.0,0.05,0.12,0.92
-"Franklin India Short-Term Income Plan (No. of Segregated Portfolios- 3)",0.04,0.0,0.0,0.0,0.04,0.04,0.0,0.0,0.0,0.04
+"Franklin India Short-Term Income Plan (No. of Segregated Portfolios- 3)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 "Franklin India Smaller Companies Fund",1.62,0.0,0.05,0.13,1.8,0.78,0.0,0.05,0.13,0.96
 "Franklin India Taxshield",1.71,0.0,0.0,0.14,1.85,0.88,0.0,0.0,0.13,1.01
 "Franklin India Technology Fund",2.09,0.0,0.05,0.17,2.31,1.09,0.0,0.05,0.17,1.31
@@ -578,7 +578,7 @@
 "ICICI Prudential Corporate Bond Fund",0.53,0.0,0.0,0.0,0.53,0.32,0.0,0.0,0.0,0.32
 "ICICI Prudential Credit Risk Fund",1.39,0.0,0.05,0.13,1.57,0.74,0.0,0.05,0.13,0.92
 "ICICI Prudential Debt Management Fund (FoF)",0.68,0.0,0.0,0.06,0.74,0.35,0.0,0.0,0.06,0.41
-"ICICI Prudential Dividend Yield Equity Fund",1.88,0.0,0.05,0.1,2.03,0.56,0.0,0.05,0.1,0.71
+"ICICI Prudential Dividend Yield Equity Fund",1.87,0.0,0.05,0.1,2.02,0.55,0.0,0.05,0.1,0.7
 "ICICI Prudential Equity & Debt Fund",1.48,0.0,0.05,0.16,1.69,0.91,0.0,0.05,0.16,1.12
 "ICICI Prudential Equity - Arbitrage Fund",0.99,0.0,0.0,0.0,0.99,0.39,0.0,0.0,0.0,0.39
 "ICICI Prudential Equity Savings Fund",0.99,0.0,0.0,0.0,0.99,0.45,0.0,0.0,0.0,0.45
@@ -592,7 +592,7 @@
 "ICICI Prudential Global Advantage Fund (FoF)",1.09,0.0,0.05,0.07,1.21,0.39,0.0,0.05,0.07,0.51
 "ICICI Prudential Global Stable Equity Fund (FoF)",1.31,0.0,0.05,0.14,1.5,0.87,0.0,0.05,0.14,1.06
 "ICICI Prudential Gold ETF",0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0
-"ICICI Prudential Housing Opportunities Fund",1.86,0.0,0.05,0.09,2.0,0.5,0.0,0.05,0.09,0.64
+"ICICI Prudential Housing Opportunities Fund",1.85,0.0,0.05,0.09,1.99,0.49,0.0,0.05,0.09,0.63
 "ICICI Prudential Income Optimizer Fund (FoF)",1.18,0.0,0.05,0.07,1.3,0.36,0.0,0.05,0.07,0.48
 "ICICI Prudential India Equity FoF",1.19,0.0,0.05,0.11,1.35,0.65,0.0,0.05,0.11,0.81
 "ICICI Prudential India Opportunities Fund",1.6,0.0,0.05,0.09,1.74,0.54,0.0,0.05,0.09,0.68
@@ -653,7 +653,7 @@
 "ICICI Prudential Passive Multi-Asset Fund of Funds",0.53,0.0,0.05,0.0,0.58,0.01,0.0,0.05,0.0,0.06
 "ICICI Prudential Passive Strategy Fund (FoF)",0.32,0.0,0.05,0.0,0.37,0.08,0.0,0.05,0.0,0.13
 "ICICI Prudential Pharma Healthcare and Diagnostics (P.H.D) Fund",1.79,0.0,0.05,0.16,2.0,0.94,0.0,0.05,0.16,1.15
-"ICICI Prudential PSU Equity Fund",1.97,0.0,0.05,0.06,2.08,0.4,0.0,0.05,0.06,0.51
+"ICICI Prudential PSU Equity Fund",1.96,0.0,0.05,0.06,2.07,0.39,0.0,0.05,0.06,0.5
 "ICICI Prudential Quant Fund",1.19,0.0,0.05,0.0,1.24,0.54,0.0,0.05,0.0,0.59
 "ICICI Prudential Regular Gold Savings Fund (FoF)",0.39,0.0,0.05,0.0,0.44,0.04,0.0,0.05,0.0,0.09
 "ICICI Prudential Regular Savings Fund",1.54,0.0,0.05,0.13,1.72,0.74,0.0,0.05,0.13,0.92
@@ -1050,7 +1050,7 @@
 "Nippon India ETF S&P BSE SENSEX Next 50",0.0,0.0,0.0,0.0,0.0,0.23,0.0,0.0,0.0,0.23
 "Nippon India Flexi Cap Fund",1.73,0.0,0.05,0.06,1.84,0.37,0.0,0.05,0.06,0.48
 "Nippon India Floating Rate Fund",0.58,0.0,0.0,0.03,0.61,0.27,0.0,0.0,0.03,0.3
-"Nippon India Focused Equity Fund",1.66,0.0,0.05,0.16,1.87,0.96,0.0,0.05,0.16,1.17
+"Nippon India Focused Equity Fund",1.66,0.0,0.05,0.16,1.87,0.95,0.0,0.05,0.16,1.16
 "Nippon India Gilt Securities Fund",1.27,0.0,0.05,0.08,1.4,0.5,0.0,0.05,0.08,0.63
 "Nippon India Gold Savings Fund",0.3,0.0,0.05,0.0,0.35,0.08,0.0,0.05,0.0,0.13
 "Nippon India Growth Fund",1.53,0.0,0.05,0.13,1.71,0.76,0.0,0.05,0.13,0.94
@@ -1086,7 +1086,7 @@
 "Nippon India Power & Infra Fund",1.84,0.0,0.05,0.2,2.09,1.19,0.0,0.05,0.2,1.44
 "Nippon India Quant Fund",0.92,0.0,0.0,0.04,0.96,0.34,0.0,0.0,0.04,0.38
 "Nippon India Retirement Fund- Income Generation Scheme",1.96,0.0,0.0,0.15,2.11,0.9,0.0,0.0,0.15,1.05
-"Nippon India Retirement Fund- Wealth Creation Scheme",1.84,0.0,0.0,0.13,1.97,0.85,0.0,0.0,0.13,0.98
+"Nippon India Retirement Fund- Wealth Creation Scheme",1.83,0.0,0.0,0.13,1.96,0.84,0.0,0.0,0.13,0.97
 "Nippon India Short Term Fund",0.93,0.0,0.0,0.04,0.97,0.32,0.0,0.0,0.04,0.36
 "Nippon India Silver ETF",0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.01,0.51
 "Nippon India Silver ETF FoF",0.5,0.0,0.05,0.01,0.56,0.15,0.0,0.05,0.01,0.21
@@ -1096,7 +1096,7 @@
 "Nippon India Tax Saver (ELSS) Fund",1.58,0.0,0.0,0.14,1.72,0.9,0.0,0.0,0.14,1.04
 "Nippon India Ultra Short Duration Fund (Number of Segregated Portfolio -1)",1.12,0.0,0.0,0.04,1.16,0.33,0.0,0.0,0.04,0.37
 "Nippon India US Equity Opportunites Fund",2.19,0.0,0.05,0.17,2.41,1.05,0.0,0.05,0.17,1.27
-"Nippon India Value Fund",1.7,0.0,0.05,0.17,1.92,0.97,0.0,0.05,0.16,1.18
+"Nippon India Value Fund",1.7,0.0,0.05,0.16,1.91,0.97,0.0,0.05,0.16,1.18
 "Nippon India Vision Fund",1.77,0.0,0.05,0.22,2.04,1.27,0.0,0.05,0.22,1.54
 "NJ Arbitrage Fund",0.96,0.0,0.0,0.04,1.0,0.28,0.0,0.0,0.03,0.31
 "NJ Balanced Advantage Fund",1.76,0.0,0.05,0.08,1.89,0.46,0.0,0.05,0.07,0.58
