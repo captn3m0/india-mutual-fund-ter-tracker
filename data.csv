@@ -358,7 +358,7 @@
 "DSP World Energy Fund",2.09,0.0,0.0,0.08,2.17,1.47,0.0,0.0,0.08,1.55
 "DSP World Gold Fund of Fund",2.25,0.0,0.0,0.09,2.34,1.62,0.0,0.0,0.09,1.71
 "DSP World Mining Fund",2.11,0.0,0.0,0.05,2.16,1.46,0.0,0.0,0.05,1.51
-"Edelweiss Aggressive Hybrid Fund",2.13,0.0,0.05,0.07,2.25,0.45,0.0,0.05,0.07,0.57
+"Edelweiss Aggressive Hybrid Fund",2.12,0.0,0.05,0.07,2.24,0.45,0.0,0.05,0.07,0.57
 "Edelweiss Arbitrage Fund",1.05,0.0,0.0,0.05,1.1,0.34,0.0,0.0,0.05,0.39
 "Edelweiss ASEAN Equity Off-shore Fund",1.28,0.0,0.05,0.09,1.42,0.57,0.0,0.05,0.09,0.71
 "Edelweiss Balanced Advantage Fund",1.61,0.0,0.05,0.06,1.72,0.38,0.0,0.05,0.06,0.49
@@ -444,7 +444,7 @@
 "HDFC Banking & Financial Services Fund",1.82,0.0,0.05,0.06,1.93,0.41,0.0,0.05,0.06,0.52
 "HDFC Banking and PSU Debt Fund",0.76,0.0,0.0,0.05,0.81,0.34,0.0,0.0,0.05,0.39
 "HDFC Business Cycle Fund",1.83,0.0,0.05,0.07,1.95,0.4,0.0,0.05,0.07,0.52
-"HDFC Capital Builder Value Fund",1.69,0.0,0.05,0.15,1.89,0.81,0.0,0.05,0.15,1.01
+"HDFC Capital Builder Value Fund",1.7,0.0,0.05,0.15,1.9,0.82,0.0,0.05,0.15,1.02
 "HDFC Childrens Gift Fund",1.65,0.0,0.0,0.13,1.78,0.82,0.0,0.0,0.13,0.95
 "HDFC Corporate Bond Fund",0.56,0.0,0.0,0.04,0.6,0.31,0.0,0.0,0.04,0.35
 "HDFC Credit Risk Debt Fund",1.38,0.0,0.05,0.13,1.56,0.77,0.0,0.05,0.13,0.95
@@ -466,7 +466,7 @@
 "HDFC Income Fund",1.95,0.0,0.0,0.07,2.02,0.69,0.0,0.0,0.07,0.76
 "HDFC Index Fund-Nifty 50 Plan",0.4,0.0,0.0,0.0,0.4,0.2,0.0,0.0,0.0,0.2
 "HDFC Index Fund-S&P BSE SENSEX Plan",0.4,0.0,0.0,0.0,0.4,0.2,0.0,0.0,0.0,0.2
-"HDFC Infrastructure Fund",2.13,0.0,0.05,0.25,2.43,1.4,0.0,0.05,0.25,1.7
+"HDFC Infrastructure Fund",2.12,0.0,0.05,0.25,2.42,1.39,0.0,0.05,0.25,1.69
 "HDFC Large and Mid Cap Fund",1.6,0.0,0.05,0.15,1.8,0.8,0.0,0.05,0.15,1.0
 "HDFC Liquid Fund",0.3,0.0,0.0,0.0,0.3,0.2,0.0,0.0,0.0,0.2
 "HDFC Long Duration Debt Fund",0.6,0.0,0.0,0.0,0.6,0.25,0.0,0.0,0.0,0.25
@@ -480,6 +480,7 @@
 "HDFC Nifty 100 Equal Weight Index Fund",1.0,0.0,0.0,0.0,1.0,0.4,0.0,0.0,0.0,0.4
 "HDFC Nifty 100 ETF",0.3,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0
 "HDFC Nifty 100 Index Fund",0.9,0.0,0.0,0.0,0.9,0.3,0.0,0.0,0.0,0.3
+"HDFC Nifty 1D Rate Liquid ETF",0.5,0.0,0.0,0.04,0.54,0.0,0.0,0.0,0.0,0.0
 "HDFC Nifty 50 ETF",0.05,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.0,0.0
 "HDFC Nifty 50 Exchange Traded Fund",0.05,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.0,0.0
 "HDFC Nifty Bank ETF",0.15,0.0,0.0,0.01,0.16,0.0,0.0,0.0,0.0,0.0
@@ -568,7 +569,7 @@
 "ICICI Prudential Banking & Financial Services Fund",1.66,0.0,0.05,0.15,1.86,0.83,0.0,0.05,0.15,1.03
 "ICICI Prudential Banking & PSU Debt Fund",0.76,0.0,0.0,0.0,0.76,0.39,0.0,0.0,0.0,0.39
 "ICICI Prudential Bharat 22 FoF",0.09,0.0,0.0,0.0,0.09,0.08,0.0,0.0,0.0,0.08
-"ICICI Prudential Bharat Consumption Fund",1.9,0.0,0.05,0.18,2.13,1.02,0.0,0.05,0.18,1.25
+"ICICI Prudential Bharat Consumption Fund",1.89,0.0,0.05,0.18,2.12,1.01,0.0,0.05,0.18,1.24
 "ICICI Prudential Bluechip Fund",1.4,0.0,0.05,0.14,1.59,0.83,0.0,0.05,0.14,1.02
 "ICICI Prudential Bond Fund",1.11,0.0,0.0,0.0,1.11,0.6,0.0,0.0,0.0,0.6
 "ICICI Prudential Business Cycle Fund",1.67,0.0,0.05,0.1,1.82,0.57,0.0,0.05,0.1,0.72
@@ -592,7 +593,7 @@
 "ICICI Prudential Global Advantage Fund (FoF)",1.09,0.0,0.05,0.07,1.21,0.39,0.0,0.05,0.07,0.51
 "ICICI Prudential Global Stable Equity Fund (FoF)",1.31,0.0,0.05,0.14,1.5,0.87,0.0,0.05,0.14,1.06
 "ICICI Prudential Gold ETF",0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0
-"ICICI Prudential Housing Opportunities Fund",1.85,0.0,0.05,0.09,1.99,0.49,0.0,0.05,0.09,0.63
+"ICICI Prudential Housing Opportunities Fund",1.86,0.0,0.05,0.09,2.0,0.5,0.0,0.05,0.09,0.64
 "ICICI Prudential Income Optimizer Fund (FoF)",1.18,0.0,0.05,0.07,1.3,0.36,0.0,0.05,0.07,0.48
 "ICICI Prudential India Equity FoF",1.19,0.0,0.05,0.11,1.35,0.65,0.0,0.05,0.11,0.81
 "ICICI Prudential India Opportunities Fund",1.6,0.0,0.05,0.09,1.74,0.54,0.0,0.05,0.09,0.68
@@ -1092,7 +1093,7 @@
 "Nippon India Silver ETF FoF",0.5,0.0,0.05,0.01,0.56,0.15,0.0,0.05,0.01,0.21
 "Nippon India Small Cap Fund",1.42,0.0,0.05,0.09,1.56,0.59,0.0,0.05,0.09,0.73
 "Nippon India Strategic Debt Fund (Number of Segregated Portfolios - 2)",1.68,0.0,0.05,0.2,1.93,1.13,0.0,0.05,0.2,1.38
-"Nippon India Taiwan Equity Fund",2.22,0.0,0.05,0.12,2.39,0.82,0.0,0.05,0.12,0.99
+"Nippon India Taiwan Equity Fund",2.21,0.0,0.05,0.12,2.38,0.81,0.0,0.05,0.12,0.98
 "Nippon India Tax Saver (ELSS) Fund",1.58,0.0,0.0,0.14,1.72,0.9,0.0,0.0,0.14,1.04
 "Nippon India Ultra Short Duration Fund (Number of Segregated Portfolio -1)",1.12,0.0,0.0,0.04,1.16,0.33,0.0,0.0,0.04,0.37
 "Nippon India US Equity Opportunites Fund",2.19,0.0,0.05,0.17,2.41,1.05,0.0,0.05,0.17,1.27
