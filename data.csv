@@ -929,7 +929,7 @@
 "Mirae Asset Healthcare Fund",1.92,0.0,0.05,0.08,2.05,0.45,0.0,0.05,0.07,0.57
 "Mirae Asset Hybrid-Equity Fund",1.64,0.0,0.05,0.05,1.74,0.31,0.0,0.05,0.05,0.41
 "Mirae Asset Large Cap Fund",1.42,0.0,0.05,0.07,1.54,0.42,0.0,0.05,0.07,0.54
-"Mirae Asset Midcap Fund",1.59,0.0,0.05,0.09,1.73,0.53,0.0,0.05,0.09,0.67
+"Mirae Asset Midcap Fund",1.59,0.0,0.05,0.09,1.73,0.52,0.0,0.05,0.09,0.66
 "Mirae Asset Money Market Fund",0.62,0.0,0.0,0.03,0.65,0.26,0.0,0.0,0.03,0.29
 "Mirae Asset Multicap Fund",1.96,0.0,0.05,0.05,2.06,0.33,0.0,0.05,0.05,0.43
 "Mirae Asset Nifty 100 ESG Sector Leaders ETF",0.5,0.0,0.0,0.09,0.59,0.0,0.0,0.0,0.0,0.0
@@ -1096,7 +1096,7 @@
 "Nippon India Taiwan Equity Fund",2.21,0.0,0.05,0.12,2.38,0.81,0.0,0.05,0.12,0.98
 "Nippon India Tax Saver (ELSS) Fund",1.58,0.0,0.0,0.14,1.72,0.9,0.0,0.0,0.14,1.04
 "Nippon India Ultra Short Duration Fund (Number of Segregated Portfolio -1)",1.12,0.0,0.0,0.04,1.16,0.33,0.0,0.0,0.04,0.37
-"Nippon India US Equity Opportunites Fund",2.19,0.0,0.05,0.17,2.41,1.05,0.0,0.05,0.17,1.27
+"Nippon India US Equity Opportunites Fund",2.2,0.0,0.05,0.17,2.42,1.06,0.0,0.05,0.17,1.28
 "Nippon India Value Fund",1.7,0.0,0.05,0.16,1.91,0.97,0.0,0.05,0.16,1.18
 "Nippon India Vision Fund",1.77,0.0,0.05,0.22,2.04,1.27,0.0,0.05,0.22,1.54
 "NJ Arbitrage Fund",0.96,0.0,0.0,0.04,1.0,0.28,0.0,0.0,0.03,0.31
@@ -1173,7 +1173,7 @@
 "SBI Banking & PSU Fund",0.77,0.0,0.0,0.04,0.81,0.3,0.0,0.0,0.04,0.34
 "SBI Blue Chip Fund",1.4,0.0,0.05,0.11,1.56,0.71,0.0,0.05,0.11,0.87
 "SBI Conservative Hybrid Fund",0.98,0.0,0.05,0.08,1.11,0.48,0.0,0.05,0.08,0.61
-"SBI Consumption Opportunities Fund",1.95,0.1,0.05,0.15,2.25,0.9,0.0,0.05,0.15,1.1
+"SBI Consumption Opportunities Fund",1.95,0.1,0.05,0.15,2.25,0.89,0.0,0.05,0.15,1.09
 "SBI Contra Fund",1.56,0.02,0.05,0.1,1.73,0.66,0.0,0.05,0.1,0.81
 "SBI Corporate Bond Fund",0.75,0.0,0.0,0.04,0.79,0.3,0.0,0.0,0.04,0.34
 "SBI CPSE Bond Plus SDL SEP 2026 50:50 Index Fund",0.37,0.0,0.0,0.02,0.39,0.19,0.0,0.0,0.02,0.21
@@ -1278,11 +1278,11 @@
 "Tata Balanced Advantage Fund",1.64,0.0,0.05,0.03,1.72,0.24,0.0,0.05,0.03,0.32
 "Tata Banking & Financial Services Fund",1.94,0.0,0.05,0.06,2.05,0.43,0.0,0.05,0.06,0.54
 "Tata Banking & PSU Debt Fund",0.7,0.0,0.0,0.02,0.72,0.23,0.0,0.0,0.02,0.25
-"Tata Business Cycle Fund",2.02,0.0,0.05,0.05,2.12,0.38,0.0,0.05,0.05,0.48
+"Tata Business Cycle Fund",2.02,0.0,0.05,0.05,2.12,0.39,0.0,0.05,0.05,0.49
 "Tata Corporate Bond Fund",0.84,0.0,0.0,0.04,0.88,0.3,0.0,0.0,0.04,0.34
 "Tata CRISIL-IBX Gilt Index - April 2026 Index Fund",0.35,0.0,0.0,0.01,0.36,0.1,0.0,0.0,0.01,0.11
 "Tata Digital India Fund",1.64,0.0,0.05,0.03,1.72,0.27,0.0,0.05,0.03,0.35
-"Tata Dividend Yield Fund",2.21,0.0,0.05,0.07,2.33,0.48,0.0,0.05,0.07,0.6
+"Tata Dividend Yield Fund",2.21,0.0,0.05,0.07,2.33,0.47,0.0,0.05,0.07,0.59
 "Tata Equity P/E Fund",1.69,0.0,0.05,0.11,1.85,0.71,0.0,0.05,0.11,0.87
 "Tata Equity Savings Fund",1.08,0.0,0.0,0.04,1.12,0.37,0.0,0.0,0.04,0.41
 "Tata Ethical Fund",1.91,0.0,0.05,0.12,2.08,0.72,0.0,0.05,0.12,0.89
@@ -1424,7 +1424,7 @@
 "UTI Silver ETF Fund of Fund",0.5,0.0,0.0,0.0,0.5,0.1,0.0,0.0,0.0,0.1
 "UTI Silver Exchange Traded Fund",0.5,0.0,0.0,0.03,0.53,0.0,0.0,0.0,0.0,0.0
 "UTI Small Cap Fund",1.8,0.0,0.05,0.03,1.88,0.47,0.0,0.05,0.03,0.55
-"WhiteOak Capital Balanced Advantage Fund",2.22,0.0,0.05,0.07,2.34,0.56,0.0,0.05,0.07,0.68
+"WhiteOak Capital Balanced Advantage Fund",2.21,0.0,0.05,0.07,2.33,0.56,0.0,0.05,0.07,0.68
 "WhiteOak Capital Flexi Cap Fund",1.93,0.0,0.05,0.04,2.02,0.36,0.0,0.05,0.04,0.45
 "WhiteOak Capital Large Cap Fund",2.25,0.0,0.05,0.07,2.37,0.54,0.0,0.05,0.07,0.66
 "WhiteOak Capital Liquid Fund",0.35,0.0,0.0,0.01,0.36,0.25,0.0,0.0,0.01,0.26
