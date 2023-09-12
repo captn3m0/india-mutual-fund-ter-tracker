@@ -430,8 +430,8 @@
 "Franklin India Debt Hybrid Fund (No. of Segregated Portfolios - 1)",1.3,0.0,0.0,0.08,1.38,0.53,0.0,0.0,0.08,0.61
 "Franklin India Dynamic Asset Allocation Fund of Funds",1.86,0.0,0.05,0.06,1.97,0.94,0.0,0.05,0.06,1.05
 "Franklin India Equity Advantage Fund",1.81,0.0,0.05,0.18,2.04,1.03,0.0,0.05,0.17,1.25
-"Franklin India Equity Hybrid Fund",1.95,0.0,0.05,0.15,2.15,0.86,0.0,0.05,0.14,1.05
-"Franklin India Equity Savings Fund",1.08,0.0,0.0,0.05,1.13,0.36,0.0,0.0,0.04,0.4
+"Franklin India Equity Hybrid Fund",1.96,0.0,0.05,0.15,2.16,0.86,0.0,0.05,0.14,1.05
+"Franklin India Equity Savings Fund",1.07,0.0,0.0,0.05,1.12,0.36,0.0,0.0,0.04,0.4
 "Franklin India Feeder - Franklin U. S. Opportunities Fund",1.4,0.0,0.05,0.07,1.52,0.43,0.0,0.05,0.07,0.55
 "Franklin India Feeder - Templeton European Opportunities Fund",1.28,0.0,0.05,0.06,1.39,0.41,0.0,0.05,0.06,0.52
 "Franklin India Flexi Cap Fund",1.58,0.0,0.05,0.13,1.76,0.78,0.0,0.05,0.13,0.96
@@ -442,13 +442,13 @@
 "Franklin India Money Market Fund",0.25,0.0,0.0,0.0,0.25,0.1,0.0,0.0,0.0,0.1
 "Franklin India Multi - Asset Solution Fund of Funds",1.71,0.0,0.05,0.05,1.81,0.78,0.0,0.05,0.03,0.86
 "Franklin India NSE Nifty 50 Index Fund",0.6,0.0,0.0,0.02,0.62,0.22,0.0,0.0,0.02,0.24
-"Franklin India Opportunities Fund",1.99,0.0,0.05,0.2,2.24,1.2,0.0,0.05,0.19,1.44
+"Franklin India Opportunities Fund",2.0,0.0,0.05,0.2,2.25,1.2,0.0,0.05,0.19,1.44
 "Franklin India Overnight Fund",0.15,0.0,0.0,0.01,0.16,0.1,0.0,0.0,0.01,0.11
 "Franklin India Pension Plan",2.0,0.0,0.05,0.22,2.27,1.23,0.0,0.05,0.21,1.49
-"Franklin India Prima Fund",1.62,0.0,0.05,0.12,1.79,0.74,0.0,0.05,0.12,0.91
+"Franklin India Prima Fund",1.63,0.0,0.05,0.12,1.8,0.75,0.0,0.05,0.12,0.92
 "Franklin India Short-Term Income Plan (No. of Segregated Portfolios- 3)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-"Franklin India Smaller Companies Fund",1.61,0.0,0.05,0.13,1.79,0.77,0.0,0.05,0.13,0.95
-"Franklin India Taxshield",1.7,0.0,0.0,0.14,1.84,0.87,0.0,0.0,0.13,1.0
+"Franklin India Smaller Companies Fund",1.62,0.0,0.05,0.13,1.8,0.78,0.0,0.05,0.13,0.96
+"Franklin India Taxshield",1.71,0.0,0.0,0.14,1.85,0.87,0.0,0.0,0.13,1.0
 "Franklin India Technology Fund",2.07,0.0,0.05,0.17,2.29,1.06,0.0,0.05,0.17,1.28
 "Groww Aggressive Hybrid Fund (Formerly Known as Indiabulls Equity Hybrid Fund)",2.25,0.0,0.05,0.0,2.3,0.8,0.0,0.05,0.0,0.85
 "Groww Arbitrage Fund (Formerly Known as Indiabulls Arbitrage Fund)",1.14,0.0,0.0,0.0,1.14,0.44,0.0,0.0,0.0,0.44
@@ -762,7 +762,7 @@
 "JM Arbitrage Fund",1.03,0.0,0.0,0.03,1.06,0.32,0.0,0.0,0.03,0.35
 "JM Dynamic Bond Fund",0.91,0.0,0.0,0.07,0.98,0.56,0.0,0.0,0.07,0.63
 "JM Equity Hybrid Fund",2.25,0.0,0.05,0.1,2.4,0.75,0.0,0.05,0.1,0.9
-"JM Flexicap Fund",2.21,0.0,0.05,0.12,2.38,0.81,0.0,0.05,0.12,0.98
+"JM Flexicap Fund",2.21,0.0,0.05,0.13,2.39,0.81,0.0,0.05,0.13,0.99
 "JM Focused Fund",2.23,0.0,0.05,0.19,2.47,1.35,0.0,0.05,0.19,1.59
 "JM Large Cap Fund",2.23,0.0,0.05,0.21,2.49,1.48,0.0,0.05,0.21,1.74
 "JM Liquid Fund",0.25,0.0,0.0,0.0,0.25,0.15,0.0,0.0,0.0,0.15
@@ -1245,33 +1245,33 @@
 "Shriram Overnight Fund",0.15,0.0,0.0,0.0,0.15,0.05,0.0,0.0,0.0,0.05
 "Sundaram Aggressive Hybrid Fund (Formerly Known as Principal Hybrid Equity Fund)",1.77,0.0,0.05,0.09,1.91,0.6,0.0,0.05,0.09,0.74
 "Sundaram Arbitrage Fund(Formerly Known as Prinicpal Arbitrage Fund)",0.85,0.0,0.0,0.02,0.87,0.26,0.0,0.0,0.02,0.28
-"Sundaram Balanced Advantage Fund (Formerly Known as Principal Balanced Advantage Fund)",1.95,0.0,0.05,0.06,2.06,0.45,0.0,0.05,0.06,0.56
+"Sundaram Balanced Advantage Fund (Formerly Known as Principal Balanced Advantage Fund)",1.95,0.0,0.05,0.06,2.07,0.45,0.0,0.05,0.06,0.57
 "Sundaram Banking & PSU Debt Fund",0.35,0.0,0.0,0.02,0.37,0.21,0.0,0.0,0.02,0.23
 "Sundaram Consumption Fund (Formerly Known as Sundaram Rural and Consumption Fund)",1.99,0.0,0.05,0.18,2.22,1.12,0.0,0.05,0.18,1.35
 "Sundaram Corporate Bond Fund",0.49,0.0,0.0,0.03,0.51,0.26,0.0,0.0,0.03,0.28
 "Sundaram Debt Oriented Hybrid Fund",2.0,0.0,0.0,0.17,2.17,1.09,0.0,0.0,0.17,1.26
 "Sundaram Diversified Equity",1.94,0.0,0.0,0.22,2.15,1.36,0.0,0.0,0.22,1.57
-"Sundaram Dividend Yield Fund (Formerly Known as Principal Dividend Yield Fund)",2.21,0.0,0.05,0.2,2.45,1.19,0.0,0.05,0.2,1.43
-"Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund)",2.21,0.0,0.0,0.06,2.27,0.52,0.0,0.0,0.06,0.59
-"Sundaram Financial Services Opportunities Fund",2.11,0.0,0.05,0.11,2.27,0.72,0.0,0.05,0.11,0.88
+"Sundaram Dividend Yield Fund (Formerly Known as Principal Dividend Yield Fund)",2.21,0.0,0.05,0.2,2.46,1.19,0.0,0.05,0.2,1.44
+"Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund)",2.21,0.0,0.0,0.07,2.27,0.53,0.0,0.0,0.07,0.59
+"Sundaram Financial Services Opportunities Fund",2.12,0.0,0.05,0.11,2.28,0.73,0.0,0.05,0.11,0.89
 "Sundaram Flexicap Fund",1.88,0.0,0.05,0.0,1.93,0.16,0.0,0.05,0.0,0.21
-"Sundaram Focused Fund (Formerly Known as Principal Focused Multicap Fund)",2.08,0.0,0.05,0.17,2.3,1.05,0.0,0.05,0.17,1.27
+"Sundaram Focused Fund (Formerly Known as Principal Focused Multicap Fund)",2.08,0.0,0.05,0.17,2.31,1.05,0.0,0.05,0.17,1.28
 "Sundaram Global Brand Fund",2.2,0.0,0.05,0.03,2.28,1.19,0.0,0.05,0.02,1.26
 "Sundaram Infrastructure Advantage Fund (Erstwhile Sundaram Capex Opportunities)",2.17,0.0,0.05,0.27,2.49,1.63,0.0,0.05,0.27,1.95
-"Sundaram Large and Midcap Fund",1.69,0.0,0.05,0.09,1.83,0.59,0.0,0.05,0.09,0.73
-"Sundaram Large Cap Fund ( Formerly Know as Sundaram Blue Chip Fund)",1.79,0.0,0.05,0.06,1.9,0.46,0.0,0.05,0.06,0.57
+"Sundaram Large and Midcap Fund",1.7,0.0,0.05,0.09,1.84,0.6,0.0,0.05,0.09,0.74
+"Sundaram Large Cap Fund ( Formerly Know as Sundaram Blue Chip Fund)",1.79,0.0,0.05,0.06,1.91,0.46,0.0,0.05,0.06,0.58
 "Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund)",0.27,0.0,0.0,0.02,0.29,0.15,0.0,0.0,0.02,0.17
 "Sundaram Low Duration Fund (Formerly Known as Principal Low Duration Fund)",1.25,0.0,0.0,0.03,1.28,0.3,0.0,0.0,0.03,0.33
 "Sundaram Medium Term Bond Fund",2.0,0.0,0.0,0.17,2.17,1.09,0.0,0.0,0.17,1.26
-"Sundaram Mid Cap Fund",1.62,0.0,0.05,0.12,1.8,0.78,0.0,0.05,0.12,0.96
+"Sundaram Mid Cap Fund",1.63,0.0,0.05,0.13,1.8,0.79,0.0,0.05,0.13,0.96
 "Sundaram Money Market Fund",0.32,0.0,0.0,0.02,0.34,0.23,0.0,0.0,0.02,0.25
-"Sundaram Multi Cap Fund (Formerly Known as Principal Multi Cap Growth Fund)",1.88,0.0,0.05,0.12,2.05,0.76,0.0,0.05,0.12,0.93
+"Sundaram Multi Cap Fund (Formerly Known as Principal Multi Cap Growth Fund)",1.89,0.0,0.05,0.12,2.06,0.77,0.0,0.05,0.12,0.94
 "Sundaram Nifty 100 Equal Weight Fund (Formerly Known as Principal Nifty 100 Equal Weight Fund)",1.0,0.0,0.0,0.03,1.03,0.54,0.0,0.0,0.03,0.57
 "Sundaram Overnight Fund",0.18,0.0,0.0,0.0,0.18,0.09,0.0,0.0,0.0,0.09
 "Sundaram Services Fund",1.81,0.0,0.05,0.09,1.95,0.62,0.0,0.05,0.09,0.76
 "Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund)",0.84,0.0,0.0,0.02,0.86,0.26,0.0,0.0,0.02,0.28
-"Sundaram Small Cap Fund",1.83,0.0,0.05,0.11,1.98,0.71,0.0,0.05,0.11,0.86
-"Sundaram Tax Savings Fund (Formerly Known as Principal Tax Savings Fund)",2.03,0.0,0.0,0.25,2.27,1.51,0.0,0.0,0.25,1.75
+"Sundaram Small Cap Fund",1.83,0.0,0.05,0.11,1.99,0.71,0.0,0.05,0.11,0.87
+"Sundaram Tax Savings Fund (Formerly Known as Principal Tax Savings Fund)",2.03,0.0,0.0,0.25,2.28,1.51,0.0,0.0,0.25,1.76
 "Sundaram Ultra Short Duration Fund (Formerly Known as Principal Ultra Short Term Fund)",1.37,0.0,0.0,0.01,1.38,0.16,0.0,0.0,0.01,0.17
 "Tata Arbitrage Fund",1.04,0.0,0.0,0.03,1.07,0.26,0.0,0.0,0.03,0.29
 "Tata Balanced Advantage Fund",1.64,0.0,0.05,0.03,1.72,0.24,0.0,0.05,0.03,0.32
