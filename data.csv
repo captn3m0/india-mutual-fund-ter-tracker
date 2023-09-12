@@ -844,14 +844,14 @@
 "Kotak Tax Saver Fund",1.74,0.0,0.0,0.06,1.8,0.5,0.0,0.0,0.06,0.56
 "LIC MF Aggressive Hybrid Fund",2.22,0.0,0.05,0.19,2.46,1.16,0.0,0.05,0.19,1.4
 "LIC MF Arbitrage Fund",0.97,0.0,0.0,0.0,0.97,0.31,0.0,0.0,0.0,0.31
-"LIC MF Balanced Advantage Fund",1.88,0.0,0.05,0.02,1.95,0.23,0.0,0.05,0.02,0.3
+"LIC MF Balanced Advantage Fund",2.05,0.0,0.05,0.05,2.15,0.4,0.0,0.05,0.05,0.5
 "LIC MF Banking & PSU Debt Fund",0.75,0.0,0.0,0.03,0.78,0.25,0.0,0.0,0.03,0.28
-"LIC MF Banking and Financial Services Fund",2.25,0.0,0.05,0.13,2.43,0.93,0.0,0.05,0.13,1.11
+"LIC MF Banking and Financial Services Fund",2.25,0.0,0.05,0.21,2.51,0.95,0.0,0.05,0.2,1.2
 "LIC MF Children's Gift Fund",2.25,0.0,0.0,0.23,2.48,1.64,0.0,0.0,0.21,1.85
 "LIC MF Conservative Hybrid Fund",2.0,0.0,0.05,0.2,2.25,1.11,0.0,0.05,0.17,1.33
 "LIC MF Debt Hybrid Fund",2.0,0.0,0.05,0.2,2.25,1.11,0.0,0.05,0.17,1.33
 "LIC MF Dividend Yield Fund",2.24,0.0,0.05,0.2,2.49,1.21,0.0,0.05,0.19,1.45
-"LIC MF ELSS",1.9,0.0,0.0,0.13,2.03,0.87,0.0,0.0,0.13,1.0
+"LIC MF ELSS",2.07,0.0,0.0,0.17,2.24,1.06,0.0,0.0,0.16,1.22
 "LIC MF Equity Savings Fund",1.85,0.0,0.05,0.14,2.04,0.87,0.0,0.05,0.14,1.06
 "LIC MF Flexi Cap Fund",2.1,0.0,0.05,0.21,2.36,1.33,0.0,0.05,0.21,1.59
 "LIC MF Focused 30 Equity Fund",2.24,0.0,0.05,0.22,2.51,1.31,0.0,0.05,0.21,1.57
@@ -861,8 +861,8 @@
 "LIC MF Government Securities Fund",1.35,0.0,0.05,0.08,1.48,0.63,0.0,0.05,0.08,0.76
 "LIC MF Healthcare Fund",2.24,0.0,0.05,0.15,2.44,1.01,0.0,0.05,0.15,1.21
 "LIC MF Infrastructure Fund",2.25,0.0,0.05,0.22,2.52,1.23,0.0,0.05,0.19,1.47
-"LIC MF Large & Mid Cap Fund",1.5,0.0,0.05,0.03,1.58,0.26,0.0,0.05,0.03,0.34
-"LIC MF Large Cap Fund",1.71,0.0,0.05,0.1,1.86,0.66,0.0,0.05,0.1,0.81
+"LIC MF Large & Mid Cap Fund",1.87,0.0,0.05,0.09,2.01,0.64,0.0,0.05,0.09,0.78
+"LIC MF Large Cap Fund",1.98,0.0,0.05,0.14,2.17,0.93,0.0,0.05,0.14,1.12
 "LIC MF Liquid Fund",0.29,0.0,0.0,0.01,0.3,0.15,0.0,0.0,0.01,0.16
 "LIC MF Long Term Value Fund",2.24,0.0,0.05,0.22,2.51,1.35,0.0,0.05,0.21,1.61
 "LIC MF Low Duration Fund",0.93,0.0,0.0,0.03,0.96,0.24,0.0,0.0,0.03,0.27
@@ -879,10 +879,10 @@
 "LIC MF S & P BSE SENSEX ETF",0.1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0
 "LIC MF S & P BSE SENSEX Index Fund",1.0,0.0,0.05,0.03,1.08,0.3,0.0,0.05,0.03,0.38
 "LIC MF Savings Fund",0.93,0.0,0.0,0.03,0.96,0.24,0.0,0.0,0.03,0.27
-"LIC MF Short Duration Fund",1.29,0.0,0.0,0.04,1.33,0.34,0.0,0.0,0.04,0.38
+"LIC MF Short Duration Fund",1.29,0.0,0.0,0.04,1.33,0.33,0.0,0.0,0.04,0.37
 "LIC MF Small Cap Fund",2.24,0.0,0.05,0.21,2.5,1.27,0.0,0.05,0.21,1.53
 "LIC MF Ultra Short Duration Fund",1.0,0.0,0.0,0.0,1.0,0.75,0.0,0.0,0.0,0.75
-"LIC MF Unit Linked Insurance Scheme (ULIS)",2.25,0.0,0.0,0.13,2.38,1.35,0.0,0.0,0.12,1.47
+"LIC MF Unit Linked Insurance Scheme (ULIS)",2.25,0.0,0.0,0.24,2.49,1.4,0.0,0.0,0.23,1.63
 "Mahindra Manulife Aggressive Hybrid Fund",2.13,0.0,0.05,0.06,2.24,0.45,0.0,0.05,0.06,0.56
 "Mahindra Manulife Arbitrage Fund",1.13,0.0,0.0,0.03,1.16,0.33,0.0,0.0,0.03,0.36
 "Mahindra Manulife Asia Pacific Reits FoF",1.28,0.0,0.05,0.04,1.37,0.33,0.0,0.05,0.04,0.42
