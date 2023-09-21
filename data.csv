@@ -726,12 +726,12 @@
 "Invesco India Gold Fund",0.45,0.0,0.0,0.0,0.45,0.2,0.0,0.0,0.0,0.2
 "Invesco India Growth Opportunities Fund",1.75,0.0,0.05,0.08,1.88,0.56,0.0,0.05,0.08,0.69
 "Invesco India Infrastructure Fund",2.2,0.0,0.05,0.11,2.36,0.79,0.0,0.05,0.11,0.95
-"Invesco India Largecap Fund",2.13,0.0,0.0,0.09,2.22,0.75,0.0,0.0,0.09,0.84
+"Invesco India Largecap Fund",2.14,0.0,0.0,0.09,2.23,0.75,0.0,0.0,0.09,0.84
 "Invesco India Liquid Fund",0.22,0.0,0.0,0.0,0.22,0.15,0.0,0.0,0.0,0.15
 "Invesco India Medium Duration Fund",1.3,0.0,0.0,0.05,1.35,0.35,0.0,0.0,0.05,0.4
 "Invesco India Midcap Fund",1.78,0.0,0.05,0.07,1.9,0.5,0.0,0.05,0.07,0.62
 "Invesco India Money Market Fund",0.53,0.0,0.0,0.02,0.55,0.2,0.0,0.0,0.02,0.22
-"Invesco India Multicap Fund",1.82,0.0,0.05,0.08,1.95,0.58,0.0,0.05,0.08,0.71
+"Invesco India Multicap Fund",1.83,0.0,0.05,0.08,1.96,0.58,0.0,0.05,0.08,0.71
 "Invesco India Nifty 50 Exchange Traded Fund",0.1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0
 "Invesco India Nifty G-SEC JUL 2027 Index Fund",0.29,0.0,0.0,0.0,0.29,0.14,0.0,0.0,0.0,0.14
 "Invesco India Nifty G-SEC SEP 2032 Index Fund",0.29,0.0,0.0,0.0,0.29,0.14,0.0,0.0,0.0,0.14
@@ -1172,9 +1172,9 @@
 "Samco Overnight Fund",0.3,0.0,0.0,0.0,0.3,0.1,0.0,0.0,0.0,0.1
 "SBI Arbitrage Opportunities Fund",0.91,0.0,0.0,0.06,0.97,0.34,0.0,0.0,0.06,0.4
 "SBI Balanced Advantage Fund",1.49,0.0,0.05,0.1,1.64,0.59,0.0,0.05,0.1,0.74
-"SBI Banking & Financial Services Fund",1.73,0.02,0.05,0.1,1.9,0.62,0.0,0.05,0.1,0.77
+"SBI Banking & Financial Services Fund",1.74,0.02,0.05,0.1,1.91,0.63,0.0,0.05,0.1,0.78
 "SBI Banking & PSU Fund",0.77,0.0,0.0,0.04,0.81,0.3,0.0,0.0,0.04,0.34
-"SBI Blue Chip Fund",1.4,0.02,0.05,0.12,1.59,0.71,0.0,0.05,0.12,0.88
+"SBI Blue Chip Fund",1.4,0.03,0.05,0.12,1.6,0.71,0.0,0.05,0.12,0.88
 "SBI Conservative Hybrid Fund",0.98,0.0,0.05,0.08,1.11,0.48,0.0,0.05,0.08,0.61
 "SBI Consumption Opportunities Fund",1.94,0.04,0.05,0.14,2.17,0.89,0.0,0.05,0.14,1.08
 "SBI Contra Fund",1.54,0.04,0.05,0.09,1.72,0.62,0.0,0.05,0.09,0.76
@@ -1195,12 +1195,12 @@
 "SBI Gold ETF",0.58,0.0,0.0,0.06,0.64,0.0,0.0,0.0,0.0,0.0
 "SBI Gold Fund",0.42,0.0,0.0,0.0,0.42,0.1,0.0,0.0,0.0,0.1
 "SBI Healthcare Opportunities Fund",1.9,0.01,0.05,0.14,2.1,0.84,0.0,0.05,0.14,1.03
-"SBI Infrastructure Fund",1.92,0.01,0.05,0.25,2.23,1.45,0.0,0.05,0.25,1.75
+"SBI Infrastructure Fund",1.93,0.02,0.05,0.25,2.25,1.46,0.0,0.05,0.25,1.76
 "SBI International Access - US Equity FoF",1.47,0.0,0.0,0.13,1.6,0.77,0.0,0.0,0.13,0.9
 "SBI Large & Midcap Fund",1.55,0.04,0.05,0.1,1.74,0.69,0.0,0.05,0.1,0.84
 "SBI Liquid Fund",0.28,0.0,0.0,0.02,0.3,0.16,0.0,0.0,0.02,0.18
 "SBI Long Duration Fund",0.65,0.0,0.0,0.02,0.67,0.2,0.0,0.0,0.02,0.22
-"SBI Long Term Equity Fund",1.54,0.05,0.0,0.15,1.74,0.86,0.0,0.0,0.15,1.01
+"SBI Long Term Equity Fund",1.55,0.06,0.0,0.15,1.76,0.87,0.0,0.0,0.15,1.02
 "SBI Magnum Children's Benefit Fund - Investment Plan",2.0,0.05,0.0,0.12,2.17,0.81,0.0,0.0,0.12,0.93
 "SBI Magnum Children's Benefit Fund - Savings Plan",1.1,0.0,0.0,0.06,1.16,0.75,0.0,0.0,0.06,0.81
 "SBI Magnum Comma Fund",2.23,0.0,0.05,0.29,2.57,1.69,0.0,0.05,0.29,2.03
@@ -1211,10 +1211,10 @@
 "SBI Magnum Income Fund",1.35,0.0,0.0,0.11,1.46,0.69,0.0,0.0,0.11,0.8
 "SBI Magnum Low Duration Fund",0.96,0.0,0.0,0.05,1.01,0.33,0.0,0.0,0.05,0.38
 "SBI Magnum Medium Duration Fund",1.12,0.0,0.0,0.09,1.21,0.59,0.0,0.0,0.09,0.68
-"SBI Magnum Midcap Fund",1.57,0.04,0.05,0.12,1.78,0.72,0.0,0.05,0.12,0.89
+"SBI Magnum Midcap Fund",1.57,0.05,0.05,0.12,1.79,0.72,0.0,0.05,0.12,0.89
 "SBI Magnum Ultra Short Duration Fund",0.5,0.0,0.0,0.04,0.54,0.27,0.0,0.0,0.04,0.31
 "SBI Multi Asset Allocation Fund",1.57,0.01,0.05,0.11,1.74,0.72,0.0,0.05,0.11,0.88
-"SBI Multicap Fund",1.57,0.03,0.05,0.14,1.79,0.75,0.0,0.05,0.14,0.94
+"SBI Multicap Fund",1.57,0.04,0.05,0.14,1.8,0.75,0.0,0.05,0.14,0.94
 "SBI Nifty 10 Yr Benchmark G-SEC ETF",0.14,0.0,0.0,0.0,0.14,0.0,0.0,0.0,0.0,0.0
 "SBI Nifty 200 Quality 30 ETF",0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0
 "SBI Nifty 50 ETF",0.04,0.0,0.0,0.0,0.04,0.0,0.0,0.0,0.0,0.0
@@ -1228,10 +1228,10 @@
 "SBI Nifty Private Bank ETF",0.15,0.0,0.0,0.0,0.15,0.0,0.0,0.0,0.0,0.0
 "SBI Nifty Smallcap 250 Index Fund",0.95,0.0,0.0,0.06,1.01,0.35,0.0,0.0,0.06,0.41
 "SBI Overnight Fund",0.17,0.0,0.0,0.01,0.18,0.09,0.0,0.0,0.01,0.1
-"SBI PSU Fund",2.13,0.04,0.05,0.18,2.4,1.05,0.0,0.05,0.18,1.28
-"SBI Retirement Benefit Fund - Aggressive Hybrid Plan",2.02,0.02,0.0,0.15,2.19,0.95,0.0,0.0,0.15,1.1
-"SBI Retirement Benefit Fund - Aggressive Plan",1.92,0.04,0.0,0.11,2.07,0.74,0.0,0.0,0.11,0.85
-"SBI Retirement Benefit Fund - Conservative Hybrid Plan",1.5,0.02,0.0,0.13,1.65,0.98,0.0,0.0,0.13,1.11
+"SBI PSU Fund",2.14,0.05,0.05,0.18,2.42,1.06,0.0,0.05,0.18,1.29
+"SBI Retirement Benefit Fund - Aggressive Hybrid Plan",2.03,0.02,0.0,0.15,2.2,0.96,0.0,0.0,0.15,1.11
+"SBI Retirement Benefit Fund - Aggressive Plan",1.93,0.04,0.0,0.11,2.08,0.75,0.0,0.0,0.11,0.86
+"SBI Retirement Benefit Fund - Conservative Hybrid Plan",1.5,0.01,0.0,0.13,1.64,0.98,0.0,0.0,0.13,1.11
 "SBI Retirement Benefit Fund - Conservative Plan",1.25,0.0,0.0,0.12,1.37,0.77,0.0,0.0,0.12,0.89
 "SBI S&P BSE 100 ETF",0.14,0.0,0.0,0.0,0.14,0.0,0.0,0.0,0.0,0.0
 "SBI S&P BSE SENSEX ETF",0.04,0.0,0.0,0.0,0.04,0.0,0.0,0.0,0.0,0.0
@@ -1354,7 +1354,7 @@
 "Union Gilt Fund",1.08,0.0,0.0,0.06,1.14,0.46,0.0,0.0,0.06,0.52
 "Union Hybrid Equity Fund",2.22,0.0,0.05,0.17,2.44,1.09,0.0,0.05,0.17,1.31
 "Union Innovation & Opportunities Fund",2.25,0.0,0.05,0.1,2.4,0.75,0.0,0.05,0.1,0.9
-"Union Large & Midcap Fund",2.23,0.0,0.05,0.12,2.4,0.86,0.0,0.05,0.12,1.03
+"Union Large & Midcap Fund",2.23,0.0,0.05,0.13,2.41,0.86,0.0,0.05,0.13,1.04
 "Union Largecap Fund",2.25,0.0,0.05,0.23,2.53,1.44,0.0,0.05,0.23,1.72
 "Union Liquid Fund",0.17,0.0,0.0,0.01,0.18,0.07,0.0,0.0,0.01,0.08
 "Union Medium Duration Fund",0.82,0.0,0.0,0.08,0.9,0.59,0.0,0.0,0.08,0.67
@@ -1363,7 +1363,7 @@
 "Union Multicap Fund",2.21,0.0,0.05,0.12,2.38,0.8,0.0,0.05,0.12,0.97
 "Union Overnight Fund",0.18,0.0,0.0,0.0,0.18,0.08,0.0,0.0,0.0,0.08
 "Union Retirement Fund",2.25,0.0,0.0,0.04,2.29,0.55,0.0,0.0,0.04,0.59
-"Union Small Cap Fund",2.03,0.0,0.05,0.12,2.2,0.85,0.0,0.05,0.12,1.02
+"Union Small Cap Fund",2.04,0.0,0.05,0.12,2.21,0.86,0.0,0.05,0.12,1.03
 "Union Tax Saver (ELSS) Fund (Formerly Union Long Term Equity Fund)",2.17,0.0,0.0,0.18,2.35,1.24,0.0,0.0,0.18,1.42
 "Union Value Discovery Fund",2.24,0.0,0.05,0.2,2.49,1.26,0.0,0.05,0.2,1.51
 "UTI - Arbitrage Fund",0.9,0.0,0.0,0.01,0.91,0.35,0.0,0.0,0.01,0.36
