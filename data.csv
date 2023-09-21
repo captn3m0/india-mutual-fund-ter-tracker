@@ -288,7 +288,7 @@
 "Baroda BNP Paribas Nifty SDL December 2028 Index Fund",0.47,0.0,0.0,0.02,0.49,0.17,0.0,0.0,0.02,0.19
 "Baroda BNP Paribas Overnight Fund",0.16,0.0,0.0,0.01,0.17,0.08,0.0,0.0,0.01,0.09
 "Baroda BNP Paribas Short Duration Fund",1.0,0.0,0.0,0.05,1.05,0.33,0.0,0.0,0.05,0.38
-"Baroda BNP Paribas Ultra Short Duration Fund",0.44,0.0,0.0,0.04,0.48,0.26,0.0,0.0,0.04,0.3
+"Baroda BNP Paribas Ultra Short Duration Fund",0.44,0.0,0.0,0.03,0.47,0.26,0.0,0.0,0.03,0.29
 "Baroda BNP Paribas Value Fund",1.94,0.0,0.05,0.03,2.02,0.24,0.0,0.05,0.03,0.32
 "Bharat 22 ETF",0.05,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.0,0.0
 "Bharat Bond ETF - April 2030",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -302,7 +302,7 @@
 "Bharat Bond FoF- April 2025",0.0,0.0,0.05,0.01,0.06,0.0,0.0,0.05,0.01,0.06
 "Bharat Bond FoF- April 2031",0.0,0.0,0.05,0.01,0.06,0.0,0.0,0.05,0.01,0.06
 "Canara Robeco Banking and PSU Debt Fund",0.67,0.0,0.0,0.04,0.71,0.34,0.0,0.0,0.04,0.38
-"Canara Robeco Bluechip Equity Fund",1.61,0.0,0.05,0.05,1.71,0.34,0.0,0.05,0.05,0.44
+"Canara Robeco Bluechip Equity Fund",1.61,0.0,0.05,0.05,1.71,0.35,0.0,0.05,0.05,0.45
 "Canara Robeco Conservative Hybrid Fund",1.68,0.0,0.05,0.08,1.81,0.47,0.0,0.05,0.08,0.6
 "Canara Robeco Consumer Trends Fund",2.02,0.0,0.05,0.12,2.19,0.72,0.0,0.05,0.12,0.89
 "Canara Robeco Corporate Bond Fund",0.98,0.0,0.0,0.05,1.03,0.3,0.0,0.0,0.04,0.34
@@ -852,8 +852,8 @@
 "LIC MF Conservative Hybrid Fund",2.0,0.0,0.05,0.2,2.25,1.06,0.0,0.05,0.16,1.27
 "LIC MF Debt Hybrid Fund",2.0,0.0,0.05,0.2,2.25,1.11,0.0,0.05,0.17,1.33
 "LIC MF Dividend Yield Fund",2.24,0.0,0.05,0.2,2.49,1.2,0.0,0.05,0.19,1.44
-"LIC MF ELSS",2.07,0.0,0.0,0.17,2.24,1.06,0.0,0.0,0.16,1.22
-"LIC MF Equity Savings Fund",1.85,0.0,0.05,0.14,2.04,0.85,0.0,0.05,0.14,1.04
+"LIC MF ELSS",2.07,0.0,0.0,0.17,2.24,1.06,0.0,0.0,0.17,1.23
+"LIC MF Equity Savings Fund",1.81,0.0,0.05,0.13,1.99,0.82,0.0,0.05,0.13,1.0
 "LIC MF Flexi Cap Fund",2.1,0.0,0.05,0.21,2.36,1.33,0.0,0.05,0.21,1.59
 "LIC MF Focused 30 Equity Fund",2.24,0.0,0.05,0.22,2.51,1.3,0.0,0.05,0.21,1.56
 "LIC MF Gilt Fund",1.35,0.0,0.05,0.08,1.48,0.63,0.0,0.05,0.08,0.76
@@ -1049,7 +1049,7 @@
 "Nippon India ETF Nifty SDL APR 2026 Top 20 Equal Weight",0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.2
 "Nippon India ETF S&P BSE SENSEX",0.0,0.0,0.0,0.0,0.0,0.04,0.0,0.0,0.0,0.04
 "Nippon India ETF S&P BSE SENSEX Next 50",0.0,0.0,0.0,0.0,0.0,0.23,0.0,0.0,0.0,0.23
-"Nippon India Flexi Cap Fund",1.72,0.0,0.05,0.05,1.82,0.36,0.0,0.05,0.05,0.46
+"Nippon India Flexi Cap Fund",1.73,0.0,0.05,0.05,1.83,0.37,0.0,0.05,0.05,0.47
 "Nippon India Floating Rate Fund",0.55,0.0,0.0,0.03,0.58,0.28,0.0,0.0,0.03,0.31
 "Nippon India Focused Equity Fund",1.65,0.0,0.05,0.16,1.86,0.95,0.0,0.05,0.16,1.16
 "Nippon India Gilt Securities Fund",1.27,0.0,0.05,0.08,1.4,0.5,0.0,0.05,0.08,0.63
@@ -1066,7 +1066,7 @@
 "Nippon India Low Duration Fund",0.89,0.0,0.0,0.05,0.94,0.33,0.0,0.0,0.05,0.38
 "Nippon India Money Market Fund",0.33,0.0,0.0,0.02,0.35,0.22,0.0,0.0,0.02,0.24
 "Nippon India Multi Asset Fund",1.61,0.0,0.05,0.05,1.71,0.33,0.0,0.05,0.05,0.43
-"Nippon India Multi Cap Fund",1.5,0.0,0.05,0.13,1.68,0.76,0.0,0.05,0.13,0.94
+"Nippon India Multi Cap Fund",1.51,0.0,0.05,0.13,1.69,0.76,0.0,0.05,0.13,0.94
 "Nippon India Nifty 50 Value 20 Index Fund",0.68,0.0,0.0,0.0,0.68,0.2,0.0,0.0,0.0,0.2
 "Nippon India Nifty AAA CPSE Bond Plus SDL - APR 2027 Maturity 60:40 Index Fund",0.29,0.0,0.0,0.01,0.3,0.14,0.0,0.0,0.01,0.15
 "Nippon India Nifty AAA PSU Bond Plus SDL - SEP 2026 Maturity 50:50 Index Fund",0.38,0.0,0.0,0.01,0.39,0.19,0.0,0.0,0.01,0.2
@@ -1094,8 +1094,8 @@
 "Nippon India Silver ETF FoF",0.5,0.0,0.05,0.03,0.58,0.15,0.0,0.05,0.03,0.23
 "Nippon India Small Cap Fund",1.41,0.0,0.05,0.09,1.55,0.57,0.0,0.05,0.09,0.71
 "Nippon India Strategic Debt Fund (Number of Segregated Portfolios - 2)",1.68,0.0,0.05,0.2,1.93,1.13,0.0,0.05,0.2,1.38
-"Nippon India Taiwan Equity Fund",2.24,0.0,0.05,0.12,2.41,0.82,0.0,0.05,0.12,0.99
-"Nippon India Tax Saver (ELSS) Fund",1.57,0.0,0.0,0.14,1.71,0.89,0.0,0.0,0.14,1.03
+"Nippon India Taiwan Equity Fund",2.25,0.0,0.05,0.13,2.43,0.83,0.0,0.05,0.13,1.01
+"Nippon India Tax Saver (ELSS) Fund",1.58,0.0,0.0,0.14,1.72,0.9,0.0,0.0,0.14,1.04
 "Nippon India Ultra Short Duration Fund (Number of Segregated Portfolio -1)",1.12,0.0,0.0,0.04,1.16,0.33,0.0,0.0,0.04,0.37
 "Nippon India US Equity Opportunites Fund",2.19,0.0,0.05,0.17,2.41,1.05,0.0,0.05,0.17,1.27
 "Nippon India Value Fund",1.69,0.0,0.05,0.16,1.9,0.96,0.0,0.05,0.16,1.17
@@ -1118,7 +1118,7 @@
 "PGIM India ELSS Tax Saver Fund (Earlier Known as PGIM India Long Term Equity Fund)",2.21,0.0,0.0,0.11,2.32,0.73,0.0,0.0,0.11,0.84
 "PGIM India Emerging Markets Equity Fund",1.5,0.0,0.05,0.07,1.62,0.45,0.0,0.05,0.07,0.57
 "PGIM India Equity Savings Fund",1.25,0.0,0.0,0.06,1.31,0.46,0.0,0.0,0.05,0.51
-"PGIM India Flexi Cap Fund",1.68,0.0,0.05,0.04,1.77,0.3,0.0,0.05,0.04,0.39
+"PGIM India Flexi Cap Fund",1.68,0.0,0.05,0.05,1.78,0.3,0.0,0.05,0.04,0.39
 "PGIM India Gilt Fund",1.4,0.0,0.0,0.06,1.46,0.39,0.0,0.0,0.05,0.44
 "PGIM India Global Equity Opportunities Fund",1.42,0.0,0.05,0.08,1.55,0.47,0.0,0.05,0.08,0.6
 "PGIM India Global Select Real Estate Securities Fund of Fund",1.31,0.0,0.05,0.07,1.43,0.47,0.0,0.05,0.07,0.59
@@ -1258,13 +1258,13 @@
 "Sundaram Diversified Equity",1.94,0.0,0.0,0.22,2.16,1.36,0.0,0.0,0.22,1.58
 "Sundaram Dividend Yield Fund (Formerly Known as Principal Dividend Yield Fund)",2.21,0.0,0.05,0.2,2.45,1.19,0.0,0.05,0.2,1.43
 "Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund)",2.2,0.0,0.0,0.06,2.26,0.52,0.0,0.0,0.06,0.58
-"Sundaram Financial Services Opportunities Fund",2.11,0.0,0.05,0.11,2.27,0.72,0.0,0.05,0.11,0.88
+"Sundaram Financial Services Opportunities Fund",2.12,0.0,0.05,0.11,2.28,0.73,0.0,0.05,0.11,0.89
 "Sundaram Flexicap Fund",1.89,0.0,0.05,0.0,1.94,0.17,0.0,0.05,0.0,0.22
-"Sundaram Focused Fund (Formerly Known as Principal Focused Multicap Fund)",2.08,0.0,0.05,0.17,2.31,1.05,0.0,0.05,0.17,1.28
+"Sundaram Focused Fund (Formerly Known as Principal Focused Multicap Fund)",2.09,0.0,0.05,0.17,2.31,1.06,0.0,0.05,0.17,1.28
 "Sundaram Global Brand Fund",2.2,0.0,0.05,0.03,2.28,1.19,0.0,0.05,0.02,1.26
-"Sundaram Infrastructure Advantage Fund (Erstwhile Sundaram Capex Opportunities)",2.17,0.0,0.05,0.27,2.49,1.63,0.0,0.05,0.27,1.95
+"Sundaram Infrastructure Advantage Fund (Erstwhile Sundaram Capex Opportunities)",2.17,0.0,0.05,0.27,2.5,1.63,0.0,0.05,0.27,1.96
 "Sundaram Large and Midcap Fund",1.7,0.0,0.05,0.09,1.84,0.6,0.0,0.05,0.09,0.74
-"Sundaram Large Cap Fund ( Formerly Know as Sundaram Blue Chip Fund)",1.79,0.0,0.05,0.06,1.91,0.46,0.0,0.05,0.06,0.58
+"Sundaram Large Cap Fund ( Formerly Know as Sundaram Blue Chip Fund)",1.8,0.0,0.05,0.06,1.91,0.47,0.0,0.05,0.06,0.58
 "Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund)",0.27,0.0,0.0,0.02,0.29,0.15,0.0,0.0,0.02,0.17
 "Sundaram Low Duration Fund (Formerly Known as Principal Low Duration Fund)",1.25,0.0,0.0,0.03,1.28,0.3,0.0,0.0,0.03,0.33
 "Sundaram Medium Term Bond Fund",2.0,0.0,0.0,0.17,2.17,1.09,0.0,0.0,0.17,1.26
@@ -1401,11 +1401,11 @@
 "UTI - Retirement Benefit Pension Fund",1.5,0.0,0.05,0.11,1.66,0.83,0.0,0.05,0.11,0.99
 "UTI - S&P BSE SENSEX Next 50 Exchange Traded Fund",0.2,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0
 "UTI - Short Term Income Fund",0.9,0.0,0.0,0.05,0.95,0.3,0.0,0.0,0.02,0.32
-"UTI - Transportation and Logistics Fund",1.85,0.0,0.05,0.09,1.99,0.68,0.0,0.05,0.09,0.82
+"UTI - Transportation and Logistics Fund",1.86,0.0,0.05,0.09,2.0,0.69,0.0,0.05,0.09,0.83
 "UTI - Treasury Advantage Fund",0.4,0.0,0.0,0.04,0.44,0.31,0.0,0.0,0.04,0.35
 "UTI - Ultra Short Term Fund",0.9,0.0,0.0,0.05,0.95,0.38,0.0,0.0,0.05,0.43
 "UTI - Unit Linked Insurance Plan",1.46,0.0,0.05,0.11,1.62,0.74,0.0,0.05,0.11,0.9
-"UTI - Value Opportunities Fund",1.64,0.0,0.05,0.14,1.83,0.91,0.0,0.05,0.14,1.1
+"UTI - Value Opportunities Fund",1.65,0.0,0.05,0.14,1.84,0.92,0.0,0.05,0.14,1.11
 "UTI Balanced Advantage Fund",1.86,0.0,0.05,0.04,1.95,0.41,0.0,0.05,0.04,0.5
 "UTI CRISIL SDL Maturity April 2033 Index Fund",0.4,0.0,0.0,0.02,0.42,0.13,0.0,0.0,0.02,0.15
 "UTI CRISIL SDL Maturity June 2027 Index Fund",0.4,0.0,0.0,0.02,0.42,0.13,0.0,0.0,0.02,0.15
