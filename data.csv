@@ -463,9 +463,9 @@
 "Groww Short Duration Fund (Formerly Known as Indiabulls Short Term Fund)",1.2,0.0,0.0,0.0,1.2,0.4,0.0,0.0,0.0,0.4
 "Groww Value Fund (Formerly Known as Indiabulls Value Fund)",2.25,0.0,0.05,0.0,2.3,1.08,0.0,0.05,0.0,1.13
 "HDFC Arbitrage Fund",0.9,0.0,0.0,0.06,0.96,0.4,0.0,0.0,0.06,0.46
-"HDFC Asset Allocator Fund of Funds",1.2,0.0,0.05,0.0,1.25,0.08,0.0,0.05,0.0,0.13
+"HDFC Asset Allocator Fund of Funds",1.2,0.0,0.05,0.0,1.25,0.1,0.0,0.05,0.0,0.15
 "HDFC Balanced Advantage Fund",1.28,0.0,0.05,0.12,1.45,0.66,0.0,0.05,0.12,0.83
-"HDFC Banking & Financial Services Fund",1.82,0.0,0.05,0.07,1.94,0.41,0.0,0.05,0.07,0.53
+"HDFC Banking & Financial Services Fund",1.81,0.0,0.05,0.07,1.93,0.4,0.0,0.05,0.07,0.52
 "HDFC Banking and PSU Debt Fund",0.76,0.0,0.0,0.05,0.81,0.34,0.0,0.0,0.05,0.39
 "HDFC Business Cycle Fund",1.82,0.0,0.05,0.07,1.94,0.39,0.0,0.05,0.07,0.51
 "HDFC Capital Builder Value Fund",1.69,0.0,0.05,0.15,1.89,0.81,0.0,0.05,0.15,1.01
@@ -475,8 +475,8 @@
 "HDFC Defence Fund",1.99,0.0,0.05,0.14,2.18,0.72,0.0,0.05,0.14,0.91
 "HDFC Developed World Indexes Fund of Funds",0.64,0.0,0.05,0.0,0.69,0.16,0.0,0.05,0.0,0.21
 "HDFC Dividend Yield Fund",1.76,0.0,0.05,0.06,1.87,0.36,0.0,0.05,0.06,0.47
-"HDFC Dynamic Debt Fund",1.67,0.0,0.0,0.05,1.72,0.64,0.0,0.0,0.05,0.69
-"HDFC Dynamic PE Ratio Fund of Funds",1.0,0.0,0.0,0.0,1.0,0.22,0.0,0.0,0.0,0.22
+"HDFC Dynamic Debt Fund",1.43,0.0,0.0,0.05,1.48,0.64,0.0,0.0,0.05,0.69
+"HDFC Dynamic PE Ratio Fund of Funds",1.0,0.0,0.0,0.0,1.0,0.26,0.0,0.0,0.0,0.26
 "HDFC Equity Savings Fund",1.8,0.0,0.05,0.16,2.01,0.89,0.0,0.05,0.16,1.1
 "HDFC Flexi Cap Fund",1.4,0.0,0.05,0.14,1.59,0.75,0.0,0.05,0.14,0.94
 "HDFC Floating Rate Debt Fund",0.45,0.0,0.0,0.03,0.48,0.23,0.0,0.0,0.03,0.26
@@ -487,11 +487,11 @@
 "HDFC Housing Opportunities Fund",2.02,0.0,0.05,0.18,2.25,1.02,0.0,0.05,0.18,1.25
 "HDFC Hybrid Debt Fund",1.56,0.0,0.05,0.19,1.8,1.06,0.0,0.05,0.19,1.3
 "HDFC Hybrid Equity Fund",1.51,0.0,0.05,0.15,1.71,0.88,0.0,0.05,0.15,1.08
-"HDFC Income Fund",1.95,0.0,0.0,0.11,2.06,0.69,0.0,0.0,0.11,0.8
+"HDFC Income Fund",1.29,0.0,0.0,0.11,1.4,0.69,0.0,0.0,0.11,0.8
 "HDFC Index Fund-Nifty 50 Plan",0.4,0.0,0.0,0.0,0.4,0.2,0.0,0.0,0.0,0.2
 "HDFC Index Fund-S&P BSE SENSEX Plan",0.4,0.0,0.0,0.0,0.4,0.2,0.0,0.0,0.0,0.2
 "HDFC Infrastructure Fund",2.1,0.0,0.05,0.25,2.4,1.37,0.0,0.05,0.25,1.67
-"HDFC Large and Mid Cap Fund",1.59,0.0,0.05,0.14,1.78,0.79,0.0,0.05,0.14,0.98
+"HDFC Large and Mid Cap Fund",1.59,0.0,0.05,0.14,1.78,0.76,0.0,0.05,0.14,0.95
 "HDFC Liquid Fund",0.3,0.0,0.0,0.0,0.3,0.2,0.0,0.0,0.0,0.2
 "HDFC Long Duration Debt Fund",0.6,0.0,0.0,0.0,0.6,0.25,0.0,0.0,0.0,0.25
 "HDFC Low Duration Fund",0.99,0.0,0.0,0.05,1.04,0.4,0.0,0.0,0.05,0.45
@@ -510,8 +510,8 @@
 "HDFC Nifty G-SEC APR 2029 Index Fund",0.37,0.0,0.0,0.0,0.37,0.2,0.0,0.0,0.0,0.2
 "HDFC Nifty G-SEC DEC 2026 Index Fund",0.36,0.0,0.0,0.0,0.36,0.2,0.0,0.0,0.0,0.2
 "HDFC Nifty G-SEC July 2031 Index Fund",0.37,0.0,0.0,0.0,0.37,0.2,0.0,0.0,0.0,0.2
-"HDFC Nifty G-SEC JUN 2027 Index Fund",0.37,0.0,0.0,0.0,0.37,0.2,0.0,0.0,0.0,0.2
-"HDFC Nifty G-SEC JUN 2036 Index Fund",0.4,0.0,0.0,0.0,0.4,0.2,0.0,0.0,0.0,0.2
+"HDFC Nifty G-SEC JUN 2027 Index Fund",0.34,0.0,0.0,0.0,0.34,0.2,0.0,0.0,0.0,0.2
+"HDFC Nifty G-SEC JUN 2036 Index Fund",0.38,0.0,0.0,0.0,0.38,0.2,0.0,0.0,0.0,0.2
 "HDFC Nifty G-SEC SEP 2032 Index Fund",0.38,0.0,0.0,0.0,0.38,0.2,0.0,0.0,0.0,0.2
 "HDFC Nifty Growth Sectors 15 ETF",0.3,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0
 "HDFC Nifty IT ETF",0.2,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0
@@ -520,7 +520,7 @@
 "HDFC Nifty Next 50 ETF",0.15,0.0,0.0,0.0,0.15,0.0,0.0,0.0,0.0,0.0
 "HDFC Nifty Next 50 Index Fund",0.8,0.0,0.0,0.0,0.8,0.3,0.0,0.0,0.0,0.3
 "HDFC Nifty Private Bank ETF",0.15,0.0,0.0,0.0,0.15,0.0,0.0,0.0,0.0,0.0
-"HDFC Nifty SDL OCT 2026 Index Fund",0.37,0.0,0.0,0.0,0.37,0.2,0.0,0.0,0.0,0.2
+"HDFC Nifty SDL OCT 2026 Index Fund",0.34,0.0,0.0,0.0,0.34,0.2,0.0,0.0,0.0,0.2
 "HDFC Nifty SDL Plus G-SEC JUN 2027 40:60 Index Fund",0.35,0.0,0.0,0.0,0.35,0.2,0.0,0.0,0.0,0.2
 "HDFC Nifty Smallcap 250 ETF",0.2,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0
 "HDFC Nifty Smallcap 250 Index Fund",1.0,0.0,0.0,0.0,1.0,0.3,0.0,0.0,0.0,0.3
@@ -529,17 +529,17 @@
 "HDFC Nifty200 Momentum 30 ETF",0.3,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0
 "HDFC Nifty50 Equal Weight Index Fund",1.0,0.0,0.0,0.05,1.05,0.35,0.0,0.0,0.05,0.4
 "HDFC Nifty50 Value 20 ETF",0.15,0.0,0.0,0.0,0.15,0.0,0.0,0.0,0.0,0.0
-"HDFC Non-Cyclical Consumer Fund",2.24,0.0,0.05,0.17,2.46,1.05,0.0,0.05,0.17,1.27
+"HDFC Non-Cyclical Consumer Fund",2.24,0.0,0.05,0.17,2.46,0.97,0.0,0.05,0.17,1.19
 "HDFC Overnight Fund",0.2,0.0,0.0,0.0,0.2,0.1,0.0,0.0,0.0,0.1
 "HDFC Retirement Savings Fund - Equity Plan",1.76,0.0,0.0,0.11,1.87,0.62,0.0,0.0,0.11,0.73
-"HDFC Retirement Savings Fund - Hybrid-Debt Plan",2.0,0.0,0.0,0.14,2.14,0.85,0.0,0.0,0.14,0.99
+"HDFC Retirement Savings Fund - Hybrid-Debt Plan",2.0,0.0,0.0,0.14,2.14,0.82,0.0,0.0,0.14,0.96
 "HDFC Retirement Savings Fund - Hybrid-Equity Plan",2.02,0.0,0.0,0.14,2.16,0.82,0.0,0.0,0.14,0.96
 "HDFC S&P BSE 500 ETF",0.3,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0
 "HDFC S&P BSE 500 Index Fund",1.0,0.0,0.0,0.0,1.0,0.3,0.0,0.0,0.0,0.3
 "HDFC S&P BSE SENSEX ETF",0.05,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.0,0.0
 "HDFC Short Term Debt Fund",0.72,0.0,0.0,0.02,0.74,0.32,0.0,0.0,0.02,0.34
 "HDFC Silver ETF",0.4,0.0,0.0,0.0,0.4,0.0,0.0,0.0,0.0,0.0
-"HDFC Silver ETF Fund of Fund",0.6,0.0,0.0,0.0,0.6,0.2,0.0,0.0,0.0,0.2
+"HDFC Silver ETF Fund of Fund",0.6,0.0,0.0,0.0,0.6,0.27,0.0,0.0,0.0,0.27
 "HDFC Small Cap Fund",1.5,0.0,0.05,0.1,1.65,0.6,0.0,0.05,0.1,0.75
 "HDFC Taxsaver",1.59,0.0,0.0,0.16,1.75,0.99,0.0,0.0,0.16,1.15
 "HDFC Technology Fund",2.19,0.0,0.05,0.15,2.39,0.99,0.0,0.05,0.15,1.19
@@ -599,7 +599,7 @@
 "ICICI Prudential Bond Fund",1.11,0.0,0.0,0.0,1.11,0.6,0.0,0.0,0.0,0.6
 "ICICI Prudential Business Cycle Fund",1.67,0.0,0.05,0.11,1.83,0.65,0.0,0.05,0.11,0.81
 "ICICI Prudential Child Care Fund (Gift Plan)",2.06,0.0,0.0,0.2,2.26,1.34,0.0,0.0,0.2,1.54
-"ICICI Prudential Commodities Fund",1.98,0.0,0.05,0.15,2.18,0.77,0.0,0.05,0.15,0.97
+"ICICI Prudential Commodities Fund",1.99,0.0,0.05,0.15,2.19,0.78,0.0,0.05,0.15,0.98
 "ICICI Prudential Constant Maturity Gilt Fund",0.39,0.0,0.0,0.0,0.39,0.23,0.0,0.0,0.0,0.23
 "ICICI Prudential Corporate Bond Fund",0.53,0.0,0.0,0.0,0.53,0.32,0.0,0.0,0.0,0.32
 "ICICI Prudential Credit Risk Fund",1.39,0.0,0.05,0.13,1.57,0.74,0.0,0.05,0.13,0.92
@@ -613,7 +613,7 @@
 "ICICI Prudential Flexicap Fund",1.58,0.0,0.05,0.09,1.72,0.54,0.0,0.05,0.09,0.68
 "ICICI Prudential Floating Interest Fund",1.28,0.0,0.0,0.0,1.28,0.62,0.0,0.0,0.0,0.62
 "ICICI Prudential FMCG Fund",1.97,0.0,0.05,0.2,2.22,1.15,0.0,0.05,0.2,1.4
-"ICICI Prudential Focused Equity Fund",1.71,0.0,0.05,0.1,1.86,0.53,0.0,0.05,0.1,0.68
+"ICICI Prudential Focused Equity Fund",1.7,0.0,0.05,0.1,1.85,0.52,0.0,0.05,0.1,0.67
 "ICICI Prudential Gilt Fund",1.09,0.0,0.0,0.0,1.09,0.56,0.0,0.0,0.0,0.56
 "ICICI Prudential Global Advantage Fund (FoF)",1.17,0.0,0.05,0.07,1.29,0.47,0.0,0.05,0.07,0.59
 "ICICI Prudential Global Stable Equity Fund (FoF)",1.31,0.0,0.05,0.12,1.48,0.79,0.0,0.05,0.12,0.96
