@@ -383,7 +383,7 @@
 "DSP World Gold Fund of Fund",2.25,0.0,0.0,0.09,2.34,1.64,0.0,0.0,0.09,1.73
 "DSP World Mining Fund",2.12,0.0,0.0,0.05,2.17,1.46,0.0,0.0,0.05,1.51
 "Edelweiss Aggressive Hybrid Fund",2.09,0.0,0.05,0.07,2.21,0.45,0.0,0.05,0.07,0.57
-"Edelweiss Arbitrage Fund",1.05,0.0,0.0,0.05,1.1,0.34,0.0,0.0,0.05,0.39
+"Edelweiss Arbitrage Fund",1.04,0.0,0.0,0.05,1.09,0.34,0.0,0.0,0.05,0.39
 "Edelweiss ASEAN Equity Off-shore Fund",1.28,0.0,0.05,0.09,1.42,0.57,0.0,0.05,0.09,0.71
 "Edelweiss Balanced Advantage Fund",1.61,0.0,0.05,0.06,1.72,0.37,0.0,0.05,0.06,0.48
 "Edelweiss Banking and PSU Debt Fund",0.65,0.0,0.0,0.05,0.7,0.34,0.0,0.0,0.05,0.39
@@ -472,7 +472,7 @@
 "HDFC Childrens Gift Fund",1.65,0.0,0.0,0.14,1.79,0.82,0.0,0.0,0.14,0.96
 "HDFC Corporate Bond Fund",0.56,0.0,0.0,0.04,0.6,0.31,0.0,0.0,0.04,0.35
 "HDFC Credit Risk Debt Fund",1.38,0.0,0.05,0.14,1.57,0.77,0.0,0.05,0.14,0.96
-"HDFC Defence Fund",1.99,0.0,0.05,0.14,2.18,0.72,0.0,0.05,0.14,0.91
+"HDFC Defence Fund",1.98,0.0,0.05,0.14,2.17,0.71,0.0,0.05,0.14,0.9
 "HDFC Developed World Indexes Fund of Funds",0.64,0.0,0.05,0.0,0.69,0.16,0.0,0.05,0.0,0.21
 "HDFC Dividend Yield Fund",1.76,0.0,0.05,0.06,1.87,0.36,0.0,0.05,0.06,0.47
 "HDFC Dynamic Debt Fund",1.43,0.0,0.0,0.05,1.48,0.64,0.0,0.0,0.05,0.69
@@ -540,10 +540,10 @@
 "HDFC Short Term Debt Fund",0.72,0.0,0.0,0.02,0.74,0.32,0.0,0.0,0.02,0.34
 "HDFC Silver ETF",0.4,0.0,0.0,0.0,0.4,0.0,0.0,0.0,0.0,0.0
 "HDFC Silver ETF Fund of Fund",0.6,0.0,0.0,0.0,0.6,0.27,0.0,0.0,0.0,0.27
-"HDFC Small Cap Fund",1.5,0.0,0.05,0.1,1.65,0.6,0.0,0.05,0.1,0.75
+"HDFC Small Cap Fund",1.49,0.0,0.05,0.1,1.64,0.59,0.0,0.05,0.1,0.74
 "HDFC Taxsaver",1.59,0.0,0.0,0.16,1.75,0.99,0.0,0.0,0.16,1.15
 "HDFC Technology Fund",2.19,0.0,0.05,0.15,2.39,0.99,0.0,0.05,0.15,1.19
-"HDFC Top 100 Fund",1.48,0.0,0.05,0.16,1.69,0.9,0.0,0.05,0.16,1.11
+"HDFC Top 100 Fund",1.47,0.0,0.05,0.16,1.68,0.89,0.0,0.05,0.16,1.1
 "HDFC Transportation and Logistics Fund",2.23,0.0,0.05,0.17,2.45,1.05,0.0,0.05,0.17,1.27
 "HDFC Ultra Short Term Fund",0.65,0.0,0.0,0.04,0.69,0.32,0.0,0.0,0.04,0.36
 "HSBC Aggressive Hybrid Fund",1.72,0.0,0.05,0.11,1.88,0.68,0.0,0.05,0.11,0.84
@@ -1251,27 +1251,27 @@
 "Shriram Overnight Fund",0.15,0.0,0.0,0.0,0.15,0.05,0.0,0.0,0.0,0.05
 "Sundaram Aggressive Hybrid Fund (Formerly Known as Principal Hybrid Equity Fund)",1.77,0.0,0.05,0.09,1.91,0.6,0.0,0.05,0.09,0.74
 "Sundaram Arbitrage Fund(Formerly Known as Prinicpal Arbitrage Fund)",0.85,0.0,0.0,0.02,0.87,0.26,0.0,0.0,0.02,0.28
-"Sundaram Balanced Advantage Fund (Formerly Known as Principal Balanced Advantage Fund)",1.96,0.0,0.05,0.07,2.07,0.48,0.0,0.05,0.07,0.59
+"Sundaram Balanced Advantage Fund (Formerly Known as Principal Balanced Advantage Fund)",1.95,0.0,0.05,0.07,2.07,0.47,0.0,0.05,0.07,0.59
 "Sundaram Banking & PSU Debt Fund",0.37,0.0,0.0,0.02,0.39,0.21,0.0,0.0,0.02,0.23
-"Sundaram Consumption Fund (Formerly Known as Sundaram Rural and Consumption Fund)",1.99,0.0,0.05,0.18,2.23,1.12,0.0,0.05,0.18,1.36
+"Sundaram Consumption Fund (Formerly Known as Sundaram Rural and Consumption Fund)",1.99,0.0,0.05,0.18,2.22,1.12,0.0,0.05,0.18,1.35
 "Sundaram Corporate Bond Fund",0.49,0.0,0.0,0.03,0.51,0.26,0.0,0.0,0.03,0.28
 "Sundaram Debt Oriented Hybrid Fund",2.0,0.0,0.0,0.17,2.17,1.09,0.0,0.0,0.17,1.26
 "Sundaram Diversified Equity",1.94,0.0,0.0,0.22,2.16,1.36,0.0,0.0,0.22,1.58
-"Sundaram Dividend Yield Fund (Formerly Known as Principal Dividend Yield Fund)",2.21,0.0,0.05,0.14,2.4,0.86,0.0,0.05,0.14,1.05
+"Sundaram Dividend Yield Fund (Formerly Known as Principal Dividend Yield Fund)",2.21,0.0,0.05,0.14,2.4,0.86,0.0,0.05,0.14,1.04
 "Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund)",2.19,0.0,0.0,0.05,2.24,0.44,0.0,0.0,0.05,0.49
 "Sundaram Financial Services Opportunities Fund",2.11,0.0,0.05,0.11,2.27,0.72,0.0,0.05,0.11,0.88
-"Sundaram Flexicap Fund",1.9,0.0,0.05,0.0,1.95,0.15,0.0,0.05,0.0,0.2
+"Sundaram Flexicap Fund",1.89,0.0,0.05,0.0,1.94,0.14,0.0,0.05,0.0,0.19
 "Sundaram Focused Fund (Formerly Known as Principal Focused Multicap Fund)",2.09,0.0,0.05,0.17,2.31,1.06,0.0,0.05,0.17,1.28
 "Sundaram Global Brand Fund",2.2,0.0,0.05,0.03,2.28,1.19,0.0,0.05,0.02,1.26
-"Sundaram Infrastructure Advantage Fund (Erstwhile Sundaram Capex Opportunities)",2.17,0.0,0.05,0.27,2.5,1.63,0.0,0.05,0.27,1.96
+"Sundaram Infrastructure Advantage Fund (Erstwhile Sundaram Capex Opportunities)",2.17,0.0,0.05,0.27,2.49,1.63,0.0,0.05,0.27,1.95
 "Sundaram Large and Midcap Fund",1.7,0.0,0.05,0.09,1.84,0.6,0.0,0.05,0.09,0.74
-"Sundaram Large Cap Fund ( Formerly Know as Sundaram Blue Chip Fund)",1.8,0.0,0.05,0.07,1.92,0.5,0.0,0.05,0.07,0.62
+"Sundaram Large Cap Fund ( Formerly Know as Sundaram Blue Chip Fund)",1.8,0.0,0.05,0.07,1.91,0.5,0.0,0.05,0.07,0.61
 "Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund)",0.27,0.0,0.0,0.02,0.29,0.15,0.0,0.0,0.02,0.17
 "Sundaram Low Duration Fund (Formerly Known as Principal Low Duration Fund)",0.9,0.0,0.0,0.03,0.93,0.3,0.0,0.0,0.03,0.33
 "Sundaram Medium Term Bond Fund",2.0,0.0,0.0,0.17,2.17,1.09,0.0,0.0,0.17,1.26
 "Sundaram Mid Cap Fund",1.63,0.0,0.05,0.13,1.8,0.8,0.0,0.05,0.13,0.97
 "Sundaram Money Market Fund",0.32,0.0,0.0,0.02,0.34,0.23,0.0,0.0,0.02,0.25
-"Sundaram Multi Cap Fund (Formerly Known as Principal Multi Cap Growth Fund)",1.89,0.0,0.05,0.12,2.07,0.77,0.0,0.05,0.12,0.95
+"Sundaram Multi Cap Fund (Formerly Known as Principal Multi Cap Growth Fund)",1.89,0.0,0.05,0.12,2.06,0.77,0.0,0.05,0.12,0.94
 "Sundaram Nifty 100 Equal Weight Fund (Formerly Known as Principal Nifty 100 Equal Weight Fund)",1.0,0.0,0.0,0.03,1.03,0.54,0.0,0.0,0.03,0.57
 "Sundaram Overnight Fund",0.18,0.0,0.0,0.0,0.18,0.09,0.0,0.0,0.0,0.09
 "Sundaram Services Fund",1.82,0.0,0.05,0.1,1.97,0.68,0.0,0.05,0.1,0.83
