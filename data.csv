@@ -1,4 +1,5 @@
 "Scheme Name","Regular Plan - Base TER (%)","Regular Plan - Additional expense as per Regulation 52(6A)(b) (%)","Regular Plan - Additional expense as per Regulation 52(6A)(c) (%)","Regular Plan - GST (%)","Regular Plan - Total TER (%)","Direct Plan - Base TER (%)","Direct Plan - Additional expense as per Regulation 52(6A)(b) (%)","Direct Plan - Additional expense as per Regulation 52(6A)(c) (%)","Direct Plan - GST (%)","Direct Plan - Total TER (%)"
+"360 One Balanced Hybrid Fund",1.95,0.0,0.05,0.06,2.06,0.48,0.0,0.05,0.06,0.59
 "360 One Dynamic Bond Fund (Formerly Known as IIFL Dynamic Bond Fund)",0.49,0.0,0.0,0.03,0.52,0.24,0.0,0.0,0.03,0.27
 "360 One ELSS Nifty 50 Tax Saver Index Fund(Formerly Known as IIFL ELSS Nifty 50 Tax Saver Index Fund",0.52,0.0,0.0,0.0,0.52,0.27,0.0,0.0,0.0,0.27
 "360 One Flexicap Fund",2.25,0.0,0.05,0.1,2.4,0.75,0.0,0.05,0.1,0.9
@@ -541,7 +542,7 @@
 "HDFC Small Cap Fund",1.49,0.0,0.05,0.1,1.64,0.59,0.0,0.05,0.1,0.74
 "HDFC Taxsaver",1.59,0.0,0.0,0.16,1.75,0.99,0.0,0.0,0.16,1.15
 "HDFC Technology Fund",2.19,0.0,0.05,0.15,2.39,0.99,0.0,0.05,0.15,1.19
-"HDFC Top 100 Fund",1.47,0.0,0.05,0.16,1.68,0.89,0.0,0.05,0.16,1.1
+"HDFC Top 100 Fund",1.48,0.0,0.05,0.16,1.69,0.9,0.0,0.05,0.16,1.11
 "HDFC Transportation and Logistics Fund",2.23,0.0,0.05,0.17,2.45,1.05,0.0,0.05,0.17,1.27
 "HDFC Ultra Short Term Fund",0.65,0.0,0.0,0.04,0.69,0.32,0.0,0.0,0.04,0.36
 "HSBC Aggressive Hybrid Fund",1.72,0.0,0.05,0.11,1.88,0.68,0.0,0.05,0.11,0.84
@@ -727,7 +728,7 @@
 "Invesco India Largecap Fund",2.14,0.0,0.0,0.09,2.23,0.71,0.0,0.0,0.09,0.8
 "Invesco India Liquid Fund",0.22,0.0,0.0,0.0,0.22,0.15,0.0,0.0,0.0,0.15
 "Invesco India Medium Duration Fund",1.3,0.0,0.0,0.05,1.35,0.35,0.0,0.0,0.05,0.4
-"Invesco India Midcap Fund",1.78,0.0,0.05,0.06,1.89,0.47,0.0,0.05,0.06,0.58
+"Invesco India Midcap Fund",1.77,0.0,0.05,0.06,1.88,0.47,0.0,0.05,0.06,0.58
 "Invesco India Money Market Fund",0.53,0.0,0.0,0.02,0.55,0.2,0.0,0.0,0.02,0.22
 "Invesco India Multicap Fund",1.82,0.0,0.05,0.08,1.95,0.55,0.0,0.05,0.08,0.68
 "Invesco India Nifty 50 Exchange Traded Fund",0.1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0
@@ -1164,7 +1165,7 @@
 "Samco ELSS Tax Saver Fund",2.25,0.0,0.0,0.09,2.34,0.8,0.0,0.0,0.09,0.89
 "Samco Flexi Cap Fund",2.14,0.0,0.05,0.08,2.27,0.69,0.0,0.05,0.08,0.82
 "Samco Overnight Fund",0.3,0.0,0.0,0.0,0.3,0.1,0.0,0.0,0.0,0.1
-"SBI Arbitrage Opportunities Fund",0.9,0.0,0.0,0.06,0.96,0.33,0.0,0.0,0.06,0.39
+"SBI Arbitrage Opportunities Fund",0.9,0.0,0.0,0.05,0.95,0.33,0.0,0.0,0.05,0.38
 "SBI Balanced Advantage Fund",1.49,0.0,0.05,0.1,1.64,0.59,0.0,0.05,0.1,0.74
 "SBI Banking & Financial Services Fund",1.74,0.02,0.05,0.1,1.91,0.63,0.0,0.05,0.1,0.78
 "SBI Banking & PSU Fund",0.76,0.0,0.0,0.05,0.81,0.29,0.0,0.0,0.05,0.34
@@ -1194,7 +1195,7 @@
 "SBI Large & Midcap Fund",1.55,0.04,0.05,0.11,1.75,0.69,0.0,0.05,0.11,0.85
 "SBI Liquid Fund",0.28,0.0,0.0,0.02,0.3,0.16,0.0,0.0,0.02,0.18
 "SBI Long Duration Fund",0.65,0.0,0.0,0.03,0.68,0.2,0.0,0.0,0.03,0.23
-"SBI Long Term Equity Fund",1.54,0.06,0.0,0.13,1.73,0.86,0.0,0.0,0.13,0.99
+"SBI Long Term Equity Fund",1.55,0.06,0.0,0.13,1.74,0.87,0.0,0.0,0.13,1.0
 "SBI Magnum Children's Benefit Fund - Investment Plan",2.0,0.05,0.0,0.12,2.17,0.81,0.0,0.0,0.12,0.93
 "SBI Magnum Children's Benefit Fund - Savings Plan",1.1,0.0,0.0,0.13,1.23,0.75,0.0,0.0,0.13,0.88
 "SBI Magnum Comma Fund",2.23,0.0,0.05,0.29,2.57,1.69,0.0,0.05,0.29,2.03
@@ -1223,7 +1224,7 @@
 "SBI Nifty Smallcap 250 Index Fund",0.95,0.0,0.0,0.06,1.01,0.35,0.0,0.0,0.06,0.41
 "SBI Overnight Fund",0.17,0.0,0.0,0.01,0.18,0.09,0.0,0.0,0.01,0.1
 "SBI PSU Fund",2.12,0.05,0.05,0.17,2.39,1.04,0.0,0.05,0.17,1.26
-"SBI Retirement Benefit Fund - Aggressive Hybrid Plan",2.02,0.02,0.0,0.15,2.19,0.95,0.0,0.0,0.15,1.1
+"SBI Retirement Benefit Fund - Aggressive Hybrid Plan",2.03,0.02,0.0,0.15,2.2,0.96,0.0,0.0,0.15,1.11
 "SBI Retirement Benefit Fund - Aggressive Plan",1.92,0.04,0.0,0.11,2.07,0.74,0.0,0.0,0.11,0.85
 "SBI Retirement Benefit Fund - Conservative Hybrid Plan",1.5,0.01,0.0,0.16,1.67,0.98,0.0,0.0,0.16,1.14
 "SBI Retirement Benefit Fund - Conservative Plan",1.25,0.0,0.0,0.12,1.37,0.77,0.0,0.0,0.12,0.89
