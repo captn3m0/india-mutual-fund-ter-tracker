@@ -100,7 +100,7 @@
 "Axis Banking & PSU Debt Fund",0.58,0.0,0.0,0.05,0.63,0.29,0.0,0.0,0.05,0.34
 "Axis Bluechip Fund",1.43,0.0,0.05,0.08,1.56,0.49,0.0,0.05,0.08,0.62
 "Axis Business Cycles Fund",1.83,0.0,0.05,0.09,1.97,0.37,0.0,0.05,0.07,0.49
-"Axis Children's Gift Fund",2.13,0.0,0.0,0.2,2.33,0.78,0.0,0.0,0.12,0.9
+"Axis Children's Gift Fund",2.13,0.0,0.0,0.2,2.33,0.78,0.0,0.0,0.13,0.91
 "Axis Corporate Debt Fund",0.9,0.0,0.0,0.04,0.94,0.25,0.0,0.0,0.03,0.28
 "Axis Credit Risk Fund",1.45,0.0,0.0,0.12,1.57,0.69,0.0,0.0,0.11,0.8
 "Axis CRISIL IBX 50:50 Gilt Plus SDL June 2028 Index Fund",0.4,0.0,0.0,0.0,0.4,0.18,0.0,0.0,0.0,0.18
@@ -340,17 +340,17 @@
 "DSP Flexi Cap Fund",1.62,0.0,0.05,0.11,1.78,0.62,0.0,0.05,0.11,0.78
 "DSP Floater Fund",0.46,0.0,0.0,0.02,0.48,0.2,0.0,0.0,0.02,0.22
 "DSP Focus Fund",1.91,0.0,0.05,0.15,2.11,0.88,0.0,0.05,0.15,1.08
-"DSP Global Allocation Fund",1.99,-0.35,0.0,0.01,1.65,1.37,0.0,0.0,0.01,1.38
+"DSP Global Allocation Fund",1.99,0.0,0.0,0.01,2.0,1.37,0.0,0.0,0.01,1.38
 "DSP Global Innovation Fund of Fund",2.0,-0.17,0.0,0.04,1.87,1.06,0.0,0.0,0.04,1.1
 "DSP Gold ETF",0.0,0.0,0.0,0.0,0.0,0.46,0.0,0.0,0.02,0.48
 "DSP Government Securities Fund",1.05,0.0,0.0,0.07,1.12,0.48,0.0,0.0,0.07,0.55
-"DSP Healthcare Fund",1.92,-0.08,0.05,0.09,1.98,0.57,0.0,0.05,0.09,0.71
+"DSP Healthcare Fund",1.92,0.0,0.05,0.09,2.06,0.57,0.0,0.05,0.09,0.71
 "DSP India T.I.G.E.R. Fund",1.84,0.0,0.05,0.17,2.06,0.98,0.0,0.05,0.17,1.2
 "DSP Liquidity Fund",0.25,0.0,0.0,0.02,0.27,0.13,0.0,0.0,0.02,0.15
 "DSP Low Duration Fund",0.58,0.0,0.0,0.04,0.62,0.26,0.0,0.0,0.04,0.3
 "DSP Midcap Fund",1.55,0.0,0.05,0.11,1.71,0.65,0.0,0.05,0.11,0.81
 "DSP Multi Asset Allocation Fund",1.79,0.0,0.0,0.0,1.79,0.3,0.0,0.0,0.0,0.3
-"DSP Natural Resources and New Energy Fund",2.16,-0.09,0.0,0.14,2.21,1.1,0.0,0.0,0.14,1.24
+"DSP Natural Resources and New Energy Fund",2.16,0.0,0.0,0.14,2.3,1.1,0.0,0.0,0.14,1.24
 "DSP Nifty 1D Rate Liquid ETF",0.0,0.0,0.0,0.0,0.0,0.23,0.0,0.0,0.01,0.24
 "DSP Nifty 50 Equal Weight ETF",0.0,0.0,0.0,0.0,0.0,0.26,0.0,0.0,0.03,0.29
 "DSP Nifty 50 Equal Weight Index Fund",0.84,0.0,0.0,0.05,0.89,0.35,0.0,0.0,0.05,0.4
@@ -379,10 +379,10 @@
 "DSP Ultra Short Fund",0.97,0.0,0.0,0.04,1.01,0.26,0.0,0.0,0.04,0.3
 "DSP US Flexible Equity Fund",2.25,-0.12,0.0,0.1,2.23,1.41,0.0,0.0,0.1,1.51
 "DSP Value Fund",1.62,0.0,0.0,0.1,1.72,0.84,0.0,0.0,0.1,0.94
-"DSP World Agriculture Fund",2.16,-0.08,0.0,0.14,2.22,1.66,0.0,0.0,0.14,1.8
-"DSP World Energy Fund",2.09,-0.03,0.0,0.08,2.14,1.47,0.0,0.0,0.08,1.55
-"DSP World Gold Fund of Fund",2.25,-0.08,0.0,0.09,2.26,1.64,0.0,0.0,0.09,1.73
-"DSP World Mining Fund",2.12,-0.34,0.0,0.05,1.83,1.46,0.0,0.0,0.05,1.51
+"DSP World Agriculture Fund",2.16,0.0,0.0,0.14,2.3,1.66,0.0,0.0,0.14,1.8
+"DSP World Energy Fund",2.09,0.0,0.0,0.08,2.17,1.47,0.0,0.0,0.08,1.55
+"DSP World Gold Fund of Fund",2.25,0.0,0.0,0.09,2.34,1.64,0.0,0.0,0.09,1.73
+"DSP World Mining Fund",2.12,0.0,0.0,0.05,2.17,1.46,0.0,0.0,0.05,1.51
 "Edelweiss Aggressive Hybrid Fund",2.08,0.0,0.05,0.07,2.2,0.45,0.0,0.05,0.07,0.57
 "Edelweiss Arbitrage Fund",1.04,0.0,0.0,0.05,1.09,0.34,0.0,0.0,0.05,0.39
 "Edelweiss ASEAN Equity Off-shore Fund",1.28,0.0,0.05,0.09,1.42,0.57,0.0,0.05,0.09,0.71
@@ -1270,7 +1270,7 @@
 "Sundaram Multi Cap Fund (Formerly Known as Principal Multi Cap Growth Fund)",1.89,0.0,0.05,0.12,2.07,0.77,0.0,0.05,0.12,0.95
 "Sundaram Nifty 100 Equal Weight Fund (Formerly Known as Principal Nifty 100 Equal Weight Fund)",1.0,0.0,0.0,0.03,1.03,0.54,0.0,0.0,0.03,0.57
 "Sundaram Overnight Fund",0.18,0.0,0.0,0.0,0.18,0.09,0.0,0.0,0.0,0.09
-"Sundaram Services Fund",1.81,0.0,0.05,0.1,1.96,0.67,0.0,0.05,0.1,0.82
+"Sundaram Services Fund",1.82,0.0,0.05,0.1,1.97,0.68,0.0,0.05,0.1,0.83
 "Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund)",0.82,0.0,0.0,0.02,0.84,0.26,0.0,0.0,0.02,0.28
 "Sundaram Small Cap Fund",1.83,0.0,0.05,0.11,1.99,0.71,0.0,0.05,0.11,0.87
 "Sundaram Tax Savings Fund (Formerly Known as Principal Tax Savings Fund)",2.04,0.0,0.0,0.23,2.27,1.45,0.0,0.0,0.23,1.68
