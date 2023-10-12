@@ -1136,23 +1136,23 @@
 "Quant Business Cycle Fund",2.21,0.0,0.05,0.09,2.35,0.63,0.0,0.05,0.09,0.77
 "Quant Dynamic Asset Allocation Fund",2.25,0.0,0.05,0.09,2.39,0.63,0.0,0.05,0.09,0.77
 "Quant ESG Equity Fund",2.25,0.0,0.05,0.09,2.39,0.63,0.0,0.05,0.09,0.77
-"Quant Flexi Cap Fund",1.89,0.0,0.05,0.09,2.03,0.63,0.0,0.05,0.09,0.77
+"Quant Flexi Cap Fund",1.88,0.0,0.05,0.09,2.02,0.63,0.0,0.05,0.09,0.77
 "Quant Focused Fund",2.25,0.0,0.05,0.08,2.38,0.63,0.0,0.05,0.08,0.76
 "Quant Gilt Fund",1.35,0.0,0.0,0.06,1.41,0.45,0.0,0.0,0.06,0.51
 "Quant Healthcare Fund",2.25,0.0,0.05,0.09,2.39,0.63,0.0,0.05,0.09,0.77
 "Quant Infrastructure Fund",2.06,0.0,0.05,0.09,2.2,0.63,0.0,0.05,0.09,0.77
-"Quant Large & Mid Cap Fund",2.03,0.0,0.05,0.07,2.15,0.63,0.0,0.05,0.07,0.75
+"Quant Large & Mid Cap Fund",2.02,0.0,0.05,0.07,2.14,0.63,0.0,0.05,0.07,0.75
 "Quant Large Cap Fund",2.25,0.0,0.05,0.09,2.39,0.63,0.0,0.05,0.09,0.77
 "Quant Liquid Fund",0.5,0.0,0.0,0.04,0.54,0.25,0.0,0.0,0.04,0.29
 "Quant Manufacturing Fund",2.25,0.0,0.05,0.09,2.39,0.63,0.0,0.05,0.09,0.77
 "Quant Mid Cap Fund",1.79,0.0,0.05,0.08,1.92,0.63,0.0,0.05,0.08,0.76
-"Quant Multi Asset Fund",1.92,0.0,0.05,0.07,2.04,0.49,0.0,0.05,0.07,0.61
+"Quant Multi Asset Fund",1.91,0.0,0.05,0.07,2.03,0.49,0.0,0.05,0.07,0.61
 "Quant Overnight Fund",0.22,0.0,0.0,0.01,0.23,0.1,0.0,0.0,0.01,0.11
 "Quant Quantamental Fund",2.04,0.0,0.05,0.07,2.16,0.63,0.0,0.05,0.07,0.75
 "Quant Small Cap Fund",1.62,0.0,0.05,0.09,1.76,0.63,0.0,0.05,0.09,0.77
 "Quant Tax Plan",1.72,0.0,0.05,0.08,1.85,0.63,0.0,0.05,0.08,0.76
 "Quant Teck Fund",2.25,0.0,0.05,0.09,2.39,0.63,0.0,0.05,0.09,0.77
-"Quant Value Fund",2.15,0.0,0.05,0.08,2.28,0.63,0.0,0.05,0.08,0.76
+"Quant Value Fund",2.14,0.0,0.05,0.08,2.27,0.63,0.0,0.05,0.08,0.76
 "Quantum Dynamic Bond Fund",0.9,0.0,0.0,0.06,0.96,0.45,0.0,0.0,0.06,0.51
 "Quantum Equity Fund of Funds",0.71,0.0,0.0,0.04,0.75,0.47,0.0,0.0,0.04,0.51
 "Quantum Gold Fund",0.0,0.0,0.0,0.0,0.0,0.71,0.0,0.0,0.07,0.78
@@ -1212,7 +1212,7 @@
 "SBI Magnum Midcap Fund",1.57,0.02,0.05,0.11,1.75,0.72,0.0,0.05,0.11,0.88
 "SBI Magnum Ultra Short Duration Fund",0.5,0.0,0.0,0.04,0.54,0.27,0.0,0.0,0.04,0.31
 "SBI Multi Asset Allocation Fund",1.5,0.01,0.05,0.12,1.68,0.63,0.0,0.05,0.12,0.8
-"SBI Multicap Fund",1.57,0.02,0.05,0.14,1.78,0.75,0.0,0.05,0.14,0.94
+"SBI Multicap Fund",1.56,0.02,0.05,0.14,1.77,0.74,0.0,0.05,0.14,0.93
 "SBI Nifty 10 Yr Benchmark G-SEC ETF",0.14,0.0,0.0,0.0,0.14,0.0,0.0,0.0,0.0,0.0
 "SBI Nifty 200 Quality 30 ETF",0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0
 "SBI Nifty 50 ETF",0.04,0.0,0.0,0.0,0.04,0.0,0.0,0.0,0.0,0.0
@@ -1272,7 +1272,7 @@
 "Sundaram Overnight Fund",0.18,0.0,0.0,0.0,0.18,0.09,0.0,0.0,0.0,0.09
 "Sundaram Services Fund",1.81,0.0,0.05,0.1,1.96,0.67,0.0,0.05,0.1,0.82
 "Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund)",0.82,0.0,0.0,0.02,0.84,0.26,0.0,0.0,0.02,0.28
-"Sundaram Small Cap Fund",1.83,0.0,0.05,0.11,1.98,0.71,0.0,0.05,0.11,0.86
+"Sundaram Small Cap Fund",1.82,0.0,0.05,0.11,1.98,0.7,0.0,0.05,0.11,0.86
 "Sundaram Tax Savings Fund (Formerly Known as Principal Tax Savings Fund)",2.03,0.0,0.0,0.23,2.27,1.44,0.0,0.0,0.23,1.68
 "Sundaram Ultra Short Duration Fund (Formerly Known as Principal Ultra Short Term Fund)",1.41,0.0,0.0,0.01,1.42,0.17,0.0,0.0,0.01,0.18
 "Tata Arbitrage Fund",1.04,0.0,0.0,0.03,1.07,0.26,0.0,0.0,0.03,0.29
@@ -1355,12 +1355,12 @@
 "Union Largecap Fund",2.25,0.0,0.05,0.23,2.53,1.44,0.0,0.05,0.23,1.72
 "Union Liquid Fund",0.17,0.0,0.0,0.01,0.18,0.07,0.0,0.0,0.01,0.08
 "Union Medium Duration Fund",0.82,0.0,0.0,0.08,0.9,0.59,0.0,0.0,0.08,0.67
-"Union Midcap Fund",2.12,0.0,0.05,0.08,2.25,0.61,0.0,0.05,0.08,0.74
+"Union Midcap Fund",2.11,0.0,0.05,0.08,2.24,0.6,0.0,0.05,0.08,0.73
 "Union Money Market Fund",1.01,0.0,0.0,0.02,1.03,0.27,0.0,0.0,0.02,0.29
 "Union Multicap Fund",2.2,0.0,0.05,0.12,2.37,0.79,0.0,0.05,0.12,0.96
 "Union Overnight Fund",0.18,0.0,0.0,0.0,0.18,0.08,0.0,0.0,0.0,0.08
 "Union Retirement Fund",2.25,0.0,0.0,0.04,2.29,0.55,0.0,0.0,0.04,0.59
-"Union Small Cap Fund",2.03,0.0,0.05,0.12,2.2,0.85,0.0,0.05,0.12,1.02
+"Union Small Cap Fund",2.02,0.0,0.05,0.12,2.19,0.84,0.0,0.05,0.12,1.01
 "Union Tax Saver (ELSS) Fund (Formerly Union Long Term Equity Fund)",2.17,0.0,0.0,0.18,2.35,1.24,0.0,0.0,0.18,1.42
 "Union Value Discovery Fund",2.24,0.0,0.05,0.2,2.49,1.26,0.0,0.05,0.2,1.51
 "UTI - Arbitrage Fund",0.9,0.0,0.0,0.02,0.92,0.35,0.0,0.0,0.02,0.37
@@ -1398,11 +1398,11 @@
 "UTI - Retirement Benefit Pension Fund",1.5,0.0,0.05,0.11,1.66,0.83,0.0,0.05,0.11,0.99
 "UTI - S&P BSE SENSEX Next 50 Exchange Traded Fund",0.2,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0
 "UTI - Short Term Income Fund",0.9,0.0,0.0,0.05,0.95,0.3,0.0,0.0,0.02,0.32
-"UTI - Transportation and Logistics Fund",1.86,0.0,0.05,0.09,2.0,0.69,0.0,0.05,0.09,0.83
+"UTI - Transportation and Logistics Fund",1.85,0.0,0.05,0.09,1.99,0.68,0.0,0.05,0.09,0.82
 "UTI - Treasury Advantage Fund",0.4,0.0,0.0,0.04,0.44,0.31,0.0,0.0,0.04,0.35
 "UTI - Ultra Short Term Fund",0.92,0.0,0.0,0.05,0.97,0.38,0.0,0.0,0.05,0.43
 "UTI - Unit Linked Insurance Plan",1.46,0.0,0.05,0.11,1.62,0.74,0.0,0.05,0.11,0.9
-"UTI - Value Opportunities Fund",1.65,0.0,0.05,0.14,1.84,0.92,0.0,0.05,0.14,1.11
+"UTI - Value Opportunities Fund",1.64,0.0,0.05,0.14,1.83,0.91,0.0,0.05,0.14,1.1
 "UTI Balanced Advantage Fund",1.86,0.0,0.05,0.04,1.95,0.41,0.0,0.05,0.04,0.5
 "UTI CRISIL SDL Maturity April 2033 Index Fund",0.4,0.0,0.0,0.02,0.42,0.13,0.0,0.0,0.02,0.15
 "UTI CRISIL SDL Maturity June 2027 Index Fund",0.4,0.0,0.0,0.02,0.42,0.13,0.0,0.0,0.02,0.15
