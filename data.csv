@@ -589,7 +589,7 @@
 "HSBC Ultra Short Duration Fund",0.45,0.0,0.0,0.03,0.48,0.19,0.0,0.0,0.03,0.22
 "HSBC Value Fund",1.61,0.0,0.05,0.1,1.76,0.64,0.0,0.05,0.1,0.79
 "ICICI Prudential All Seasons Bond Fund",1.31,0.0,0.0,0.0,1.31,0.56,0.0,0.0,0.0,0.56
-"ICICI Prudential Asset Allocator Fund (FoF)",1.22,0.0,0.05,0.03,1.3,0.17,0.0,0.05,0.03,0.25
+"ICICI Prudential Asset Allocator Fund (FoF)",1.21,0.0,0.05,0.03,1.29,0.17,0.0,0.05,0.03,0.25
 "ICICI Prudential Balanced Advantage Fund",1.34,0.0,0.05,0.13,1.52,0.72,0.0,0.05,0.13,0.9
 "ICICI Prudential Banking & Financial Services Fund",1.66,0.0,0.05,0.15,1.86,0.83,0.0,0.05,0.15,1.03
 "ICICI Prudential Banking & PSU Debt Fund",0.76,0.0,0.0,0.0,0.76,0.39,0.0,0.0,0.0,0.39
@@ -608,7 +608,7 @@
 "ICICI Prudential Equity & Debt Fund",1.47,0.0,0.05,0.16,1.68,0.9,0.0,0.05,0.16,1.11
 "ICICI Prudential Equity - Arbitrage Fund",0.99,0.0,0.0,0.0,0.99,0.39,0.0,0.0,0.0,0.39
 "ICICI Prudential Equity Savings Fund",0.99,0.0,0.0,0.0,0.99,0.5,0.0,0.0,0.0,0.5
-"ICICI Prudential ESG Fund",1.99,0.0,0.05,0.13,2.17,0.72,0.0,0.05,0.13,0.9
+"ICICI Prudential ESG Fund",1.98,0.0,0.05,0.13,2.16,0.71,0.0,0.05,0.13,0.89
 "ICICI Prudential Exports & Services Fund",2.02,0.0,0.05,0.25,2.32,1.41,0.0,0.05,0.25,1.71
 "ICICI Prudential Flexicap Fund",1.58,0.0,0.05,0.09,1.72,0.54,0.0,0.05,0.09,0.68
 "ICICI Prudential Floating Interest Fund",1.27,0.0,0.0,0.0,1.27,0.61,0.0,0.0,0.0,0.61
@@ -703,7 +703,7 @@
 "ICICI Prudential Thematic Advantage Fund (FoF)",1.4,0.0,0.05,0.04,1.49,0.36,0.0,0.05,0.04,0.45
 "ICICI Prudential Transportation and Logistics Fund",1.84,0.0,0.05,0.06,1.95,0.37,0.0,0.05,0.06,0.48
 "ICICI Prudential Ultra Short Term Fund",0.84,0.0,0.0,0.0,0.84,0.39,0.0,0.0,0.0,0.39
-"ICICI Prudential US Bluechip Equity Fund",1.83,0.0,0.05,0.15,2.03,0.91,0.0,0.05,0.15,1.11
+"ICICI Prudential US Bluechip Equity Fund",1.82,0.0,0.05,0.15,2.02,0.9,0.0,0.05,0.15,1.1
 "ICICI Prudential Value Discovery Fund",1.43,0.0,0.05,0.16,1.64,0.9,0.0,0.05,0.16,1.11
 "Invesco India - Invesco EQQQ NASDAQ-100 ETF Fund of Fund",0.4,0.0,0.0,0.0,0.4,0.16,0.0,0.0,0.0,0.16
 "Invesco India - Invesco Global Consumer Trends Fund of Fund",1.41,0.0,0.05,0.08,1.54,0.47,0.0,0.05,0.08,0.6
@@ -775,7 +775,7 @@
 "JM Tax Gain Fund",2.24,0.0,0.0,0.16,2.4,1.26,0.0,0.0,0.16,1.42
 "JM Value Fund",2.24,0.0,0.05,0.22,2.51,1.54,0.0,0.05,0.22,1.81
 "Kotak All Weather Debt FoF",0.15,0.0,0.0,0.0,0.15,0.07,0.0,0.0,0.0,0.07
-"Kotak Balanced Advantage Fund",1.55,0.0,0.05,0.06,1.66,0.44,0.0,0.0,0.06,0.5
+"Kotak Balanced Advantage Fund",1.55,0.0,0.05,0.06,1.66,0.45,0.0,0.0,0.06,0.51
 "Kotak Banking and Financial Services Fund",2.17,0.0,0.05,0.08,2.3,0.54,0.0,0.0,0.08,0.62
 "Kotak Banking and PSU Debt Fund",0.76,0.0,0.0,0.05,0.81,0.32,0.0,0.0,0.05,0.37
 "Kotak Bluechip Fund",1.66,0.0,0.05,0.07,1.78,0.51,0.0,0.0,0.07,0.58
@@ -788,30 +788,30 @@
 "Kotak Dynamic Bond Fund",1.25,0.0,0.0,0.05,1.3,0.35,0.0,0.0,0.05,0.4
 "Kotak Emerging Equity Fund",1.42,0.0,0.05,0.04,1.51,0.33,0.0,0.0,0.04,0.37
 "Kotak Equity Arbitrage Fund",0.97,0.0,0.0,0.05,1.02,0.39,0.0,0.0,0.05,0.44
-"Kotak Equity Hybrid Fund",1.74,0.0,0.05,0.05,1.84,0.41,0.0,0.0,0.05,0.46
+"Kotak Equity Hybrid Fund",1.74,0.0,0.05,0.05,1.84,0.42,0.0,0.0,0.05,0.47
 "Kotak Equity Opportunities Fund",1.55,0.0,0.05,0.06,1.66,0.46,0.0,0.0,0.06,0.52
 "Kotak Equity Savings Fund",1.78,0.0,0.05,0.11,1.94,0.75,0.0,0.0,0.11,0.86
 "Kotak ESG Opportunities Fund",2.05,0.0,0.05,0.07,2.17,0.54,0.0,0.0,0.07,0.61
-"Kotak Flexicap Fund",1.39,0.0,0.05,0.08,1.52,0.56,0.0,0.0,0.08,0.64
+"Kotak Flexicap Fund",1.39,0.0,0.05,0.08,1.52,0.57,0.0,0.0,0.08,0.65
 "Kotak Floating Rate Fund",0.6,0.0,0.0,0.02,0.62,0.2,0.0,0.0,0.02,0.22
 "Kotak Focused Equity Fund",1.82,0.0,0.05,0.06,1.93,0.43,0.0,0.0,0.06,0.49
-"Kotak Gilt Fund",1.42,0.0,0.0,0.05,1.47,0.37,0.0,0.0,0.05,0.42
-"Kotak Global Emerging Market Fund",1.45,0.0,0.05,0.16,1.66,1.05,0.0,0.0,0.16,1.21
+"Kotak Gilt Fund",1.42,0.0,0.0,0.05,1.47,0.38,0.0,0.0,0.05,0.43
+"Kotak Global Emerging Market Fund",1.45,0.0,0.05,0.16,1.66,1.1,0.0,0.0,0.16,1.26
 "Kotak Global Innovation Fund of Fund",1.5,0.0,0.05,0.05,1.6,0.4,0.0,0.0,0.05,0.45
 "Kotak Gold ETF",0.55,0.0,0.0,0.0,0.55,0.0,0.0,0.0,0.0,0.0
 "Kotak Gold Fund",0.45,0.0,0.05,0.0,0.5,0.15,0.0,0.0,0.0,0.15
 "Kotak India EQ Contra Fund",1.91,0.0,0.05,0.09,2.05,0.59,0.0,0.0,0.09,0.68
 "Kotak Infrastructure and Economic Reform Fund",2.01,0.0,0.05,0.1,2.16,0.63,0.0,0.0,0.1,0.73
-"Kotak International REIT FoF",1.28,0.0,0.05,0.05,1.38,0.44,0.0,0.0,0.05,0.49
+"Kotak International REIT FoF",1.28,0.0,0.05,0.05,1.38,0.45,0.0,0.0,0.05,0.5
 "Kotak Liquid Fund",0.32,0.0,0.0,0.0,0.32,0.2,0.0,0.0,0.0,0.2
 "Kotak Low Duration Fund",1.12,0.0,0.0,0.05,1.17,0.37,0.0,0.0,0.05,0.42
 "Kotak Manufacture In India Fund",1.97,0.0,0.05,0.06,2.08,0.42,0.0,0.0,0.06,0.48
 "Kotak Medium Term Fund",1.5,0.0,0.0,0.08,1.58,0.52,0.0,0.0,0.08,0.6
 "Kotak Money Market Fund",0.33,0.0,0.0,0.02,0.35,0.21,0.0,0.0,0.02,0.23
 "Kotak Multi Asset Allocation Fund",1.75,0.0,0.05,0.03,1.83,0.27,0.0,0.0,0.03,0.3
-"Kotak Multi Asset Allocator Fund of Fund - Dynamic",0.9,0.0,0.05,0.0,0.95,0.15,0.0,0.0,0.0,0.15
+"Kotak Multi Asset Allocator Fund of Fund - Dynamic",0.9,0.0,0.05,0.0,0.95,0.2,0.0,0.0,0.0,0.2
 "Kotak Multicap Fund",1.67,0.0,0.05,0.03,1.75,0.33,0.0,0.0,0.03,0.36
-"Kotak NASDAQ 100 Fund of Fund",0.65,0.0,0.0,0.02,0.67,0.27,0.0,0.0,0.02,0.29
+"Kotak NASDAQ 100 Fund of Fund",0.65,0.0,0.0,0.02,0.67,0.29,0.0,0.0,0.02,0.31
 "Kotak Nifty 100 Low Volatility 30 ETF",0.2,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0
 "Kotak Nifty 1D Rate Liquid ETF",0.2,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0
 "Kotak Nifty 200 Momentum 30 Index Fund",0.85,0.0,0.0,0.04,0.89,0.36,0.0,0.0,0.04,0.4
@@ -844,7 +844,7 @@
 "Kotak Silver ETF",0.45,0.0,0.0,0.0,0.45,0.0,0.0,0.0,0.0,0.0
 "Kotak Silver ETF Fund of Fund",0.55,0.0,0.05,0.0,0.6,0.14,0.0,0.0,0.0,0.14
 "Kotak Small Cap Fund",1.57,0.0,0.05,0.05,1.67,0.36,0.0,0.0,0.05,0.41
-"Kotak Tax Saver Fund",1.74,0.0,0.0,0.06,1.8,0.48,0.0,0.0,0.06,0.54
+"Kotak Tax Saver Fund",1.74,0.0,0.0,0.06,1.8,0.49,0.0,0.0,0.06,0.55
 "LIC MF Aggressive Hybrid Fund",2.22,0.0,0.05,0.19,2.46,1.16,0.0,0.05,0.19,1.4
 "LIC MF Arbitrage Fund",0.97,0.0,0.0,0.0,0.97,0.31,0.0,0.0,0.0,0.31
 "LIC MF Balanced Advantage Fund",2.05,0.0,0.05,0.05,2.15,0.4,0.0,0.05,0.05,0.5
