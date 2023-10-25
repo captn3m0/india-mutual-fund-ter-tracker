@@ -1012,7 +1012,7 @@
 "Navi Nifty Bank Index Fund",0.79,0.0,0.0,0.01,0.8,0.1,0.0,0.0,0.0,0.1
 "Navi Nifty India Manufacturing Index Fund",0.99,0.0,0.0,0.01,1.0,0.12,0.0,0.0,0.01,0.13
 "Navi Nifty Midcap 150 Index Fund",0.99,0.0,0.0,0.01,1.0,0.1,0.0,0.0,0.01,0.11
-"Navi Nifty Midcap 150 Index Fund",0.99,0.0,0.0,0.01,1.0,0.1,0.0,0.0,0.01,0.11
+"Navi Nifty Midcap 150 Index Fund",0.99,0.0,0.0,0.01,0.99,0.1,0.0,0.0,0.01,0.11
 "Navi Nifty Next 50 Index Fund",0.57,0.0,0.0,0.01,0.58,0.11,0.0,0.0,0.01,0.12
 "Navi Overnight Fund",0.25,0.0,0.0,0.0,0.25,0.05,0.0,0.0,0.0,0.05
 "Navi Overnight Fund",0.25,0.0,0.0,0.0,0.25,0.05,0.0,0.0,0.0,0.05
@@ -1156,7 +1156,7 @@
 "Quant Small Cap Fund",1.62,0.0,0.05,0.09,1.76,0.63,0.0,0.05,0.09,0.77
 "Quant Tax Plan",1.73,0.0,0.05,0.08,1.86,0.63,0.0,0.05,0.08,0.76
 "Quant Teck Fund",2.25,0.0,0.05,0.09,2.39,0.63,0.0,0.05,0.09,0.77
-"Quant Value Fund",2.16,0.0,0.05,0.08,2.29,0.63,0.0,0.05,0.08,0.76
+"Quant Value Fund",2.17,0.0,0.05,0.08,2.3,0.63,0.0,0.05,0.08,0.76
 "Quantum Dynamic Bond Fund",0.9,0.0,0.0,0.06,0.96,0.45,0.0,0.0,0.06,0.51
 "Quantum Equity Fund of Funds",0.71,0.0,0.0,0.04,0.75,0.47,0.0,0.0,0.04,0.51
 "Quantum Gold Fund",0.0,0.0,0.0,0.0,0.0,0.71,0.0,0.0,0.07,0.78
@@ -1257,11 +1257,11 @@
 "Sundaram Corporate Bond Fund",0.49,0.0,0.0,0.03,0.51,0.26,0.0,0.0,0.03,0.28
 "Sundaram Debt Oriented Hybrid Fund",2.0,0.0,0.0,0.17,2.17,1.09,0.0,0.0,0.17,1.26
 "Sundaram Diversified Equity",1.95,0.0,0.0,0.22,2.17,1.37,0.0,0.0,0.22,1.59
-"Sundaram Dividend Yield Fund (Formerly Known as Principal Dividend Yield Fund)",2.21,0.0,0.05,0.14,2.4,0.88,0.0,0.05,0.14,1.07
+"Sundaram Dividend Yield Fund (Formerly Known as Principal Dividend Yield Fund)",2.21,0.0,0.05,0.14,2.4,0.86,0.0,0.05,0.14,1.05
 "Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund)",2.19,0.0,0.0,0.05,2.24,0.44,0.0,0.0,0.05,0.49
 "Sundaram Financial Services Opportunities Fund",2.11,0.0,0.05,0.11,2.27,0.72,0.0,0.05,0.11,0.88
 "Sundaram Flexicap Fund",1.91,0.0,0.05,0.0,1.96,0.16,0.0,0.05,0.0,0.21
-"Sundaram Focused Fund (Formerly Known as Principal Focused Multicap Fund)",2.1,0.0,0.05,0.18,2.32,1.07,0.0,0.05,0.18,1.29
+"Sundaram Focused Fund (Formerly Known as Principal Focused Multicap Fund)",2.1,0.0,0.05,0.18,2.33,1.07,0.0,0.05,0.18,1.3
 "Sundaram Global Brand Fund",2.2,0.0,0.05,0.03,2.28,1.19,0.0,0.05,0.02,1.26
 "Sundaram Infrastructure Advantage Fund (Erstwhile Sundaram Capex Opportunities)",2.18,0.0,0.05,0.27,2.5,1.64,0.0,0.05,0.27,1.96
 "Sundaram Large and Midcap Fund",1.71,0.0,0.05,0.09,1.85,0.61,0.0,0.05,0.09,0.75
@@ -1271,12 +1271,12 @@
 "Sundaram Medium Term Bond Fund",2.0,0.0,0.0,0.17,2.17,1.09,0.0,0.0,0.17,1.26
 "Sundaram Mid Cap Fund",1.63,0.0,0.05,0.13,1.81,0.8,0.0,0.05,0.13,0.98
 "Sundaram Money Market Fund",0.32,0.0,0.0,0.02,0.34,0.23,0.0,0.0,0.02,0.25
-"Sundaram Multi Cap Fund (Formerly Known as Principal Multi Cap Growth Fund)",1.9,0.0,0.05,0.12,2.07,0.78,0.0,0.05,0.12,0.95
+"Sundaram Multi Cap Fund (Formerly Known as Principal Multi Cap Growth Fund)",1.9,0.0,0.05,0.12,2.08,0.78,0.0,0.05,0.12,0.96
 "Sundaram Nifty 100 Equal Weight Fund (Formerly Known as Principal Nifty 100 Equal Weight Fund)",1.0,0.0,0.0,0.03,1.03,0.54,0.0,0.0,0.03,0.57
 "Sundaram Overnight Fund",0.18,0.0,0.0,0.0,0.18,0.09,0.0,0.0,0.0,0.09
 "Sundaram Services Fund",1.82,0.0,0.05,0.1,1.97,0.68,0.0,0.05,0.1,0.83
 "Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund)",0.82,0.0,0.0,0.02,0.84,0.26,0.0,0.0,0.02,0.28
-"Sundaram Small Cap Fund",1.83,0.0,0.05,0.11,1.99,0.71,0.0,0.05,0.11,0.87
+"Sundaram Small Cap Fund",1.84,0.0,0.05,0.11,1.99,0.72,0.0,0.05,0.11,0.87
 "Sundaram Tax Savings Fund (Formerly Known as Principal Tax Savings Fund)",2.04,0.0,0.0,0.24,2.28,1.45,0.0,0.0,0.24,1.69
 "Sundaram Ultra Short Duration Fund (Formerly Known as Principal Ultra Short Term Fund)",1.41,0.0,0.0,0.01,1.42,0.17,0.0,0.0,0.01,0.18
 "Tata Arbitrage Fund",1.04,0.0,0.0,0.03,1.07,0.26,0.0,0.0,0.03,0.29
@@ -1350,10 +1350,10 @@
 "Union Corporate Bond Fund",0.65,0.0,0.0,0.04,0.69,0.35,0.0,0.0,0.04,0.39
 "Union Dynamic Bond Fund",1.33,0.0,0.0,0.17,1.5,1.09,0.0,0.0,0.17,1.26
 "Union Equity Savings Fund",1.71,0.0,0.0,0.19,1.9,1.28,0.0,0.0,0.19,1.47
-"Union Flexi Cap Fund",1.94,0.0,0.05,0.1,2.09,0.76,0.0,0.05,0.1,0.91
+"Union Flexi Cap Fund",1.94,0.0,0.05,0.11,2.1,0.76,0.0,0.05,0.11,0.92
 "Union Focused Fund",2.25,0.0,0.05,0.19,2.49,1.25,0.0,0.05,0.19,1.49
 "Union Gilt Fund",1.08,0.0,0.0,0.06,1.14,0.46,0.0,0.0,0.06,0.52
-"Union Hybrid Equity Fund",2.23,0.0,0.05,0.17,2.45,1.09,0.0,0.05,0.17,1.31
+"Union Hybrid Equity Fund",2.23,0.0,0.05,0.18,2.46,1.09,0.0,0.05,0.18,1.32
 "Union Innovation & Opportunities Fund",2.24,0.0,0.05,0.1,2.39,0.74,0.0,0.05,0.1,0.89
 "Union Large & Midcap Fund",2.24,0.0,0.05,0.13,2.42,0.87,0.0,0.05,0.13,1.05
 "Union Largecap Fund",2.25,0.0,0.05,0.23,2.53,1.44,0.0,0.05,0.23,1.72
