@@ -601,7 +601,7 @@
 "ICICI Prudential Bharat Consumption Fund",1.88,0.0,0.05,0.18,2.11,1.0,0.0,0.05,0.18,1.23
 "ICICI Prudential Bluechip Fund",1.39,0.0,0.05,0.14,1.58,0.82,0.0,0.05,0.14,1.01
 "ICICI Prudential Bond Fund",1.11,0.0,0.0,0.0,1.11,0.6,0.0,0.0,0.0,0.6
-"ICICI Prudential Business Cycle Fund",1.68,0.0,0.05,0.11,1.84,0.66,0.0,0.05,0.11,0.82
+"ICICI Prudential Business Cycle Fund",1.67,0.0,0.05,0.11,1.83,0.65,0.0,0.05,0.11,0.81
 "ICICI Prudential Child Care Fund (Gift Plan)",2.07,0.0,0.0,0.22,2.29,1.35,0.0,0.0,0.22,1.57
 "ICICI Prudential Commodities Fund",1.96,0.0,0.05,0.15,2.16,0.83,0.0,0.05,0.15,1.03
 "ICICI Prudential Constant Maturity Gilt Fund",0.39,0.0,0.0,0.0,0.39,0.23,0.0,0.0,0.0,0.23
@@ -612,7 +612,7 @@
 "ICICI Prudential Equity & Debt Fund",1.48,0.0,0.05,0.16,1.69,0.9,0.0,0.05,0.16,1.11
 "ICICI Prudential Equity - Arbitrage Fund",0.99,0.0,0.0,0.0,0.99,0.39,0.0,0.0,0.0,0.39
 "ICICI Prudential Equity Savings Fund",0.99,0.0,0.0,0.0,0.99,0.5,0.0,0.0,0.0,0.5
-"ICICI Prudential ESG Fund",2.0,0.0,0.05,0.13,2.18,0.73,0.0,0.05,0.13,0.91
+"ICICI Prudential ESG Fund",1.99,0.0,0.05,0.13,2.17,0.72,0.0,0.05,0.13,0.9
 "ICICI Prudential Exports & Services Fund",2.03,0.0,0.05,0.25,2.33,1.42,0.0,0.05,0.25,1.72
 "ICICI Prudential Flexicap Fund",1.59,0.0,0.05,0.09,1.73,0.55,0.0,0.05,0.09,0.69
 "ICICI Prudential Floating Interest Fund",1.27,0.0,0.0,0.0,1.27,0.61,0.0,0.0,0.0,0.61
@@ -627,7 +627,7 @@
 "ICICI Prudential India Equity FoF",1.21,0.0,0.05,0.11,1.37,0.7,0.0,0.05,0.11,0.86
 "ICICI Prudential India Opportunities Fund",1.58,0.0,0.05,0.09,1.72,0.52,0.0,0.05,0.09,0.66
 "ICICI Prudential Infrastructure Fund",1.78,0.0,0.05,0.22,2.05,1.2,0.0,0.05,0.22,1.47
-"ICICI Prudential Innovation Fund",1.82,0.0,0.05,0.11,1.98,0.64,0.0,0.05,0.11,0.8
+"ICICI Prudential Innovation Fund",1.81,0.0,0.05,0.11,1.97,0.63,0.0,0.05,0.11,0.79
 "ICICI Prudential Large & Mid Cap Fund",1.62,0.0,0.05,0.13,1.8,0.76,0.0,0.05,0.13,0.94
 "ICICI Prudential Liquid Fund",0.29,0.0,0.0,0.0,0.29,0.2,0.0,0.0,0.0,0.2
 "ICICI Prudential Long Term Bond Fund",1.26,0.0,0.0,0.0,1.26,0.76,0.0,0.0,0.0,0.76
@@ -703,12 +703,12 @@
 "ICICI Prudential Silver ETF Fund of Fund",0.59,0.0,0.05,0.0,0.64,0.04,0.0,0.05,0.0,0.09
 "ICICI Prudential Smallcap Fund",1.68,0.0,0.05,0.1,1.83,0.58,0.0,0.05,0.1,0.73
 "ICICI Prudential Strategic Metal and Energy Equity Fund of Fund",1.45,0.0,0.05,0.06,1.56,0.51,0.0,0.05,0.06,0.62
-"ICICI Prudential Technology Fund",1.6,0.0,0.05,0.12,1.77,0.73,0.0,0.05,0.12,0.9
+"ICICI Prudential Technology Fund",1.59,0.0,0.05,0.12,1.76,0.72,0.0,0.05,0.12,0.89
 "ICICI Prudential Thematic Advantage Fund (FoF)",1.38,0.0,0.05,0.04,1.47,0.36,0.0,0.05,0.04,0.45
 "ICICI Prudential Transportation and Logistics Fund",1.85,0.0,0.05,0.08,1.98,0.46,0.0,0.05,0.08,0.59
 "ICICI Prudential Ultra Short Term Fund",0.84,0.0,0.0,0.0,0.84,0.39,0.0,0.0,0.0,0.39
 "ICICI Prudential US Bluechip Equity Fund",1.84,0.0,0.05,0.15,2.04,0.92,0.0,0.05,0.15,1.12
-"ICICI Prudential Value Discovery Fund",1.44,0.0,0.05,0.16,1.65,0.91,0.0,0.05,0.16,1.12
+"ICICI Prudential Value Discovery Fund",1.43,0.0,0.05,0.16,1.64,0.9,0.0,0.05,0.16,1.11
 "Invesco India - Invesco EQQQ NASDAQ-100 ETF Fund of Fund",0.4,0.0,0.0,0.0,0.4,0.16,0.0,0.0,0.0,0.16
 "Invesco India - Invesco Global Consumer Trends Fund of Fund",1.41,0.0,0.05,0.08,1.54,0.47,0.0,0.05,0.08,0.6
 "Invesco India - Invesco Global Equity Income Fund of Fund",1.25,0.0,0.05,0.1,1.4,0.76,0.0,0.05,0.1,0.91
@@ -767,13 +767,13 @@
 "JM Arbitrage Fund",1.03,0.0,0.0,0.02,1.05,0.32,0.0,0.0,0.02,0.34
 "JM Dynamic Bond Fund",0.91,0.0,0.0,0.07,0.98,0.56,0.0,0.0,0.07,0.63
 "JM Equity Hybrid Fund",2.25,0.0,0.05,0.1,2.4,0.75,0.0,0.05,0.1,0.9
-"JM Flexicap Fund",2.18,0.0,0.05,0.12,2.35,0.78,0.0,0.05,0.12,0.95
+"JM Flexicap Fund",2.17,0.0,0.05,0.12,2.34,0.77,0.0,0.05,0.12,0.94
 "JM Focused Fund",2.23,0.0,0.05,0.19,2.47,1.35,0.0,0.05,0.19,1.59
 "JM Large Cap Fund",2.24,0.0,0.05,0.21,2.5,1.48,0.0,0.05,0.21,1.74
 "JM Liquid Fund",0.25,0.0,0.0,0.0,0.25,0.15,0.0,0.0,0.0,0.15
 "JM Low Duration Fund",0.78,0.0,0.0,0.02,0.8,0.33,0.0,0.0,0.02,0.35
 "JM Medium to Long Duration Fund",0.99,0.0,0.0,0.03,1.02,0.44,0.0,0.0,0.03,0.47
-"JM Midcap Fund",2.24,0.0,0.05,0.01,2.3,0.34,0.0,0.05,0.01,0.4
+"JM Midcap Fund",2.23,0.0,0.05,0.01,2.29,0.33,0.0,0.05,0.01,0.39
 "JM Overnight Fund",0.14,0.0,0.0,0.0,0.14,0.07,0.0,0.0,0.0,0.07
 "JM Short Duration Fund",1.17,0.0,0.0,0.02,1.19,0.3,0.0,0.0,0.02,0.32
 "JM Tax Gain Fund",2.24,0.0,0.0,0.16,2.4,1.26,0.0,0.0,0.16,1.42
