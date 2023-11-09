@@ -314,7 +314,7 @@
 "DSP Credit Risk Fund",1.13,0.0,0.0,0.05,1.18,0.35,0.0,0.0,0.05,0.4
 "DSP CRISIL SDL Plus G-SEC APR 2033 50:50 Index Fund",0.4,0.0,0.0,0.01,0.41,0.14,0.0,0.0,0.01,0.15
 "DSP Dynamic Asset Allocation Fund",1.79,0.0,0.05,0.1,1.94,0.59,0.0,0.05,0.1,0.74
-"DSP Equity & Bond Fund",1.64,0.0,0.05,0.11,1.8,0.62,0.0,0.05,0.1,0.77
+"DSP Equity & Bond Fund",1.64,0.0,0.05,0.1,1.79,0.62,0.0,0.05,0.1,0.77
 "DSP Equity Opportunities Fund",1.62,0.0,0.05,0.1,1.77,0.57,0.0,0.05,0.1,0.72
 "DSP Equity Savings Fund",1.36,0.0,0.0,0.08,1.44,0.52,0.0,0.0,0.08,0.6
 "DSP Flexi Cap Fund",1.62,0.0,0.05,0.1,1.77,0.59,0.0,0.05,0.1,0.74
@@ -880,7 +880,7 @@
 "Mahindra Manulife Business Cycle Fund",2.25,0.0,0.05,0.04,2.34,0.35,0.0,0.05,0.04,0.44
 "Mahindra Manulife Consumption Fund",2.25,0.0,0.05,0.09,2.39,0.66,0.0,0.05,0.09,0.8
 "Mahindra Manulife Dynamic Bond Fund",1.53,0.0,0.0,0.05,1.58,0.4,0.0,0.0,0.05,0.45
-"Mahindra Manulife ELSS Fund",2.18,0.0,0.0,0.08,2.26,0.58,0.0,0.0,0.08,0.66
+"Mahindra Manulife ELSS Fund",2.18,0.0,0.0,0.08,2.25,0.58,0.0,0.0,0.08,0.65
 "Mahindra Manulife Equity Savings Fund",2.25,0.0,0.05,0.09,2.39,0.58,0.0,0.05,0.09,0.72
 "Mahindra Manulife Flexi Cap Fund",2.05,0.0,0.05,0.05,2.15,0.31,0.0,0.05,0.05,0.41
 "Mahindra Manulife Focused Fund",2.1,0.0,0.05,0.05,2.21,0.4,0.0,0.05,0.05,0.51
@@ -1154,6 +1154,7 @@
 "Quantum Multi Asset Fund of Funds",0.47,0.0,0.0,0.0,0.47,0.1,0.0,0.0,0.0,0.1
 "Quantum Nifty 50 ETF",0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0.01,0.1
 "Quantum Nifty 50 ETF Fund of Fund",0.18,0.0,0.0,0.0,0.18,0.06,0.0,0.0,0.0,0.06
+"Quantum Small Cap Fund",2.05,0.0,0.0,0.05,2.1,0.55,0.0,0.0,0.05,0.6
 "Quantum Tax Saving Fund",1.91,0.0,0.0,0.09,2.0,0.81,0.0,0.0,0.09,0.9
 "Samco Active Momentum Fund",2.25,0.0,0.05,0.1,2.4,0.8,0.0,0.05,0.1,0.95
 "Samco ELSS Tax Saver Fund",2.25,0.0,0.0,0.09,2.34,0.8,0.0,0.0,0.09,0.89
