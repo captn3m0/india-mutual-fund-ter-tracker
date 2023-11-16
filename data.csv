@@ -387,7 +387,7 @@
 "Edelweiss Gold ETF",0.35,0.0,0.0,0.0,0.35,0.0,0.0,0.0,0.0,0.0
 "Edelweiss Government Securities Fund",1.09,0.0,0.0,0.06,1.15,0.42,0.0,0.0,0.06,0.48
 "Edelweiss Greater China Equity Off-shore Fund",1.47,0.0,0.05,0.09,1.61,0.54,0.0,0.05,0.09,0.68
-"Edelweiss Large & Mid Cap Fund",1.85,0.0,0.05,0.06,1.96,0.35,0.0,0.05,0.06,0.46
+"Edelweiss Large & Mid Cap Fund",1.85,0.0,0.05,0.05,1.95,0.35,0.0,0.05,0.05,0.45
 "Edelweiss Large Cap Fund",2.21,0.0,0.05,0.11,2.37,0.65,0.0,0.05,0.11,0.81
 "Edelweiss Liquid Fund",0.32,0.0,0.0,0.0,0.32,0.08,0.0,0.0,0.0,0.08
 "Edelweiss Long Term Equity Fund (Tax Savings)",2.25,0.0,0.0,0.08,2.33,0.57,0.0,0.0,0.08,0.65
@@ -395,7 +395,7 @@
 "Edelweiss Money Market Fund",0.93,0.0,0.0,0.03,0.96,0.23,0.0,0.0,0.03,0.26
 "Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund",1.0,0.0,0.0,0.04,1.04,0.43,0.0,0.0,0.04,0.47
 "Edelweiss Multi Asset Allocation Fund",0.62,0.0,0.05,0.03,0.7,0.28,0.0,0.05,0.03,0.36
-"Edelweiss Multi Cap Fund",2.04,0.0,0.05,0.04,2.13,0.27,0.0,0.05,0.04,0.36
+"Edelweiss Multi Cap Fund",2.03,0.0,0.05,0.04,2.12,0.27,0.0,0.05,0.04,0.36
 "Edelweiss Nifty 100 Quality 30 Index Fund",0.82,0.0,0.0,0.01,0.83,0.13,0.0,0.0,0.01,0.14
 "Edelweiss Nifty 50 Index Fund",0.57,0.0,0.0,0.0,0.57,0.05,0.0,0.0,0.0,0.05
 "Edelweiss Nifty Large Midcap 250 Index Fund",0.89,0.0,0.0,0.01,0.9,0.13,0.0,0.0,0.01,0.14
@@ -882,7 +882,7 @@
 "LIC MF Small Cap Fund",2.24,0.0,0.05,0.21,2.5,1.27,0.0,0.05,0.2,1.52
 "LIC MF Ultra Short Duration Fund",1.0,0.0,0.0,0.03,1.03,0.29,0.0,0.0,0.03,0.32
 "LIC MF Unit Linked Insurance Scheme (ULIS)",2.25,0.0,0.0,0.24,2.49,1.4,0.0,0.0,0.23,1.63
-"Mahindra Manulife Aggressive Hybrid Fund",2.11,0.0,0.05,0.07,2.24,0.43,0.0,0.05,0.07,0.56
+"Mahindra Manulife Aggressive Hybrid Fund",2.11,0.0,0.05,0.07,2.23,0.43,0.0,0.05,0.07,0.55
 "Mahindra Manulife Arbitrage Fund",1.15,0.0,0.0,0.03,1.18,0.35,0.0,0.0,0.03,0.38
 "Mahindra Manulife Asia Pacific Reits FoF",1.29,0.0,0.05,0.04,1.37,0.34,0.0,0.05,0.04,0.42
 "Mahindra Manulife Balanced Advantage Fund",2.22,0.0,0.05,0.07,2.34,0.51,0.0,0.05,0.07,0.63
@@ -897,8 +897,8 @@
 "Mahindra Manulife Large Cap Fund",2.25,0.0,0.05,0.09,2.38,0.59,0.0,0.05,0.09,0.72
 "Mahindra Manulife Liquid Fund",0.25,0.0,0.0,0.01,0.26,0.14,0.0,0.0,0.01,0.15
 "Mahindra Manulife Low Duration Fund",1.06,0.0,0.0,0.03,1.09,0.27,0.0,0.0,0.03,0.3
-"Mahindra Manulife Mid Cap Fund",1.94,0.0,0.05,0.07,2.06,0.43,0.0,0.05,0.07,0.55
-"Mahindra Manulife Multi Cap Fund",1.86,0.0,0.05,0.05,1.96,0.31,0.0,0.05,0.05,0.41
+"Mahindra Manulife Mid Cap Fund",1.94,0.0,0.05,0.07,2.05,0.43,0.0,0.05,0.07,0.54
+"Mahindra Manulife Multi Cap Fund",1.86,0.0,0.05,0.05,1.95,0.31,0.0,0.05,0.05,0.4
 "Mahindra Manulife Overnight Fund",0.19,0.0,0.0,0.0,0.19,0.09,0.0,0.0,0.0,0.09
 "Mahindra Manulife Short Duration Fund",1.24,0.0,0.0,0.02,1.26,0.27,0.0,0.0,0.02,0.29
 "Mahindra Manulife Small Cap Fund",1.85,0.0,0.05,0.01,1.91,0.1,0.0,0.05,0.01,0.16
@@ -1022,7 +1022,7 @@
 "Nippon India Balanced Advantage Fund",1.66,0.0,0.05,0.07,1.78,0.42,0.0,0.05,0.07,0.54
 "Nippon India Banking & Financial Services Fund",1.73,0.0,0.05,0.16,1.94,0.93,0.0,0.05,0.16,1.14
 "Nippon India Banking & PSU Debt Fund",0.7,0.0,0.0,0.04,0.74,0.32,0.0,0.0,0.04,0.36
-"Nippon India Consumption Fund",2.22,0.0,0.05,0.17,2.44,0.99,0.0,0.05,0.17,1.21
+"Nippon India Consumption Fund",2.21,0.0,0.05,0.17,2.43,0.98,0.0,0.05,0.17,1.2
 "Nippon India Corporate Bond Fund",0.63,0.0,0.0,0.04,0.67,0.3,0.0,0.0,0.04,0.34
 "Nippon India Credit Risk Fund (Number of Segregated Portfolios- 2)",1.46,0.0,0.05,0.12,1.63,0.74,0.0,0.05,0.12,0.91
 "Nippon India Dynamic Bond Fund",0.67,0.0,0.0,0.03,0.7,0.28,0.0,0.0,0.03,0.31
