@@ -594,7 +594,7 @@
 "ICICI Prudential Bond Fund",1.03,0.0,0.0,0.0,1.03,0.6,0.0,0.0,0.0,0.6
 "ICICI Prudential Business Cycle Fund",1.66,0.0,0.05,0.11,1.82,0.66,0.0,0.05,0.11,0.82
 "ICICI Prudential Child Care Fund (Gift Plan)",2.05,0.0,0.0,0.21,2.26,1.26,0.0,0.0,0.21,1.47
-"ICICI Prudential Commodities Fund",1.95,0.0,0.05,0.13,2.13,0.9,0.0,0.05,0.13,1.08
+"ICICI Prudential Commodities Fund",1.94,0.0,0.05,0.13,2.12,0.89,0.0,0.05,0.13,1.07
 "ICICI Prudential Constant Maturity Gilt Fund",0.39,0.0,0.0,0.0,0.39,0.23,0.0,0.0,0.0,0.23
 "ICICI Prudential Corporate Bond Fund",0.55,0.0,0.0,0.0,0.55,0.32,0.0,0.0,0.0,0.32
 "ICICI Prudential Credit Risk Fund",1.38,0.0,0.05,0.13,1.56,0.69,0.0,0.05,0.13,0.87
@@ -886,7 +886,7 @@
 "LIC MF Ultra Short Duration Fund",1.0,0.0,0.0,0.03,1.03,0.29,0.0,0.0,0.03,0.32
 "LIC MF Unit Linked Insurance Scheme (ULIS)",2.25,0.0,0.0,0.24,2.49,1.4,0.0,0.0,0.23,1.63
 "Mahindra Manulife Aggressive Hybrid Fund",2.11,0.0,0.05,0.07,2.23,0.43,0.0,0.05,0.07,0.55
-"Mahindra Manulife Arbitrage Fund",1.15,0.0,0.0,0.03,1.18,0.35,0.0,0.0,0.03,0.38
+"Mahindra Manulife Arbitrage Fund",1.15,0.0,0.0,0.03,1.17,0.35,0.0,0.0,0.03,0.37
 "Mahindra Manulife Asia Pacific Reits FoF",1.29,0.0,0.05,0.04,1.37,0.34,0.0,0.05,0.04,0.42
 "Mahindra Manulife Balanced Advantage Fund",2.22,0.0,0.05,0.07,2.34,0.51,0.0,0.05,0.07,0.63
 "Mahindra Manulife Business Cycle Fund",2.25,0.0,0.05,0.04,2.34,0.35,0.0,0.05,0.04,0.44
@@ -905,7 +905,7 @@
 "Mahindra Manulife Multi Cap Fund",1.85,0.0,0.05,0.05,1.95,0.3,0.0,0.05,0.05,0.4
 "Mahindra Manulife Overnight Fund",0.19,0.0,0.0,0.0,0.19,0.09,0.0,0.0,0.0,0.09
 "Mahindra Manulife Short Duration Fund",1.24,0.0,0.0,0.02,1.26,0.27,0.0,0.0,0.02,0.29
-"Mahindra Manulife Small Cap Fund",1.85,0.0,0.05,0.01,1.9,0.1,0.0,0.05,0.01,0.15
+"Mahindra Manulife Small Cap Fund",1.85,0.0,0.05,0.0,1.9,0.1,0.0,0.05,0.0,0.15
 "Mahindra Manulife Ultra Short Duration Fund",0.68,0.0,0.0,0.03,0.71,0.26,0.0,0.0,0.03,0.29
 "Mirae Asset Arbitrage Fund",0.89,0.0,0.0,0.02,0.91,0.18,0.0,0.0,0.02,0.2
 "Mirae Asset Balanced Advantage Fund",1.98,0.0,0.05,0.1,2.13,0.58,0.0,0.05,0.1,0.73
@@ -1023,7 +1023,7 @@
 "Navi US Total Stock Market Fund of Fund",0.06,0.0,0.0,0.0,0.06,0.06,0.0,0.0,0.0,0.06
 "Nippon India Arbitrage Fund",1.04,0.0,0.0,0.04,1.08,0.35,0.0,0.0,0.04,0.39
 "Nippon India Asset Allocator FoF",1.18,0.0,0.05,0.04,1.27,0.25,0.0,0.05,0.04,0.34
-"Nippon India Balanced Advantage Fund",1.66,0.0,0.05,0.07,1.78,0.41,0.0,0.05,0.07,0.53
+"Nippon India Balanced Advantage Fund",1.66,0.0,0.05,0.07,1.78,0.42,0.0,0.05,0.07,0.54
 "Nippon India Banking & Financial Services Fund",1.73,0.0,0.05,0.16,1.94,0.93,0.0,0.05,0.16,1.14
 "Nippon India Banking & PSU Debt Fund",0.7,0.0,0.0,0.04,0.74,0.32,0.0,0.0,0.04,0.36
 "Nippon India Consumption Fund",2.21,0.0,0.05,0.17,2.43,0.98,0.0,0.05,0.17,1.2
@@ -1046,7 +1046,7 @@
 "Nippon India ETF Nifty CPSE Bond Plus SDL Sep2024 50:50",0.0,0.0,0.0,0.0,0.0,0.19,0.0,0.0,0.01,0.2
 "Nippon India ETF Nifty Dividend Opportunities 50",0.0,0.0,0.0,0.0,0.0,0.37,0.0,0.0,0.0,0.37
 "Nippon India ETF Nifty India Consumption",0.0,0.0,0.0,0.0,0.0,0.29,0.0,0.0,0.02,0.31
-"Nippon India ETF Nifty Infrastructure BeES",0.0,0.0,0.0,0.0,0.0,0.91,0.0,0.0,0.12,1.03
+"Nippon India ETF Nifty Infrastructure BeES",0.0,0.0,0.0,0.0,0.0,0.92,0.0,0.0,0.12,1.04
 "Nippon India ETF Nifty IT",0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.02,0.22
 "Nippon India ETF Nifty Midcap 150",0.0,0.0,0.0,0.0,0.0,0.21,0.0,0.0,0.0,0.21
 "Nippon India ETF Nifty Next 50 Junior BeES",0.0,0.0,0.0,0.0,0.0,0.16,0.0,0.0,0.01,0.17
@@ -1112,9 +1112,9 @@
 "NJ Overnight Fund",0.15,0.0,0.0,0.0,0.15,0.05,0.0,0.0,0.0,0.05
 "Parag Parikh Arbitrage Fund",0.69,0.0,0.0,0.02,0.71,0.34,0.0,0.0,0.02,0.36
 "Parag Parikh Conservative Hybrid Fund",0.6,0.0,0.0,0.03,0.63,0.3,0.0,0.0,0.03,0.33
-"Parag Parikh Flexi Cap Fund",1.25,0.0,0.05,0.08,1.38,0.5,0.0,0.05,0.08,0.63
+"Parag Parikh Flexi Cap Fund",1.25,0.0,0.05,0.07,1.37,0.5,0.0,0.05,0.07,0.62
 "Parag Parikh Liquid Fund",0.25,0.0,0.0,0.01,0.26,0.15,0.0,0.0,0.01,0.16
-"Parag Parikh Tax Saver Fund",1.77,0.0,0.0,0.09,1.86,0.67,0.0,0.0,0.09,0.76
+"Parag Parikh Tax Saver Fund",1.76,0.0,0.0,0.09,1.85,0.66,0.0,0.0,0.09,0.75
 "PGIM India Arbitrage Fund",1.01,0.0,0.0,0.03,1.04,0.31,0.0,0.0,0.03,0.34
 "PGIM India Balanced Advantage Fund",1.99,0.0,0.05,0.05,2.09,0.31,0.0,0.05,0.04,0.4
 "PGIM India Corporate Bond Fund (Earlier Known as PGIM India Premier Bond Fund)",1.0,0.0,0.0,0.03,1.03,0.28,0.0,0.0,0.01,0.29
