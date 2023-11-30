@@ -29,7 +29,7 @@
 "Aditya Birla Sun Life CRISIL IBX SDL JUN 2032 Index Fund",0.55,0.0,0.0,0.03,0.58,0.2,0.0,0.0,0.03,0.23
 "Aditya Birla Sun Life CRISIL Liquid Overnight ETF",0.0,0.0,0.0,0.0,0.0,0.58,0.0,0.0,0.0,0.59
 "Aditya Birla Sun Life Digital India Fund",1.74,0.0,0.05,0.1,1.89,0.65,0.0,0.05,0.1,0.8
-"Aditya Birla Sun Life Dividend Yield Fund",2.03,0.0,0.05,0.22,2.31,1.28,0.0,0.05,0.22,1.56
+"Aditya Birla Sun Life Dividend Yield Fund",2.03,0.0,0.05,0.22,2.3,1.28,0.0,0.05,0.22,1.55
 "Aditya Birla Sun Life Dynamic Bond Fund",1.14,0.0,0.0,0.09,1.23,0.55,0.0,0.0,0.09,0.64
 "Aditya Birla Sun Life ELSS Tax Relief '96",1.56,0.0,0.0,0.13,1.69,0.8,0.0,0.0,0.13,0.93
 "Aditya Birla Sun Life Equity Advantage Fund",1.71,0.0,0.05,0.15,1.91,0.89,0.0,0.05,0.15,1.09
@@ -41,7 +41,7 @@
 "Aditya Birla Sun Life Financial Planning Fund - Moderate Plan",0.89,0.0,0.05,0.04,0.98,0.29,0.0,0.05,0.04,0.38
 "Aditya Birla Sun Life Flexi Cap Fund",1.53,0.0,0.05,0.12,1.7,0.72,0.0,0.05,0.12,0.89
 "Aditya Birla Sun Life Floating Rate Fund",0.43,0.0,0.0,0.03,0.46,0.2,0.0,0.0,0.03,0.23
-"Aditya Birla Sun Life Focused Equity Fund",1.68,0.0,0.05,0.12,1.85,0.73,0.0,0.05,0.12,0.9
+"Aditya Birla Sun Life Focused Equity Fund",1.67,0.0,0.05,0.12,1.85,0.72,0.0,0.05,0.12,0.9
 "Aditya Birla Sun Life Frontline Equity Fund",1.49,0.0,0.05,0.14,1.68,0.82,0.0,0.05,0.14,1.01
 "Aditya Birla Sun Life Global Emerging Opportunities Fund",1.01,0.0,0.05,0.07,1.13,0.46,0.0,0.05,0.07,0.58
 "Aditya Birla Sun Life Global Excellence Equity Fund of Fund",1.2,0.0,0.0,0.08,1.28,0.6,0.0,0.0,0.08,0.68
@@ -57,7 +57,7 @@
 "Aditya Birla Sun Life Low Duration Fund",1.14,0.0,0.0,0.05,1.19,0.33,0.0,0.0,0.05,0.38
 "Aditya Birla Sun Life Manufacturing Equity Fund",2.17,0.0,0.05,0.22,2.44,1.29,0.0,0.05,0.22,1.56
 "Aditya Birla Sun Life Medium Term Plan",1.46,0.0,0.0,0.12,1.58,0.73,0.0,0.0,0.12,0.85
-"Aditya Birla Sun Life Midcap Fund",1.73,0.0,0.05,0.15,1.94,0.88,0.0,0.05,0.15,1.09
+"Aditya Birla Sun Life Midcap Fund",1.73,0.0,0.05,0.15,1.93,0.88,0.0,0.05,0.15,1.08
 "Aditya Birla Sun Life MNC Fund",1.78,0.0,0.05,0.18,2.01,1.05,0.0,0.05,0.18,1.28
 "Aditya Birla Sun Life Money Manager Fund",0.31,0.0,0.0,0.03,0.34,0.18,0.0,0.0,0.03,0.21
 "Aditya Birla Sun Life Multi - Index Fund of Funds",0.52,0.0,0.0,0.02,0.54,0.12,0.0,0.0,0.02,0.14
@@ -83,7 +83,7 @@
 "Aditya Birla Sun Life Overnight Fund",0.18,0.0,0.0,0.01,0.19,0.07,0.0,0.0,0.01,0.08
 "Aditya Birla Sun Life Pharma and Healthcare Fund",2.22,0.0,0.05,0.15,2.42,0.87,0.0,0.05,0.15,1.07
 "Aditya Birla Sun Life PSU Equity Fund",1.96,0.0,0.05,0.09,2.1,0.56,0.0,0.05,0.09,0.7
-"Aditya Birla Sun Life Pure Value Fund",1.72,0.0,0.05,0.15,1.92,0.85,0.0,0.05,0.15,1.05
+"Aditya Birla Sun Life Pure Value Fund",1.72,0.0,0.05,0.15,1.91,0.85,0.0,0.05,0.15,1.04
 "Aditya Birla Sun Life Regular Savings Fund",1.72,0.0,0.05,0.14,1.9,0.77,0.0,0.05,0.14,0.95
 "Aditya Birla Sun Life Retirement Fund-The 30s Plan",2.25,0.0,0.0,0.14,2.39,0.9,0.0,0.0,0.14,1.04
 "Aditya Birla Sun Life Retirement Fund-The 40s Plan",2.25,0.0,0.0,0.14,2.38,0.86,0.0,0.0,0.14,0.99
@@ -181,7 +181,7 @@
 "Bandhan Bond Fund - Income Plan",1.79,0.0,0.0,0.2,1.99,1.13,0.0,0.0,0.2,1.33
 "Bandhan Bond Fund - Medium Term Plan",1.37,0.0,0.0,0.11,1.48,0.66,0.0,0.0,0.11,0.77
 "Bandhan Bond Fund - Short Term Plan",0.74,0.0,0.0,0.04,0.78,0.27,0.0,0.0,0.04,0.31
-"Bandhan Core Equity Fund",1.8,0.0,0.05,0.11,1.96,0.62,0.0,0.05,0.1,0.77
+"Bandhan Core Equity Fund",1.79,0.0,0.05,0.1,1.94,0.62,0.0,0.05,0.1,0.77
 "Bandhan Corporate Bond Fund",0.58,0.0,0.0,0.04,0.62,0.28,0.0,0.0,0.04,0.32
 "Bandhan Credit Risk Fund",1.54,0.0,0.0,0.09,1.63,0.57,0.0,0.0,0.09,0.66
 "Bandhan CRISIL IBX 90:10 SDL Plus Gilt - April 2032 Index Fund",0.32,0.0,0.0,0.02,0.34,0.14,0.0,0.0,0.02,0.16
@@ -192,7 +192,7 @@
 "Bandhan CRISIL IBX Gilt April 2032 Index Fund",0.43,0.0,0.0,0.03,0.46,0.17,0.0,0.0,0.03,0.2
 "Bandhan CRISIL IBX Gilt June 2027 Index Fund",0.39,0.0,0.0,0.02,0.41,0.14,0.0,0.0,0.02,0.16
 "Bandhan Dynamic Bond Fund",1.51,0.0,0.0,0.11,1.62,0.65,0.0,0.0,0.11,0.76
-"Bandhan ELSS Tax Saver Fund",1.71,0.0,0.0,0.08,1.79,0.55,0.0,0.0,0.08,0.63
+"Bandhan ELSS Tax Saver Fund",1.71,0.0,0.0,0.08,1.79,0.54,0.0,0.0,0.08,0.62
 "Bandhan Emerging Businesses Fund",1.8,0.0,0.05,0.04,1.89,0.25,0.0,0.05,0.03,0.33
 "Bandhan Equity Savings Fund",1.31,0.0,0.0,0.05,1.36,0.33,0.0,0.0,0.05,0.38
 "Bandhan Financial Services Fund",2.2,0.0,0.05,0.09,2.34,0.46,0.0,0.05,0.08,0.59
@@ -201,12 +201,12 @@
 "Bandhan Focused Equity Fund",1.97,0.0,0.05,0.11,2.13,0.62,0.0,0.05,0.1,0.77
 "Bandhan GSF - Constant Maturity Plan",0.48,0.0,0.0,0.04,0.52,0.26,0.0,0.0,0.04,0.3
 "Bandhan GSF Investment Plan",1.16,0.0,0.0,0.09,1.25,0.54,0.0,0.0,0.09,0.63
-"Bandhan Hybrid Equity Fund",2.2,0.0,0.05,0.15,2.4,0.9,0.0,0.05,0.15,1.1
+"Bandhan Hybrid Equity Fund",2.2,0.0,0.05,0.15,2.4,0.89,0.0,0.05,0.15,1.09
 "Bandhan Infrastructure Fund",2.13,0.0,0.05,0.16,2.34,0.93,0.0,0.05,0.16,1.14
-"Bandhan Large Cap Fund",2.01,0.0,0.0,0.13,2.14,0.82,0.0,0.0,0.13,0.95
+"Bandhan Large Cap Fund",2.01,0.0,0.0,0.13,2.14,0.82,0.0,0.0,0.12,0.94
 "Bandhan Liquid Fund",0.24,0.0,0.0,0.01,0.25,0.11,0.0,0.0,0.01,0.12
 "Bandhan Low Duration Fund",0.54,0.0,0.0,0.04,0.58,0.28,0.0,0.0,0.04,0.32
-"Bandhan Midcap Fund",2.08,0.0,0.05,0.07,2.2,0.45,0.0,0.05,0.07,0.57
+"Bandhan Midcap Fund",2.08,0.0,0.05,0.07,2.2,0.44,0.0,0.05,0.07,0.56
 "Bandhan Money Manager Fund",0.95,0.0,0.0,0.03,0.98,0.2,0.0,0.0,0.03,0.23
 "Bandhan Multi Cap Fund",1.94,0.0,0.05,0.07,2.06,0.43,0.0,0.05,0.06,0.54
 "Bandhan Nifty 100 Index Fund",0.6,0.0,0.0,0.01,0.61,0.09,0.0,0.0,0.0,0.09
@@ -455,24 +455,24 @@
 "Groww Value Fund (Formerly Known as Indiabulls Value Fund)",2.25,0.0,0.05,0.0,2.3,1.08,0.0,0.05,0.0,1.13
 "HDFC Arbitrage Fund",0.9,0.0,0.0,0.07,0.97,0.4,0.0,0.0,0.07,0.47
 "HDFC Asset Allocator Fund of Funds",1.2,0.0,0.05,0.0,1.25,0.1,0.0,0.05,0.0,0.15
-"HDFC Balanced Advantage Fund",1.27,0.0,0.05,0.12,1.44,0.65,0.0,0.05,0.12,0.82
+"HDFC Balanced Advantage Fund",1.26,0.0,0.05,0.12,1.43,0.64,0.0,0.05,0.12,0.81
 "HDFC Banking & Financial Services Fund",1.81,0.0,0.05,0.07,1.93,0.48,0.0,0.05,0.07,0.6
 "HDFC Banking and PSU Debt Fund",0.76,0.0,0.0,0.05,0.81,0.34,0.0,0.0,0.05,0.39
 "HDFC Business Cycle Fund",1.82,0.0,0.05,0.07,1.94,0.43,0.0,0.05,0.07,0.55
-"HDFC Capital Builder Value Fund",1.69,0.0,0.05,0.14,1.88,0.83,0.0,0.05,0.14,1.02
-"HDFC Childrens Gift Fund",1.65,0.0,0.0,0.14,1.79,0.82,0.0,0.0,0.14,0.96
+"HDFC Capital Builder Value Fund",1.68,0.0,0.05,0.14,1.87,0.82,0.0,0.05,0.14,1.01
+"HDFC Childrens Gift Fund",1.64,0.0,0.0,0.14,1.78,0.81,0.0,0.0,0.14,0.95
 "HDFC Corporate Bond Fund",0.56,0.0,0.0,0.04,0.6,0.31,0.0,0.0,0.04,0.35
 "HDFC Credit Risk Debt Fund",1.38,0.0,0.05,0.14,1.57,0.77,0.0,0.05,0.14,0.96
 "HDFC Defence Fund",1.95,0.0,0.05,0.13,2.13,0.68,0.0,0.05,0.13,0.86
 "HDFC Developed World Indexes Fund of Funds",0.64,0.0,0.05,0.0,0.69,0.23,0.0,0.05,0.0,0.28
-"HDFC Dividend Yield Fund",1.76,0.0,0.05,0.06,1.87,0.36,0.0,0.05,0.06,0.47
+"HDFC Dividend Yield Fund",1.75,0.0,0.05,0.06,1.86,0.35,0.0,0.05,0.06,0.46
 "HDFC Dynamic Debt Fund",1.43,0.0,0.0,0.05,1.48,0.64,0.0,0.0,0.05,0.69
 "HDFC Dynamic PE Ratio Fund of Funds",1.0,0.0,0.0,0.0,1.0,0.26,0.0,0.0,0.0,0.26
 "HDFC ELSS Tax Saver",1.58,0.0,0.0,0.17,1.75,0.98,0.0,0.0,0.17,1.15
 "HDFC Equity Savings Fund",1.78,0.0,0.05,0.16,1.99,0.87,0.0,0.05,0.16,1.08
 "HDFC Flexi Cap Fund",1.39,0.0,0.05,0.14,1.58,0.74,0.0,0.05,0.14,0.93
 "HDFC Floating Rate Debt Fund",0.45,0.0,0.0,0.03,0.48,0.23,0.0,0.0,0.03,0.26
-"HDFC Focused 30 Fund",1.65,0.0,0.05,0.07,1.77,0.38,0.0,0.05,0.07,0.5
+"HDFC Focused 30 Fund",1.64,0.0,0.05,0.07,1.76,0.37,0.0,0.05,0.07,0.49
 "HDFC Gilt Fund",0.84,0.0,0.0,0.05,0.89,0.41,0.0,0.0,0.05,0.46
 "HDFC Gold Exchange Traded Fund",0.55,0.0,0.0,0.04,0.59,0.0,0.0,0.0,0.0,0.0
 "HDFC Gold Fund",0.45,0.0,0.05,0.0,0.5,0.13,0.0,0.05,0.0,0.18
@@ -533,11 +533,11 @@
 "HDFC Short Term Debt Fund",0.72,0.0,0.0,0.02,0.74,0.35,0.0,0.0,0.02,0.37
 "HDFC Silver ETF",0.4,0.0,0.0,0.0,0.4,0.0,0.0,0.0,0.0,0.0
 "HDFC Silver ETF Fund of Fund",0.6,0.0,0.0,0.0,0.6,0.27,0.0,0.0,0.0,0.27
-"HDFC Small Cap Fund",1.49,0.0,0.05,0.1,1.64,0.59,0.0,0.05,0.1,0.74
+"HDFC Small Cap Fund",1.48,0.0,0.05,0.1,1.63,0.58,0.0,0.05,0.1,0.73
 "HDFC Taxsaver",1.59,0.0,0.0,0.16,1.75,0.99,0.0,0.0,0.16,1.15
-"HDFC Technology Fund",2.17,0.0,0.05,0.15,2.37,0.97,0.0,0.05,0.15,1.17
+"HDFC Technology Fund",2.16,0.0,0.05,0.15,2.36,0.96,0.0,0.05,0.15,1.16
 "HDFC Top 100 Fund",1.47,0.0,0.05,0.16,1.68,0.89,0.0,0.05,0.16,1.1
-"HDFC Transportation and Logistics Fund",2.21,0.0,0.05,0.17,2.43,1.03,0.0,0.05,0.17,1.25
+"HDFC Transportation and Logistics Fund",2.2,0.0,0.05,0.17,2.42,1.02,0.0,0.05,0.17,1.24
 "HDFC Ultra Short Term Fund",0.65,0.0,0.0,0.04,0.69,0.32,0.0,0.0,0.04,0.36
 "Helios Flexi Cap Fund",2.2,0.0,0.05,0.1,2.35,0.6,0.0,0.05,0.1,0.75
 "Helios Overnight Fund",0.14,0.0,0.0,0.01,0.15,0.09,0.0,0.0,0.01,0.1
