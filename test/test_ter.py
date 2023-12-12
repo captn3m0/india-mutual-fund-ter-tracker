@@ -2,12 +2,12 @@ from src import parse_ter,canonical_name
 
 # TODO: Add test for generate_diff
 class TestTer:
-    def test_parser(self):
-        with open("test/54.html") as f:
+
+    def test_large_parser(self):
+        with open("test/large.html") as f:
             html = f.read()
             data = parse_ter(html)
-            assert len(data) == 78
-
+            assert len(data) == 1447
 
     def test_scheme_name(self):
         assert canonical_name("BANDHAN Multi Cap Fund") == "Bandhan Multi Cap Fund"
