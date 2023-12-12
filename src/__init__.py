@@ -187,7 +187,7 @@ def fetch_ter_html(conn, date):
     # Month and Year
     d = date.strftime("%-m-%Y")
     payload = f"MonthTER={d}&MF_ID=-1&NAV_ID=1&SchemeCat_Desc=-1"
-    headers = {"Content-Type": "application/x-www-form-urlencoded"}
+    headers = {"Content-Type": "application/x-www-form-urlencoded", "Accept-Encoding": "gzip"}
     conn.request("POST", "/modules/LoadTERData", payload, headers)
     res = conn.getresponse()
     return res.read().decode("utf-8")
