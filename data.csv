@@ -778,13 +778,13 @@
 "JM Value Fund",2.24,0.0,0.05,0.22,2.51,1.54,0.0,0.05,0.22,1.81
 "Kotak All Weather Debt FoF",0.15,0.0,0.0,0.0,0.15,0.07,0.0,0.0,0.0,0.07
 "Kotak Balanced Advantage Fund",1.55,0.0,0.05,0.06,1.66,0.45,0.0,0.0,0.06,0.51
-"Kotak Banking and Financial Services Fund",2.14,0.0,0.05,0.08,2.27,0.61,0.0,0.0,0.08,0.69
+"Kotak Banking and Financial Services Fund",2.13,0.0,0.05,0.08,2.26,0.61,0.0,0.0,0.08,0.69
 "Kotak Banking and PSU Debt Fund",0.76,0.0,0.0,0.05,0.81,0.32,0.0,0.0,0.05,0.37
 "Kotak Bluechip Fund",1.65,0.0,0.05,0.07,1.77,0.53,0.0,0.0,0.07,0.6
 "Kotak Bond Fund",1.67,0.0,0.0,0.09,1.76,0.55,0.0,0.0,0.09,0.64
-"Kotak Bond Short Term Fund",1.13,0.0,0.0,0.04,1.17,0.33,0.0,0.0,0.04,0.37
+"Kotak Bond Short Term Fund",1.13,0.0,0.0,0.05,1.18,0.33,0.0,0.0,0.05,0.38
 "Kotak Business Cycle Fund",1.84,0.0,0.05,0.03,1.92,0.27,0.0,0.0,0.03,0.3
-"Kotak Consumption Fund",2.24,0.0,0.05,0.09,2.38,0.63,0.0,0.0,0.09,0.72
+"Kotak Consumption Fund",2.24,0.0,0.05,0.09,2.38,0.62,0.0,0.0,0.09,0.71
 "Kotak Corporate Bond Fund",0.63,0.0,0.0,0.04,0.67,0.3,0.0,0.0,0.04,0.34
 "Kotak Credit Risk Fund",1.55,0.0,0.05,0.1,1.7,0.67,0.0,0.0,0.1,0.77
 "Kotak Debt Hybrid Fund",1.63,0.0,0.05,0.06,1.74,0.39,0.0,0.0,0.06,0.45
@@ -794,9 +794,9 @@
 "Kotak Equity Arbitrage Fund",0.97,0.0,0.0,0.04,1.01,0.39,0.0,0.0,0.04,0.43
 "Kotak Equity Hybrid Fund",1.73,0.0,0.05,0.05,1.83,0.42,0.0,0.0,0.05,0.47
 "Kotak Equity Opportunities Fund",1.53,0.0,0.05,0.06,1.64,0.47,0.0,0.0,0.06,0.53
-"Kotak Equity Savings Fund",1.76,0.0,0.05,0.11,1.92,0.75,0.0,0.0,0.11,0.86
+"Kotak Equity Savings Fund",1.75,0.0,0.05,0.1,1.9,0.72,0.0,0.0,0.1,0.82
 "Kotak ESG Opportunities Fund",2.06,0.0,0.05,0.07,2.18,0.64,0.0,0.0,0.07,0.71
-"Kotak Flexicap Fund",1.38,0.0,0.05,0.08,1.51,0.57,0.0,0.0,0.08,0.65
+"Kotak Flexicap Fund",1.37,0.0,0.05,0.08,1.5,0.57,0.0,0.0,0.08,0.65
 "Kotak Floating Rate Fund",0.6,0.0,0.0,0.02,0.62,0.2,0.0,0.0,0.02,0.22
 "Kotak Focused Equity Fund",1.8,0.0,0.05,0.06,1.91,0.47,0.0,0.0,0.06,0.53
 "Kotak Gilt Fund",1.42,0.0,0.0,0.05,1.47,0.38,0.0,0.0,0.05,0.43
@@ -804,6 +804,7 @@
 "Kotak Global Innovation Fund of Fund",1.5,0.0,0.05,0.05,1.6,0.4,0.0,0.0,0.05,0.45
 "Kotak Gold ETF",0.55,0.0,0.0,0.0,0.55,0.0,0.0,0.0,0.0,0.0
 "Kotak Gold Fund",0.45,0.0,0.05,0.0,0.5,0.15,0.0,0.0,0.0,0.15
+"Kotak Healthcare Fund",2.25,0.0,0.05,0.08,2.38,0.63,0.0,0.0,0.08,0.71
 "Kotak India EQ Contra Fund",1.88,0.0,0.05,0.09,2.02,0.61,0.0,0.0,0.09,0.7
 "Kotak Infrastructure and Economic Reform Fund",1.99,0.0,0.05,0.1,2.14,0.65,0.0,0.0,0.1,0.75
 "Kotak International REIT FoF",1.28,0.0,0.05,0.05,1.38,0.45,0.0,0.0,0.05,0.5
@@ -814,7 +815,7 @@
 "Kotak Money Market Fund",0.33,0.0,0.0,0.02,0.35,0.21,0.0,0.0,0.02,0.23
 "Kotak Multi Asset Allocation Fund",1.73,0.0,0.05,0.03,1.81,0.27,0.0,0.0,0.03,0.3
 "Kotak Multi Asset Allocator Fund of Fund - Dynamic",0.87,0.0,0.05,0.0,0.92,0.23,0.0,0.0,0.0,0.23
-"Kotak Multicap Fund",1.65,0.0,0.05,0.04,1.74,0.4,0.0,0.0,0.04,0.44
+"Kotak Multicap Fund",1.64,0.0,0.05,0.04,1.73,0.4,0.0,0.0,0.04,0.44
 "Kotak NASDAQ 100 Fund of Fund",0.65,0.0,0.0,0.02,0.67,0.29,0.0,0.0,0.02,0.31
 "Kotak Nifty 100 Low Volatility 30 ETF",0.2,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0
 "Kotak Nifty 1D Rate Liquid ETF",0.2,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0
@@ -844,7 +845,7 @@
 "Kotak Quant Fund",1.05,0.0,0.05,0.16,1.26,1.0,0.0,0.0,0.16,1.16
 "Kotak S&P BSE Housing Index Fund",0.85,0.0,0.0,0.02,0.87,0.2,0.0,0.0,0.02,0.22
 "Kotak S&P BSE SENSEX ETF",0.25,0.0,0.0,0.03,0.28,0.0,0.0,0.0,0.0,0.0
-"Kotak Savings Fund",0.76,0.0,0.0,0.04,0.8,0.32,0.0,0.0,0.04,0.36
+"Kotak Savings Fund",0.76,0.0,0.0,0.05,0.81,0.32,0.0,0.0,0.05,0.37
 "Kotak Silver ETF",0.45,0.0,0.0,0.0,0.45,0.0,0.0,0.0,0.0,0.0
 "Kotak Silver ETF Fund of Fund",0.55,0.0,0.05,0.0,0.6,0.14,0.0,0.0,0.0,0.14
 "Kotak Small Cap Fund",1.56,0.0,0.05,0.05,1.66,0.39,0.0,0.0,0.05,0.44
