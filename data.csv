@@ -55,10 +55,10 @@
 "Aditya Birla Sun Life Liquid Fund",0.31,0.0,0.0,0.03,0.34,0.19,0.0,0.0,0.03,0.21
 "Aditya Birla Sun Life Long Duration Fund",1.03,0.0,0.0,0.05,1.07,0.37,0.0,0.0,0.05,0.41
 "Aditya Birla Sun Life Low Duration Fund",1.14,0.0,0.0,0.05,1.19,0.33,0.0,0.0,0.05,0.38
-"Aditya Birla Sun Life Manufacturing Equity Fund",2.15,0.0,0.05,0.22,2.42,1.27,0.0,0.05,0.22,1.54
+"Aditya Birla Sun Life Manufacturing Equity Fund",2.14,0.0,0.05,0.22,2.41,1.26,0.0,0.05,0.22,1.53
 "Aditya Birla Sun Life Medium Term Plan",1.46,0.0,0.0,0.12,1.58,0.73,0.0,0.0,0.12,0.85
 "Aditya Birla Sun Life Midcap Fund",1.73,0.0,0.05,0.15,1.93,0.88,0.0,0.05,0.15,1.08
-"Aditya Birla Sun Life MNC Fund",1.77,0.0,0.05,0.17,2.0,1.01,0.0,0.05,0.17,1.24
+"Aditya Birla Sun Life MNC Fund",1.77,0.0,0.05,0.18,2.0,1.01,0.0,0.05,0.18,1.24
 "Aditya Birla Sun Life Money Manager Fund",0.31,0.0,0.0,0.03,0.34,0.18,0.0,0.0,0.03,0.21
 "Aditya Birla Sun Life Multi - Index Fund of Funds",0.52,0.0,0.0,0.02,0.54,0.12,0.0,0.0,0.02,0.14
 "Aditya Birla Sun Life Multi Asset Allocation Fund",1.82,0.0,0.04,0.04,1.9,0.3,0.0,0.04,0.04,0.38
@@ -82,7 +82,7 @@
 "Aditya Birla Sun Life Nifty Smallcap 50 Index Fund",1.0,0.0,0.0,0.05,1.05,0.45,0.0,0.0,0.05,0.5
 "Aditya Birla Sun Life Overnight Fund",0.18,0.0,0.0,0.01,0.19,0.07,0.0,0.0,0.01,0.08
 "Aditya Birla Sun Life Pharma and Healthcare Fund",2.22,0.0,0.05,0.15,2.42,0.87,0.0,0.05,0.15,1.07
-"Aditya Birla Sun Life PSU Equity Fund",1.93,0.0,0.05,0.09,2.07,0.56,0.0,0.05,0.09,0.7
+"Aditya Birla Sun Life PSU Equity Fund",1.92,0.0,0.05,0.09,2.06,0.55,0.0,0.05,0.09,0.69
 "Aditya Birla Sun Life Pure Value Fund",1.7,0.0,0.05,0.14,1.9,0.82,0.0,0.05,0.14,1.01
 "Aditya Birla Sun Life Regular Savings Fund",1.71,0.0,0.05,0.14,1.91,0.79,0.0,0.05,0.14,0.99
 "Aditya Birla Sun Life Retirement Fund-The 30s Plan",2.25,0.0,0.0,0.14,2.39,0.9,0.0,0.0,0.14,1.04
@@ -442,7 +442,7 @@
 "Franklin India Money Market Fund",0.29,0.0,0.0,0.01,0.3,0.13,0.0,0.0,0.01,0.14
 "Franklin India Multi - Asset Solution Fund of Funds",2.0,0.0,0.05,0.07,2.12,1.06,0.0,0.05,0.06,1.17
 "Franklin India NSE Nifty 50 Index Fund",0.6,0.0,0.0,0.03,0.63,0.24,0.0,0.0,0.03,0.27
-"Franklin India Opportunities Fund",1.9,0.0,0.05,0.13,2.08,0.79,0.0,0.05,0.13,0.97
+"Franklin India Opportunities Fund",1.9,0.0,0.05,0.13,2.08,0.78,0.0,0.05,0.13,0.96
 "Franklin India Overnight Fund",0.15,0.0,0.0,0.01,0.16,0.1,0.0,0.0,0.01,0.11
 "Franklin India Pension Plan",2.0,0.0,0.05,0.22,2.27,1.26,0.0,0.05,0.22,1.53
 "Franklin India Prima Fund",1.61,0.0,0.05,0.13,1.79,0.79,0.0,0.05,0.13,0.97
@@ -913,7 +913,7 @@
 "Mahindra Manulife Short Duration Fund",1.24,0.0,0.0,0.02,1.26,0.27,0.0,0.0,0.02,0.29
 "Mahindra Manulife Small Cap Fund",1.82,0.0,0.05,0.0,1.87,0.07,0.0,0.05,0.0,0.12
 "Mahindra Manulife Ultra Short Duration Fund",0.68,0.0,0.0,0.03,0.71,0.26,0.0,0.0,0.03,0.29
-"Mirae Asset Aggressive Hybrid Fund",1.64,0.0,0.05,0.04,1.73,0.28,0.0,0.05,0.04,0.37
+"Mirae Asset Aggressive Hybrid Fund",1.63,0.0,0.05,0.04,1.72,0.28,0.0,0.05,0.04,0.37
 "Mirae Asset Arbitrage Fund",0.89,0.0,0.0,0.01,0.9,0.14,0.0,0.0,0.01,0.15
 "Mirae Asset Balanced Advantage Fund",1.96,0.0,0.05,0.09,2.1,0.56,0.0,0.05,0.09,0.7
 "Mirae Asset Banking and Financial Services Fund",1.94,0.0,0.05,0.08,2.07,0.47,0.0,0.05,0.08,0.6
@@ -1360,7 +1360,7 @@
 "Taurus Nifty 50 Index Fund",0.99,0.0,0.05,0.0,1.04,0.96,0.0,0.05,0.0,1.01
 "Taurus Tax Shield",2.22,0.0,0.0,0.24,2.46,1.61,0.0,0.0,0.24,1.85
 "Templeton India Equity Income Fund",1.92,0.0,0.05,0.2,2.17,1.21,0.0,0.05,0.2,1.46
-"Templeton India Value Fund",1.94,0.0,0.05,0.12,2.11,0.8,0.0,0.05,0.13,0.98
+"Templeton India Value Fund",1.94,0.0,0.05,0.13,2.12,0.8,0.0,0.05,0.13,0.98
 "TRUSTMF Banking & PSU Debt Fund",0.7,0.0,0.0,0.01,0.71,0.2,0.0,0.0,0.01,0.21
 "TRUSTMF Corporate Bond Fund",0.63,0.0,0.0,0.02,0.65,0.23,0.0,0.0,0.02,0.25
 "TRUSTMF Liquid Fund",0.25,0.0,0.0,0.0,0.25,0.1,0.0,0.0,0.0,0.1
@@ -1455,7 +1455,7 @@
 "UTI Small Cap Fund",1.77,0.0,0.05,0.04,1.86,0.34,0.0,0.05,0.04,0.43
 "UTI Ultra Short Duration Fund",0.92,0.0,0.0,0.05,0.97,0.39,0.0,0.0,0.05,0.44
 "UTI Value Fund",1.63,0.0,0.05,0.14,1.82,0.91,0.0,0.05,0.14,1.1
-"WhiteOak Capital Balanced Advantage Fund",2.16,0.0,0.05,0.07,2.28,0.5,0.0,0.05,0.07,0.62
+"WhiteOak Capital Balanced Advantage Fund",2.15,0.0,0.05,0.07,2.27,0.5,0.0,0.05,0.07,0.62
 "WhiteOak Capital Balanced Hybrid Fund",2.0,0.0,0.05,0.05,2.1,0.5,0.0,0.05,0.05,0.6
 "WhiteOak Capital ELSS Tax Saver Fund",2.25,0.0,0.0,0.07,2.32,0.61,0.0,0.0,0.07,0.68
 "WhiteOak Capital Flexi Cap Fund",1.81,0.0,0.05,0.04,1.9,0.31,0.0,0.05,0.04,0.4
@@ -1463,7 +1463,7 @@
 "WhiteOak Capital Liquid Fund",0.34,0.0,0.0,0.02,0.36,0.24,0.0,0.0,0.02,0.26
 "WhiteOak Capital Mid Cap Fund",1.97,0.0,0.05,0.04,2.06,0.34,0.0,0.05,0.04,0.43
 "WhiteOak Capital Multi Asset Allocation Fund",1.65,0.0,0.05,0.06,1.76,0.48,0.0,0.05,0.06,0.59
-"WhiteOak Capital Multi Cap Fund",2.23,0.0,0.05,0.06,2.34,0.52,0.0,0.05,0.06,0.63
+"WhiteOak Capital Multi Cap Fund",2.22,0.0,0.05,0.06,2.33,0.51,0.0,0.05,0.06,0.62
 "WhiteOak Capital Tax Saver Fund",2.25,0.0,0.0,0.06,2.31,0.6,0.0,0.0,0.06,0.66
 "WhiteOak Capital Ultra Short Term Fund",0.96,0.0,0.0,0.04,1.0,0.37,0.0,0.0,0.04,0.41
 "Zerodha ELSS Tax Saver Nifty Largemidcap 250 Index Fund",0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.01,0.26
