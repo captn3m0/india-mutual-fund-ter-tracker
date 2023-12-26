@@ -235,6 +235,7 @@
 "Bank of India Bluechip Fund",2.23,0.0,0.05,0.23,2.51,1.32,0.0,0.05,0.22,1.59
 "Bank of India Conservative Hybrid Fund",2.0,0.0,0.05,0.22,2.27,1.18,0.0,0.05,0.21,1.44
 "Bank of India Credit Risk Fund",1.33,0.0,0.05,0.08,1.46,1.04,0.0,0.05,0.08,1.17
+"Bank of India ELSS Tax Saver",2.05,0.0,0.0,0.16,2.21,1.07,0.0,0.0,0.16,1.23
 "Bank of India Flexi Cap Fund",2.16,0.0,0.05,0.15,2.36,0.83,0.0,0.05,0.13,1.01
 "Bank of India Large & Mid Cap Equity Fund",2.21,0.0,0.05,0.23,2.49,1.3,0.0,0.05,0.23,1.58
 "Bank of India Liquid Fund",0.13,0.0,0.0,0.0,0.13,0.08,0.0,0.0,0.0,0.08
@@ -596,12 +597,12 @@
 "ICICI Prudential Banking & Financial Services Fund",1.65,0.0,0.05,0.15,1.85,0.82,0.0,0.05,0.15,1.02
 "ICICI Prudential Banking & PSU Debt Fund",0.74,0.0,0.0,0.0,0.74,0.39,0.0,0.0,0.0,0.39
 "ICICI Prudential Bharat 22 FoF",0.09,0.0,0.0,0.0,0.09,0.08,0.0,0.0,0.0,0.08
-"ICICI Prudential Bharat Consumption Fund",1.89,0.0,0.05,0.18,2.12,1.01,0.0,0.05,0.18,1.24
-"ICICI Prudential Bluechip Fund",1.36,0.0,0.05,0.13,1.54,0.76,0.0,0.05,0.13,0.94
+"ICICI Prudential Bharat Consumption Fund",1.88,0.0,0.05,0.18,2.11,1.0,0.0,0.05,0.18,1.23
+"ICICI Prudential Bluechip Fund",1.35,0.0,0.05,0.13,1.53,0.75,0.0,0.05,0.13,0.93
 "ICICI Prudential Bond Fund",1.03,0.0,0.0,0.0,1.03,0.6,0.0,0.0,0.0,0.6
 "ICICI Prudential Business Cycle Fund",1.65,0.0,0.05,0.11,1.81,0.65,0.0,0.05,0.11,0.81
-"ICICI Prudential Child Care Fund (Gift Plan)",2.03,0.0,0.0,0.21,2.24,1.24,0.0,0.0,0.21,1.45
-"ICICI Prudential Commodities Fund",1.93,0.0,0.05,0.12,2.1,0.95,0.0,0.05,0.12,1.12
+"ICICI Prudential Child Care Fund (Gift Plan)",2.02,0.0,0.0,0.21,2.23,1.23,0.0,0.0,0.21,1.44
+"ICICI Prudential Commodities Fund",1.92,0.0,0.05,0.12,2.09,0.94,0.0,0.05,0.12,1.11
 "ICICI Prudential Constant Maturity Gilt Fund",0.39,0.0,0.0,0.0,0.39,0.23,0.0,0.0,0.0,0.23
 "ICICI Prudential Corporate Bond Fund",0.55,0.0,0.0,0.0,0.55,0.32,0.0,0.0,0.0,0.32
 "ICICI Prudential Credit Risk Fund",1.38,0.0,0.05,0.13,1.56,0.69,0.0,0.05,0.13,0.87
@@ -621,7 +622,7 @@
 "ICICI Prudential Global Advantage Fund (FoF)",1.24,0.0,0.05,0.1,1.39,0.54,0.0,0.05,0.1,0.69
 "ICICI Prudential Global Stable Equity Fund (FoF)",1.34,0.0,0.05,0.07,1.46,0.7,0.0,0.05,0.07,0.82
 "ICICI Prudential Gold ETF",0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0
-"ICICI Prudential Housing Opportunities Fund",1.85,0.0,0.05,0.11,2.01,0.65,0.0,0.05,0.11,0.81
+"ICICI Prudential Housing Opportunities Fund",1.84,0.0,0.05,0.11,2.0,0.64,0.0,0.05,0.11,0.8
 "ICICI Prudential Income Optimizer Fund (FoF)",1.08,0.0,0.05,0.08,1.21,0.44,0.0,0.05,0.08,0.57
 "ICICI Prudential India Equity FoF",1.19,0.0,0.05,0.13,1.37,0.7,0.0,0.05,0.13,0.88
 "ICICI Prudential India Opportunities Fund",1.56,0.0,0.05,0.07,1.68,0.5,0.0,0.05,0.07,0.62
@@ -682,7 +683,7 @@
 "ICICI Prudential Passive Multi-Asset Fund of Funds",0.55,0.0,0.05,0.0,0.6,0.05,0.0,0.05,0.0,0.1
 "ICICI Prudential Passive Strategy Fund (FoF)",0.32,0.0,0.05,0.0,0.37,0.08,0.0,0.05,0.0,0.13
 "ICICI Prudential Pharma Healthcare and Diagnostics (P.H.D) Fund",1.78,0.0,0.05,0.16,1.99,0.91,0.0,0.05,0.16,1.12
-"ICICI Prudential PSU Equity Fund",1.92,0.0,0.05,0.09,2.06,0.51,0.0,0.05,0.09,0.65
+"ICICI Prudential PSU Equity Fund",1.91,0.0,0.05,0.09,2.05,0.5,0.0,0.05,0.09,0.64
 "ICICI Prudential Quant Fund",1.18,0.0,0.05,0.0,1.23,0.53,0.0,0.05,0.0,0.58
 "ICICI Prudential Regular Gold Savings Fund (FoF)",0.31,0.0,0.05,0.0,0.36,0.04,0.0,0.05,0.0,0.09
 "ICICI Prudential Regular Savings Fund",1.53,0.0,0.05,0.13,1.71,0.73,0.0,0.05,0.13,0.91
@@ -721,7 +722,7 @@
 "Invesco India ELSS Tax Saver Fund",1.85,0.0,0.0,0.09,1.94,0.64,0.0,0.0,0.09,0.73
 "Invesco India Equity & Bond Fund",2.25,0.0,0.05,0.11,2.41,0.7,0.0,0.05,0.1,0.85
 "Invesco India Equity Savings Fund",2.14,0.0,0.05,0.1,2.29,0.6,0.0,0.05,0.08,0.73
-"Invesco India ESG Equity Fund",2.23,0.0,0.05,0.12,2.4,0.76,0.0,0.05,0.12,0.93
+"Invesco India ESG Equity Fund",2.22,0.0,0.05,0.12,2.39,0.76,0.0,0.05,0.12,0.93
 "Invesco India Financial Services Fund",2.19,0.0,0.05,0.13,2.37,0.9,0.0,0.05,0.13,1.08
 "Invesco India Flexi Cap Fund",1.99,0.0,0.05,0.07,2.11,0.53,0.0,0.05,0.07,0.65
 "Invesco India Focused 20 Equity Fund",1.9,0.0,0.05,0.08,2.03,0.53,0.0,0.05,0.08,0.66
@@ -729,7 +730,7 @@
 "Invesco India Gold Exchange Traded Fund",0.55,0.0,0.0,0.0,0.55,0.0,0.0,0.0,0.0,0.0
 "Invesco India Gold Fund",0.45,0.0,0.0,0.0,0.45,0.2,0.0,0.0,0.0,0.2
 "Invesco India Growth Opportunities Fund",1.73,0.0,0.05,0.08,1.86,0.56,0.0,0.05,0.08,0.69
-"Invesco India Infrastructure Fund",2.17,0.0,0.05,0.1,2.32,0.7,0.0,0.05,0.1,0.85
+"Invesco India Infrastructure Fund",2.16,0.0,0.05,0.1,2.31,0.7,0.0,0.05,0.1,0.85
 "Invesco India Largecap Fund",2.1,0.0,0.0,0.09,2.19,0.71,0.0,0.0,0.09,0.8
 "Invesco India Liquid Fund",0.22,0.0,0.0,0.0,0.22,0.15,0.0,0.0,0.0,0.15
 "Invesco India Medium Duration Fund",1.3,0.0,0.0,0.05,1.35,0.35,0.0,0.0,0.05,0.4
@@ -740,7 +741,7 @@
 "Invesco India Nifty G-SEC JUL 2027 Index Fund",0.29,0.0,0.0,0.0,0.29,0.14,0.0,0.0,0.0,0.14
 "Invesco India Nifty G-SEC SEP 2032 Index Fund",0.29,0.0,0.0,0.0,0.29,0.14,0.0,0.0,0.0,0.14
 "Invesco India Overnight Fund",0.12,0.0,0.0,0.0,0.12,0.06,0.0,0.0,0.0,0.06
-"Invesco India PSU Equity Fund",2.19,0.0,0.05,0.14,2.38,0.87,0.0,0.05,0.14,1.06
+"Invesco India PSU Equity Fund",2.18,0.0,0.05,0.14,2.37,0.87,0.0,0.05,0.14,1.06
 "Invesco India Short Term Fund",1.16,0.0,0.0,0.04,1.2,0.31,0.0,0.0,0.04,0.35
 "Invesco India Smallcap Fund",1.78,0.0,0.05,0.04,1.87,0.28,0.0,0.05,0.04,0.37
 "Invesco India Tax Plan",1.88,0.0,0.0,0.09,1.97,0.67,0.0,0.0,0.09,0.76
