@@ -307,7 +307,7 @@
 "Canara Robeco Emerging Equities",1.52,0.0,0.05,0.08,1.65,0.5,0.0,0.05,0.08,0.63
 "Canara Robeco Equity Hybrid Fund",1.61,0.0,0.05,0.07,1.73,0.49,0.0,0.05,0.07,0.61
 "Canara Robeco Flexi Cap Fund",1.59,0.0,0.05,0.06,1.7,0.44,0.0,0.05,0.06,0.55
-"Canara Robeco Focused Equity Fund",1.89,0.0,0.05,0.06,2.0,0.4,0.0,0.05,0.06,0.51
+"Canara Robeco Focused Equity Fund",1.88,0.0,0.05,0.06,1.99,0.4,0.0,0.05,0.06,0.51
 "Canara Robeco Gilt Fund",1.19,0.0,0.0,0.06,1.25,0.44,0.0,0.0,0.06,0.5
 "Canara Robeco Income Fund",1.78,0.0,0.0,0.1,1.88,0.66,0.0,0.0,0.1,0.76
 "Canara Robeco Infrastructure",2.25,0.0,0.05,0.17,2.47,0.98,0.0,0.05,0.16,1.19
@@ -772,7 +772,7 @@
 "JM Arbitrage Fund",1.03,0.0,0.0,0.02,1.05,0.32,0.0,0.0,0.02,0.34
 "JM Dynamic Bond Fund",0.9,0.0,0.0,0.08,0.98,0.55,0.0,0.0,0.08,0.63
 "JM ELSS Tax Saver Fund",2.24,0.0,0.0,0.17,2.41,1.09,0.0,0.0,0.17,1.26
-"JM Flexicap Fund",2.0,0.0,0.05,0.07,2.12,0.5,0.0,0.05,0.07,0.62
+"JM Flexicap Fund",1.99,0.0,0.05,0.07,2.11,0.49,0.0,0.05,0.07,0.61
 "JM Focused Fund",2.24,0.0,0.05,0.18,2.47,1.09,0.0,0.05,0.18,1.32
 "JM Large Cap Fund",2.24,0.0,0.05,0.21,2.5,1.49,0.0,0.05,0.21,1.75
 "JM Liquid Fund",0.25,0.0,0.0,0.01,0.26,0.15,0.0,0.0,0.01,0.16
@@ -781,7 +781,7 @@
 "JM Midcap Fund",2.18,0.0,0.05,0.01,2.24,0.28,0.0,0.05,0.01,0.34
 "JM Overnight Fund",0.14,0.0,0.0,0.0,0.14,0.07,0.0,0.0,0.0,0.07
 "JM Short Duration Fund",1.15,0.0,0.0,0.03,1.18,0.3,0.0,0.0,0.03,0.33
-"JM Value Fund",2.24,0.0,0.05,0.19,2.48,1.14,0.0,0.05,0.19,1.38
+"JM Value Fund",2.25,0.0,0.05,0.19,2.49,1.14,0.0,0.05,0.19,1.38
 "Kotak All Weather Debt FoF",0.15,0.0,0.0,0.0,0.15,0.07,0.0,0.0,0.0,0.07
 "Kotak Balanced Advantage Fund",1.55,0.0,0.05,0.06,1.66,0.45,0.0,0.0,0.06,0.51
 "Kotak Banking and Financial Services Fund",2.13,0.0,0.05,0.08,2.26,0.61,0.0,0.0,0.08,0.69
@@ -1282,12 +1282,12 @@
 "Sundaram Diversified Equity",1.94,0.0,0.0,0.22,2.15,1.36,0.0,0.0,0.22,1.57
 "Sundaram Dividend Yield Fund (Formerly Known as Principal Dividend Yield Fund)",2.17,0.0,0.05,0.13,2.35,0.82,0.0,0.05,0.13,1.0
 "Sundaram ELSS Tax Saver Fund",2.01,0.0,0.0,0.23,2.24,1.42,0.0,0.0,0.23,1.65
-"Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund)",2.17,0.0,0.0,0.05,2.22,0.42,0.0,0.0,0.05,0.47
+"Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund)",2.17,0.0,0.0,0.05,2.21,0.42,0.0,0.0,0.05,0.46
 "Sundaram Financial Services Opportunities Fund",2.03,0.0,0.05,0.09,2.18,0.64,0.0,0.05,0.09,0.79
 "Sundaram Flexicap Fund",1.89,0.0,0.05,0.06,2.0,0.43,0.0,0.05,0.06,0.54
 "Sundaram Focused Fund (Formerly Known as Principal Focused Multicap Fund)",2.06,0.0,0.05,0.17,2.28,1.03,0.0,0.05,0.17,1.25
 "Sundaram Global Brand Fund",2.2,0.0,0.05,0.03,2.28,1.19,0.0,0.05,0.02,1.26
-"Sundaram Infrastructure Advantage Fund (Erstwhile Sundaram Capex Opportunities)",2.13,0.0,0.05,0.27,2.44,1.59,0.0,0.05,0.27,1.9
+"Sundaram Infrastructure Advantage Fund (Erstwhile Sundaram Capex Opportunities)",2.12,0.0,0.05,0.27,2.44,1.58,0.0,0.05,0.27,1.9
 "Sundaram Large and Midcap Fund",1.68,0.0,0.05,0.08,1.82,0.58,0.0,0.05,0.08,0.72
 "Sundaram Large Cap Fund ( Formerly Know as Sundaram Blue Chip Fund)",1.78,0.0,0.05,0.07,1.9,0.48,0.0,0.05,0.07,0.6
 "Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund)",0.27,0.0,0.0,0.02,0.29,0.15,0.0,0.0,0.02,0.17
@@ -1295,7 +1295,7 @@
 "Sundaram Medium Term Bond Fund",2.0,0.0,0.0,0.17,2.16,1.09,0.0,0.0,0.17,1.25
 "Sundaram Mid Cap Fund",1.61,0.0,0.05,0.12,1.78,0.78,0.0,0.05,0.12,0.95
 "Sundaram Money Market Fund",0.33,0.0,0.0,0.02,0.34,0.24,0.0,0.0,0.02,0.25
-"Sundaram Multi Cap Fund (Formerly Known as Principal Multi Cap Growth Fund)",1.86,0.0,0.05,0.12,2.03,0.74,0.0,0.05,0.12,0.91
+"Sundaram Multi Cap Fund (Formerly Known as Principal Multi Cap Growth Fund)",1.86,0.0,0.05,0.12,2.02,0.74,0.0,0.05,0.12,0.9
 "Sundaram Nifty 100 Equal Weight Fund (Formerly Known as Principal Nifty 100 Equal Weight Fund)",1.0,0.0,0.0,0.03,1.03,0.54,0.0,0.0,0.03,0.57
 "Sundaram Overnight Fund",0.18,0.0,0.0,0.0,0.18,0.07,0.0,0.0,0.0,0.07
 "Sundaram Services Fund",1.79,0.0,0.05,0.09,1.93,0.65,0.0,0.05,0.09,0.79
