@@ -472,10 +472,10 @@
 "HDFC Banking and PSU Debt Fund",0.76,0.0,0.0,0.05,0.81,0.34,0.0,0.0,0.05,0.39
 "HDFC Business Cycle Fund",1.81,0.0,0.05,0.08,1.94,0.42,0.0,0.05,0.08,0.55
 "HDFC Capital Builder Value Fund",1.67,0.0,0.05,0.13,1.85,0.81,0.0,0.05,0.13,0.99
-"HDFC Childrens Gift Fund",1.63,0.0,0.0,0.14,1.77,0.8,0.0,0.0,0.14,0.94
+"HDFC Childrens Gift Fund",1.64,0.0,0.0,0.14,1.78,0.81,0.0,0.0,0.14,0.95
 "HDFC Corporate Bond Fund",0.56,0.0,0.0,0.04,0.6,0.31,0.0,0.0,0.04,0.35
-"HDFC Credit Risk Debt Fund",1.39,0.0,0.05,0.14,1.58,0.78,0.0,0.05,0.14,0.97
-"HDFC Defence Fund",1.91,0.0,0.05,0.12,2.08,0.64,0.0,0.05,0.12,0.81
+"HDFC Credit Risk Debt Fund",1.38,0.0,0.05,0.14,1.57,0.77,0.0,0.05,0.14,0.96
+"HDFC Defence Fund",1.92,0.0,0.05,0.12,2.09,0.65,0.0,0.05,0.12,0.82
 "HDFC Developed World Indexes Fund of Funds",0.64,0.0,0.05,0.0,0.69,0.23,0.0,0.05,0.0,0.28
 "HDFC Dividend Yield Fund",1.74,0.0,0.05,0.07,1.86,0.34,0.0,0.05,0.07,0.46
 "HDFC Dynamic Debt Fund",1.43,0.0,0.0,0.05,1.48,0.64,0.0,0.0,0.05,0.69
@@ -495,7 +495,7 @@
 "HDFC Index Fund-Nifty 50 Plan",0.4,0.0,0.0,0.0,0.4,0.2,0.0,0.0,0.0,0.2
 "HDFC Index Fund-S&P BSE SENSEX Plan",0.4,0.0,0.0,0.0,0.4,0.2,0.0,0.0,0.0,0.2
 "HDFC Infrastructure Fund",1.98,0.0,0.05,0.22,2.25,1.25,0.0,0.05,0.22,1.52
-"HDFC Large and Mid Cap Fund",1.55,0.0,0.05,0.12,1.72,0.72,0.0,0.05,0.12,0.89
+"HDFC Large and Mid Cap Fund",1.56,0.0,0.05,0.12,1.73,0.73,0.0,0.05,0.12,0.9
 "HDFC Liquid Fund",0.3,0.0,0.0,0.0,0.3,0.2,0.0,0.0,0.0,0.2
 "HDFC Long Duration Debt Fund",0.6,0.0,0.0,0.0,0.6,0.25,0.0,0.0,0.0,0.25
 "HDFC Low Duration Fund",0.99,0.0,0.0,0.05,1.04,0.4,0.0,0.0,0.05,0.45
@@ -504,7 +504,7 @@
 "HDFC MNC Fund",2.23,0.0,0.05,0.17,2.45,1.03,0.0,0.05,0.17,1.25
 "HDFC Money Market Fund",0.41,0.0,0.0,0.0,0.41,0.23,0.0,0.0,0.0,0.23
 "HDFC Multi Cap Fund",1.59,0.0,0.05,0.06,1.7,0.41,0.0,0.05,0.06,0.52
-"HDFC Multi-Asset Fund",1.86,0.0,0.05,0.12,2.03,0.68,0.0,0.05,0.12,0.85
+"HDFC Multi-Asset Fund",1.87,0.0,0.05,0.12,2.04,0.69,0.0,0.05,0.12,0.86
 "HDFC Nifty 100 Equal Weight Index Fund",1.0,0.0,0.0,0.0,1.0,0.4,0.0,0.0,0.0,0.4
 "HDFC Nifty 100 ETF",0.3,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0
 "HDFC Nifty 100 Index Fund",0.9,0.0,0.0,0.0,0.9,0.3,0.0,0.0,0.0,0.3
@@ -548,7 +548,7 @@
 "HDFC Small Cap Fund",1.47,0.0,0.05,0.1,1.62,0.57,0.0,0.05,0.1,0.72
 "HDFC Technology Fund",2.12,0.0,0.05,0.15,2.32,0.92,0.0,0.05,0.15,1.12
 "HDFC Top 100 Fund",1.45,0.0,0.05,0.16,1.66,0.87,0.0,0.05,0.16,1.08
-"HDFC Transportation and Logistics Fund",2.18,0.0,0.05,0.17,2.4,1.0,0.0,0.05,0.17,1.22
+"HDFC Transportation and Logistics Fund",2.19,0.0,0.05,0.17,2.41,1.01,0.0,0.05,0.17,1.23
 "HDFC Ultra Short Term Fund",0.65,0.0,0.0,0.04,0.69,0.32,0.0,0.0,0.04,0.36
 "Helios Flexi Cap Fund",2.12,0.0,0.05,0.09,2.26,0.52,0.0,0.05,0.09,0.66
 "Helios Overnight Fund",0.14,0.0,0.0,0.01,0.15,0.09,0.0,0.0,0.01,0.1
@@ -903,7 +903,7 @@
 "Mahindra Manulife ELSS Tax Saver Fund",2.16,0.0,0.0,0.07,2.23,0.56,0.0,0.0,0.07,0.63
 "Mahindra Manulife Equity Savings Fund",2.25,0.0,0.05,0.09,2.39,0.58,0.0,0.05,0.09,0.72
 "Mahindra Manulife Flexi Cap Fund",2.02,0.0,0.05,0.04,2.11,0.28,0.0,0.05,0.04,0.37
-"Mahindra Manulife Focused Fund",2.05,0.0,0.05,0.04,2.14,0.35,0.0,0.05,0.04,0.44
+"Mahindra Manulife Focused Fund",2.05,0.0,0.05,0.05,2.15,0.35,0.0,0.05,0.05,0.45
 "Mahindra Manulife Large & Mid Cap Fund",1.93,0.0,0.05,0.05,2.03,0.31,0.0,0.05,0.05,0.41
 "Mahindra Manulife Large Cap Fund",2.25,0.0,0.05,0.09,2.39,0.59,0.0,0.05,0.09,0.73
 "Mahindra Manulife Liquid Fund",0.24,0.0,0.0,0.01,0.25,0.13,0.0,0.0,0.01,0.14
@@ -1040,7 +1040,7 @@
 "Nippon India Arbitrage Fund",1.03,0.0,0.0,0.05,1.08,0.34,0.0,0.0,0.05,0.39
 "Nippon India Asset Allocator FoF",1.18,0.0,0.05,0.04,1.27,0.25,0.0,0.05,0.04,0.34
 "Nippon India Balanced Advantage Fund",1.65,0.0,0.05,0.07,1.77,0.43,0.0,0.05,0.07,0.55
-"Nippon India Banking & Financial Services Fund",1.71,0.0,0.05,0.15,1.91,0.91,0.0,0.05,0.15,1.11
+"Nippon India Banking & Financial Services Fund",1.71,0.0,0.05,0.16,1.92,0.91,0.0,0.05,0.16,1.12
 "Nippon India Banking & PSU Debt Fund",0.74,0.0,0.0,0.04,0.78,0.32,0.0,0.0,0.04,0.36
 "Nippon India Consumption Fund",2.19,0.0,0.05,0.16,2.4,0.96,0.0,0.05,0.16,1.17
 "Nippon India Corporate Bond Fund",0.67,0.0,0.0,0.04,0.71,0.3,0.0,0.0,0.04,0.34
@@ -1109,11 +1109,11 @@
 "Nippon India Power & Infra Fund",1.77,0.0,0.05,0.18,2.0,1.04,0.0,0.05,0.18,1.27
 "Nippon India Quant Fund",0.92,0.0,0.0,0.04,0.96,0.34,0.0,0.0,0.04,0.38
 "Nippon India Retirement Fund- Income Generation Scheme",1.95,0.0,0.0,0.15,2.1,0.89,0.0,0.0,0.15,1.04
-"Nippon India Retirement Fund- Wealth Creation Scheme",1.81,0.0,0.0,0.13,1.94,0.84,0.0,0.0,0.13,0.97
+"Nippon India Retirement Fund- Wealth Creation Scheme",1.81,0.0,0.0,0.14,1.95,0.84,0.0,0.0,0.14,0.98
 "Nippon India Short Term Fund",0.9,0.0,0.0,0.04,0.94,0.33,0.0,0.0,0.04,0.37
 "Nippon India Silver ETF",0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.01,0.51
 "Nippon India Silver ETF FoF",0.5,0.0,0.05,0.03,0.58,0.15,0.0,0.05,0.03,0.23
-"Nippon India Small Cap Fund",1.37,0.0,0.05,0.08,1.5,0.53,0.0,0.05,0.08,0.66
+"Nippon India Small Cap Fund",1.37,0.0,0.05,0.09,1.51,0.53,0.0,0.05,0.09,0.67
 "Nippon India Strategic Debt Fund (Number of Segregated Portfolios - 2)",1.73,0.0,0.05,0.21,1.99,1.18,0.0,0.05,0.21,1.44
 "Nippon India Taiwan Equity Fund",2.25,0.0,0.05,0.12,2.42,0.83,0.0,0.05,0.12,1.0
 "Nippon India Ultra Short Duration Fund (Number of Segregated Portfolio -1)",1.12,0.0,0.0,0.04,1.16,0.34,0.0,0.0,0.04,0.38
