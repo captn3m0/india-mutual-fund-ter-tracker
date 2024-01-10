@@ -436,7 +436,7 @@
 "Franklin India Dynamic Asset Allocation Fund of Funds",1.98,0.0,0.05,0.08,2.11,1.07,0.0,0.05,0.07,1.19
 "Franklin India ELSS Tax Saver Fund",1.69,0.0,0.0,0.14,1.83,0.87,0.0,0.0,0.13,1.0
 "Franklin India Equity Advantage Fund",1.8,0.0,0.05,0.19,2.04,1.11,0.0,0.05,0.19,1.35
-"Franklin India Equity Hybrid Fund",1.94,0.0,0.05,0.16,2.15,0.95,0.0,0.05,0.15,1.15
+"Franklin India Equity Hybrid Fund",1.94,0.0,0.05,0.16,2.15,0.94,0.0,0.05,0.15,1.14
 "Franklin India Equity Savings Fund",1.07,0.0,0.0,0.05,1.12,0.41,0.0,0.0,0.05,0.46
 "Franklin India Feeder - Franklin U. S. Opportunities Fund",1.4,0.0,0.05,0.07,1.52,0.39,0.0,0.05,0.06,0.5
 "Franklin India Feeder - Templeton European Opportunities Fund",1.28,0.0,0.05,0.07,1.4,0.42,0.0,0.05,0.06,0.53
@@ -778,10 +778,10 @@
 "JM Liquid Fund",0.25,0.0,0.0,0.01,0.26,0.15,0.0,0.0,0.01,0.16
 "JM Low Duration Fund",0.78,0.0,0.0,0.04,0.82,0.33,0.0,0.0,0.04,0.37
 "JM Medium to Long Duration Fund",0.97,0.0,0.0,0.05,1.02,0.42,0.0,0.0,0.05,0.47
-"JM Midcap Fund",2.18,0.0,0.05,0.01,2.24,0.28,0.0,0.05,0.01,0.34
+"JM Midcap Fund",2.17,0.0,0.05,0.01,2.23,0.27,0.0,0.05,0.01,0.33
 "JM Overnight Fund",0.14,0.0,0.0,0.0,0.14,0.07,0.0,0.0,0.0,0.07
 "JM Short Duration Fund",1.15,0.0,0.0,0.03,1.18,0.3,0.0,0.0,0.03,0.33
-"JM Value Fund",2.25,0.0,0.05,0.19,2.49,1.14,0.0,0.05,0.19,1.38
+"JM Value Fund",2.25,0.0,0.05,0.19,2.49,1.15,0.0,0.05,0.19,1.39
 "Kotak All Weather Debt FoF",0.15,0.0,0.0,0.0,0.15,0.07,0.0,0.0,0.0,0.07
 "Kotak Balanced Advantage Fund",1.55,0.0,0.05,0.06,1.66,0.45,0.0,0.0,0.06,0.51
 "Kotak Banking and Financial Services Fund",2.13,0.0,0.05,0.08,2.26,0.61,0.0,0.0,0.08,0.69
@@ -1167,7 +1167,7 @@
 "Quant Focused Fund",2.21,0.0,0.05,0.08,2.34,0.63,0.0,0.05,0.08,0.76
 "Quant Gilt Fund",1.35,0.0,0.0,0.06,1.41,0.45,0.0,0.0,0.06,0.51
 "Quant Healthcare Fund",2.25,0.0,0.05,0.09,2.39,0.63,0.0,0.05,0.09,0.77
-"Quant Infrastructure Fund",1.98,0.0,0.05,0.09,2.12,0.63,0.0,0.05,0.09,0.77
+"Quant Infrastructure Fund",1.97,0.0,0.05,0.09,2.11,0.63,0.0,0.05,0.09,0.77
 "Quant Large & Mid Cap Fund",1.95,0.0,0.05,0.07,2.07,0.63,0.0,0.05,0.07,0.75
 "Quant Large Cap Fund",2.25,0.0,0.05,0.09,2.39,0.63,0.0,0.05,0.09,0.77
 "Quant Liquid Fund",0.5,0.0,0.0,0.04,0.54,0.25,0.0,0.0,0.04,0.29
@@ -1180,7 +1180,7 @@
 "Quant Small Cap Fund",1.57,0.0,0.05,0.09,1.71,0.63,0.0,0.05,0.09,0.77
 "Quant Tax Plan",1.68,0.0,0.05,0.08,1.81,0.63,0.0,0.05,0.08,0.76
 "Quant Teck Fund",2.25,0.0,0.05,0.09,2.39,0.63,0.0,0.05,0.09,0.77
-"Quant Value Fund",2.06,0.0,0.05,0.08,2.19,0.63,0.0,0.05,0.08,0.76
+"Quant Value Fund",2.05,0.0,0.05,0.08,2.18,0.63,0.0,0.05,0.08,0.76
 "Quantum Dynamic Bond Fund",0.9,0.0,0.0,0.06,0.96,0.45,0.0,0.0,0.06,0.51
 "Quantum ELSS Tax Saver Fund",1.91,0.0,0.0,0.09,2.0,0.81,0.0,0.0,0.09,0.9
 "Quantum Equity Fund of Funds",0.71,0.0,0.0,0.04,0.75,0.47,0.0,0.0,0.04,0.51
@@ -1281,7 +1281,7 @@
 "Sundaram Arbitrage Fund(Formerly Known as Prinicpal Arbitrage Fund)",0.85,0.0,0.0,0.02,0.87,0.26,0.0,0.0,0.02,0.28
 "Sundaram Balanced Advantage Fund (Formerly Known as Principal Balanced Advantage Fund)",1.95,0.0,0.05,0.07,2.07,0.47,0.0,0.05,0.07,0.59
 "Sundaram Banking & PSU Debt Fund",0.37,0.0,0.0,0.02,0.39,0.21,0.0,0.0,0.02,0.23
-"Sundaram Consumption Fund (Formerly Known as Sundaram Rural and Consumption Fund)",1.98,0.0,0.05,0.18,2.2,1.11,0.0,0.05,0.18,1.33
+"Sundaram Consumption Fund (Formerly Known as Sundaram Rural and Consumption Fund)",1.97,0.0,0.05,0.18,2.2,1.1,0.0,0.05,0.18,1.33
 "Sundaram Corporate Bond Fund",0.48,0.0,0.0,0.03,0.51,0.25,0.0,0.0,0.03,0.28
 "Sundaram Debt Oriented Hybrid Fund",2.0,0.0,0.0,0.17,2.17,1.09,0.0,0.0,0.17,1.26
 "Sundaram Diversified Equity",1.94,0.0,0.0,0.22,2.16,1.36,0.0,0.0,0.22,1.58
@@ -1298,7 +1298,7 @@
 "Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund)",0.27,0.0,0.0,0.02,0.29,0.15,0.0,0.0,0.02,0.17
 "Sundaram Low Duration Fund (Formerly Known as Principal Low Duration Fund)",0.9,0.0,0.0,0.03,0.93,0.3,0.0,0.0,0.03,0.33
 "Sundaram Medium Term Bond Fund",2.0,0.0,0.0,0.17,2.16,1.09,0.0,0.0,0.17,1.25
-"Sundaram Mid Cap Fund",1.61,0.0,0.05,0.12,1.79,0.78,0.0,0.05,0.12,0.96
+"Sundaram Mid Cap Fund",1.61,0.0,0.05,0.12,1.78,0.78,0.0,0.05,0.12,0.95
 "Sundaram Money Market Fund",0.33,0.0,0.0,0.02,0.34,0.24,0.0,0.0,0.02,0.25
 "Sundaram Multi Cap Fund (Formerly Known as Principal Multi Cap Growth Fund)",1.86,0.0,0.05,0.12,2.03,0.74,0.0,0.05,0.12,0.91
 "Sundaram Nifty 100 Equal Weight Fund (Formerly Known as Principal Nifty 100 Equal Weight Fund)",1.0,0.0,0.0,0.03,1.03,0.54,0.0,0.0,0.03,0.57
@@ -1388,8 +1388,8 @@
 "Union Focused Fund",2.25,0.0,0.05,0.2,2.5,1.29,0.0,0.05,0.2,1.54
 "Union Gilt Fund",1.08,0.0,0.0,0.09,1.17,0.61,0.0,0.0,0.09,0.7
 "Union Hybrid Equity Fund",2.21,0.0,0.05,0.18,2.44,1.13,0.0,0.05,0.18,1.36
-"Union Innovation & Opportunities Fund",2.21,0.0,0.05,0.11,2.37,0.75,0.0,0.05,0.1,0.9
-"Union Large & Midcap Fund",2.2,0.0,0.05,0.11,2.36,0.81,0.0,0.05,0.11,0.97
+"Union Innovation & Opportunities Fund",2.21,0.0,0.05,0.1,2.36,0.75,0.0,0.05,0.1,0.9
+"Union Large & Midcap Fund",2.2,0.0,0.05,0.11,2.36,0.8,0.0,0.05,0.11,0.96
 "Union Largecap Fund",2.24,0.0,0.05,0.26,2.55,1.59,0.0,0.05,0.26,1.9
 "Union Liquid Fund",0.17,0.0,0.0,0.01,0.18,0.07,0.0,0.0,0.01,0.08
 "Union Medium Duration Fund",0.82,0.0,0.0,0.09,0.91,0.62,0.0,0.0,0.09,0.71
