@@ -595,7 +595,7 @@
 "HSBC Ultra Short Duration Fund",0.45,0.0,0.0,0.03,0.48,0.19,0.0,0.0,0.03,0.22
 "HSBC Value Fund",1.6,0.0,0.05,0.1,1.75,0.63,0.0,0.05,0.1,0.78
 "ICICI Prudential All Seasons Bond Fund",1.31,0.0,0.0,0.0,1.31,0.56,0.0,0.0,0.0,0.56
-"ICICI Prudential Asset Allocator Fund (FoF)",1.16,0.0,0.05,0.03,1.24,0.14,0.0,0.05,0.03,0.22
+"ICICI Prudential Asset Allocator Fund (FoF)",1.16,0.0,0.05,0.03,1.24,0.11,0.0,0.05,0.03,0.19
 "ICICI Prudential Balanced Advantage Fund",1.32,0.0,0.05,0.12,1.49,0.7,0.0,0.05,0.12,0.87
 "ICICI Prudential Banking & Financial Services Fund",1.65,0.0,0.05,0.15,1.85,0.82,0.0,0.05,0.15,1.02
 "ICICI Prudential Banking & PSU Debt Fund",0.74,0.0,0.0,0.0,0.74,0.39,0.0,0.0,0.0,0.39
@@ -615,7 +615,7 @@
 "ICICI Prudential Equity & Debt Fund",1.45,0.0,0.05,0.15,1.65,0.84,0.0,0.05,0.15,1.04
 "ICICI Prudential Equity - Arbitrage Fund",0.9,0.0,0.0,0.0,0.9,0.3,0.0,0.0,0.0,0.3
 "ICICI Prudential Equity Savings Fund",0.97,0.0,0.0,0.0,0.97,0.5,0.0,0.0,0.0,0.5
-"ICICI Prudential ESG Exclusionary Strategy Fund",1.97,0.0,0.05,0.12,2.14,0.68,0.0,0.05,0.12,0.85
+"ICICI Prudential ESG Exclusionary Strategy Fund",1.97,0.0,0.05,0.13,2.15,0.73,0.0,0.05,0.13,0.91
 "ICICI Prudential ESG Fund",1.97,0.0,0.05,0.12,2.14,0.68,0.0,0.05,0.12,0.85
 "ICICI Prudential Exports & Services Fund",2.01,0.0,0.05,0.24,2.3,1.35,0.0,0.05,0.24,1.64
 "ICICI Prudential Flexicap Fund",1.57,0.0,0.05,0.09,1.71,0.53,0.0,0.05,0.09,0.67
@@ -628,10 +628,10 @@
 "ICICI Prudential Gold ETF",0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0
 "ICICI Prudential Housing Opportunities Fund",1.84,0.0,0.05,0.12,2.01,0.69,0.0,0.05,0.12,0.86
 "ICICI Prudential Income Optimizer Fund (FoF)",1.08,0.0,0.05,0.08,1.21,0.44,0.0,0.05,0.08,0.57
-"ICICI Prudential India Equity FoF",1.19,0.0,0.05,0.13,1.37,0.7,0.0,0.05,0.13,0.88
+"ICICI Prudential India Equity FoF",1.17,0.0,0.05,0.13,1.35,0.7,0.0,0.05,0.13,0.88
 "ICICI Prudential India Opportunities Fund",1.55,0.0,0.05,0.07,1.67,0.45,0.0,0.05,0.07,0.57
 "ICICI Prudential Infrastructure Fund",1.75,0.0,0.05,0.16,1.96,0.97,0.0,0.05,0.16,1.18
-"ICICI Prudential Innovation Fund",1.77,0.0,0.05,0.09,1.91,0.59,0.0,0.05,0.09,0.73
+"ICICI Prudential Innovation Fund",1.77,0.0,0.05,0.08,1.9,0.54,0.0,0.05,0.08,0.67
 "ICICI Prudential Large & Mid Cap Fund",1.6,0.0,0.05,0.11,1.76,0.67,0.0,0.05,0.11,0.83
 "ICICI Prudential Liquid Fund",0.29,0.0,0.0,0.0,0.29,0.2,0.0,0.0,0.0,0.2
 "ICICI Prudential Long Term Bond Fund",1.26,0.0,0.0,0.0,1.26,0.76,0.0,0.0,0.0,0.76
@@ -683,9 +683,9 @@
 "ICICI Prudential Nifty50 Equal Weight Index Fund",1.0,0.0,0.0,0.0,1.0,0.35,0.0,0.0,0.0,0.35
 "ICICI Prudential Nifty50 Value 20 ETF",0.25,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.0,0.0
 "ICICI Prudential Overnight Fund",0.18,0.0,0.0,0.0,0.18,0.1,0.0,0.0,0.0,0.1
-"ICICI Prudential Passive Multi-Asset Fund of Funds",0.55,0.0,0.05,0.0,0.6,0.05,0.0,0.05,0.0,0.1
+"ICICI Prudential Passive Multi-Asset Fund of Funds",0.53,0.0,0.05,0.03,0.61,0.11,0.0,0.05,0.03,0.19
 "ICICI Prudential Passive Strategy Fund (FoF)",0.32,0.0,0.05,0.0,0.37,0.08,0.0,0.05,0.0,0.13
-"ICICI Prudential Pharma Healthcare and Diagnostics (P.H.D) Fund",1.78,0.0,0.05,0.16,1.99,0.91,0.0,0.05,0.16,1.12
+"ICICI Prudential Pharma Healthcare and Diagnostics (P.H.D) Fund",1.78,0.0,0.05,0.15,1.98,0.86,0.0,0.05,0.15,1.06
 "ICICI Prudential PSU Equity Fund",1.91,0.0,0.05,0.1,2.06,0.55,0.0,0.05,0.1,0.7
 "ICICI Prudential Quant Fund",1.18,0.0,0.05,0.0,1.23,0.53,0.0,0.05,0.0,0.58
 "ICICI Prudential Regular Gold Savings Fund (FoF)",0.31,0.0,0.05,0.0,0.36,0.04,0.0,0.05,0.0,0.09
@@ -707,7 +707,7 @@
 "ICICI Prudential Smallcap Fund",1.65,0.0,0.05,0.07,1.77,0.49,0.0,0.05,0.07,0.61
 "ICICI Prudential Strategic Metal and Energy Equity Fund of Fund",1.45,0.0,0.05,0.06,1.56,0.51,0.0,0.05,0.06,0.62
 "ICICI Prudential Technology Fund",1.59,0.0,0.05,0.11,1.75,0.72,0.0,0.05,0.11,0.88
-"ICICI Prudential Thematic Advantage Fund (FoF)",1.38,0.0,0.05,0.07,1.5,0.36,0.0,0.05,0.07,0.48
+"ICICI Prudential Thematic Advantage Fund (FoF)",1.38,0.0,0.05,0.06,1.49,0.3,0.0,0.05,0.06,0.41
 "ICICI Prudential Transportation and Logistics Fund",1.83,0.0,0.05,0.11,1.99,0.6,0.0,0.05,0.11,0.76
 "ICICI Prudential Ultra Short Term Fund",0.82,0.0,0.0,0.0,0.82,0.39,0.0,0.0,0.0,0.39
 "ICICI Prudential US Bluechip Equity Fund",1.8,0.0,0.05,0.15,2.0,0.88,0.0,0.05,0.15,1.08
