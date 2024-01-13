@@ -345,12 +345,12 @@
 "DSP Floater Fund",0.57,0.0,0.0,0.02,0.59,0.19,0.0,0.0,0.02,0.21
 "DSP Focus Fund",1.87,0.0,0.05,0.14,2.06,0.81,0.0,0.05,0.14,1.0
 "DSP Global Allocation Fund",1.99,0.0,0.0,0.08,2.07,1.35,0.0,0.0,0.08,1.43
-"DSP Global Allocation Fund of Fund",1.99,0.0,0.0,0.05,2.04,1.35,0.0,0.0,0.05,1.4
+"DSP Global Allocation Fund of Fund",1.99,0.0,0.0,0.05,2.04,1.34,0.0,0.0,0.05,1.39
 "DSP Global Innovation Fund of Fund",2.0,0.0,0.0,0.04,2.04,1.02,0.0,0.0,0.04,1.06
 "DSP Gold ETF",0.0,0.0,0.0,0.0,0.0,0.46,0.0,0.0,0.02,0.48
 "DSP Gold ETF Fund of Fund",1.0,0.0,0.0,0.0,1.0,0.57,0.0,0.0,0.0,0.57
 "DSP Government Securities Fund",1.08,0.0,0.0,0.07,1.15,0.48,0.0,0.0,0.07,0.55
-"DSP Healthcare Fund",1.89,0.0,0.05,0.09,2.03,0.54,0.0,0.05,0.09,0.68
+"DSP Healthcare Fund",1.89,0.0,0.05,0.08,2.02,0.52,0.0,0.05,0.08,0.65
 "DSP India T.I.G.E.R. Fund",1.8,0.0,0.05,0.15,2.0,0.87,0.0,0.05,0.15,1.07
 "DSP Liquidity Fund",0.21,0.0,0.0,0.02,0.23,0.13,0.0,0.0,0.02,0.15
 "DSP Low Duration Fund",0.59,0.0,0.0,0.04,0.63,0.26,0.0,0.0,0.04,0.3
@@ -1276,7 +1276,7 @@
 "SBI Savings Fund",0.73,0.0,0.0,0.03,0.76,0.22,0.0,0.0,0.03,0.25
 "SBI Short Term Debt Fund",0.8,0.0,0.0,0.05,0.85,0.3,0.0,0.0,0.05,0.35
 "SBI Small Cap Fund",1.49,0.03,0.05,0.09,1.66,0.56,0.0,0.05,0.09,0.7
-"SBI Technology Opportunities Fund",1.77,0.02,0.05,0.11,1.95,0.69,0.0,0.05,0.11,0.85
+"SBI Technology Opportunities Fund",1.76,0.02,0.05,0.11,1.94,0.68,0.0,0.05,0.11,0.84
 "Shriram Aggressive Hybrid Fund",2.25,0.25,0.05,0.1,2.65,0.8,0.0,0.05,0.1,0.95
 "Shriram Balanced Advantage Fund",2.25,0.3,0.05,0.05,2.65,0.55,0.0,0.05,0.05,0.65
 "Shriram ELSS Tax Saver Fund",2.25,0.3,0.0,0.1,2.65,0.8,0.0,0.0,0.1,0.9
@@ -1473,16 +1473,16 @@
 "UTI Small Cap Fund",1.77,0.0,0.05,0.04,1.86,0.34,0.0,0.05,0.04,0.43
 "UTI Ultra Short Duration Fund",0.92,0.0,0.0,0.05,0.97,0.39,0.0,0.0,0.05,0.44
 "UTI Value Fund",1.63,0.0,0.05,0.14,1.82,0.91,0.0,0.05,0.14,1.1
-"WhiteOak Capital Balanced Advantage Fund",2.14,0.0,0.05,0.07,2.26,0.49,0.0,0.05,0.07,0.61
+"WhiteOak Capital Balanced Advantage Fund",2.14,0.0,0.05,0.07,2.26,0.48,0.0,0.05,0.07,0.6
 "WhiteOak Capital Balanced Hybrid Fund",2.0,0.0,0.05,0.05,2.1,0.5,0.0,0.05,0.05,0.6
 "WhiteOak Capital ELSS Tax Saver Fund",2.25,0.0,0.0,0.07,2.32,0.61,0.0,0.0,0.07,0.68
 "WhiteOak Capital Flexi Cap Fund",1.81,0.0,0.05,0.04,1.9,0.31,0.0,0.05,0.04,0.4
-"WhiteOak Capital Large & Mid Cap Fund",2.09,0.0,0.05,0.03,2.17,0.34,0.0,0.05,0.03,0.42
+"WhiteOak Capital Large & Mid Cap Fund",2.08,0.0,0.05,0.03,2.16,0.33,0.0,0.05,0.03,0.41
 "WhiteOak Capital Large Cap Fund",2.25,0.0,0.05,0.09,2.39,0.58,0.0,0.05,0.09,0.72
 "WhiteOak Capital Liquid Fund",0.33,0.0,0.0,0.02,0.35,0.23,0.0,0.0,0.02,0.25
 "WhiteOak Capital Mid Cap Fund",1.96,0.0,0.05,0.04,2.05,0.33,0.0,0.05,0.04,0.42
 "WhiteOak Capital Multi Asset Allocation Fund",1.65,0.0,0.05,0.06,1.76,0.48,0.0,0.05,0.06,0.59
-"WhiteOak Capital Multi Cap Fund",2.19,0.0,0.05,0.06,2.3,0.48,0.0,0.05,0.06,0.59
+"WhiteOak Capital Multi Cap Fund",2.19,0.0,0.05,0.05,2.29,0.48,0.0,0.05,0.05,0.58
 "WhiteOak Capital Ultra Short Duration Fund",0.96,0.0,0.0,0.04,1.0,0.37,0.0,0.0,0.04,0.41
 "WhiteOak Capital Ultra Short Term Fund",0.96,0.0,0.0,0.04,1.0,0.37,0.0,0.0,0.04,0.41
 "Zerodha ELSS Tax Saver Nifty Largemidcap 250 Index Fund",0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.25
