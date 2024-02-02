@@ -27,11 +27,11 @@
 "Aditya Birla Sun Life CRISIL IBX Gilt-April 2026 Index Fund",0.33,0.0,0.0,0.02,0.35,0.18,0.0,0.0,0.02,0.2
 "Aditya Birla Sun Life CRISIL IBX SDL JUN 2032 Index Fund",0.55,0.0,0.0,0.03,0.58,0.2,0.0,0.0,0.03,0.23
 "Aditya Birla Sun Life CRISIL Liquid Overnight ETF",0.0,0.0,0.0,0.0,0.0,0.21,0.0,0.0,0.04,0.25
-"Aditya Birla Sun Life Digital India Fund",1.73,0.0,0.05,0.1,1.87,0.62,0.0,0.05,0.1,0.76
+"Aditya Birla Sun Life Digital India Fund",1.73,0.0,0.05,0.1,1.88,0.62,0.0,0.05,0.1,0.77
 "Aditya Birla Sun Life Dividend Yield Fund",1.99,0.0,0.05,0.21,2.26,1.22,0.0,0.05,0.21,1.49
 "Aditya Birla Sun Life Dynamic Bond Fund",1.14,0.0,0.0,0.09,1.23,0.55,0.0,0.0,0.09,0.64
 "Aditya Birla Sun Life ELSS Tax Saver Fund",1.56,0.0,0.0,0.13,1.69,0.82,0.0,0.0,0.13,0.95
-"Aditya Birla Sun Life Equity Advantage Fund",1.7,0.0,0.05,0.15,1.89,0.88,0.0,0.05,0.15,1.07
+"Aditya Birla Sun Life Equity Advantage Fund",1.7,0.0,0.05,0.15,1.9,0.88,0.0,0.05,0.15,1.08
 "Aditya Birla Sun Life Equity Hybrid '95 Fund",1.65,0.0,0.05,0.15,1.85,0.87,0.0,0.05,0.15,1.07
 "Aditya Birla Sun Life Equity Savings Fund",0.99,0.0,0.05,0.07,1.11,0.48,0.0,0.05,0.07,0.6
 "Aditya Birla Sun Life ESG Fund",2.17,0.0,0.05,0.13,2.35,0.74,0.0,0.05,0.13,0.92
@@ -81,9 +81,9 @@
 "Aditya Birla Sun Life Nifty SDL SEP 2027 Index Fund",0.48,0.0,0.0,0.02,0.51,0.18,0.0,0.0,0.02,0.21
 "Aditya Birla Sun Life Nifty Smallcap 50 Index Fund",1.0,0.0,0.0,0.05,1.05,0.45,0.0,0.0,0.05,0.5
 "Aditya Birla Sun Life Overnight Fund",0.18,0.0,0.0,0.01,0.19,0.07,0.0,0.0,0.01,0.08
-"Aditya Birla Sun Life Pharma and Healthcare Fund",2.19,0.0,0.05,0.14,2.38,0.84,0.0,0.05,0.14,1.03
-"Aditya Birla Sun Life PSU Equity Fund",1.83,0.0,0.05,0.07,1.95,0.46,0.0,0.05,0.07,0.58
-"Aditya Birla Sun Life Pure Value Fund",1.69,0.0,0.05,0.14,1.89,0.82,0.0,0.05,0.14,1.01
+"Aditya Birla Sun Life Pharma and Healthcare Fund",2.19,0.0,0.05,0.14,2.39,0.84,0.0,0.05,0.14,1.04
+"Aditya Birla Sun Life PSU Equity Fund",1.82,0.0,0.05,0.07,1.95,0.45,0.0,0.05,0.07,0.58
+"Aditya Birla Sun Life Pure Value Fund",1.7,0.0,0.05,0.14,1.89,0.82,0.0,0.05,0.14,1.01
 "Aditya Birla Sun Life Regular Savings Fund",1.72,0.0,0.05,0.14,1.91,0.8,0.0,0.05,0.14,0.99
 "Aditya Birla Sun Life Retirement Fund-The 30s Plan",2.25,0.0,0.0,0.14,2.39,0.9,0.0,0.0,0.14,1.04
 "Aditya Birla Sun Life Retirement Fund-The 40s Plan",2.25,0.0,0.0,0.14,2.38,0.86,0.0,0.0,0.14,0.99
@@ -456,7 +456,7 @@
 "Franklin India Prima Fund",1.61,0.0,0.05,0.14,1.8,0.85,0.0,0.05,0.14,1.04
 "Franklin India Short-Term Income Plan (No. of Segregated Portfolios- 3)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 "Franklin India Smaller Companies Fund",1.59,0.0,0.05,0.13,1.77,0.76,0.0,0.05,0.12,0.93
-"Franklin India Technology Fund",1.99,0.0,0.05,0.15,2.19,1.04,0.0,0.05,0.15,1.24
+"Franklin India Technology Fund",2.0,0.0,0.05,0.15,2.2,1.04,0.0,0.05,0.15,1.24
 "Groww Aggressive Hybrid Fund (Formerly Known as Indiabulls Equity Hybrid Fund)",2.25,0.0,0.05,0.0,2.3,0.8,0.0,0.05,0.0,0.85
 "Groww Dynamic Bond Fund (Formerly Known as Indiabulls Dynamic Bond Fund)",1.45,0.0,0.0,0.0,1.45,0.45,0.0,0.0,0.0,0.45
 "Groww ELSS Tax Saver Fund (Formerly Known as Indiabulls Tax Savings Fund)",2.25,0.0,0.0,0.0,2.25,0.85,0.0,0.0,0.0,0.85
@@ -1085,7 +1085,7 @@
 "Nippon India Liquid Fund",0.34,0.0,0.0,0.0,0.34,0.2,0.0,0.0,0.0,0.2
 "Nippon India Low Duration Fund",0.89,0.0,0.0,0.04,0.93,0.33,0.0,0.0,0.04,0.37
 "Nippon India Money Market Fund",0.38,0.0,0.0,0.02,0.4,0.23,0.0,0.0,0.02,0.25
-"Nippon India Multi Asset Fund",1.55,0.0,0.05,0.0,1.6,0.27,0.0,0.05,0.0,0.32
+"Nippon India Multi Asset Fund",1.54,0.0,0.05,0.0,1.59,0.26,0.0,0.05,0.0,0.31
 "Nippon India Multi Cap Fund",1.48,0.0,0.05,0.12,1.65,0.7,0.0,0.05,0.12,0.87
 "Nippon India Nifty 50 Value 20 Index Fund",0.68,0.0,0.0,0.0,0.68,0.2,0.0,0.0,0.0,0.2
 "Nippon India Nifty AAA CPSE Bond Plus SDL - APR 2027 Maturity 60:40 Index Fund",0.29,0.0,0.0,0.01,0.3,0.14,0.0,0.0,0.01,0.15
@@ -1472,7 +1472,7 @@
 "UTI Small Cap Fund",1.77,0.0,0.05,0.04,1.86,0.34,0.0,0.05,0.04,0.43
 "UTI Ultra Short Duration Fund",0.92,0.0,0.0,0.05,0.97,0.39,0.0,0.0,0.05,0.44
 "UTI Value Fund",1.63,0.0,0.05,0.14,1.82,0.91,0.0,0.05,0.14,1.1
-"WhiteOak Capital Balanced Advantage Fund",2.13,0.0,0.05,0.06,2.24,0.46,0.0,0.05,0.06,0.57
+"WhiteOak Capital Balanced Advantage Fund",2.13,0.0,0.05,0.06,2.24,0.45,0.0,0.05,0.06,0.56
 "WhiteOak Capital Balanced Hybrid Fund",2.0,0.0,0.05,0.07,2.12,0.59,0.0,0.05,0.07,0.71
 "WhiteOak Capital ELSS Tax Saver Fund",2.25,0.0,0.0,0.08,2.33,0.63,0.0,0.0,0.08,0.71
 "WhiteOak Capital Flexi Cap Fund",1.81,0.0,0.05,0.04,1.9,0.34,0.0,0.05,0.04,0.43
