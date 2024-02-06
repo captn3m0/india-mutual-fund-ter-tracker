@@ -103,9 +103,9 @@
 "Axis Arbitrage Fund",0.98,0.0,0.0,0.03,1.01,0.28,0.0,0.0,0.03,0.31
 "Axis Balanced Advantage Fund",1.91,0.0,0.05,0.14,2.1,0.71,0.0,0.05,0.13,0.89
 "Axis Banking & PSU Debt Fund",0.58,0.0,0.0,0.05,0.63,0.29,0.0,0.0,0.05,0.34
-"Axis Bluechip Fund",1.42,0.0,0.05,0.08,1.55,0.52,0.0,0.05,0.09,0.66
+"Axis Bluechip Fund",1.44,0.0,0.05,0.09,1.58,0.52,0.0,0.05,0.09,0.66
 "Axis Business Cycles Fund",1.83,0.0,0.05,0.07,1.95,0.41,0.0,0.05,0.06,0.52
-"Axis Children's Gift Fund",2.13,0.0,0.0,0.21,2.34,0.75,0.0,0.0,0.13,0.88
+"Axis Children's Gift Fund",2.13,0.0,0.0,0.21,2.34,0.74,0.0,0.0,0.12,0.86
 "Axis Corporate Debt Fund",0.9,0.0,0.0,0.04,0.94,0.26,0.0,0.0,0.04,0.3
 "Axis Credit Risk Fund",1.45,0.0,0.0,0.12,1.57,0.69,0.0,0.0,0.11,0.8
 "Axis CRISIL IBX 50:50 Gilt Plus SDL June 2028 Index Fund",0.4,0.0,0.0,0.0,0.4,0.18,0.0,0.0,0.0,0.18
@@ -450,7 +450,7 @@
 "Franklin India Government Securities Fund",1.04,0.0,0.0,0.08,1.12,0.53,0.0,0.0,0.08,0.61
 "Franklin India Liquid Fund",0.19,0.0,0.0,0.0,0.19,0.13,0.0,0.0,0.0,0.13
 "Franklin India Money Market Fund",0.28,0.0,0.0,0.01,0.29,0.13,0.0,0.0,0.01,0.14
-"Franklin India Multi - Asset Solution Fund of Funds",2.0,0.0,0.05,0.07,2.12,1.07,0.0,0.05,0.05,1.17
+"Franklin India Multi - Asset Solution Fund of Funds",1.98,0.0,0.05,0.06,2.09,1.05,0.0,0.05,0.05,1.15
 "Franklin India NSE Nifty 50 Index Fund",0.6,0.0,0.0,0.03,0.63,0.24,0.0,0.0,0.03,0.27
 "Franklin India Opportunities Fund",1.84,0.0,0.05,0.04,1.93,0.36,0.0,0.05,0.04,0.45
 "Franklin India Overnight Fund",0.13,0.0,0.0,0.01,0.14,0.1,0.0,0.0,0.01,0.11
@@ -926,7 +926,7 @@
 "Mirae Asset Aggressive Hybrid Fund",1.63,0.0,0.05,0.04,1.72,0.29,0.0,0.05,0.04,0.38
 "Mirae Asset Arbitrage Fund",0.89,0.0,0.0,0.01,0.9,0.15,0.0,0.0,0.01,0.16
 "Mirae Asset Balanced Advantage Fund",1.96,0.0,0.05,0.09,2.1,0.55,0.0,0.05,0.09,0.69
-"Mirae Asset Banking and Financial Services Fund",1.95,0.0,0.05,0.08,2.08,0.47,0.0,0.05,0.08,0.6
+"Mirae Asset Banking and Financial Services Fund",1.95,0.0,0.05,0.08,2.08,0.48,0.0,0.05,0.08,0.61
 "Mirae Asset Banking and PSU Fund",0.78,0.0,0.0,0.04,0.82,0.33,0.0,0.0,0.04,0.37
 "Mirae Asset Corporate Bond Fund",0.85,0.0,0.0,0.05,0.9,0.39,0.0,0.0,0.05,0.44
 "Mirae Asset CRISIL IBX Gilt Index - April 2033 Index Fund",0.37,0.0,0.0,0.01,0.38,0.14,0.0,0.0,0.01,0.15
@@ -935,14 +935,14 @@
 "Mirae Asset Equity Allocator Fund of Fund",0.01,0.0,0.03,0.0,0.04,0.0,0.0,0.03,0.0,0.03
 "Mirae Asset Equity Savings Fund",1.26,0.0,0.0,0.03,1.29,0.28,0.0,0.0,0.03,0.31
 "Mirae Asset Flexi Cap Fund",1.95,0.0,0.05,0.07,2.07,0.46,0.0,0.05,0.07,0.58
-"Mirae Asset Focused Fund",1.62,0.0,0.05,0.07,1.74,0.44,0.0,0.05,0.07,0.56
+"Mirae Asset Focused Fund",1.63,0.0,0.05,0.07,1.75,0.44,0.0,0.05,0.07,0.56
 "Mirae Asset Global Electric & Autonomous Vehicles Etfs Fund of Fund",0.46,0.0,0.05,0.01,0.52,0.18,0.0,0.05,0.01,0.24
 "Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund",0.32,0.0,0.05,0.01,0.38,0.19,0.0,0.05,0.01,0.25
-"Mirae Asset Gold ETF",0.35,0.0,0.0,0.01,0.36,0.0,0.0,0.0,0.0,0.0
+"Mirae Asset Gold ETF",0.35,0.0,0.0,0.02,0.37,0.0,0.0,0.0,0.0,0.0
 "Mirae Asset Great Consumer Fund",1.8,0.0,0.05,0.05,1.9,0.34,0.0,0.05,0.05,0.44
 "Mirae Asset Hang Seng Tech ETF",0.52,0.0,0.0,0.08,0.6,0.0,0.0,0.0,0.0,0.0
 "Mirae Asset Hang Seng Tech ETF Fund of Fund",0.47,0.0,0.05,0.01,0.53,0.03,0.0,0.05,0.01,0.09
-"Mirae Asset Healthcare Fund",1.88,0.0,0.05,0.07,2.0,0.41,0.0,0.05,0.06,0.52
+"Mirae Asset Healthcare Fund",1.88,0.0,0.05,0.07,2.0,0.4,0.0,0.05,0.06,0.51
 "Mirae Asset Large & Midcap Fund",1.43,0.0,0.05,0.08,1.56,0.49,0.0,0.05,0.08,0.62
 "Mirae Asset Large Cap Fund",1.41,0.0,0.05,0.07,1.53,0.42,0.0,0.05,0.07,0.54
 "Mirae Asset Liquid Fund",0.22,0.0,0.0,0.01,0.23,0.11,0.0,0.0,0.01,0.12
@@ -1209,7 +1209,7 @@
 "SBI Blue Chip Fund",1.38,0.01,0.05,0.12,1.56,0.69,0.0,0.05,0.12,0.86
 "SBI Conservative Hybrid Fund",0.98,0.0,0.05,0.09,1.12,0.48,0.0,0.05,0.09,0.62
 "SBI Consumption Opportunities Fund",1.91,0.02,0.05,0.14,2.12,0.83,0.0,0.05,0.14,1.02
-"SBI Contra Fund",1.49,0.02,0.05,0.09,1.65,0.54,0.0,0.05,0.09,0.68
+"SBI Contra Fund",1.49,0.01,0.05,0.09,1.64,0.54,0.0,0.05,0.09,0.68
 "SBI Corporate Bond Fund",0.75,0.0,0.0,0.05,0.8,0.3,0.0,0.0,0.05,0.35
 "SBI CPSE Bond Plus SDL SEP 2026 50:50 Index Fund",0.37,0.0,0.0,0.03,0.4,0.19,0.0,0.0,0.03,0.22
 "SBI Credit Risk Fund",1.42,0.0,0.0,0.13,1.55,0.77,0.0,0.0,0.13,0.9
@@ -1223,23 +1223,23 @@
 "SBI Equity Savings Fund",1.05,0.0,0.05,0.09,1.19,0.53,0.0,0.05,0.09,0.67
 "SBI Flexicap Fund",1.52,0.01,0.05,0.12,1.7,0.68,0.0,0.05,0.12,0.85
 "SBI Floating Rate Debt Fund",0.43,0.0,0.0,0.04,0.47,0.23,0.0,0.0,0.04,0.27
-"SBI Focused Equity Fund",1.45,0.0,0.05,0.1,1.6,0.61,0.0,0.05,0.1,0.76
+"SBI Focused Equity Fund",1.45,0.01,0.05,0.1,1.61,0.61,0.0,0.05,0.1,0.76
 "SBI Gold ETF",0.58,0.0,0.0,0.07,0.65,0.0,0.0,0.0,0.0,0.0
 "SBI Gold Fund",0.42,0.0,0.0,0.0,0.42,0.1,0.0,0.0,0.0,0.1
-"SBI Healthcare Opportunities Fund",1.85,0.02,0.05,0.14,2.06,0.79,0.0,0.05,0.14,0.98
+"SBI Healthcare Opportunities Fund",1.85,0.0,0.05,0.14,2.04,0.79,0.0,0.05,0.14,0.98
 "SBI Infrastructure Fund",1.86,0.01,0.05,0.22,2.14,1.29,0.0,0.05,0.22,1.56
-"SBI International Access - US Equity FoF",1.47,0.0,0.0,0.13,1.6,0.77,0.0,0.0,0.13,0.9
-"SBI Large & Midcap Fund",1.51,0.0,0.05,0.1,1.66,0.61,0.0,0.05,0.1,0.76
+"SBI International Access - US Equity FoF",1.47,0.01,0.0,0.13,1.61,0.77,0.0,0.0,0.13,0.9
+"SBI Large & Midcap Fund",1.51,0.02,0.05,0.1,1.68,0.61,0.0,0.05,0.1,0.76
 "SBI Liquid Fund",0.28,0.0,0.0,0.03,0.31,0.17,0.0,0.0,0.03,0.2
 "SBI Long Duration Fund",0.65,0.0,0.0,0.03,0.68,0.2,0.0,0.0,0.03,0.23
 "SBI Long Term Equity Fund",1.51,0.02,0.0,0.14,1.67,0.83,0.0,0.0,0.14,0.97
-"SBI Magnum Children's Benefit Fund - Investment Plan",1.94,0.0,0.0,0.13,2.07,0.75,0.0,0.0,0.13,0.88
+"SBI Magnum Children's Benefit Fund - Investment Plan",1.94,0.02,0.0,0.13,2.09,0.75,0.0,0.0,0.13,0.88
 "SBI Magnum Children's Benefit Fund - Savings Plan",1.1,0.0,0.0,0.12,1.22,0.75,0.0,0.0,0.12,0.87
 "SBI Magnum Comma Fund",2.21,0.0,0.05,0.29,2.55,1.66,0.0,0.05,0.29,2.0
 "SBI Magnum Constant Maturity Fund",0.6,0.0,0.0,0.04,0.64,0.27,0.0,0.0,0.04,0.31
-"SBI Magnum Equity ESG Fund",1.7,0.0,0.05,0.19,1.94,1.08,0.0,0.05,0.19,1.32
+"SBI Magnum Equity ESG Fund",1.7,0.01,0.05,0.19,1.95,1.08,0.0,0.05,0.19,1.32
 "SBI Magnum Gilt Fund",0.88,0.0,0.0,0.07,0.95,0.4,0.0,0.0,0.07,0.47
-"SBI Magnum Global Fund",1.66,0.0,0.05,0.16,1.87,0.97,0.0,0.05,0.16,1.18
+"SBI Magnum Global Fund",1.66,0.01,0.05,0.16,1.88,0.97,0.0,0.05,0.16,1.18
 "SBI Magnum Income Fund",1.35,0.0,0.0,0.11,1.46,0.68,0.0,0.0,0.11,0.79
 "SBI Magnum Low Duration Fund",0.96,0.0,0.0,0.06,1.02,0.37,0.0,0.0,0.06,0.43
 "SBI Magnum Medium Duration Fund",1.12,0.0,0.0,0.1,1.22,0.59,0.0,0.0,0.1,0.69
@@ -1273,7 +1273,7 @@
 "SBI Savings Fund",0.73,0.0,0.0,0.03,0.76,0.22,0.0,0.0,0.03,0.25
 "SBI Short Term Debt Fund",0.8,0.0,0.0,0.05,0.85,0.3,0.0,0.0,0.05,0.35
 "SBI Small Cap Fund",1.49,0.02,0.05,0.08,1.64,0.56,0.0,0.05,0.08,0.69
-"SBI Technology Opportunities Fund",1.76,0.0,0.05,0.11,1.92,0.68,0.0,0.05,0.11,0.84
+"SBI Technology Opportunities Fund",1.76,0.02,0.05,0.11,1.94,0.68,0.0,0.05,0.11,0.84
 "Shriram Aggressive Hybrid Fund",2.25,0.25,0.05,0.1,2.65,0.8,0.0,0.05,0.1,0.95
 "Shriram Balanced Advantage Fund",2.25,0.3,0.05,0.05,2.65,0.55,0.0,0.05,0.05,0.65
 "Shriram ELSS Tax Saver Fund",2.25,0.3,0.0,0.1,2.65,0.8,0.0,0.0,0.1,0.9
@@ -1375,7 +1375,7 @@
 "Taurus Largecap Equity Fund",2.22,0.0,0.05,0.35,2.62,2.15,0.0,0.05,0.35,2.55
 "Taurus Mid Cap Fund",2.23,0.0,0.05,0.28,2.56,1.87,0.0,0.05,0.28,2.2
 "Taurus Nifty 50 Index Fund",0.99,0.0,0.05,0.0,1.04,0.96,0.0,0.05,0.0,1.01
-"Templeton India Equity Income Fund",1.9,0.0,0.05,0.19,2.14,1.16,0.0,0.05,0.19,1.4
+"Templeton India Equity Income Fund",1.9,0.0,0.05,0.19,2.14,1.15,0.0,0.05,0.19,1.39
 "Templeton India Value Fund",1.93,0.0,0.05,0.13,2.11,0.84,0.0,0.05,0.13,1.02
 "TRUSTMF Banking & PSU Fund",0.7,0.0,0.0,0.01,0.71,0.2,0.0,0.0,0.01,0.21
 "TRUSTMF Corporate Bond Fund",0.63,0.0,0.0,0.02,0.65,0.19,0.0,0.0,0.01,0.2
