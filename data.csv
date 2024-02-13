@@ -437,9 +437,10 @@
 "Franklin India Banking & PSU Debt Fund",0.51,0.0,0.0,0.04,0.55,0.24,0.0,0.0,0.03,0.27
 "Franklin India Bluechip Fund",1.65,0.0,0.05,0.16,1.86,0.92,0.0,0.05,0.15,1.12
 "Franklin India Corporate Debt Fund",0.76,0.0,0.0,0.03,0.79,0.26,0.0,0.0,0.03,0.29
+"Franklin India Debt Hybrid Fund",1.3,0.0,0.0,0.1,1.4,0.61,0.0,0.0,0.09,0.7
 "Franklin India Debt Hybrid Fund (No. of Segregated Portfolios - 1)",1.3,0.0,0.0,0.1,1.4,0.61,0.0,0.0,0.09,0.7
 "Franklin India Dynamic Asset Allocation Fund of Funds",2.0,0.0,0.05,0.08,2.13,1.09,0.0,0.05,0.08,1.22
-"Franklin India ELSS Tax Saver Fund",1.69,0.0,0.0,0.15,1.84,0.94,0.0,0.0,0.15,1.09
+"Franklin India ELSS Tax Saver Fund",1.68,0.0,0.0,0.15,1.83,0.94,0.0,0.0,0.15,1.09
 "Franklin India Equity Advantage Fund",1.8,0.0,0.05,0.2,2.05,1.16,0.0,0.05,0.2,1.41
 "Franklin India Equity Hybrid Fund",1.94,0.0,0.05,0.16,2.15,0.98,0.0,0.05,0.16,1.19
 "Franklin India Equity Savings Fund",1.06,0.0,0.0,0.06,1.12,0.41,0.0,0.0,0.05,0.46
@@ -450,7 +451,7 @@
 "Franklin India Focused Equity Fund",1.6,0.0,0.05,0.14,1.79,0.82,0.0,0.05,0.14,1.01
 "Franklin India Government Securities Fund",1.04,0.0,0.0,0.09,1.13,0.53,0.0,0.0,0.08,0.61
 "Franklin India Liquid Fund",0.19,0.0,0.0,0.0,0.19,0.13,0.0,0.0,0.0,0.13
-"Franklin India Money Market Fund",0.28,0.0,0.0,0.01,0.29,0.13,0.0,0.0,0.01,0.14
+"Franklin India Money Market Fund",0.28,0.0,0.0,0.01,0.29,0.12,0.0,0.0,0.01,0.13
 "Franklin India Multi - Asset Solution Fund of Funds",1.98,0.0,0.05,0.06,2.09,1.05,0.0,0.05,0.05,1.15
 "Franklin India NSE Nifty 50 Index Fund",0.6,0.0,0.0,0.03,0.63,0.24,0.0,0.0,0.03,0.27
 "Franklin India Opportunities Fund",1.84,0.0,0.05,0.03,1.92,0.3,0.0,0.05,0.03,0.38
@@ -790,7 +791,7 @@
 "JM Liquid Fund",0.25,0.0,0.0,0.01,0.26,0.15,0.0,0.0,0.01,0.16
 "JM Low Duration Fund",0.79,0.0,0.0,0.04,0.83,0.34,0.0,0.0,0.04,0.38
 "JM Medium to Long Duration Fund",0.97,0.0,0.0,0.05,1.02,0.42,0.0,0.0,0.05,0.47
-"JM Midcap Fund",2.16,0.0,0.05,0.01,2.22,0.26,0.0,0.05,0.01,0.32
+"JM Midcap Fund",2.16,0.0,0.05,0.01,2.22,0.25,0.0,0.05,0.01,0.31
 "JM Overnight Fund",0.14,0.0,0.0,0.0,0.14,0.07,0.0,0.0,0.0,0.07
 "JM Short Duration Fund",1.16,0.0,0.0,0.03,1.19,0.31,0.0,0.0,0.03,0.34
 "JM Value Fund",2.24,0.0,0.05,0.13,2.42,0.84,0.0,0.05,0.13,1.02
@@ -1174,13 +1175,13 @@
 "Quant Focused Fund",2.18,0.0,0.05,0.08,2.31,0.63,0.0,0.05,0.08,0.76
 "Quant Gilt Fund",1.35,0.0,0.0,0.06,1.41,0.45,0.0,0.0,0.06,0.51
 "Quant Healthcare Fund",2.25,0.0,0.05,0.09,2.39,0.63,0.0,0.05,0.09,0.77
-"Quant Infrastructure Fund",1.92,0.0,0.05,0.09,2.06,0.63,0.0,0.05,0.09,0.77
+"Quant Infrastructure Fund",1.91,0.0,0.05,0.09,2.05,0.63,0.0,0.05,0.09,0.77
 "Quant Large & Mid Cap Fund",1.93,0.0,0.05,0.07,2.05,0.63,0.0,0.05,0.07,0.75
 "Quant Large Cap Fund",2.22,0.0,0.05,0.09,2.36,0.63,0.0,0.05,0.09,0.77
 "Quant Liquid Fund",0.5,0.0,0.0,0.04,0.54,0.25,0.0,0.0,0.04,0.29
 "Quant Manufacturing Fund",2.25,0.0,0.05,0.09,2.39,0.63,0.0,0.05,0.09,0.77
 "Quant Mid Cap Fund",1.72,0.0,0.05,0.08,1.85,0.63,0.0,0.05,0.08,0.76
-"Quant Momentum Fund",2.1,0.0,0.05,0.09,2.24,0.63,0.0,0.05,0.09,0.77
+"Quant Momentum Fund",2.09,0.0,0.05,0.09,2.23,0.63,0.0,0.05,0.09,0.77
 "Quant Multi Asset Fund",1.91,0.0,0.05,0.07,2.03,0.59,0.0,0.05,0.07,0.71
 "Quant Overnight Fund",0.22,0.0,0.0,0.01,0.23,0.1,0.0,0.0,0.01,0.11
 "Quant Quantamental Fund",1.94,0.0,0.05,0.07,2.06,0.63,0.0,0.05,0.07,0.75
@@ -1387,13 +1388,13 @@
 "TRUSTMF Money Market Fund",0.31,0.0,0.0,0.0,0.31,0.16,0.0,0.0,0.0,0.16
 "TRUSTMF Overnight Fund",0.12,0.0,0.0,0.0,0.12,0.07,0.0,0.0,0.0,0.07
 "TRUSTMF Short Duration Fund",0.72,0.0,0.0,0.01,0.73,0.22,0.0,0.0,0.01,0.23
-"Union Aggressive Hybrid Fund",2.22,0.0,0.05,0.19,2.46,1.17,0.0,0.05,0.19,1.41
+"Union Aggressive Hybrid Fund",2.21,0.0,0.05,0.19,2.45,1.16,0.0,0.05,0.19,1.4
 "Union Arbitrage Fund",0.97,0.0,0.0,0.03,1.0,0.33,0.0,0.0,0.03,0.36
 "Union Balanced Advantage Fund",1.94,0.0,0.05,0.14,2.13,0.92,0.0,0.05,0.14,1.11
 "Union Children's Fund",2.25,0.0,0.0,0.13,2.38,0.95,0.0,0.0,0.13,1.08
 "Union Corporate Bond Fund",0.65,0.0,0.0,0.04,0.69,0.32,0.0,0.0,0.04,0.36
 "Union Dynamic Bond Fund",1.33,0.0,0.0,0.17,1.5,1.06,0.0,0.0,0.17,1.23
-"Union ELSS Tax Saver Fund (Formerly Union Tax Saver (ELSS) Fund",2.14,0.0,0.0,0.19,2.33,1.27,0.0,0.0,0.19,1.46
+"Union ELSS Tax Saver Fund (Formerly Union Tax Saver (ELSS) Fund",2.13,0.0,0.0,0.19,2.32,1.26,0.0,0.0,0.19,1.45
 "Union Equity Savings Fund",1.8,0.0,0.0,0.24,2.04,1.53,0.0,0.0,0.24,1.77
 "Union Flexi Cap Fund",1.91,0.0,0.05,0.11,2.07,0.78,0.0,0.05,0.11,0.94
 "Union Focused Fund",2.25,0.0,0.05,0.2,2.5,1.28,0.0,0.05,0.2,1.53
@@ -1404,7 +1405,7 @@
 "Union Largecap Fund",2.24,0.0,0.05,0.26,2.55,1.59,0.0,0.05,0.26,1.9
 "Union Liquid Fund",0.17,0.0,0.0,0.01,0.18,0.07,0.0,0.0,0.01,0.08
 "Union Medium Duration Fund",0.82,0.0,0.0,0.09,0.91,0.62,0.0,0.0,0.09,0.71
-"Union Midcap Fund",2.06,0.0,0.05,0.07,2.18,0.59,0.0,0.05,0.07,0.71
+"Union Midcap Fund",2.05,0.0,0.05,0.07,2.17,0.58,0.0,0.05,0.07,0.7
 "Union Money Market Fund",1.01,0.0,0.0,0.02,1.03,0.27,0.0,0.0,0.02,0.29
 "Union Multicap Fund",2.13,0.0,0.05,0.07,2.25,0.51,0.0,0.05,0.07,0.63
 "Union Overnight Fund",0.18,0.0,0.0,0.0,0.18,0.08,0.0,0.0,0.0,0.08
