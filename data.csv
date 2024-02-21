@@ -135,7 +135,7 @@
 "Axis Long Duration Fund",0.67,0.0,0.0,0.02,0.69,0.23,0.0,0.0,0.02,0.25
 "Axis Midcap Fund",1.48,0.0,0.05,0.07,1.6,0.42,0.0,0.05,0.07,0.54
 "Axis Money Market Fund",0.33,0.0,0.0,0.02,0.35,0.15,0.0,0.0,0.02,0.17
-"Axis Multi Asset Allocation Fund",1.91,0.0,0.05,0.18,2.14,1.01,0.0,0.05,0.18,1.24
+"Axis Multi Asset Allocation Fund",1.91,0.0,0.05,0.18,2.14,1.01,0.0,0.05,0.17,1.23
 "Axis Multicap Fund",1.72,0.0,0.05,0.11,1.88,0.63,0.0,0.05,0.11,0.79
 "Axis NASDAQ 100 Fund of Fund",0.66,0.0,0.0,0.0,0.66,0.22,0.0,0.0,0.0,0.22
 "Axis Nifty 100 Index Fund",0.9,0.0,0.0,0.03,0.93,0.19,0.0,0.0,0.03,0.22
@@ -460,7 +460,7 @@
 "Franklin India Prima Fund",1.61,0.0,0.05,0.14,1.8,0.84,0.0,0.05,0.14,1.03
 "Franklin India Short-Term Income Plan (No. of Segregated Portfolios- 3)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 "Franklin India Smaller Companies Fund",1.59,0.0,0.05,0.12,1.76,0.76,0.0,0.05,0.12,0.93
-"Franklin India Technology Fund",1.98,0.0,0.05,0.14,2.17,0.96,0.0,0.05,0.14,1.15
+"Franklin India Technology Fund",1.99,0.0,0.05,0.14,2.18,0.96,0.0,0.05,0.14,1.15
 "Groww Aggressive Hybrid Fund (Formerly Known as Indiabulls Equity Hybrid Fund)",2.25,0.0,0.05,0.0,2.3,0.8,0.0,0.05,0.0,0.85
 "Groww Banking & Financial Services Fund",2.25,0.0,0.0,0.0,2.25,0.31,0.0,0.0,0.0,0.31
 "Groww Dynamic Bond Fund (Formerly Known as Indiabulls Dynamic Bond Fund)",1.45,0.0,0.0,0.0,1.45,0.45,0.0,0.0,0.0,0.45
@@ -984,19 +984,19 @@
 "Motilal Oswal 5 Year G-SEC Fund of Fund",0.2,0.0,0.0,0.0,0.2,0.13,0.0,0.0,0.0,0.13
 "Motilal Oswal Asset Allocation Fund of Fund- Aggressive",0.64,0.0,0.0,0.0,0.64,0.14,0.0,0.0,0.0,0.14
 "Motilal Oswal Asset Allocation Fund of Fund- Conservative",0.54,0.0,0.0,0.0,0.54,0.02,0.0,0.0,0.0,0.02
-"Motilal Oswal Balanced Advantage Fund",1.97,0.0,0.05,0.12,2.14,0.77,0.0,0.05,0.12,0.94
+"Motilal Oswal Balanced Advantage Fund",2.0,0.0,0.05,0.13,2.18,0.8,0.0,0.05,0.13,0.98
 "Motilal Oswal Developed Market Ex US Etfs Fund of Funds",0.51,0.0,0.05,0.01,0.57,0.11,0.0,0.05,0.01,0.17
-"Motilal Oswal ELSS Tax Saver Fund",1.77,0.0,0.0,0.08,1.85,0.57,0.0,0.0,0.08,0.65
+"Motilal Oswal ELSS Tax Saver Fund",1.8,0.0,0.0,0.08,1.88,0.6,0.0,0.0,0.08,0.68
 "Motilal Oswal Equity Hybrid Fund",2.25,0.0,0.05,0.12,2.42,0.74,0.0,0.05,0.12,0.91
 "Motilal Oswal Flexi Cap Fund",1.6,0.0,0.05,0.12,1.77,0.77,0.0,0.05,0.12,0.94
 "Motilal Oswal Focused Fund",1.9,0.0,0.05,0.12,2.07,0.77,0.0,0.05,0.12,0.94
 "Motilal Oswal Gold and Silver Etfs Fund of Funds",0.5,0.0,0.0,0.01,0.51,0.15,0.0,0.0,0.01,0.16
-"Motilal Oswal Large and Midcap Fund",1.76,0.0,0.05,0.06,1.87,0.38,0.0,0.05,0.06,0.49
+"Motilal Oswal Large and Midcap Fund",1.77,0.0,0.05,0.06,1.88,0.39,0.0,0.05,0.06,0.5
 "Motilal Oswal Large Cap Fund",2.2,0.0,0.05,0.14,2.39,0.85,0.0,0.05,0.14,1.04
-"Motilal Oswal Liquid Fund",0.34,0.0,0.0,0.02,0.36,0.19,0.0,0.0,0.02,0.21
+"Motilal Oswal Liquid Fund",0.35,0.0,0.0,0.03,0.38,0.2,0.0,0.0,0.03,0.23
 "Motilal Oswal Midcap Fund",1.62,0.0,0.05,0.08,1.75,0.5,0.0,0.05,0.08,0.63
 "Motilal Oswal MSCI EAFE Top 100 Select Index Fund",1.0,0.0,0.05,0.01,1.06,0.43,0.0,0.05,0.01,0.49
-"Motilal Oswal Multi Asset Fund",1.86,0.0,0.05,0.12,2.03,0.76,0.0,0.05,0.12,0.93
+"Motilal Oswal Multi Asset Fund",1.89,0.0,0.05,0.13,2.07,0.79,0.0,0.05,0.13,0.97
 "Motilal Oswal NASDAQ 100 ETF",0.5,0.0,0.0,0.08,0.58,0.0,0.0,0.0,0.0,0.0
 "Motilal Oswal NASDAQ 100 Fund of Fund",0.5,0.0,0.05,0.02,0.57,0.11,0.0,0.05,0.02,0.18
 "Motilal Oswal NASDAQ Q50 ETF",0.39,0.0,0.0,0.07,0.46,0.0,0.0,0.0,0.0,0.0
@@ -1020,9 +1020,9 @@
 "Motilal Oswal S&P BSE Healthcare ETF",0.21,0.0,0.0,0.01,0.22,0.0,0.0,0.0,0.0,0.0
 "Motilal Oswal S&P BSE Low Volatility ETF",0.31,0.0,0.0,0.05,0.36,0.0,0.0,0.0,0.0,0.0
 "Motilal Oswal S&P BSE Low Volatility Index Fund",1.0,0.0,0.0,0.03,1.03,0.4,0.0,0.0,0.03,0.43
-"Motilal Oswal S&P BSE Quality ETF",0.27,0.0,0.0,0.02,0.29,0.0,0.0,0.0,0.0,0.0
+"Motilal Oswal S&P BSE Quality ETF",0.27,0.0,0.0,0.03,0.3,0.0,0.0,0.0,0.0,0.0
 "Motilal Oswal S&P BSE Quality Index Fund",0.99,0.0,0.0,0.03,1.02,0.34,0.0,0.0,0.03,0.37
-"Motilal Oswal Small Cap Fund",1.94,0.0,0.05,0.07,2.06,0.47,0.0,0.05,0.07,0.59
+"Motilal Oswal Small Cap Fund",1.96,0.0,0.05,0.07,2.08,0.49,0.0,0.05,0.07,0.61
 "Motilal Oswal Ultra Short Term Fund",1.0,0.0,0.0,0.07,1.07,0.51,0.0,0.0,0.07,0.58
 "Navi Aggressive Hybrid Fund",2.25,0.0,0.0,0.03,2.28,0.42,0.0,0.0,0.0,0.42
 "Navi Conservative Hybrid Fund",2.0,0.0,0.05,0.05,2.1,0.33,0.0,0.05,0.01,0.39
