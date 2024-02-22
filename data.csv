@@ -117,7 +117,7 @@
 "Axis ELSS Tax Saver Fund",1.43,0.0,0.0,0.11,1.54,0.68,0.0,0.0,0.11,0.79
 "Axis Equity Etfs FoF",0.27,0.0,0.0,0.0,0.27,0.11,0.0,0.0,0.0,0.11
 "Axis Equity Hybrid Fund",1.93,0.0,0.05,0.15,2.13,0.84,0.0,0.05,0.15,1.04
-"Axis Equity Saver Fund",2.09,0.0,0.05,0.15,2.29,0.85,0.0,0.05,0.14,1.04
+"Axis Equity Saver Fund",2.08,0.0,0.05,0.15,2.28,0.85,0.0,0.05,0.14,1.04
 "Axis ESG Equity Fund",1.98,0.0,0.05,0.2,2.23,1.11,0.0,0.05,0.18,1.34
 "Axis ESG Integration Strategy Fund",1.98,0.0,0.05,0.21,2.24,1.11,0.0,0.05,0.2,1.36
 "Axis Flexi Cap Fund",1.59,0.0,0.05,0.1,1.74,0.57,0.0,0.05,0.1,0.72
@@ -135,7 +135,7 @@
 "Axis Long Duration Fund",0.67,0.0,0.0,0.02,0.69,0.23,0.0,0.0,0.02,0.25
 "Axis Midcap Fund",1.48,0.0,0.05,0.07,1.6,0.42,0.0,0.05,0.07,0.54
 "Axis Money Market Fund",0.33,0.0,0.0,0.02,0.35,0.15,0.0,0.0,0.02,0.17
-"Axis Multi Asset Allocation Fund",1.91,0.0,0.05,0.18,2.14,1.01,0.0,0.05,0.17,1.23
+"Axis Multi Asset Allocation Fund",1.91,0.0,0.05,0.18,2.14,1.0,0.0,0.05,0.17,1.22
 "Axis Multicap Fund",1.72,0.0,0.05,0.11,1.88,0.63,0.0,0.05,0.11,0.79
 "Axis NASDAQ 100 Fund of Fund",0.66,0.0,0.0,0.0,0.66,0.22,0.0,0.0,0.0,0.22
 "Axis Nifty 100 Index Fund",0.9,0.0,0.0,0.03,0.93,0.19,0.0,0.0,0.03,0.22
@@ -153,7 +153,7 @@
 "Axis Nifty SDL September 2026 Debt Index Fund",0.3,0.0,0.0,0.0,0.3,0.15,0.0,0.0,0.0,0.15
 "Axis Nifty Smallcap 50 Index Fund",1.0,0.0,0.0,0.0,1.0,0.25,0.0,0.0,0.0,0.25
 "Axis Overnight Fund",0.11,0.0,0.0,0.0,0.11,0.05,0.0,0.0,0.0,0.05
-"Axis Quant Fund",2.05,0.0,0.05,0.11,2.21,0.6,0.0,0.05,0.11,0.76
+"Axis Quant Fund",2.05,0.0,0.05,0.11,2.21,0.6,0.0,0.05,0.1,0.75
 "Axis Regular Saver Fund",2.0,0.0,0.05,0.14,2.19,0.69,0.0,0.05,0.12,0.86
 "Axis Retirement Savings Fund - Aggressive Plan",2.14,0.0,0.0,0.15,2.29,0.84,0.0,0.0,0.14,0.98
 "Axis Retirement Savings Fund - Conservative Plan",2.0,0.0,0.0,0.15,2.15,0.67,0.0,0.0,0.1,0.77
@@ -163,7 +163,7 @@
 "Axis Silver ETF",0.35,0.0,0.0,0.0,0.35,0.0,0.0,0.0,0.0,0.0
 "Axis Silver Fund of Fund",0.65,0.0,0.05,0.0,0.7,0.1,0.0,0.05,0.0,0.15
 "Axis Small Cap Fund",1.52,0.0,0.05,0.07,1.64,0.42,0.0,0.05,0.07,0.54
-"Axis Special Situations Fund",2.01,0.0,0.05,0.14,2.2,0.78,0.0,0.05,0.14,0.97
+"Axis Special Situations Fund",2.01,0.0,0.05,0.14,2.2,0.78,0.0,0.05,0.13,0.96
 "Axis Strategic Bond Fund",1.03,0.0,0.0,0.06,1.09,0.3,0.0,0.0,0.04,0.34
 "Axis Treasury Advantage Fund",0.6,0.0,0.0,0.04,0.64,0.25,0.0,0.0,0.04,0.29
 "Axis Ultra Short Term Fund",1.1,0.0,0.0,0.05,1.15,0.28,0.0,0.0,0.05,0.33
@@ -460,7 +460,7 @@
 "Franklin India Prima Fund",1.61,0.0,0.05,0.14,1.8,0.85,0.0,0.05,0.14,1.04
 "Franklin India Short-Term Income Plan (No. of Segregated Portfolios- 3)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 "Franklin India Smaller Companies Fund",1.59,0.0,0.05,0.12,1.76,0.76,0.0,0.05,0.12,0.93
-"Franklin India Technology Fund",1.99,0.0,0.05,0.14,2.18,0.96,0.0,0.05,0.14,1.15
+"Franklin India Technology Fund",1.99,0.0,0.05,0.14,2.18,0.97,0.0,0.05,0.14,1.16
 "Groww Aggressive Hybrid Fund (Formerly Known as Indiabulls Equity Hybrid Fund)",2.25,0.0,0.05,0.0,2.3,0.8,0.0,0.05,0.0,0.85
 "Groww Banking & Financial Services Fund",2.25,0.0,0.0,0.0,2.25,0.31,0.0,0.0,0.0,0.31
 "Groww Dynamic Bond Fund (Formerly Known as Indiabulls Dynamic Bond Fund)",1.45,0.0,0.0,0.0,1.45,0.45,0.0,0.0,0.0,0.45
@@ -473,11 +473,11 @@
 "Groww Value Fund (Formerly Known as Indiabulls Value Fund)",2.25,0.0,0.05,0.0,2.3,1.08,0.0,0.05,0.0,1.13
 "HDFC Arbitrage Fund",0.86,0.0,0.0,0.06,0.92,0.36,0.0,0.0,0.06,0.42
 "HDFC Asset Allocator Fund of Funds",1.16,0.0,0.05,0.0,1.21,0.08,0.0,0.05,0.0,0.13
-"HDFC Balanced Advantage Fund",1.23,0.0,0.05,0.11,1.39,0.58,0.0,0.05,0.11,0.74
+"HDFC Balanced Advantage Fund",1.24,0.0,0.05,0.11,1.4,0.59,0.0,0.05,0.11,0.75
 "HDFC Banking & Financial Services Fund",1.79,0.0,0.05,0.09,1.93,0.49,0.0,0.05,0.09,0.63
 "HDFC Banking and PSU Debt Fund",0.66,0.0,0.0,0.05,0.71,0.34,0.0,0.0,0.05,0.39
 "HDFC Business Cycle Fund",1.81,0.0,0.05,0.08,1.94,0.57,0.0,0.05,0.08,0.7
-"HDFC Capital Builder Value Fund",1.66,0.0,0.05,0.12,1.83,0.8,0.0,0.05,0.12,0.97
+"HDFC Capital Builder Value Fund",1.67,0.0,0.05,0.12,1.84,0.81,0.0,0.05,0.12,0.98
 "HDFC Childrens Gift Fund",1.63,0.0,0.0,0.14,1.77,0.83,0.0,0.0,0.14,0.97
 "HDFC Corporate Bond Fund",0.51,0.0,0.0,0.04,0.55,0.31,0.0,0.0,0.04,0.35
 "HDFC Credit Risk Debt Fund",1.39,0.0,0.05,0.13,1.57,0.73,0.0,0.05,0.13,0.91
@@ -525,7 +525,7 @@
 "HDFC Nifty G-SEC SEP 2032 Index Fund",0.38,0.0,0.0,0.0,0.38,0.2,0.0,0.0,0.0,0.2
 "HDFC Nifty Growth Sectors 15 ETF",0.3,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0
 "HDFC Nifty IT ETF",0.2,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0
-"HDFC Nifty Midcap 150 ETF",0.2,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0
+"HDFC Nifty Midcap 150 ETF",0.35,0.0,0.0,0.0,0.35,0.0,0.0,0.0,0.0,0.0
 "HDFC Nifty Midcap 150 Index Fund",0.75,0.0,0.0,0.0,0.75,0.3,0.0,0.0,0.0,0.3
 "HDFC Nifty Next 50 ETF",0.15,0.0,0.0,0.0,0.15,0.0,0.0,0.0,0.0,0.0
 "HDFC Nifty Next 50 Index Fund",0.5,0.0,0.0,0.0,0.5,0.3,0.0,0.0,0.0,0.3
@@ -555,7 +555,7 @@
 "HDFC Small Cap Fund",1.46,0.0,0.05,0.09,1.6,0.47,0.0,0.05,0.09,0.61
 "HDFC Technology Fund",2.07,0.0,0.05,0.15,2.27,0.81,0.0,0.05,0.15,1.01
 "HDFC Top 100 Fund",1.44,0.0,0.05,0.16,1.65,0.86,0.0,0.05,0.16,1.07
-"HDFC Transportation and Logistics Fund",2.15,0.0,0.05,0.16,2.36,0.85,0.0,0.05,0.16,1.06
+"HDFC Transportation and Logistics Fund",2.16,0.0,0.05,0.16,2.37,0.86,0.0,0.05,0.16,1.07
 "HDFC Ultra Short Term Fund",0.55,0.0,0.0,0.04,0.59,0.32,0.0,0.0,0.04,0.36
 "Helios Flexi Cap Fund",2.07,0.0,0.05,0.08,2.2,0.49,0.0,0.05,0.08,0.62
 "Helios Overnight Fund",0.14,0.0,0.0,0.01,0.15,0.09,0.0,0.0,0.01,0.1
@@ -992,7 +992,7 @@
 "Motilal Oswal Focused Fund",1.9,0.0,0.05,0.12,2.07,0.77,0.0,0.05,0.12,0.94
 "Motilal Oswal Gold and Silver Etfs Fund of Funds",0.5,0.0,0.0,0.01,0.51,0.15,0.0,0.0,0.01,0.16
 "Motilal Oswal Large and Midcap Fund",1.77,0.0,0.05,0.06,1.88,0.39,0.0,0.05,0.06,0.5
-"Motilal Oswal Large Cap Fund",2.2,0.0,0.05,0.14,2.39,0.85,0.0,0.05,0.14,1.04
+"Motilal Oswal Large Cap Fund",2.19,0.0,0.05,0.14,2.38,0.84,0.0,0.05,0.14,1.03
 "Motilal Oswal Liquid Fund",0.35,0.0,0.0,0.03,0.38,0.2,0.0,0.0,0.03,0.23
 "Motilal Oswal Midcap Fund",1.62,0.0,0.05,0.08,1.75,0.5,0.0,0.05,0.08,0.63
 "Motilal Oswal MSCI EAFE Top 100 Select Index Fund",1.0,0.0,0.05,0.01,1.06,0.43,0.0,0.05,0.01,0.49
@@ -1383,7 +1383,7 @@
 "Taurus Largecap Equity Fund",2.22,0.0,0.05,0.35,2.62,2.15,0.0,0.05,0.35,2.55
 "Taurus Mid Cap Fund",2.23,0.0,0.05,0.28,2.56,1.83,0.0,0.05,0.28,2.16
 "Taurus Nifty 50 Index Fund",0.99,0.0,0.05,0.0,1.04,0.87,0.0,0.05,0.0,0.92
-"Templeton India Equity Income Fund",1.89,0.0,0.05,0.19,2.13,1.13,0.0,0.05,0.18,1.36
+"Templeton India Equity Income Fund",1.89,0.0,0.05,0.19,2.13,1.14,0.0,0.05,0.18,1.37
 "Templeton India Value Fund",1.92,0.0,0.05,0.13,2.1,0.81,0.0,0.05,0.13,0.99
 "TRUSTMF Banking & PSU Fund",0.7,0.0,0.0,0.01,0.71,0.2,0.0,0.0,0.01,0.21
 "TRUSTMF Corporate Bond Fund",0.63,0.0,0.0,0.02,0.65,0.19,0.0,0.0,0.01,0.2
