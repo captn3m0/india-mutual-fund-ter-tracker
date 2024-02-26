@@ -14,7 +14,7 @@ lxml==5.1.0
 Mastodon.py==1.8.1
 packaging==23.2
 pluggy==1.4.0
-pytest==8.0.0
+pytest==8.0.2
 python-dateutil==2.8.2
 python-magic==0.4.27
 requests==2.31.0
