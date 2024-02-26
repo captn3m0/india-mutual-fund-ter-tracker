@@ -313,7 +313,7 @@
 "Canara Robeco Emerging Equities",1.51,0.0,0.05,0.07,1.63,0.48,0.0,0.05,0.07,0.6
 "Canara Robeco Equity Hybrid Fund",1.61,0.0,0.05,0.08,1.74,0.53,0.0,0.05,0.08,0.66
 "Canara Robeco Flexi Cap Fund",1.59,0.0,0.05,0.07,1.71,0.45,0.0,0.05,0.07,0.57
-"Canara Robeco Focused Equity Fund",1.87,0.0,0.05,0.06,1.98,0.41,0.0,0.05,0.06,0.52
+"Canara Robeco Focused Equity Fund",1.88,0.0,0.05,0.06,1.99,0.41,0.0,0.05,0.06,0.52
 "Canara Robeco Gilt Fund",1.19,0.0,0.0,0.06,1.25,0.46,0.0,0.0,0.06,0.52
 "Canara Robeco Income Fund",1.78,0.0,0.0,0.1,1.88,0.66,0.0,0.0,0.1,0.76
 "Canara Robeco Infrastructure",2.25,0.0,0.05,0.17,2.47,0.98,0.0,0.05,0.16,1.19
@@ -352,7 +352,7 @@
 "DSP Healthcare Fund",1.86,0.0,0.05,0.08,1.99,0.49,0.0,0.05,0.08,0.62
 "DSP India T.I.G.E.R. Fund",1.78,0.0,0.05,0.15,1.98,0.85,0.0,0.05,0.15,1.05
 "DSP Liquidity Fund",0.21,0.0,0.0,0.02,0.23,0.13,0.0,0.0,0.02,0.15
-"DSP Low Duration Fund",0.59,0.0,0.0,0.04,0.63,0.26,0.0,0.0,0.04,0.3
+"DSP Low Duration Fund",0.6,0.0,0.0,0.04,0.64,0.27,0.0,0.0,0.04,0.31
 "DSP Midcap Fund",1.54,0.0,0.05,0.1,1.69,0.59,0.0,0.05,0.1,0.74
 "DSP Multi Asset Allocation Fund",1.7,0.0,0.0,0.01,1.71,0.2,0.0,0.0,0.01,0.21
 "DSP Multicap Fund",2.16,0.0,0.0,0.09,2.25,0.62,0.0,0.0,0.09,0.71
@@ -380,7 +380,7 @@
 "DSP Savings Fund",0.37,0.0,0.0,0.01,0.38,0.14,0.0,0.0,0.01,0.15
 "DSP Short Term Fund",0.91,0.0,0.0,0.05,0.96,0.29,0.0,0.0,0.05,0.34
 "DSP Silver ETF",0.0,0.0,0.0,0.0,0.0,0.49,0.0,0.0,0.01,0.5
-"DSP Small Cap Fund",1.57,0.0,0.05,0.1,1.72,0.63,0.0,0.05,0.1,0.78
+"DSP Small Cap Fund",1.56,0.0,0.05,0.1,1.71,0.62,0.0,0.05,0.1,0.77
 "DSP Strategic Bond Fund",1.08,0.0,0.0,0.08,1.16,0.44,0.0,0.0,0.08,0.52
 "DSP Top 100 Equity Fund",1.77,0.0,0.05,0.17,1.99,0.96,0.0,0.05,0.17,1.18
 "DSP Ultra Short Fund",1.0,0.0,0.0,0.04,1.04,0.26,0.0,0.0,0.04,0.3
@@ -583,7 +583,7 @@
 "HSBC Global Equity Climate Change Fund of Fund",1.3,0.0,0.05,0.09,1.44,0.65,0.0,0.05,0.09,0.79
 "HSBC Infrastructure Fund",1.88,0.0,0.05,0.16,2.09,0.84,0.0,0.05,0.16,1.05
 "HSBC Large & Mid Cap Fund",1.82,0.0,0.05,0.15,2.02,0.78,0.0,0.05,0.15,0.98
-"HSBC Large Cap Fund",1.92,0.0,0.05,0.18,2.15,0.97,0.0,0.05,0.18,1.2
+"HSBC Large Cap Fund",1.93,0.0,0.05,0.18,2.16,0.98,0.0,0.05,0.18,1.21
 "HSBC Liquid Fund",0.22,0.0,0.0,0.0,0.22,0.12,0.0,0.0,0.0,0.12
 "HSBC Low Duration Fund",0.61,0.0,0.0,0.03,0.64,0.22,0.0,0.0,0.03,0.25
 "HSBC Managed Solutions - Conservative",0.86,0.0,0.0,0.0,0.86,0.09,0.0,0.0,0.0,0.09
@@ -1214,7 +1214,7 @@
 "SBI Balanced Advantage Fund",1.46,0.0,0.05,0.1,1.61,0.56,0.0,0.05,0.1,0.71
 "SBI Banking & Financial Services Fund",1.71,0.0,0.05,0.1,1.86,0.61,0.0,0.05,0.1,0.76
 "SBI Banking & PSU Fund",0.76,0.0,0.0,0.05,0.81,0.29,0.0,0.0,0.05,0.34
-"SBI Blue Chip Fund",1.37,0.0,0.05,0.12,1.54,0.68,0.0,0.05,0.12,0.85
+"SBI Blue Chip Fund",1.38,0.0,0.05,0.12,1.55,0.69,0.0,0.05,0.12,0.86
 "SBI Conservative Hybrid Fund",0.98,0.0,0.05,0.09,1.12,0.48,0.0,0.05,0.09,0.62
 "SBI Consumption Opportunities Fund",1.9,0.0,0.05,0.14,2.09,0.81,0.0,0.05,0.14,1.0
 "SBI Contra Fund",1.48,0.0,0.05,0.09,1.62,0.53,0.0,0.05,0.09,0.67
@@ -1289,28 +1289,28 @@
 "Shriram Flexi Cap Fund",2.25,0.25,0.05,0.1,2.65,0.8,0.0,0.05,0.1,0.95
 "Shriram Multi Asset Allocation Fund",2.25,0.0,0.05,0.02,2.32,0.3,0.0,0.05,0.02,0.37
 "Shriram Overnight Fund",0.15,0.0,0.0,0.0,0.15,0.07,0.0,0.0,0.0,0.07
-"Sundaram Aggressive Hybrid Fund (Formerly Known as Principal Hybrid Equity Fund)",1.74,0.0,0.05,0.09,1.88,0.62,0.0,0.05,0.09,0.76
+"Sundaram Aggressive Hybrid Fund (Formerly Known as Principal Hybrid Equity Fund)",1.74,0.0,0.05,0.12,1.91,0.62,0.0,0.05,0.12,0.79
 "Sundaram Arbitrage Fund(Formerly Known as Prinicpal Arbitrage Fund)",0.85,0.0,0.0,0.02,0.87,0.26,0.0,0.0,0.02,0.28
-"Sundaram Balanced Advantage Fund (Formerly Known as Principal Balanced Advantage Fund)",1.95,0.0,0.05,0.07,2.07,0.47,0.0,0.05,0.07,0.59
+"Sundaram Balanced Advantage Fund (Formerly Known as Principal Balanced Advantage Fund)",1.95,0.0,0.05,0.09,2.09,0.47,0.0,0.05,0.09,0.61
 "Sundaram Banking & PSU Debt Fund",0.34,0.0,0.0,0.02,0.37,0.21,0.0,0.0,0.02,0.23
-"Sundaram Consumption Fund (Formerly Known as Sundaram Rural and Consumption Fund)",1.98,0.0,0.05,0.16,2.19,1.02,0.0,0.05,0.16,1.23
+"Sundaram Consumption Fund (Formerly Known as Sundaram Rural and Consumption Fund)",1.98,0.0,0.05,0.19,2.22,1.02,0.0,0.05,0.19,1.26
 "Sundaram Corporate Bond Fund",0.48,0.0,0.0,0.03,0.51,0.25,0.0,0.0,0.03,0.28
 "Sundaram Debt Oriented Hybrid Fund",2.0,0.0,0.0,0.16,2.16,1.04,0.0,0.0,0.16,1.2
 "Sundaram Diversified Equity",1.94,0.0,0.0,0.22,2.16,1.38,0.0,0.0,0.22,1.6
 "Sundaram Dividend Yield Fund (Formerly Known as Principal Dividend Yield Fund)",2.13,0.0,0.05,0.12,2.31,0.78,0.0,0.05,0.12,0.96
 "Sundaram ELSS Tax Saver Fund",2.0,0.0,0.0,0.24,2.24,1.46,0.0,0.0,0.24,1.7
-"Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund)",2.17,0.0,0.0,0.06,2.23,0.51,0.0,0.0,0.06,0.57
-"Sundaram Financial Services Opportunities Fund",2.02,0.0,0.05,0.09,2.16,0.63,0.0,0.05,0.09,0.77
-"Sundaram Flexicap Fund",1.89,0.0,0.05,0.05,1.99,0.35,0.0,0.05,0.05,0.45
+"Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund)",2.17,0.0,0.0,0.09,2.26,0.51,0.0,0.0,0.09,0.6
+"Sundaram Financial Services Opportunities Fund",2.02,0.0,0.05,0.12,2.19,0.63,0.0,0.05,0.12,0.8
+"Sundaram Flexicap Fund",1.89,0.0,0.05,0.07,2.01,0.35,0.0,0.05,0.07,0.47
 "Sundaram Focused Fund (Formerly Known as Principal Focused Multicap Fund)",2.05,0.0,0.05,0.15,2.26,0.94,0.0,0.05,0.15,1.15
 "Sundaram Global Brand Fund",2.25,0.0,0.05,0.0,2.3,1.28,0.0,0.05,0.0,1.33
-"Sundaram Infrastructure Advantage Fund (Erstwhile Sundaram Capex Opportunities)",2.11,0.0,0.05,0.24,2.4,1.43,0.0,0.05,0.24,1.72
-"Sundaram Large and Midcap Fund",1.68,0.0,0.05,0.09,1.82,0.58,0.0,0.05,0.09,0.72
-"Sundaram Large Cap Fund ( Formerly Know as Sundaram Blue Chip Fund)",1.78,0.0,0.05,0.06,1.89,0.48,0.0,0.05,0.06,0.59
+"Sundaram Infrastructure Advantage Fund (Erstwhile Sundaram Capex Opportunities)",2.11,0.0,0.05,0.26,2.42,1.43,0.0,0.05,0.26,1.74
+"Sundaram Large and Midcap Fund",1.68,0.0,0.05,0.11,1.84,0.58,0.0,0.05,0.11,0.74
+"Sundaram Large Cap Fund ( Formerly Know as Sundaram Blue Chip Fund)",1.78,0.0,0.05,0.09,1.92,0.48,0.0,0.05,0.09,0.62
 "Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund)",0.29,0.0,0.0,0.02,0.31,0.15,0.0,0.0,0.02,0.17
 "Sundaram Low Duration Fund (Formerly Known as Principal Low Duration Fund)",0.9,0.0,0.0,0.03,0.93,0.3,0.0,0.0,0.03,0.33
 "Sundaram Medium Term Bond Fund",2.0,0.0,0.0,0.17,2.17,1.09,0.0,0.0,0.17,1.25
-"Sundaram Mid Cap Fund",1.6,0.0,0.05,0.11,1.77,0.71,0.0,0.05,0.11,0.88
+"Sundaram Mid Cap Fund",1.61,0.0,0.05,0.11,1.77,0.72,0.0,0.05,0.11,0.88
 "Sundaram Money Market Fund",0.32,0.0,0.0,0.02,0.34,0.23,0.0,0.0,0.02,0.25
 "Sundaram Multi Asset Allocation Fund",1.91,0.0,0.05,0.0,1.96,0.19,0.0,0.05,0.0,0.24
 "Sundaram Multi Cap Fund (Formerly Known as Principal Multi Cap Growth Fund)",1.85,0.0,0.05,0.12,2.02,0.74,0.0,0.05,0.12,0.91
@@ -1409,7 +1409,7 @@
 "Union Largecap Fund",2.24,0.0,0.05,0.26,2.55,1.49,0.0,0.05,0.26,1.8
 "Union Liquid Fund",0.17,0.0,0.0,0.0,0.17,0.07,0.0,0.0,0.0,0.07
 "Union Medium Duration Fund",0.82,0.0,0.0,0.09,0.91,0.59,0.0,0.0,0.09,0.68
-"Union Midcap Fund",2.04,0.0,0.05,0.07,2.16,0.52,0.0,0.05,0.07,0.64
+"Union Midcap Fund",2.05,0.0,0.05,0.07,2.17,0.53,0.0,0.05,0.07,0.65
 "Union Money Market Fund",1.01,0.0,0.0,0.03,1.04,0.25,0.0,0.0,0.03,0.28
 "Union Multicap Fund",2.12,0.0,0.05,0.13,2.3,0.84,0.0,0.05,0.13,1.02
 "Union Overnight Fund",0.18,0.0,0.0,0.0,0.18,0.08,0.0,0.0,0.0,0.08
@@ -1426,7 +1426,7 @@
 "UTI - Dividend Yield Fund",1.77,0.0,0.05,0.19,2.01,1.18,0.0,0.05,0.19,1.42
 "UTI - Dynamic Bond Fund.",1.45,0.0,0.0,0.11,1.56,0.6,0.0,0.0,0.11,0.71
 "UTI - Equity Savings Fund",1.4,0.0,0.05,0.09,1.54,0.59,0.0,0.05,0.09,0.73
-"UTI - Flexi Cap Fund.",1.48,0.0,0.05,0.13,1.66,0.72,0.0,0.05,0.13,0.9
+"UTI - Flexi Cap Fund.",1.49,0.0,0.05,0.13,1.67,0.73,0.0,0.05,0.13,0.91
 "UTI - Floater Fund",0.81,0.0,0.0,0.04,0.85,0.31,0.0,0.0,0.04,0.35
 "UTI - Gilt Fund",0.85,0.0,0.0,0.1,0.95,0.59,0.0,0.0,0.1,0.69
 "UTI - Gold Exchange Traded Fund",0.44,0.0,0.0,0.02,0.46,0.0,0.0,0.0,0.0,0.0
