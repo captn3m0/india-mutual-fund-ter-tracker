@@ -388,7 +388,7 @@
 "DSP Value Fund",1.59,0.0,0.0,0.1,1.69,0.83,0.0,0.0,0.1,0.93
 "DSP World Agriculture Fund",2.17,0.0,0.0,0.13,2.3,1.63,0.0,0.0,0.13,1.76
 "DSP World Energy Fund",2.07,0.0,0.0,0.08,2.15,1.47,0.0,0.0,0.08,1.55
-"DSP World Gold Fund of Fund",2.24,0.0,0.0,0.11,2.35,1.6,0.0,0.0,0.11,1.71
+"DSP World Gold Fund of Fund",2.25,0.0,0.0,0.11,2.36,1.6,0.0,0.0,0.11,1.71
 "DSP World Mining Fund",2.12,0.0,0.0,0.05,2.17,1.46,0.0,0.0,0.05,1.51
 "Edelweiss Aggressive Hybrid Fund",1.98,0.0,0.05,0.03,2.06,0.17,0.0,0.05,0.03,0.25
 "Edelweiss Arbitrage Fund",0.99,0.0,0.0,0.05,1.04,0.33,0.0,0.0,0.05,0.38
@@ -406,16 +406,16 @@
 "Edelweiss Europe Dynamic Equity Offshore Fund",1.27,0.0,0.05,0.06,1.38,0.43,0.0,0.05,0.06,0.54
 "Edelweiss Flexi Cap Fund",1.93,0.0,0.05,0.06,2.04,0.35,0.0,0.05,0.06,0.46
 "Edelweiss Focused Fund",2.18,0.0,0.05,0.09,2.32,0.57,0.0,0.05,0.09,0.71
-"Edelweiss Gold and Silver ETF FoF",0.58,0.0,0.05,0.03,0.66,0.15,0.0,0.05,0.03,0.23
+"Edelweiss Gold and Silver ETF FoF",0.58,0.0,0.05,0.06,0.69,0.35,0.0,0.05,0.06,0.46
 "Edelweiss Gold ETF",0.35,0.0,0.0,0.0,0.35,0.0,0.0,0.0,0.0,0.0
 "Edelweiss Government Securities Fund",1.08,0.0,0.0,0.07,1.15,0.42,0.0,0.0,0.07,0.49
-"Edelweiss Greater China Equity Off-shore Fund",1.47,0.0,0.05,0.09,1.61,0.54,0.0,0.05,0.09,0.68
+"Edelweiss Greater China Equity Off-shore Fund",1.47,0.0,0.05,0.09,1.61,0.56,0.0,0.05,0.09,0.7
 "Edelweiss Large & Mid Cap Fund",1.82,0.0,0.05,0.06,1.93,0.36,0.0,0.05,0.06,0.47
 "Edelweiss Large Cap Fund",2.15,0.0,0.05,0.11,2.31,0.62,0.0,0.05,0.11,0.78
 "Edelweiss Liquid Fund",0.3,0.0,0.0,0.01,0.31,0.07,0.0,0.0,0.01,0.08
 "Edelweiss Mid Cap Fund",1.72,0.0,0.05,0.05,1.82,0.34,0.0,0.05,0.05,0.44
 "Edelweiss Money Market Fund",0.92,0.0,0.0,0.05,0.97,0.36,0.0,0.0,0.05,0.41
-"Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund",1.0,0.0,0.0,0.04,1.04,0.45,0.0,0.0,0.04,0.49
+"Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund",0.99,0.0,0.0,0.05,1.04,0.44,0.0,0.0,0.05,0.49
 "Edelweiss Multi Asset Allocation Fund",0.62,0.0,0.05,0.04,0.71,0.31,0.0,0.05,0.04,0.4
 "Edelweiss Multi Cap Fund",1.95,0.0,0.05,0.07,2.07,0.4,0.0,0.05,0.07,0.52
 "Edelweiss Nifty 100 Quality 30 Index Fund",0.82,0.0,0.0,0.01,0.83,0.13,0.0,0.0,0.01,0.14
@@ -973,6 +973,7 @@
 "Mirae Asset Nifty Next 50 ETF",0.13,0.0,0.0,0.01,0.14,0.0,0.0,0.0,0.0,0.0
 "Mirae Asset Nifty SDL JUN 2027 Index Fund",0.2,0.0,0.0,0.01,0.21,0.16,0.0,0.0,0.01,0.17
 "Mirae Asset Nifty SDL June 2028 Index Fund",0.48,0.0,0.0,0.02,0.5,0.12,0.0,0.0,0.02,0.14
+"Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF",0.28,0.0,0.0,0.04,0.32,0.0,0.0,0.0,0.0,0.0
 "Mirae Asset NYSE FANG + ETF Fund of Fund",0.42,0.0,0.04,0.0,0.46,0.0,0.0,0.04,0.0,0.04
 "Mirae Asset NYSE FANG+ ETF",0.57,0.0,0.0,0.09,0.66,0.0,0.0,0.0,0.0,0.0
 "Mirae Asset Overnight Fund",0.17,0.0,0.0,0.0,0.17,0.04,0.0,0.0,0.0,0.04
@@ -1487,19 +1488,19 @@
 "UTI Small Cap Fund",1.77,0.0,0.05,0.06,1.88,0.38,0.0,0.05,0.06,0.49
 "UTI Ultra Short Duration Fund",0.92,0.0,0.0,0.05,0.97,0.39,0.0,0.0,0.05,0.44
 "UTI Value Fund",1.63,0.0,0.05,0.16,1.84,0.92,0.0,0.05,0.16,1.13
-"WhiteOak Capital Balanced Advantage Fund",2.11,0.0,0.05,0.06,2.22,0.44,0.0,0.05,0.06,0.55
-"WhiteOak Capital Balanced Hybrid Fund",2.0,0.0,0.05,0.07,2.12,0.59,0.0,0.05,0.07,0.71
+"WhiteOak Capital Balanced Advantage Fund",2.11,0.0,0.05,0.07,2.23,0.48,0.0,0.05,0.07,0.6
+"WhiteOak Capital Balanced Hybrid Fund",2.0,0.0,0.05,0.08,2.13,0.58,0.0,0.05,0.08,0.71
 "WhiteOak Capital Banking & Financial Services Fund",2.25,0.0,0.05,0.05,2.35,0.5,0.0,0.05,0.05,0.6
 "WhiteOak Capital ELSS Tax Saver Fund",2.25,0.0,0.0,0.08,2.33,0.63,0.0,0.0,0.08,0.71
-"WhiteOak Capital Flexi Cap Fund",1.8,0.0,0.05,0.04,1.89,0.33,0.0,0.05,0.04,0.42
+"WhiteOak Capital Flexi Cap Fund",1.79,0.0,0.05,0.05,1.89,0.36,0.0,0.05,0.05,0.46
 "WhiteOak Capital Large & Mid Cap Fund",2.06,0.0,0.05,0.02,2.13,0.29,0.0,0.05,0.02,0.36
-"WhiteOak Capital Large Cap Fund",2.25,0.0,0.05,0.09,2.39,0.59,0.0,0.05,0.09,0.73
-"WhiteOak Capital Liquid Fund",0.33,0.0,0.0,0.02,0.35,0.23,0.0,0.0,0.02,0.25
-"WhiteOak Capital Mid Cap Fund",1.94,0.0,0.05,0.04,2.03,0.34,0.0,0.05,0.04,0.43
-"WhiteOak Capital Multi Asset Allocation Fund",1.66,0.0,0.05,0.06,1.77,0.45,0.0,0.05,0.06,0.56
-"WhiteOak Capital Multi Cap Fund",2.15,0.0,0.05,0.05,2.25,0.47,0.0,0.05,0.05,0.57
+"WhiteOak Capital Large Cap Fund",2.25,0.0,0.05,0.09,2.39,0.58,0.0,0.05,0.09,0.72
+"WhiteOak Capital Liquid Fund",0.32,0.0,0.0,0.02,0.34,0.24,0.0,0.0,0.02,0.26
+"WhiteOak Capital Mid Cap Fund",1.94,0.0,0.05,0.04,2.03,0.36,0.0,0.05,0.04,0.45
+"WhiteOak Capital Multi Asset Allocation Fund",1.63,0.0,0.05,0.07,1.75,0.45,0.0,0.05,0.07,0.57
+"WhiteOak Capital Multi Cap Fund",2.15,0.0,0.05,0.07,2.27,0.52,0.0,0.05,0.07,0.64
 "WhiteOak Capital Pharma and Healthcare Fund",2.25,0.0,0.05,0.05,2.35,0.5,0.0,0.05,0.05,0.6
-"WhiteOak Capital Ultra Short Duration Fund",0.97,0.0,0.0,0.05,1.02,0.44,0.0,0.0,0.05,0.49
+"WhiteOak Capital Ultra Short Duration Fund",0.97,0.0,0.0,0.07,1.04,0.53,0.0,0.0,0.07,0.6
 "Zerodha ELSS Tax Saver Nifty Largemidcap 250 Index Fund",0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.25
 "Zerodha Nifty 1D Rate Liquid ETF",0.0,0.0,0.0,0.0,0.0,0.23,0.0,0.0,0.0,0.23
 "Zerodha Nifty Largemidcap 250 Index Fund",0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.25
