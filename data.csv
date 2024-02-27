@@ -117,26 +117,26 @@
 "Axis ELSS Tax Saver Fund",1.43,0.0,0.0,0.11,1.54,0.68,0.0,0.0,0.11,0.79
 "Axis Equity Etfs FoF",0.27,0.0,0.0,0.0,0.27,0.11,0.0,0.0,0.0,0.11
 "Axis Equity Hybrid Fund",1.93,0.0,0.05,0.15,2.13,0.84,0.0,0.05,0.15,1.04
-"Axis Equity Saver Fund",2.08,0.0,0.05,0.14,2.27,0.85,0.0,0.05,0.14,1.04
+"Axis Equity Saver Fund",2.08,0.0,0.05,0.15,2.28,0.86,0.0,0.05,0.15,1.06
 "Axis ESG Equity Fund",1.98,0.0,0.05,0.2,2.23,1.11,0.0,0.05,0.18,1.34
 "Axis ESG Integration Strategy Fund",1.98,0.0,0.05,0.21,2.24,1.11,0.0,0.05,0.2,1.36
 "Axis Flexi Cap Fund",1.59,0.0,0.05,0.1,1.74,0.57,0.0,0.05,0.1,0.72
 "Axis Floater Fund",0.54,0.0,0.0,0.03,0.57,0.18,0.0,0.0,0.02,0.2
 "Axis Focused 25 Fund",1.57,0.0,0.05,0.11,1.73,0.61,0.0,0.05,0.1,0.76
 "Axis Gilt Fund",0.75,0.0,0.0,0.05,0.8,0.35,0.0,0.0,0.05,0.4
-"Axis Global Equity Alpha Fund of Fund",1.45,0.0,0.05,0.12,1.62,0.68,0.0,0.05,0.12,0.85
-"Axis Global Innovation Fund of Fund",1.45,0.0,0.05,0.1,1.6,0.55,0.0,0.05,0.09,0.69
+"Axis Global Equity Alpha Fund of Fund",1.45,0.0,0.05,0.14,1.64,0.78,0.0,0.05,0.14,0.97
+"Axis Global Innovation Fund of Fund",1.45,0.0,0.05,0.11,1.61,0.65,0.0,0.05,0.11,0.81
 "Axis Gold ETF",0.5,0.0,0.0,0.06,0.56,0.0,0.0,0.0,0.0,0.0
 "Axis Gold Fund",0.5,0.0,0.0,0.0,0.5,0.17,0.0,0.0,0.0,0.17
 "Axis Greater China Equity Fund of Fund",1.45,0.0,0.05,0.08,1.58,0.49,0.0,0.05,0.08,0.62
 "Axis Growth Opportunities Fund",1.59,0.0,0.05,0.08,1.72,0.47,0.0,0.05,0.08,0.6
-"Axis India Manufacturing Fund",1.75,0.0,0.05,0.04,1.84,0.26,0.0,0.05,0.04,0.35
+"Axis India Manufacturing Fund",1.75,0.0,0.05,0.05,1.85,0.3,0.0,0.05,0.05,0.4
 "Axis Liquid Fund",0.22,0.0,0.0,0.02,0.24,0.15,0.0,0.0,0.02,0.17
 "Axis Long Duration Fund",0.67,0.0,0.0,0.02,0.69,0.23,0.0,0.0,0.02,0.25
 "Axis Midcap Fund",1.48,0.0,0.05,0.07,1.6,0.42,0.0,0.05,0.07,0.54
 "Axis Money Market Fund",0.33,0.0,0.0,0.02,0.35,0.15,0.0,0.0,0.02,0.17
-"Axis Multi Asset Allocation Fund",1.91,0.0,0.05,0.18,2.14,1.0,0.0,0.05,0.17,1.22
-"Axis Multicap Fund",1.72,0.0,0.05,0.11,1.88,0.63,0.0,0.05,0.11,0.79
+"Axis Multi Asset Allocation Fund",1.89,0.0,0.05,0.19,2.13,1.1,0.0,0.05,0.19,1.34
+"Axis Multicap Fund",1.72,0.0,0.05,0.13,1.9,0.71,0.0,0.05,0.12,0.88
 "Axis NASDAQ 100 Fund of Fund",0.66,0.0,0.0,0.0,0.66,0.22,0.0,0.0,0.0,0.22
 "Axis Nifty 100 Index Fund",0.9,0.0,0.0,0.03,0.93,0.19,0.0,0.0,0.03,0.22
 "Axis Nifty 50 ETF",0.07,0.0,0.0,0.0,0.07,0.0,0.0,0.0,0.0,0.0
@@ -153,17 +153,17 @@
 "Axis Nifty SDL September 2026 Debt Index Fund",0.3,0.0,0.0,0.0,0.3,0.15,0.0,0.0,0.0,0.15
 "Axis Nifty Smallcap 50 Index Fund",1.0,0.0,0.0,0.0,1.0,0.25,0.0,0.0,0.0,0.25
 "Axis Overnight Fund",0.11,0.0,0.0,0.0,0.11,0.05,0.0,0.0,0.0,0.05
-"Axis Quant Fund",2.05,0.0,0.05,0.11,2.21,0.6,0.0,0.05,0.11,0.76
+"Axis Quant Fund",2.05,0.0,0.05,0.11,2.21,0.6,0.0,0.05,0.1,0.75
 "Axis Regular Saver Fund",2.0,0.0,0.05,0.14,2.19,0.69,0.0,0.05,0.12,0.86
-"Axis Retirement Savings Fund - Aggressive Plan",2.13,0.0,0.0,0.15,2.28,0.84,0.0,0.0,0.14,0.98
+"Axis Retirement Savings Fund - Aggressive Plan",2.13,0.0,0.0,0.16,2.29,0.92,0.0,0.0,0.16,1.08
 "Axis Retirement Savings Fund - Conservative Plan",2.0,0.0,0.0,0.15,2.15,0.67,0.0,0.0,0.1,0.77
-"Axis Retirement Savings Fund - Dynamic Plan",2.24,0.0,0.0,0.19,2.43,1.0,0.0,0.0,0.17,1.17
+"Axis Retirement Savings Fund - Dynamic Plan",2.24,0.0,0.0,0.19,2.43,1.01,0.0,0.0,0.17,1.18
 "Axis S&P BSE SENSEX ETF",0.2,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0
 "Axis Short Term Fund",0.85,0.0,0.0,0.05,0.9,0.3,0.0,0.0,0.05,0.35
 "Axis Silver ETF",0.35,0.0,0.0,0.0,0.35,0.0,0.0,0.0,0.0,0.0
 "Axis Silver Fund of Fund",0.65,0.0,0.05,0.0,0.7,0.1,0.0,0.05,0.0,0.15
 "Axis Small Cap Fund",1.52,0.0,0.05,0.07,1.64,0.42,0.0,0.05,0.07,0.54
-"Axis Special Situations Fund",2.01,0.0,0.05,0.14,2.2,0.78,0.0,0.05,0.14,0.97
+"Axis Special Situations Fund",2.01,0.0,0.05,0.16,2.22,0.89,0.0,0.05,0.15,1.09
 "Axis Strategic Bond Fund",1.03,0.0,0.0,0.06,1.09,0.3,0.0,0.0,0.04,0.34
 "Axis Treasury Advantage Fund",0.6,0.0,0.0,0.04,0.64,0.25,0.0,0.0,0.04,0.29
 "Axis Ultra Short Term Fund",1.1,0.0,0.0,0.05,1.15,0.28,0.0,0.0,0.05,0.33
@@ -947,7 +947,7 @@
 "Mirae Asset Great Consumer Fund",1.8,0.0,0.05,0.05,1.9,0.33,0.0,0.05,0.05,0.43
 "Mirae Asset Hang Seng Tech ETF",0.52,0.0,0.0,0.08,0.6,0.0,0.0,0.0,0.0,0.0
 "Mirae Asset Hang Seng Tech ETF Fund of Fund",0.47,0.0,0.05,0.01,0.53,0.04,0.0,0.05,0.01,0.1
-"Mirae Asset Healthcare Fund",1.87,0.0,0.05,0.06,1.98,0.37,0.0,0.05,0.06,0.48
+"Mirae Asset Healthcare Fund",1.87,0.0,0.05,0.06,1.98,0.38,0.0,0.05,0.06,0.49
 "Mirae Asset Large & Midcap Fund",1.43,0.0,0.05,0.08,1.56,0.49,0.0,0.05,0.08,0.62
 "Mirae Asset Large Cap Fund",1.41,0.0,0.05,0.07,1.53,0.42,0.0,0.05,0.07,0.54
 "Mirae Asset Liquid Fund",0.22,0.0,0.0,0.01,0.23,0.11,0.0,0.0,0.01,0.12
