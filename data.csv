@@ -114,7 +114,7 @@
 "Axis CRISIL IBX 70:30 CPSE Plus SDL April 2025 Index Fund",0.29,0.0,0.0,0.02,0.31,0.14,0.0,0.0,0.02,0.16
 "Axis CRISIL IBX SDL MAY 2027 Index Fund",0.29,0.0,0.0,0.02,0.31,0.14,0.0,0.0,0.02,0.16
 "Axis Dynamic Bond Fund",0.54,0.0,0.0,0.03,0.57,0.23,0.0,0.0,0.03,0.26
-"Axis ELSS Tax Saver Fund",1.43,0.0,0.0,0.11,1.54,0.68,0.0,0.0,0.11,0.79
+"Axis ELSS Tax Saver Fund",1.43,0.0,0.0,0.11,1.54,0.67,0.0,0.0,0.11,0.78
 "Axis Equity Etfs FoF",0.27,0.0,0.0,0.0,0.27,0.11,0.0,0.0,0.0,0.11
 "Axis Equity Hybrid Fund",1.93,0.0,0.05,0.15,2.13,0.84,0.0,0.05,0.15,1.04
 "Axis Equity Saver Fund",2.08,0.0,0.05,0.15,2.28,0.86,0.0,0.05,0.15,1.06
@@ -153,7 +153,7 @@
 "Axis Nifty SDL September 2026 Debt Index Fund",0.3,0.0,0.0,0.0,0.3,0.15,0.0,0.0,0.0,0.15
 "Axis Nifty Smallcap 50 Index Fund",1.0,0.0,0.0,0.0,1.0,0.25,0.0,0.0,0.0,0.25
 "Axis Overnight Fund",0.11,0.0,0.0,0.0,0.11,0.05,0.0,0.0,0.0,0.05
-"Axis Quant Fund",2.05,0.0,0.05,0.11,2.21,0.6,0.0,0.05,0.1,0.75
+"Axis Quant Fund",2.05,0.0,0.05,0.11,2.21,0.6,0.0,0.05,0.11,0.76
 "Axis Regular Saver Fund",2.0,0.0,0.05,0.14,2.19,0.69,0.0,0.05,0.12,0.86
 "Axis Retirement Savings Fund - Aggressive Plan",2.13,0.0,0.0,0.16,2.29,0.92,0.0,0.0,0.16,1.08
 "Axis Retirement Savings Fund - Conservative Plan",2.0,0.0,0.0,0.15,2.15,0.67,0.0,0.0,0.1,0.77
@@ -388,7 +388,7 @@
 "DSP Value Fund",1.59,0.0,0.0,0.1,1.69,0.83,0.0,0.0,0.1,0.93
 "DSP World Agriculture Fund",2.17,0.0,0.0,0.13,2.3,1.63,0.0,0.0,0.13,1.76
 "DSP World Energy Fund",2.07,0.0,0.0,0.08,2.15,1.47,0.0,0.0,0.08,1.55
-"DSP World Gold Fund of Fund",2.25,0.0,0.0,0.11,2.36,1.6,0.0,0.0,0.11,1.71
+"DSP World Gold Fund of Fund",2.24,0.0,0.0,0.11,2.35,1.6,0.0,0.0,0.11,1.71
 "DSP World Mining Fund",2.12,0.0,0.0,0.05,2.17,1.46,0.0,0.0,0.05,1.51
 "Edelweiss Aggressive Hybrid Fund",1.98,0.0,0.05,0.03,2.06,0.17,0.0,0.05,0.03,0.25
 "Edelweiss Arbitrage Fund",0.99,0.0,0.0,0.05,1.04,0.33,0.0,0.0,0.05,0.38
@@ -931,7 +931,7 @@
 "Mirae Asset Aggressive Hybrid Fund",1.63,0.0,0.05,0.05,1.73,0.29,0.0,0.05,0.04,0.38
 "Mirae Asset Arbitrage Fund",0.89,0.0,0.0,0.01,0.9,0.11,0.0,0.0,0.0,0.11
 "Mirae Asset Balanced Advantage Fund",1.96,0.0,0.05,0.09,2.1,0.55,0.0,0.05,0.09,0.69
-"Mirae Asset Banking and Financial Services Fund",1.94,0.0,0.05,0.08,2.07,0.47,0.0,0.05,0.08,0.6
+"Mirae Asset Banking and Financial Services Fund",1.94,0.0,0.05,0.09,2.08,0.47,0.0,0.05,0.08,0.6
 "Mirae Asset Banking and PSU Fund",0.78,0.0,0.0,0.04,0.82,0.29,0.0,0.0,0.03,0.32
 "Mirae Asset Corporate Bond Fund",0.85,0.0,0.0,0.05,0.9,0.36,0.0,0.0,0.05,0.41
 "Mirae Asset CRISIL IBX Gilt Index - April 2033 Index Fund",0.34,0.0,0.0,0.02,0.36,0.16,0.0,0.0,0.02,0.18
@@ -944,7 +944,7 @@
 "Mirae Asset Global Electric & Autonomous Vehicles Etfs Fund of Fund",0.46,0.0,0.05,0.01,0.52,0.18,0.0,0.05,0.01,0.24
 "Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund",0.32,0.0,0.05,0.01,0.38,0.19,0.0,0.05,0.01,0.25
 "Mirae Asset Gold ETF",0.38,0.0,0.0,0.02,0.4,0.0,0.0,0.0,0.0,0.0
-"Mirae Asset Great Consumer Fund",1.8,0.0,0.05,0.05,1.9,0.33,0.0,0.05,0.05,0.43
+"Mirae Asset Great Consumer Fund",1.79,0.0,0.05,0.05,1.89,0.33,0.0,0.05,0.05,0.43
 "Mirae Asset Hang Seng Tech ETF",0.52,0.0,0.0,0.08,0.6,0.0,0.0,0.0,0.0,0.0
 "Mirae Asset Hang Seng Tech ETF Fund of Fund",0.47,0.0,0.05,0.01,0.53,0.04,0.0,0.05,0.01,0.1
 "Mirae Asset Healthcare Fund",1.87,0.0,0.05,0.06,1.98,0.38,0.0,0.05,0.06,0.49
