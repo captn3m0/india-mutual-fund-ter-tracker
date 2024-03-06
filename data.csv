@@ -497,7 +497,7 @@
 "HDFC Gilt Fund",0.84,0.0,0.0,0.05,0.89,0.41,0.0,0.0,0.05,0.46
 "HDFC Gold Exchange Traded Fund",0.55,0.0,0.0,0.04,0.59,0.0,0.0,0.0,0.0,0.0
 "HDFC Gold Fund",0.41,0.0,0.05,0.0,0.46,0.13,0.0,0.05,0.0,0.18
-"HDFC Housing Opportunities Fund",1.97,0.0,0.05,0.16,2.18,1.0,0.0,0.05,0.16,1.21
+"HDFC Housing Opportunities Fund",1.98,0.0,0.05,0.16,2.19,1.01,0.0,0.05,0.16,1.22
 "HDFC Hybrid Debt Fund",1.55,0.0,0.05,0.16,1.76,0.97,0.0,0.05,0.16,1.18
 "HDFC Hybrid Equity Fund",1.5,0.0,0.05,0.14,1.69,0.82,0.0,0.05,0.14,1.01
 "HDFC Income Fund",0.75,0.0,0.0,0.11,0.86,0.69,0.0,0.0,0.11,0.8
@@ -663,13 +663,13 @@
 "ICICI Prudential Nifty 200 Quality 30 ETF",0.3,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0
 "ICICI Prudential Nifty 5 Yr Benchmark G-SEC ETF",0.2,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0
 "ICICI Prudential Nifty 50 ETF",0.03,0.0,0.0,0.0,0.03,0.0,0.0,0.0,0.0,0.0
-"ICICI Prudential Nifty 50 Index Fund",0.37,0.0,0.0,0.01,0.38,0.16,0.0,0.0,0.01,0.17
+"ICICI Prudential Nifty 50 Index Fund",0.34,0.0,0.0,0.01,0.35,0.16,0.0,0.0,0.01,0.17
 "ICICI Prudential Nifty Alpha Low - Volatility 30 ETF FoF",0.52,0.0,0.0,0.01,0.53,0.09,0.0,0.0,0.01,0.1
 "ICICI Prudential Nifty Alpha Low- Volatility 30 ETF",0.36,0.0,0.0,0.06,0.42,0.0,0.0,0.0,0.0,0.0
 "ICICI Prudential Nifty Auto ETF",0.2,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0
 "ICICI Prudential Nifty Auto Index Fund",0.99,0.0,0.0,0.0,0.99,0.39,0.0,0.0,0.0,0.39
 "ICICI Prudential Nifty Bank ETF",0.15,0.0,0.0,0.0,0.15,0.0,0.0,0.0,0.0,0.0
-"ICICI Prudential Nifty Bank Index Fund",0.95,0.0,0.0,0.0,0.95,0.2,0.0,0.0,0.0,0.2
+"ICICI Prudential Nifty Bank Index Fund",0.87,0.0,0.0,0.0,0.87,0.2,0.0,0.0,0.0,0.2
 "ICICI Prudential Nifty Commodities ETF",0.3,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0
 "ICICI Prudential Nifty Financial Services Ex-Bank ETF",0.2,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0
 "ICICI Prudential Nifty FMCG ETF",0.2,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0
@@ -678,7 +678,7 @@
 "ICICI Prudential Nifty India Consumption ETF",0.2,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0
 "ICICI Prudential Nifty Infrastructure ETF",0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0
 "ICICI Prudential Nifty IT ETF",0.2,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0
-"ICICI Prudential Nifty IT Index Fund",0.92,0.0,0.0,0.0,0.92,0.37,0.0,0.0,0.0,0.37
+"ICICI Prudential Nifty IT Index Fund",0.89,0.0,0.0,0.0,0.89,0.37,0.0,0.0,0.0,0.37
 "ICICI Prudential Nifty Midcap 150 ETF",0.15,0.0,0.0,0.0,0.15,0.0,0.0,0.0,0.0,0.0
 "ICICI Prudential Nifty Midcap 150 Index Fund",0.95,0.0,0.0,0.0,0.95,0.28,0.0,0.0,0.0,0.28
 "ICICI Prudential Nifty Next 50 ETF",0.1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0
@@ -690,7 +690,7 @@
 "ICICI Prudential Nifty SDL DEC 2028 Index Fund",0.38,0.0,0.0,0.02,0.4,0.18,0.0,0.0,0.02,0.2
 "ICICI Prudential Nifty SDL SEP 2026 Index Fund",0.39,0.0,0.0,0.02,0.41,0.17,0.0,0.0,0.02,0.19
 "ICICI Prudential Nifty SDL SEP 2027 Index Fund",0.35,0.0,0.0,0.02,0.37,0.18,0.0,0.0,0.02,0.2
-"ICICI Prudential Nifty Smallcap 250 Index Fund",0.95,0.0,0.0,0.0,0.95,0.3,0.0,0.0,0.0,0.3
+"ICICI Prudential Nifty Smallcap 250 Index Fund",0.89,0.0,0.0,0.0,0.89,0.3,0.0,0.0,0.0,0.3
 "ICICI Prudential Nifty50 Equal Weight Index Fund",1.0,0.0,0.0,0.0,1.0,0.35,0.0,0.0,0.0,0.35
 "ICICI Prudential Nifty50 Value 20 ETF",0.25,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.0,0.0
 "ICICI Prudential Nifty50 Value 20 Index Fund",0.7,0.0,0.0,0.0,0.7,0.15,0.0,0.0,0.0,0.15
@@ -703,7 +703,7 @@
 "ICICI Prudential Regular Gold Savings Fund (FoF)",0.31,0.0,0.05,0.0,0.36,0.04,0.0,0.05,0.0,0.09
 "ICICI Prudential Regular Savings Fund",1.53,0.0,0.05,0.13,1.71,0.73,0.0,0.05,0.13,0.91
 "ICICI Prudential Retirement Fund Hybrid Aggressive Plan",2.24,0.0,0.0,0.11,2.35,0.66,0.0,0.0,0.11,0.77
-"ICICI Prudential Retirement Fund Hybrid Conservative Plan",1.99,0.0,0.0,0.14,2.13,0.86,0.0,0.0,0.14,1.0
+"ICICI Prudential Retirement Fund Hybrid Conservative Plan",1.98,0.0,0.0,0.16,2.14,0.93,0.0,0.0,0.16,1.09
 "ICICI Prudential Retirement Fund Pure Debt Plan",1.99,0.0,0.0,0.14,2.13,0.87,0.0,0.0,0.14,1.01
 "ICICI Prudential Retirement Fund Pure Equity Plan",2.2,0.0,0.0,0.1,2.3,0.63,0.0,0.0,0.1,0.73
 "ICICI Prudential S&P BSE 500 ETF",0.32,0.0,0.0,0.0,0.32,0.0,0.0,0.0,0.0,0.0
@@ -711,7 +711,7 @@
 "ICICI Prudential S&P BSE Liquid Rate ETF",0.25,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.0,0.0
 "ICICI Prudential S&P BSE Midcap Select ETF",0.15,0.0,0.0,0.0,0.15,0.0,0.0,0.0,0.0,0.0
 "ICICI Prudential S&P BSE SENSEX ETF",0.03,0.0,0.0,0.0,0.03,0.0,0.0,0.0,0.0,0.0
-"ICICI Prudential S&P BSE SENSEX Index Fund",0.33,0.0,0.0,0.0,0.33,0.18,0.0,0.0,0.0,0.18
+"ICICI Prudential S&P BSE SENSEX Index Fund",0.31,0.0,0.0,0.0,0.31,0.18,0.0,0.0,0.0,0.18
 "ICICI Prudential Savings Fund",0.53,0.0,0.0,0.0,0.53,0.4,0.0,0.0,0.0,0.4
 "ICICI Prudential Short Term Fund",1.07,0.0,0.0,0.0,1.07,0.45,0.0,0.0,0.0,0.45
 "ICICI Prudential Silver ETF",0.4,0.0,0.0,0.0,0.4,0.0,0.0,0.0,0.0,0.0
@@ -720,7 +720,7 @@
 "ICICI Prudential Strategic Metal and Energy Equity Fund of Fund",1.45,0.0,0.05,0.01,1.51,0.51,0.0,0.05,0.01,0.57
 "ICICI Prudential Technology Fund",1.58,0.0,0.05,0.12,1.75,0.75,0.0,0.05,0.12,0.92
 "ICICI Prudential Thematic Advantage Fund (FoF)",1.38,0.0,0.05,0.06,1.49,0.3,0.0,0.05,0.06,0.41
-"ICICI Prudential Transportation and Logistics Fund",1.82,0.0,0.05,0.1,1.97,0.59,0.0,0.05,0.1,0.74
+"ICICI Prudential Transportation and Logistics Fund",1.82,0.0,0.05,0.12,1.99,0.67,0.0,0.05,0.12,0.84
 "ICICI Prudential Ultra Short Term Fund",0.82,0.0,0.0,0.0,0.82,0.39,0.0,0.0,0.0,0.39
 "ICICI Prudential US Bluechip Equity Fund",1.8,0.0,0.05,0.15,2.0,0.88,0.0,0.05,0.15,1.08
 "ICICI Prudential Value Discovery Fund",1.39,0.0,0.05,0.14,1.58,0.82,0.0,0.05,0.14,1.01
