@@ -331,7 +331,7 @@
 "CPSE ETF",0.0,0.0,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.05
 "DSP 10Y G-SEC Fund",0.48,0.0,0.0,0.04,0.52,0.27,0.0,0.0,0.04,0.31
 "DSP Arbitrage Fund",0.97,0.0,0.0,0.05,1.02,0.3,0.0,0.0,0.05,0.35
-"DSP Banking & Financial Services Fund",2.22,0.0,0.0,0.12,2.34,0.77,0.0,0.0,0.12,0.89
+"DSP Banking & Financial Services Fund",2.23,0.0,0.0,0.12,2.35,0.77,0.0,0.0,0.12,0.89
 "DSP Banking & PSU Debt Fund",0.53,0.0,0.0,0.05,0.58,0.28,0.0,0.0,0.05,0.33
 "DSP Bond Fund",0.69,0.0,0.0,0.05,0.74,0.35,0.0,0.0,0.05,0.4
 "DSP Corporate Bond Fund",0.51,0.0,0.0,0.04,0.55,0.25,0.0,0.0,0.04,0.29
@@ -340,11 +340,11 @@
 "DSP Dynamic Asset Allocation Fund",1.79,0.0,0.05,0.12,1.96,0.63,0.0,0.05,0.12,0.8
 "DSP ELSS Tax Saver Fund",1.56,0.0,0.0,0.1,1.66,0.69,0.0,0.0,0.1,0.79
 "DSP Equity & Bond Fund",1.62,0.0,0.05,0.11,1.78,0.6,0.0,0.05,0.11,0.76
-"DSP Equity Opportunities Fund",1.59,0.0,0.05,0.1,1.74,0.59,0.0,0.05,0.1,0.74
+"DSP Equity Opportunities Fund",1.6,0.0,0.05,0.1,1.75,0.6,0.0,0.05,0.1,0.75
 "DSP Equity Savings Fund",1.25,0.0,0.0,0.05,1.3,0.39,0.0,0.0,0.05,0.44
-"DSP Flexi Cap Fund",1.61,0.0,0.05,0.1,1.76,0.58,0.0,0.05,0.1,0.73
+"DSP Flexi Cap Fund",1.6,0.0,0.05,0.1,1.75,0.57,0.0,0.05,0.1,0.72
 "DSP Floater Fund",0.57,0.0,0.0,0.02,0.59,0.19,0.0,0.0,0.02,0.21
-"DSP Focus Fund",1.87,0.0,0.05,0.14,2.06,0.83,0.0,0.05,0.14,1.02
+"DSP Focus Fund",1.88,0.0,0.05,0.14,2.07,0.84,0.0,0.05,0.14,1.03
 "DSP Gilt Fund",1.11,0.0,0.0,0.08,1.19,0.48,0.0,0.0,0.08,0.56
 "DSP Global Allocation Fund of Fund",1.99,0.0,0.0,0.04,2.03,1.34,0.0,0.0,0.04,1.38
 "DSP Global Innovation Fund of Fund",2.0,0.0,0.0,0.04,2.04,1.12,0.0,0.0,0.04,1.16
@@ -352,10 +352,10 @@
 "DSP Gold ETF Fund of Fund",1.0,0.0,0.0,0.0,1.0,0.65,0.0,0.0,0.0,0.65
 "DSP Government Securities Fund",1.11,0.0,0.0,0.07,1.18,0.48,0.0,0.0,0.07,0.55
 "DSP Healthcare Fund",1.86,0.0,0.05,0.08,1.99,0.51,0.0,0.05,0.08,0.64
-"DSP India T.I.G.E.R. Fund",1.78,0.0,0.05,0.15,1.98,0.88,0.0,0.05,0.15,1.08
+"DSP India T.I.G.E.R. Fund",1.79,0.0,0.05,0.15,1.99,0.89,0.0,0.05,0.15,1.09
 "DSP Liquidity Fund",0.21,0.0,0.0,0.02,0.23,0.13,0.0,0.0,0.02,0.15
 "DSP Low Duration Fund",0.6,0.0,0.0,0.04,0.64,0.27,0.0,0.0,0.04,0.31
-"DSP Midcap Fund",1.54,0.0,0.05,0.11,1.7,0.65,0.0,0.05,0.11,0.81
+"DSP Midcap Fund",1.55,0.0,0.05,0.11,1.71,0.66,0.0,0.05,0.11,0.82
 "DSP Multi Asset Allocation Fund",1.69,0.0,0.0,0.01,1.7,0.22,0.0,0.0,0.01,0.23
 "DSP Multicap Fund",2.15,0.0,0.0,0.08,2.23,0.55,0.0,0.0,0.08,0.63
 "DSP Natural Resources and New Energy Fund",2.06,0.0,0.0,0.13,2.19,0.96,0.0,0.0,0.13,1.09
@@ -452,14 +452,14 @@
 "Franklin India Feeder - Templeton European Opportunities Fund",1.28,0.0,0.05,0.04,1.37,0.44,0.0,0.05,0.04,0.53
 "Franklin India Flexi Cap Fund",1.56,0.0,0.05,0.14,1.75,0.84,0.0,0.05,0.14,1.03
 "Franklin India Floating Rate Fund",0.94,0.0,0.0,0.05,0.99,0.21,0.0,0.0,0.02,0.23
-"Franklin India Focused Equity Fund",1.59,0.0,0.05,0.14,1.78,0.82,0.0,0.05,0.14,1.01
+"Franklin India Focused Equity Fund",1.6,0.0,0.05,0.14,1.79,0.82,0.0,0.05,0.14,1.01
 "Franklin India Government Securities Fund",1.04,0.0,0.0,0.09,1.13,0.53,0.0,0.0,0.08,0.61
 "Franklin India Liquid Fund",0.19,0.0,0.0,0.0,0.19,0.13,0.0,0.0,0.0,0.13
 "Franklin India Money Market Fund",0.28,0.0,0.0,0.01,0.29,0.13,0.0,0.0,0.01,0.14
 "Franklin India Multi - Asset Solution Fund of Funds",1.95,0.0,0.05,0.07,2.07,1.0,0.0,0.05,0.05,1.1
 "Franklin India NSE Nifty 50 Index Fund",0.6,0.0,0.0,0.02,0.62,0.23,0.0,0.0,0.02,0.25
 "Franklin India Opportunities Fund",1.82,0.0,0.05,0.03,1.9,0.3,0.0,0.05,0.03,0.38
-"Franklin India Overnight Fund",0.13,0.0,0.0,0.01,0.14,0.1,0.0,0.0,0.0,0.1
+"Franklin India Overnight Fund",0.13,0.0,0.0,0.01,0.14,0.1,0.0,0.0,0.01,0.11
 "Franklin India Pension Plan",2.0,0.0,0.05,0.22,2.27,1.26,0.0,0.05,0.22,1.53
 "Franklin India Prima Fund",1.61,0.0,0.05,0.14,1.8,0.84,0.0,0.05,0.14,1.03
 "Franklin India Short-Term Income Plan (No. of Segregated Portfolios- 3)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -615,7 +615,7 @@
 "ICICI Prudential Banking & PSU Debt Fund",0.74,0.0,0.0,0.0,0.74,0.39,0.0,0.0,0.0,0.39
 "ICICI Prudential Bharat 22 FoF",0.09,0.0,0.0,0.0,0.09,0.08,0.0,0.0,0.0,0.08
 "ICICI Prudential Bharat Consumption Fund",1.87,0.0,0.05,0.15,2.07,0.9,0.0,0.05,0.15,1.1
-"ICICI Prudential Bluechip Fund",1.32,0.0,0.05,0.07,1.44,0.7,0.0,0.05,0.07,0.82
+"ICICI Prudential Bluechip Fund",1.33,0.0,0.05,0.07,1.45,0.71,0.0,0.05,0.07,0.83
 "ICICI Prudential Bond Fund",1.03,0.0,0.0,0.0,1.03,0.6,0.0,0.0,0.0,0.6
 "ICICI Prudential Business Cycle Fund",1.61,0.0,0.05,0.1,1.76,0.61,0.0,0.05,0.1,0.76
 "ICICI Prudential Child Care Fund (Gift Plan)",2.0,0.0,0.0,0.19,2.19,1.1,0.0,0.0,0.19,1.29
@@ -630,7 +630,7 @@
 "ICICI Prudential Equity - Arbitrage Fund",0.89,0.0,0.0,0.0,0.89,0.29,0.0,0.0,0.0,0.29
 "ICICI Prudential Equity Savings Fund",0.97,0.0,0.0,0.0,0.97,0.5,0.0,0.0,0.0,0.5
 "ICICI Prudential ESG Exclusionary Strategy Fund",1.97,0.0,0.05,0.1,2.12,0.81,0.0,0.05,0.1,0.96
-"ICICI Prudential Exports & Services Fund",1.99,0.0,0.05,0.21,2.25,1.2,0.0,0.05,0.21,1.46
+"ICICI Prudential Exports & Services Fund",2.0,0.0,0.05,0.21,2.26,1.21,0.0,0.05,0.21,1.47
 "ICICI Prudential Flexicap Fund",1.56,0.0,0.05,0.09,1.7,0.52,0.0,0.05,0.09,0.66
 "ICICI Prudential Floating Interest Fund",1.27,0.0,0.0,0.0,1.27,0.61,0.0,0.0,0.0,0.61
 "ICICI Prudential FMCG Fund",1.97,0.0,0.05,0.18,2.2,1.02,0.0,0.05,0.18,1.25
@@ -700,11 +700,11 @@
 "ICICI Prudential Passive Multi-Asset Fund of Funds",0.56,0.0,0.05,0.03,0.64,0.14,0.0,0.05,0.03,0.22
 "ICICI Prudential Passive Strategy Fund (FoF)",0.32,0.0,0.05,0.0,0.37,0.08,0.0,0.05,0.0,0.13
 "ICICI Prudential Pharma Healthcare and Diagnostics (P.H.D) Fund",1.76,0.0,0.05,0.15,1.96,0.84,0.0,0.05,0.15,1.04
-"ICICI Prudential PSU Equity Fund",1.84,0.0,0.05,0.09,1.98,0.56,0.0,0.05,0.09,0.7
+"ICICI Prudential PSU Equity Fund",1.85,0.0,0.05,0.09,1.99,0.57,0.0,0.05,0.09,0.71
 "ICICI Prudential Quant Fund",1.18,0.0,0.05,0.0,1.23,0.53,0.0,0.05,0.0,0.58
 "ICICI Prudential Regular Gold Savings Fund (FoF)",0.31,0.0,0.05,0.0,0.36,0.04,0.0,0.05,0.0,0.09
 "ICICI Prudential Regular Savings Fund",1.53,0.0,0.05,0.13,1.71,0.73,0.0,0.05,0.13,0.91
-"ICICI Prudential Retirement Fund Hybrid Aggressive Plan",2.24,0.0,0.0,0.09,2.33,0.56,0.0,0.0,0.09,0.65
+"ICICI Prudential Retirement Fund Hybrid Aggressive Plan",2.25,0.0,0.0,0.09,2.34,0.57,0.0,0.0,0.09,0.66
 "ICICI Prudential Retirement Fund Hybrid Conservative Plan",1.98,0.0,0.0,0.16,2.14,0.93,0.0,0.0,0.16,1.09
 "ICICI Prudential Retirement Fund Pure Debt Plan",1.99,0.0,0.0,0.13,2.12,0.77,0.0,0.0,0.13,0.9
 "ICICI Prudential Retirement Fund Pure Equity Plan",2.2,0.0,0.0,0.08,2.28,0.55,0.0,0.0,0.08,0.63
