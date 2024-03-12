@@ -799,7 +799,7 @@
 "Kotak Banking and Financial Services Fund",2.12,0.0,0.05,0.08,2.25,0.61,0.0,0.0,0.08,0.69
 "Kotak Banking and PSU Debt Fund",0.76,0.0,0.0,0.05,0.81,0.32,0.0,0.0,0.05,0.37
 "Kotak Bluechip Fund",1.64,0.0,0.05,0.07,1.76,0.52,0.0,0.0,0.07,0.59
-"Kotak Bond Fund",1.67,0.0,0.0,0.09,1.76,0.55,0.0,0.0,0.09,0.64
+"Kotak Bond Fund",1.66,0.0,0.0,0.09,1.75,0.55,0.0,0.0,0.09,0.64
 "Kotak Bond Short Term Fund",1.13,0.0,0.0,0.05,1.18,0.33,0.0,0.0,0.05,0.38
 "Kotak Business Cycle Fund",1.85,0.0,0.05,0.03,1.93,0.27,0.0,0.0,0.03,0.3
 "Kotak Consumption Fund",2.24,0.0,0.05,0.09,2.38,0.62,0.0,0.0,0.09,0.71
@@ -812,7 +812,7 @@
 "Kotak Equity Arbitrage Fund",0.97,0.0,0.0,0.04,1.01,0.39,0.0,0.0,0.04,0.43
 "Kotak Equity Hybrid Fund",1.71,0.0,0.05,0.06,1.82,0.41,0.0,0.0,0.06,0.47
 "Kotak Equity Opportunities Fund",1.52,0.0,0.05,0.06,1.63,0.47,0.0,0.0,0.06,0.53
-"Kotak Equity Savings Fund",1.73,0.0,0.05,0.08,1.86,0.67,0.0,0.0,0.08,0.75
+"Kotak Equity Savings Fund",1.72,0.0,0.05,0.08,1.85,0.67,0.0,0.0,0.08,0.75
 "Kotak ESG Exclusionary Strategy Fund",2.06,0.0,0.05,0.07,2.18,0.64,0.0,0.0,0.07,0.71
 "Kotak Flexicap Fund",1.36,0.0,0.05,0.07,1.48,0.56,0.0,0.0,0.07,0.63
 "Kotak Floating Rate Fund",0.6,0.0,0.0,0.02,0.62,0.2,0.0,0.0,0.02,0.22
@@ -866,6 +866,7 @@
 "Kotak Silver ETF",0.45,0.0,0.0,0.0,0.45,0.0,0.0,0.0,0.0,0.0
 "Kotak Silver ETF Fund of Fund",0.55,0.0,0.05,0.0,0.6,0.14,0.0,0.0,0.0,0.14
 "Kotak Small Cap Fund",1.56,0.0,0.05,0.04,1.65,0.39,0.0,0.0,0.04,0.43
+"Kotak Technology Fund",2.24,0.0,0.05,0.13,2.42,0.87,0.0,0.0,0.13,1.0
 "LIC MF Aggressive Hybrid Fund",2.24,0.0,0.05,0.19,2.48,1.16,0.0,0.05,0.19,1.4
 "LIC MF Arbitrage Fund",0.97,0.0,0.0,0.0,0.97,0.31,0.0,0.0,0.0,0.31
 "LIC MF Balanced Advantage Fund",2.09,0.0,0.05,0.06,2.2,0.44,0.0,0.05,0.06,0.55
