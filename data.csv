@@ -357,9 +357,9 @@
 "DSP Liquidity Fund",0.21,0.0,0.0,0.02,0.23,0.13,0.0,0.0,0.02,0.15
 "DSP Low Duration Fund",0.59,0.0,0.0,0.04,0.63,0.26,0.0,0.0,0.04,0.3
 "DSP Midcap Fund",1.55,0.0,0.05,0.11,1.71,0.66,0.0,0.05,0.11,0.82
-"DSP Multi Asset Allocation Fund",1.69,0.0,0.0,0.01,1.7,0.22,0.0,0.0,0.01,0.23
+"DSP Multi Asset Allocation Fund",1.69,0.0,0.04,0.02,1.75,0.22,0.0,0.04,0.02,0.28
 "DSP Multicap Fund",2.16,0.0,0.05,0.09,2.3,0.56,0.0,0.05,0.09,0.7
-"DSP Natural Resources and New Energy Fund",2.07,0.0,0.0,0.13,2.2,0.97,0.0,0.0,0.13,1.1
+"DSP Natural Resources and New Energy Fund",2.08,0.0,0.0,0.13,2.21,0.98,0.0,0.0,0.13,1.11
 "DSP Nifty 1D Rate Liquid ETF",0.0,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.0,0.4
 "DSP Nifty 50 Equal Weight ETF",0.0,0.0,0.0,0.0,0.0,0.26,0.0,0.0,0.04,0.3
 "DSP Nifty 50 Equal Weight Index Fund",0.95,0.0,0.0,0.04,0.99,0.35,0.0,0.0,0.04,0.39
@@ -434,7 +434,7 @@
 "Edelweiss Silver ETF",0.39,0.0,0.0,0.0,0.39,0.0,0.0,0.0,0.0,0.0
 "Edelweiss Small Cap Fund",1.79,0.0,0.05,0.05,1.89,0.31,0.0,0.05,0.05,0.41
 "Edelweiss Technology Fund",2.25,0.0,0.05,0.06,2.36,0.42,0.0,0.05,0.06,0.53
-"Edelweiss US Technology Equity Fund of Fund",1.42,0.0,0.05,0.09,1.56,0.53,0.0,0.05,0.09,0.67
+"Edelweiss US Technology Equity Fund of Fund",1.42,0.0,0.05,0.09,1.56,0.5,0.0,0.05,0.09,0.64
 "Edelweiss US Value Equity Offshore Fund",1.45,0.0,0.05,0.06,1.56,0.56,0.0,0.05,0.06,0.67
 "Franklin Asian Equity Fund",2.25,0.0,0.05,0.25,2.55,1.47,0.0,0.05,0.25,1.77
 "Franklin Build India Fund",1.9,0.0,0.05,0.14,2.09,0.9,0.0,0.05,0.14,1.09
