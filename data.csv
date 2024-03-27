@@ -3,7 +3,7 @@
 "360 One Dynamic Bond Fund (Formerly Known as IIFL Dynamic Bond Fund)",0.49,0.0,0.0,0.03,0.52,0.24,0.0,0.0,0.03,0.27
 "360 One ELSS Tax Saver Nifty 50 Index Fund(Formerly Known as IIFL ELSS Nifty 50 Tax Saver Index Fund",0.52,0.0,0.0,0.0,0.52,0.27,0.0,0.0,0.0,0.27
 "360 One Flexicap Fund",2.25,0.0,0.05,0.1,2.4,0.75,0.0,0.05,0.1,0.9
-"360 One Focused Equity Fund (Formerly Known as IIFL Focused Equity Fund)",1.66,0.0,0.05,0.12,1.83,0.75,0.0,0.05,0.12,0.92
+"360 One Focused Equity Fund (Formerly Known as IIFL Focused Equity Fund)",1.66,0.0,0.05,0.08,1.79,0.5,0.0,0.05,0.08,0.63
 "360 One Liquid Fund (Formerly Known as IIFL Liquid Fund) (An Open Ended Liquid Scheme)",0.23,0.0,0.0,0.02,0.25,0.18,0.0,0.0,0.02,0.2
 "360 One Quant Fund (Formerly Known as IIFL Quant Fund)",1.5,0.0,0.05,0.03,1.58,0.35,0.0,0.05,0.03,0.43
 "Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme",0.56,0.0,0.05,0.02,0.62,0.21,0.0,0.05,0.02,0.27
@@ -523,7 +523,7 @@
 "HDFC Long Duration Debt Fund",0.6,0.0,0.0,0.0,0.6,0.25,0.0,0.0,0.0,0.25
 "HDFC Low Duration Fund",1.01,0.0,0.0,0.05,1.06,0.4,0.0,0.0,0.05,0.45
 "HDFC Medium Term Debt Fund",1.19,0.0,0.0,0.07,1.26,0.52,0.0,0.0,0.07,0.59
-"HDFC Mid-Cap Opportunities Fund",1.3,0.0,0.05,0.08,1.43,0.63,0.0,0.05,0.08,0.76
+"HDFC Mid-Cap Opportunities Fund",1.29,0.0,0.05,0.08,1.42,0.62,0.0,0.05,0.08,0.75
 "HDFC MNC Fund",2.23,0.0,0.05,0.16,2.44,1.07,0.0,0.05,0.16,1.28
 "HDFC Money Market Fund",0.35,0.0,0.0,0.0,0.35,0.23,0.0,0.0,0.0,0.23
 "HDFC Multi Cap Fund",1.58,0.0,0.05,0.07,1.7,0.44,0.0,0.05,0.07,0.56
@@ -548,6 +548,8 @@
 "HDFC Nifty Next 50 Index Fund",0.5,0.0,0.0,0.0,0.5,0.3,0.0,0.0,0.0,0.3
 "HDFC Nifty Private Bank ETF",0.15,0.0,0.0,0.0,0.15,0.0,0.0,0.0,0.0,0.0
 "HDFC Nifty PSU Bank ETF",0.35,0.0,0.0,0.0,0.35,0.0,0.0,0.0,0.0,0.0
+"HDFC Nifty Realty Index Fund",0.95,0.0,0.0,0.0,0.95,0.4,0.0,0.0,0.0,0.4
+"HDFC Nifty Realty Index Fund",0.95,0.0,0.0,0.0,0.95,0.4,0.0,0.0,0.0,0.4
 "HDFC Nifty SDL OCT 2026 Index Fund",0.34,0.0,0.0,0.0,0.34,0.2,0.0,0.0,0.0,0.2
 "HDFC Nifty SDL Plus G-SEC JUN 2027 40:60 Index Fund",0.35,0.0,0.0,0.0,0.35,0.2,0.0,0.0,0.0,0.2
 "HDFC Nifty Smallcap 250 ETF",0.2,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0
@@ -577,7 +579,7 @@
 "HDFC Ultra Short Term Fund",0.55,0.0,0.0,0.04,0.59,0.32,0.0,0.0,0.04,0.36
 "Helios Flexi Cap Fund",2.04,0.0,0.05,0.07,2.16,0.46,0.0,0.05,0.07,0.58
 "Helios Overnight Fund",0.14,0.0,0.0,0.01,0.15,0.09,0.0,0.0,0.01,0.1
-"HSBC Aggressive Hybrid Fund",1.72,0.0,0.05,0.13,1.9,0.68,0.0,0.05,0.13,0.86
+"HSBC Aggressive Hybrid Fund",1.71,0.0,0.05,0.13,1.89,0.67,0.0,0.05,0.13,0.85
 "HSBC Arbitrage Fund",0.92,0.0,0.0,0.02,0.94,0.25,0.0,0.0,0.02,0.27
 "HSBC Asia Pacific (Ex Japan) Dividend Yield Fund",1.23,0.0,0.05,0.1,1.38,0.83,0.0,0.05,0.1,0.98
 "HSBC Balanced Advantage Fund",1.97,0.0,0.05,0.1,2.12,0.63,0.0,0.05,0.1,0.78
@@ -591,7 +593,7 @@
 "HSBC CRISIL IBX 50:50 Gilt Plus SDL APR 2028 Index Fund",0.4,0.0,0.0,0.03,0.43,0.2,0.0,0.0,0.03,0.23
 "HSBC CRISIL IBX Gilt June 2027 Index Fund",0.43,0.0,0.0,0.02,0.45,0.15,0.0,0.0,0.02,0.17
 "HSBC Dynamic Bond Fund",0.76,0.0,0.0,0.02,0.78,0.18,0.0,0.0,0.02,0.2
-"HSBC ELSS Tax Saver Fund",1.77,0.0,0.0,0.17,1.94,0.96,0.0,0.0,0.17,1.13
+"HSBC ELSS Tax Saver Fund",1.76,0.0,0.0,0.17,1.93,0.95,0.0,0.0,0.17,1.12
 "HSBC Equity Savings Fund",1.43,0.0,0.0,0.08,1.51,0.53,0.0,0.0,0.08,0.61
 "HSBC Flexi Cap Fund",1.74,0.0,0.05,0.18,1.97,0.95,0.0,0.05,0.18,1.18
 "HSBC Focused Fund",1.95,0.0,0.05,0.13,2.13,0.75,0.0,0.05,0.13,0.93
@@ -899,7 +901,7 @@
 "LIC MF Healthcare Fund",2.24,0.0,0.05,0.15,2.44,1.01,0.0,0.05,0.15,1.21
 "LIC MF Infrastructure Fund",2.25,0.0,0.05,0.16,2.46,1.01,0.0,0.05,0.15,1.21
 "LIC MF Large & Mid Cap Fund",1.85,0.0,0.05,0.04,1.94,0.38,0.0,0.05,0.03,0.46
-"LIC MF Large Cap Fund",1.97,0.0,0.05,0.08,2.1,0.63,0.0,0.05,0.07,0.75
+"LIC MF Large Cap Fund",1.97,0.0,0.05,0.07,2.09,0.63,0.0,0.05,0.07,0.75
 "LIC MF Liquid Fund",0.2,0.0,0.0,0.01,0.21,0.15,0.0,0.0,0.01,0.16
 "LIC MF Long Term Value Fund",2.24,0.0,0.05,0.22,2.51,1.34,0.0,0.05,0.21,1.6
 "LIC MF Low Duration Fund",0.93,0.0,0.0,0.03,0.96,0.24,0.0,0.0,0.03,0.27
