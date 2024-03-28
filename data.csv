@@ -379,7 +379,7 @@
 "DSP Nifty SDL Plus G-SEC SEP 2027 50:50 Index Fund",0.29,0.0,0.0,0.03,0.32,0.14,0.0,0.0,0.03,0.17
 "DSP Nifty Smallcap250 Quality 50 Index Fund",1.0,0.0,0.0,0.0,1.0,0.29,0.0,0.0,0.0,0.29
 "DSP Overnight Fund",0.13,0.0,0.0,0.01,0.14,0.06,0.0,0.0,0.01,0.07
-"DSP Quant Fund",1.2,0.0,0.0,0.08,1.28,0.47,0.0,0.0,0.08,0.55
+"DSP Quant Fund",1.2,0.0,0.0,0.08,1.28,0.48,0.0,0.0,0.08,0.56
 "DSP Regular Savings Fund",1.04,0.0,0.0,0.08,1.12,0.52,0.0,0.0,0.08,0.6
 "DSP S&P BSE Liquid Rate ETF",0.0,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.0,0.4
 "DSP S&P BSE SENSEX ETF",0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.2
@@ -602,7 +602,7 @@
 "HSBC Gilt Fund",1.64,0.0,0.0,0.06,1.7,0.42,0.0,0.0,0.06,0.48
 "HSBC Global Emerging Markets Fund",1.36,0.0,0.05,0.09,1.5,0.65,0.0,0.05,0.09,0.79
 "HSBC Global Equity Climate Change Fund of Fund",1.3,0.0,0.05,0.09,1.44,0.65,0.0,0.05,0.09,0.79
-"HSBC Infrastructure Fund",1.88,0.0,0.05,0.16,2.09,0.84,0.0,0.05,0.16,1.05
+"HSBC Infrastructure Fund",1.87,0.0,0.05,0.16,2.08,0.83,0.0,0.05,0.16,1.04
 "HSBC Large & Mid Cap Fund",1.82,0.0,0.05,0.15,2.02,0.78,0.0,0.05,0.15,0.98
 "HSBC Large Cap Fund",1.93,0.0,0.05,0.18,2.16,0.98,0.0,0.05,0.18,1.21
 "HSBC Liquid Fund",0.22,0.0,0.0,0.0,0.22,0.12,0.0,0.0,0.0,0.12
@@ -758,8 +758,8 @@
 "Invesco India Equity Savings Fund",2.14,0.0,0.05,0.0,2.19,0.6,0.0,0.05,0.0,0.65
 "Invesco India ESG Equity Fund",2.23,0.0,0.05,0.12,2.4,0.76,0.0,0.05,0.11,0.92
 "Invesco India Financial Services Fund",2.17,0.0,0.05,0.13,2.35,0.85,0.0,0.05,0.13,1.03
-"Invesco India Flexi Cap Fund",1.96,0.0,0.05,0.06,2.07,0.46,0.0,0.05,0.06,0.57
-"Invesco India Focused Fund",1.85,0.0,0.05,0.08,1.98,0.52,0.0,0.05,0.08,0.65
+"Invesco India Flexi Cap Fund",1.95,0.0,0.05,0.06,2.06,0.45,0.0,0.05,0.06,0.56
+"Invesco India Focused Fund",1.84,0.0,0.05,0.07,1.96,0.51,0.0,0.05,0.07,0.63
 "Invesco India Gilt Fund",1.25,0.0,0.0,0.0,1.25,0.48,0.0,0.0,0.0,0.48
 "Invesco India Gold ETF Fund of Fund",0.45,0.0,0.0,0.0,0.45,0.2,0.0,0.0,0.0,0.2
 "Invesco India Gold Exchange Traded Fund",0.55,0.0,0.0,0.0,0.55,0.0,0.0,0.0,0.0,0.0
@@ -771,7 +771,7 @@
 "Invesco India Medium Duration Fund",1.25,0.0,0.0,0.05,1.3,0.35,0.0,0.0,0.05,0.4
 "Invesco India Midcap Fund",1.74,0.0,0.05,0.07,1.86,0.49,0.0,0.05,0.07,0.61
 "Invesco India Money Market Fund",0.45,0.0,0.0,0.02,0.47,0.2,0.0,0.0,0.02,0.22
-"Invesco India Multicap Fund",1.8,0.0,0.05,0.08,1.93,0.55,0.0,0.05,0.08,0.68
+"Invesco India Multicap Fund",1.79,0.0,0.05,0.08,1.92,0.55,0.0,0.05,0.08,0.68
 "Invesco India Nifty 50 Exchange Traded Fund",0.1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0
 "Invesco India Nifty G-SEC JUL 2027 Index Fund",0.29,0.0,0.0,0.0,0.29,0.14,0.0,0.0,0.0,0.14
 "Invesco India Nifty G-SEC SEP 2032 Index Fund",0.29,0.0,0.0,0.0,0.29,0.14,0.0,0.0,0.0,0.14
