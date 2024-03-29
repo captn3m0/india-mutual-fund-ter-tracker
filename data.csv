@@ -104,8 +104,8 @@
 "Axis Balanced Advantage Fund",1.89,0.0,0.05,0.14,2.08,0.76,0.0,0.05,0.14,0.95
 "Axis Banking & PSU Debt Fund",0.58,0.0,0.0,0.05,0.63,0.29,0.0,0.0,0.05,0.34
 "Axis Bluechip Fund",1.43,0.0,0.05,0.09,1.57,0.56,0.0,0.05,0.09,0.7
-"Axis Business Cycles Fund",1.82,0.0,0.05,0.09,1.96,0.45,0.0,0.05,0.08,0.58
-"Axis Children's Gift Fund",2.13,0.0,0.0,0.21,2.34,0.93,0.0,0.0,0.16,1.09
+"Axis Business Cycles Fund",1.82,0.0,0.05,0.08,1.95,0.45,0.0,0.05,0.08,0.58
+"Axis Children's Gift Fund",2.12,0.0,0.0,0.21,2.33,0.93,0.0,0.0,0.16,1.09
 "Axis Corporate Debt Fund",0.9,0.0,0.0,0.05,0.95,0.26,0.0,0.0,0.04,0.3
 "Axis Credit Risk Fund",1.45,0.0,0.0,0.12,1.57,0.69,0.0,0.0,0.12,0.81
 "Axis CRISIL IBX 50:50 Gilt Plus SDL June 2028 Index Fund",0.4,0.0,0.0,0.0,0.4,0.18,0.0,0.0,0.0,0.18
@@ -120,21 +120,21 @@
 "Axis Equity Saver Fund",2.1,0.0,0.05,0.17,2.32,0.9,0.0,0.05,0.16,1.11
 "Axis ESG Integration Strategy Fund",1.98,0.0,0.05,0.2,2.23,1.11,0.0,0.05,0.19,1.35
 "Axis Flexi Cap Fund",1.59,0.0,0.05,0.1,1.74,0.6,0.0,0.05,0.1,0.75
-"Axis Floater Fund",0.54,0.0,0.0,0.03,0.57,0.18,0.0,0.0,0.01,0.19
-"Axis Focused 25 Fund",1.57,0.0,0.05,0.12,1.74,0.65,0.0,0.05,0.12,0.82
+"Axis Floater Fund",0.54,0.0,0.0,0.03,0.57,0.18,0.0,0.0,0.02,0.2
+"Axis Focused 25 Fund",1.56,0.0,0.05,0.12,1.73,0.65,0.0,0.05,0.12,0.82
 "Axis Gilt Fund",0.75,0.0,0.0,0.05,0.8,0.35,0.0,0.0,0.05,0.4
 "Axis Global Equity Alpha Fund of Fund",1.45,0.0,0.05,0.16,1.66,0.88,0.0,0.05,0.16,1.09
 "Axis Global Innovation Fund of Fund",1.45,0.0,0.05,0.1,1.6,0.57,0.0,0.05,0.1,0.72
 "Axis Gold ETF",0.5,0.0,0.0,0.06,0.56,0.0,0.0,0.0,0.0,0.0
 "Axis Gold Fund",0.5,0.0,0.0,0.0,0.5,0.17,0.0,0.0,0.0,0.17
 "Axis Greater China Equity Fund of Fund",1.45,0.0,0.05,0.08,1.58,0.49,0.0,0.05,0.08,0.62
-"Axis Growth Opportunities Fund",1.59,0.0,0.05,0.08,1.72,0.51,0.0,0.05,0.08,0.64
-"Axis India Manufacturing Fund",1.74,0.0,0.05,0.07,1.86,0.34,0.0,0.05,0.06,0.45
+"Axis Growth Opportunities Fund",1.58,0.0,0.05,0.08,1.71,0.51,0.0,0.05,0.08,0.64
+"Axis India Manufacturing Fund",1.74,0.0,0.05,0.06,1.85,0.34,0.0,0.05,0.06,0.45
 "Axis Liquid Fund",0.22,0.0,0.0,0.02,0.24,0.15,0.0,0.0,0.02,0.17
 "Axis Long Duration Fund",0.67,0.0,0.0,0.02,0.69,0.23,0.0,0.0,0.02,0.25
 "Axis Midcap Fund",1.48,0.0,0.05,0.07,1.6,0.44,0.0,0.05,0.07,0.56
 "Axis Money Market Fund",0.33,0.0,0.0,0.02,0.35,0.15,0.0,0.0,0.02,0.17
-"Axis Multi Asset Allocation Fund",1.87,0.0,0.05,0.21,2.13,1.18,0.0,0.05,0.21,1.44
+"Axis Multi Asset Allocation Fund",1.87,0.0,0.05,0.21,2.13,1.18,0.0,0.05,0.2,1.43
 "Axis Multicap Fund",1.71,0.0,0.05,0.12,1.88,0.66,0.0,0.05,0.12,0.83
 "Axis NASDAQ 100 Fund of Fund",0.66,0.0,0.0,0.0,0.66,0.22,0.0,0.0,0.0,0.22
 "Axis Nifty 100 Index Fund",0.9,0.0,0.0,0.03,0.93,0.19,0.0,0.0,0.03,0.22
@@ -152,7 +152,7 @@
 "Axis Nifty SDL September 2026 Debt Index Fund",0.3,0.0,0.0,0.0,0.3,0.15,0.0,0.0,0.0,0.15
 "Axis Nifty Smallcap 50 Index Fund",1.0,0.0,0.0,0.0,1.0,0.25,0.0,0.0,0.0,0.25
 "Axis Overnight Fund",0.11,0.0,0.0,0.0,0.11,0.05,0.0,0.0,0.0,0.05
-"Axis Quant Fund",2.05,0.0,0.05,0.1,2.2,0.55,0.0,0.05,0.1,0.7
+"Axis Quant Fund",2.05,0.0,0.05,0.1,2.2,0.55,0.0,0.05,0.09,0.69
 "Axis Regular Saver Fund",2.0,0.0,0.05,0.14,2.19,0.7,0.0,0.05,0.13,0.88
 "Axis Retirement Savings Fund - Aggressive Plan",2.13,0.0,0.0,0.16,2.29,0.91,0.0,0.0,0.16,1.07
 "Axis Retirement Savings Fund - Conservative Plan",2.0,0.0,0.0,0.15,2.15,0.67,0.0,0.0,0.1,0.77
@@ -359,7 +359,7 @@
 "DSP Liquidity Fund",0.25,0.0,0.0,0.02,0.27,0.13,0.0,0.0,0.02,0.15
 "DSP Low Duration Fund",0.59,0.0,0.0,0.04,0.63,0.26,0.0,0.0,0.04,0.3
 "DSP Midcap Fund",1.54,0.0,0.05,0.11,1.7,0.67,0.0,0.05,0.11,0.83
-"DSP Multi Asset Allocation Fund",1.68,0.0,0.04,0.03,1.75,0.26,0.0,0.04,0.03,0.33
+"DSP Multi Asset Allocation Fund",1.67,0.0,0.04,0.03,1.74,0.25,0.0,0.04,0.03,0.32
 "DSP Multicap Fund",2.14,0.0,0.05,0.09,2.28,0.54,0.0,0.05,0.09,0.68
 "DSP Natural Resources and New Energy Fund",2.06,0.0,0.0,0.14,2.2,0.96,0.0,0.0,0.14,1.1
 "DSP Nifty 1D Rate Liquid ETF",0.0,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.0,0.4
@@ -1501,17 +1501,17 @@
 "UTI Small Cap Fund",1.77,0.0,0.05,0.06,1.88,0.38,0.0,0.05,0.06,0.49
 "UTI Ultra Short Duration Fund",0.92,0.0,0.0,0.05,0.97,0.39,0.0,0.0,0.05,0.44
 "UTI Value Fund",1.63,0.0,0.05,0.16,1.84,0.92,0.0,0.05,0.16,1.13
-"WhiteOak Capital Balanced Advantage Fund",2.1,0.0,0.05,0.07,2.22,0.49,0.0,0.05,0.07,0.61
+"WhiteOak Capital Balanced Advantage Fund",2.09,0.0,0.05,0.07,2.21,0.48,0.0,0.05,0.07,0.6
 "WhiteOak Capital Balanced Hybrid Fund",2.0,0.0,0.05,0.08,2.13,0.55,0.0,0.05,0.08,0.68
 "WhiteOak Capital Banking & Financial Services Fund",2.25,0.0,0.05,0.05,2.35,0.51,0.0,0.05,0.05,0.61
 "WhiteOak Capital ELSS Tax Saver Fund",2.25,0.0,0.0,0.07,2.32,0.59,0.0,0.0,0.07,0.66
-"WhiteOak Capital Flexi Cap Fund",1.79,0.0,0.05,0.06,1.9,0.42,0.0,0.05,0.06,0.53
+"WhiteOak Capital Flexi Cap Fund",1.79,0.0,0.05,0.06,1.9,0.41,0.0,0.05,0.06,0.52
 "WhiteOak Capital Large & Mid Cap Fund",2.05,0.0,0.05,0.03,2.13,0.37,0.0,0.05,0.03,0.45
 "WhiteOak Capital Large Cap Fund",2.25,0.0,0.05,0.09,2.39,0.58,0.0,0.05,0.09,0.72
 "WhiteOak Capital Liquid Fund",0.32,0.0,0.0,0.02,0.34,0.24,0.0,0.0,0.02,0.26
 "WhiteOak Capital Mid Cap Fund",1.94,0.0,0.05,0.06,2.05,0.43,0.0,0.05,0.06,0.54
 "WhiteOak Capital Multi Asset Allocation Fund",1.64,0.0,0.05,0.07,1.76,0.45,0.0,0.05,0.07,0.57
-"WhiteOak Capital Multi Cap Fund",2.16,0.0,0.05,0.07,2.28,0.52,0.0,0.05,0.07,0.64
+"WhiteOak Capital Multi Cap Fund",2.15,0.0,0.05,0.07,2.27,0.51,0.0,0.05,0.07,0.63
 "WhiteOak Capital Pharma and Healthcare Fund",2.25,0.0,0.05,0.05,2.35,0.5,0.0,0.05,0.05,0.6
 "WhiteOak Capital Ultra Short Duration Fund",0.97,0.0,0.0,0.09,1.06,0.61,0.0,0.0,0.09,0.7
 "Zerodha ELSS Tax Saver Nifty Largemidcap 250 Index Fund",0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.25
