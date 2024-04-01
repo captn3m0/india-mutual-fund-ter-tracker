@@ -10,7 +10,7 @@ exceptiongroup==1.2.0
 html-to-csv @ git+https://github.com/hanwentao/html2csv@fc27e30c90bc557ae812876d0d8c5514053128a5
 idna==3.6
 iniconfig==2.0.0
-lxml==5.1.0
+lxml==5.2.0
 Mastodon.py==1.8.1
 packaging==24.0
 pluggy==1.4.0
