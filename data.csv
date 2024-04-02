@@ -275,11 +275,11 @@
 "Baroda BNP Paribas Equity Savings Fund",2.25,0.0,0.05,0.2,2.5,1.24,0.0,0.05,0.2,1.49
 "Baroda BNP Paribas Flexi Cap Fund",1.98,0.0,0.05,0.12,2.15,0.76,0.0,0.05,0.12,0.93
 "Baroda BNP Paribas Floater Fund",0.62,0.0,0.0,0.02,0.64,0.22,0.0,0.0,0.02,0.24
-"Baroda BNP Paribas Focused Fund",2.21,0.0,0.05,0.06,2.32,0.41,0.0,0.05,0.06,0.52
+"Baroda BNP Paribas Focused Fund",2.21,0.0,0.05,0.05,2.31,0.41,0.0,0.05,0.05,0.51
 "Baroda BNP Paribas Gilt Fund",0.44,0.0,0.0,0.01,0.45,0.13,0.0,0.0,0.01,0.14
 "Baroda BNP Paribas Gold ETF",0.42,0.0,0.0,0.06,0.48,0.0,0.0,0.0,0.0,0.0
-"Baroda BNP Paribas India Consumption Fund",2.0,0.0,0.05,0.09,2.14,0.58,0.0,0.05,0.09,0.72
-"Baroda BNP Paribas Innovation Fund",2.07,0.0,0.05,0.02,2.14,0.24,0.0,0.05,0.02,0.31
+"Baroda BNP Paribas India Consumption Fund",2.0,0.0,0.05,0.09,2.14,0.57,0.0,0.05,0.09,0.71
+"Baroda BNP Paribas Innovation Fund",2.06,0.0,0.05,0.02,2.13,0.23,0.0,0.05,0.02,0.3
 "Baroda BNP Paribas Large and Mid Cap Fund",2.03,0.0,0.05,0.12,2.2,0.77,0.0,0.05,0.12,0.94
 "Baroda BNP Paribas Large Cap Fund",1.92,0.0,0.05,0.11,2.08,0.74,0.0,0.05,0.11,0.9
 "Baroda BNP Paribas Liquid Fund",0.29,0.0,0.0,0.02,0.31,0.17,0.0,0.0,0.02,0.19
@@ -412,7 +412,7 @@
 "Edelweiss Equity Savings Fund",1.46,0.0,0.0,0.13,1.59,0.79,0.0,0.0,0.13,0.92
 "Edelweiss Europe Dynamic Equity Offshore Fund",1.27,0.0,0.05,0.06,1.38,0.43,0.0,0.05,0.06,0.54
 "Edelweiss Flexi Cap Fund",1.93,0.0,0.05,0.05,2.03,0.35,0.0,0.05,0.05,0.45
-"Edelweiss Focused Fund",2.17,0.0,0.05,0.09,2.31,0.55,0.0,0.05,0.09,0.69
+"Edelweiss Focused Fund",2.16,0.0,0.05,0.09,2.3,0.54,0.0,0.05,0.09,0.68
 "Edelweiss Gold and Silver ETF FoF",0.58,0.0,0.05,0.06,0.69,0.35,0.0,0.05,0.06,0.46
 "Edelweiss Gold ETF",0.35,0.0,0.0,0.0,0.35,0.0,0.0,0.0,0.0,0.0
 "Edelweiss Government Securities Fund",1.08,0.0,0.0,0.06,1.14,0.41,0.0,0.0,0.06,0.47
@@ -420,7 +420,7 @@
 "Edelweiss Large & Mid Cap Fund",1.82,0.0,0.05,0.05,1.92,0.35,0.0,0.05,0.05,0.45
 "Edelweiss Large Cap Fund",2.12,0.0,0.05,0.1,2.27,0.59,0.0,0.05,0.1,0.74
 "Edelweiss Liquid Fund",0.24,0.0,0.0,0.01,0.25,0.07,0.0,0.0,0.01,0.08
-"Edelweiss Mid Cap Fund",1.71,0.0,0.05,0.05,1.81,0.33,0.0,0.05,0.05,0.43
+"Edelweiss Mid Cap Fund",1.7,0.0,0.05,0.05,1.8,0.33,0.0,0.05,0.05,0.43
 "Edelweiss Money Market Fund",0.93,0.0,0.0,0.05,0.98,0.37,0.0,0.0,0.05,0.42
 "Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund",0.98,0.0,0.0,0.06,1.04,0.43,0.0,0.0,0.06,0.49
 "Edelweiss Multi Asset Allocation Fund",0.62,0.0,0.05,0.04,0.71,0.31,0.0,0.05,0.04,0.4
@@ -434,7 +434,7 @@
 "Edelweiss Nifty PSU Bond Plus SDL APR 2027 50:50 Index Fund",0.36,0.0,0.0,0.02,0.38,0.15,0.0,0.0,0.02,0.17
 "Edelweiss Nifty Smallcap 250 Index Fund",0.82,0.0,0.0,0.02,0.84,0.12,0.0,0.0,0.02,0.14
 "Edelweiss Overnight Fund",0.15,0.0,0.0,0.01,0.16,0.08,0.0,0.0,0.01,0.09
-"Edelweiss Recently Listed IPO Fund",2.1,0.0,0.05,0.17,2.32,1.02,0.0,0.05,0.17,1.24
+"Edelweiss Recently Listed IPO Fund",2.09,0.0,0.05,0.17,2.31,1.01,0.0,0.05,0.17,1.23
 "Edelweiss Silver ETF",0.39,0.0,0.0,0.0,0.39,0.0,0.0,0.0,0.0,0.0
 "Edelweiss Small Cap Fund",1.79,0.0,0.05,0.05,1.89,0.31,0.0,0.05,0.05,0.41
 "Edelweiss Technology Fund",2.25,0.0,0.05,0.06,2.36,0.42,0.0,0.05,0.06,0.53
@@ -586,8 +586,8 @@
 "HSBC Balanced Advantage Fund",1.97,0.0,0.05,0.1,2.12,0.63,0.0,0.05,0.1,0.78
 "HSBC Banking and PSU Debt Fund",0.58,0.0,0.0,0.03,0.61,0.2,0.0,0.0,0.03,0.23
 "HSBC Brazil Fund",1.39,0.0,0.05,0.13,1.57,0.82,0.0,0.05,0.13,1.0
-"HSBC Business Cycles Fund",2.15,0.0,0.05,0.18,2.38,1.08,0.0,0.05,0.18,1.31
-"HSBC Conservative Hybrid Fund",1.98,0.0,0.0,0.2,2.18,1.15,0.0,0.0,0.2,1.35
+"HSBC Business Cycles Fund",2.14,0.0,0.05,0.18,2.37,1.07,0.0,0.05,0.18,1.3
+"HSBC Conservative Hybrid Fund",1.98,0.0,0.0,0.19,2.17,1.15,0.0,0.0,0.19,1.34
 "HSBC Consumption Fund",2.01,0.0,0.05,0.1,2.16,0.62,0.0,0.05,0.1,0.77
 "HSBC Corporate Bond Fund",0.6,0.0,0.0,0.04,0.64,0.26,0.0,0.0,0.04,0.3
 "HSBC Credit Risk Fund",1.51,0.0,0.05,0.12,1.68,0.69,0.0,0.05,0.12,0.86
@@ -602,7 +602,7 @@
 "HSBC Global Emerging Markets Fund",1.36,0.0,0.05,0.09,1.5,0.65,0.0,0.05,0.09,0.79
 "HSBC Global Equity Climate Change Fund of Fund",1.3,0.0,0.05,0.09,1.44,0.65,0.0,0.05,0.09,0.79
 "HSBC Infrastructure Fund",1.87,0.0,0.05,0.14,2.06,0.83,0.0,0.05,0.14,1.02
-"HSBC Large & Mid Cap Fund",1.82,0.0,0.05,0.13,2.0,0.78,0.0,0.05,0.13,0.96
+"HSBC Large & Mid Cap Fund",1.81,0.0,0.05,0.13,1.99,0.77,0.0,0.05,0.13,0.95
 "HSBC Large Cap Fund",1.92,0.0,0.05,0.16,2.13,0.97,0.0,0.05,0.16,1.18
 "HSBC Liquid Fund",0.22,0.0,0.0,0.0,0.22,0.12,0.0,0.0,0.0,0.12
 "HSBC Low Duration Fund",0.61,0.0,0.0,0.03,0.64,0.22,0.0,0.0,0.03,0.25
@@ -610,7 +610,7 @@
 "HSBC Managed Solutions - Growth",1.01,0.0,0.0,0.0,1.01,0.09,0.0,0.0,0.0,0.09
 "HSBC Managed Solutions - Moderate",1.13,0.0,0.0,0.0,1.13,0.09,0.0,0.0,0.0,0.09
 "HSBC Medium Duration Fund",1.05,0.0,0.0,0.05,1.1,0.35,0.0,0.0,0.05,0.4
-"HSBC Medium to Long Duration Fund",1.82,0.0,0.0,0.05,1.87,0.59,0.0,0.0,0.05,0.64
+"HSBC Medium to Long Duration Fund",1.82,0.0,0.0,0.1,1.92,0.59,0.0,0.0,0.1,0.69
 "HSBC Midcap Fund",1.61,0.0,0.05,0.08,1.74,0.53,0.0,0.05,0.08,0.66
 "HSBC Money Market Fund",0.54,0.0,0.0,0.03,0.57,0.22,0.0,0.0,0.03,0.25
 "HSBC Multi Asset Allocation Fund",1.88,0.0,0.05,0.08,2.01,0.48,0.0,0.05,0.08,0.61
@@ -621,7 +621,7 @@
 "HSBC Short Duration Fund",0.72,0.0,0.0,0.03,0.75,0.24,0.0,0.0,0.03,0.27
 "HSBC Small Cap Fund",1.57,0.0,0.05,0.09,1.71,0.55,0.0,0.05,0.09,0.69
 "HSBC Tax Saver Equity Fund",2.24,0.0,0.0,0.23,2.47,1.37,0.0,0.0,0.23,1.6
-"HSBC Ultra Short Duration Fund",0.45,0.0,0.0,0.03,0.48,0.19,0.0,0.0,0.03,0.22
+"HSBC Ultra Short Duration Fund",0.45,0.0,0.0,0.02,0.47,0.19,0.0,0.0,0.02,0.21
 "HSBC Value Fund",1.59,0.0,0.05,0.1,1.74,0.62,0.0,0.05,0.1,0.77
 "ICICI Prudential All Seasons Bond Fund",1.31,0.0,0.0,0.0,1.31,0.53,0.0,0.0,0.0,0.53
 "ICICI Prudential Asset Allocator Fund (FoF)",1.09,0.0,0.05,0.02,1.16,0.07,0.0,0.05,0.02,0.14
