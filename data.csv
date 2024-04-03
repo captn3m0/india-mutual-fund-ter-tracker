@@ -411,13 +411,13 @@
 "Edelweiss Emerging Markets Opportunities Equity Offshore Fund",1.21,0.0,0.05,0.04,1.3,0.33,0.0,0.05,0.04,0.42
 "Edelweiss Equity Savings Fund",1.46,0.0,0.0,0.13,1.59,0.79,0.0,0.0,0.13,0.92
 "Edelweiss Europe Dynamic Equity Offshore Fund",1.27,0.0,0.05,0.06,1.38,0.43,0.0,0.05,0.06,0.54
-"Edelweiss Flexi Cap Fund",1.93,0.0,0.05,0.05,2.03,0.35,0.0,0.05,0.05,0.45
+"Edelweiss Flexi Cap Fund",1.93,0.0,0.05,0.06,2.04,0.34,0.0,0.05,0.06,0.45
 "Edelweiss Focused Fund",2.16,0.0,0.05,0.09,2.3,0.54,0.0,0.05,0.09,0.68
 "Edelweiss Gold and Silver ETF FoF",0.58,0.0,0.05,0.06,0.69,0.35,0.0,0.05,0.06,0.46
 "Edelweiss Gold ETF",0.35,0.0,0.0,0.0,0.35,0.0,0.0,0.0,0.0,0.0
 "Edelweiss Government Securities Fund",1.08,0.0,0.0,0.06,1.14,0.41,0.0,0.0,0.06,0.47
 "Edelweiss Greater China Equity Off-shore Fund",1.43,0.0,0.05,0.08,1.56,0.51,0.0,0.05,0.08,0.64
-"Edelweiss Large & Mid Cap Fund",1.82,0.0,0.05,0.05,1.92,0.35,0.0,0.05,0.05,0.45
+"Edelweiss Large & Mid Cap Fund",1.81,0.0,0.05,0.05,1.91,0.35,0.0,0.05,0.05,0.45
 "Edelweiss Large Cap Fund",2.12,0.0,0.05,0.1,2.27,0.59,0.0,0.05,0.1,0.74
 "Edelweiss Liquid Fund",0.24,0.0,0.0,0.01,0.25,0.07,0.0,0.0,0.01,0.08
 "Edelweiss Mid Cap Fund",1.7,0.0,0.05,0.05,1.8,0.33,0.0,0.05,0.05,0.43
@@ -1235,7 +1235,7 @@
 "SBI Banking & PSU Fund",0.76,0.0,0.0,0.04,0.8,0.29,0.0,0.0,0.04,0.33
 "SBI Blue Chip Fund",1.37,0.0,0.05,0.11,1.53,0.68,0.0,0.05,0.11,0.84
 "SBI Conservative Hybrid Fund",0.98,0.0,0.05,0.08,1.11,0.48,0.0,0.05,0.08,0.61
-"SBI Consumption Opportunities Fund",1.9,0.0,0.05,0.13,2.08,0.81,0.0,0.05,0.13,0.99
+"SBI Consumption Opportunities Fund",1.89,0.0,0.05,0.13,2.07,0.8,0.0,0.05,0.13,0.98
 "SBI Contra Fund",1.47,0.0,0.05,0.08,1.6,0.52,0.0,0.05,0.08,0.65
 "SBI Corporate Bond Fund",0.75,0.0,0.0,0.04,0.79,0.3,0.0,0.0,0.04,0.34
 "SBI CPSE Bond Plus SDL SEP 2026 50:50 Index Fund",0.37,0.0,0.0,0.02,0.39,0.19,0.0,0.0,0.02,0.21
@@ -1245,7 +1245,7 @@
 "SBI CRISIL IBX SDL Index - September 2027 Fund",0.4,0.0,0.0,0.03,0.43,0.2,0.0,0.0,0.03,0.23
 "SBI Dividend Yield Fund",1.66,0.0,0.05,0.1,1.81,0.6,0.0,0.05,0.1,0.75
 "SBI Dynamic Bond Fund",1.31,0.0,0.05,0.08,1.44,0.48,0.0,0.05,0.08,0.61
-"SBI Energy Opportunities Fund",1.65,0.0,0.05,0.06,1.76,0.38,0.0,0.05,0.06,0.49
+"SBI Energy Opportunities Fund",1.64,0.0,0.05,0.06,1.75,0.37,0.0,0.05,0.06,0.48
 "SBI Equity Hybrid Fund",1.27,0.0,0.05,0.1,1.42,0.6,0.0,0.05,0.1,0.75
 "SBI Equity Minimum Variance Fund",0.7,0.0,0.0,0.04,0.74,0.37,0.0,0.0,0.04,0.41
 "SBI Equity Savings Fund",1.05,0.0,0.05,0.09,1.19,0.53,0.0,0.05,0.09,0.67
@@ -1257,7 +1257,7 @@
 "SBI Gold ETF",0.58,0.0,0.0,0.07,0.65,0.0,0.0,0.0,0.0,0.0
 "SBI Gold Fund",0.42,0.0,0.0,0.0,0.42,0.1,0.0,0.0,0.0,0.1
 "SBI Healthcare Opportunities Fund",1.83,0.0,0.05,0.13,2.01,0.77,0.0,0.05,0.13,0.95
-"SBI Infrastructure Fund",1.82,0.0,0.05,0.2,2.07,1.15,0.0,0.05,0.2,1.4
+"SBI Infrastructure Fund",1.81,0.0,0.05,0.2,2.06,1.14,0.0,0.05,0.2,1.39
 "SBI International Access - US Equity FoF",1.47,0.0,0.0,0.13,1.6,0.77,0.0,0.0,0.13,0.9
 "SBI Large & Midcap Fund",1.5,0.0,0.05,0.1,1.65,0.6,0.0,0.05,0.1,0.75
 "SBI Liquid Fund",0.28,0.0,0.0,0.02,0.3,0.17,0.0,0.0,0.02,0.19
@@ -1293,7 +1293,7 @@
 "SBI Nifty50 Equal Weight Index Fund",0.95,0.0,0.0,0.07,1.02,0.45,0.0,0.0,0.07,0.52
 "SBI Overnight Fund",0.14,0.0,0.0,0.01,0.15,0.06,0.0,0.0,0.01,0.07
 "SBI PSU Fund",1.91,0.0,0.05,0.13,2.09,0.77,0.0,0.05,0.13,0.95
-"SBI Retirement Benefit Fund - Aggressive Hybrid Plan",1.99,0.0,0.0,0.14,2.13,0.92,0.0,0.0,0.14,1.06
+"SBI Retirement Benefit Fund - Aggressive Hybrid Plan",1.98,0.0,0.0,0.14,2.12,0.91,0.0,0.0,0.14,1.05
 "SBI Retirement Benefit Fund - Aggressive Plan",1.87,0.0,0.0,0.11,1.98,0.71,0.0,0.0,0.11,0.82
 "SBI Retirement Benefit Fund - Conservative Hybrid Plan",1.5,0.0,0.0,0.16,1.66,0.97,0.0,0.0,0.16,1.13
 "SBI Retirement Benefit Fund - Conservative Plan",1.25,0.0,0.0,0.13,1.38,0.79,0.0,0.0,0.13,0.92
@@ -1303,7 +1303,7 @@
 "SBI S&P BSE SENSEX Next 50 ETF",0.12,0.0,0.0,0.0,0.12,0.0,0.0,0.0,0.0,0.0
 "SBI Savings Fund",0.73,0.0,0.0,0.03,0.76,0.22,0.0,0.0,0.03,0.25
 "SBI Short Term Debt Fund",0.8,0.0,0.0,0.04,0.84,0.3,0.0,0.0,0.04,0.34
-"SBI Small Cap Fund",1.48,0.0,0.05,0.08,1.61,0.55,0.0,0.05,0.08,0.68
+"SBI Small Cap Fund",1.47,0.0,0.05,0.08,1.6,0.54,0.0,0.05,0.08,0.67
 "SBI Technology Opportunities Fund",1.77,0.0,0.05,0.11,1.93,0.69,0.0,0.05,0.11,0.85
 "Shriram Aggressive Hybrid Fund",2.25,0.0,0.05,0.11,2.41,0.95,0.0,0.05,0.11,1.11
 "Shriram Balanced Advantage Fund",2.25,0.0,0.05,0.05,2.35,0.55,0.0,0.05,0.05,0.65
