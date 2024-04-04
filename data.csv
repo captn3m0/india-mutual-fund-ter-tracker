@@ -184,12 +184,12 @@
 "Bandhan Asset Allocation Fund of Fund-Aggressive Plan",1.07,0.0,0.05,0.1,1.22,0.37,0.0,0.05,0.07,0.49
 "Bandhan Asset Allocation Fund of Fund-Conservative Plan",0.68,0.0,0.05,0.04,0.77,0.18,0.0,0.05,0.04,0.27
 "Bandhan Asset Allocation Fund of Fund-Moderate Plan",0.9,0.0,0.05,0.08,1.03,0.3,0.0,0.05,0.06,0.41
-"Bandhan Balanced Advantage Fund",1.81,0.0,0.05,0.08,1.94,0.57,0.0,0.05,0.08,0.7
+"Bandhan Balanced Advantage Fund",1.81,0.0,0.05,0.08,1.94,0.5,0.0,0.05,0.08,0.63
 "Bandhan Banking & PSU Debt Fund",0.59,0.0,0.0,0.04,0.63,0.29,0.0,0.0,0.04,0.33
 "Bandhan Bond Fund - Income Plan",1.79,0.0,0.0,0.19,1.98,1.13,0.0,0.0,0.19,1.32
 "Bandhan Bond Fund - Medium Term Plan",1.37,0.0,0.0,0.11,1.48,0.66,0.0,0.0,0.11,0.77
 "Bandhan Bond Fund - Short Term Plan",0.74,0.0,0.0,0.04,0.78,0.27,0.0,0.0,0.04,0.31
-"Bandhan Core Equity Fund",1.75,0.0,0.05,0.1,1.9,0.58,0.0,0.05,0.1,0.73
+"Bandhan Core Equity Fund",1.75,0.0,0.05,0.1,1.9,0.61,0.0,0.05,0.1,0.76
 "Bandhan Corporate Bond Fund",0.6,0.0,0.0,0.04,0.64,0.28,0.0,0.0,0.04,0.32
 "Bandhan Credit Risk Fund",1.59,0.0,0.0,0.09,1.68,0.59,0.0,0.0,0.09,0.68
 "Bandhan CRISIL IBX 90:10 SDL Plus Gilt - April 2032 Index Fund",0.32,0.0,0.0,0.02,0.34,0.14,0.0,0.0,0.02,0.16
@@ -200,24 +200,24 @@
 "Bandhan CRISIL IBX Gilt April 2032 Index Fund",0.43,0.0,0.0,0.03,0.46,0.17,0.0,0.0,0.03,0.2
 "Bandhan CRISIL IBX Gilt June 2027 Index Fund",0.39,0.0,0.0,0.02,0.41,0.14,0.0,0.0,0.02,0.16
 "Bandhan Dynamic Bond Fund",1.51,0.0,0.0,0.1,1.61,0.65,0.0,0.0,0.1,0.75
-"Bandhan ELSS Tax Saver Fund",1.68,0.0,0.0,0.06,1.74,0.46,0.0,0.0,0.06,0.52
-"Bandhan Equity Savings Fund",1.31,0.0,0.0,0.07,1.38,0.42,0.0,0.0,0.07,0.49
-"Bandhan Financial Services Fund",2.16,0.0,0.05,0.09,2.3,0.53,0.0,0.05,0.08,0.66
-"Bandhan Flexi Cap Fund",1.66,0.0,0.05,0.16,1.87,0.92,0.0,0.05,0.15,1.12
+"Bandhan ELSS Tax Saver Fund",1.68,0.0,0.0,0.08,1.76,0.56,0.0,0.0,0.08,0.64
+"Bandhan Equity Savings Fund",1.31,0.0,0.0,0.06,1.37,0.34,0.0,0.0,0.05,0.39
+"Bandhan Financial Services Fund",2.16,0.0,0.05,0.08,2.29,0.49,0.0,0.05,0.08,0.62
+"Bandhan Flexi Cap Fund",1.66,0.0,0.05,0.16,1.87,0.95,0.0,0.05,0.16,1.16
 "Bandhan Floating Rate Fund",0.79,0.0,0.0,0.04,0.83,0.31,0.0,0.0,0.04,0.35
-"Bandhan Focused Equity Fund",1.95,0.0,0.05,0.11,2.11,0.61,0.0,0.05,0.1,0.76
+"Bandhan Focused Equity Fund",1.95,0.0,0.05,0.12,2.12,0.68,0.0,0.05,0.11,0.84
 "Bandhan GSF - Constant Maturity Plan",0.48,0.0,0.0,0.04,0.52,0.26,0.0,0.0,0.04,0.3
 "Bandhan GSF Investment Plan",1.01,0.0,0.0,0.06,1.07,0.39,0.0,0.0,0.06,0.45
-"Bandhan Hybrid Equity Fund",2.18,0.0,0.05,0.15,2.38,0.85,0.0,0.05,0.14,1.04
-"Bandhan Infrastructure Fund",2.04,0.0,0.05,0.13,2.22,0.75,0.0,0.05,0.13,0.93
-"Bandhan Large Cap Fund",1.97,0.0,0.0,0.12,2.09,0.78,0.0,0.0,0.12,0.9
+"Bandhan Hybrid Equity Fund",2.18,0.0,0.05,0.15,2.38,0.88,0.0,0.05,0.15,1.08
+"Bandhan Infrastructure Fund",2.04,0.0,0.05,0.14,2.23,0.84,0.0,0.05,0.14,1.03
+"Bandhan Large Cap Fund",1.97,0.0,0.0,0.13,2.1,0.81,0.0,0.0,0.12,0.93
 "Bandhan Liquid Fund",0.24,0.0,0.0,0.01,0.25,0.11,0.0,0.0,0.01,0.12
 "Bandhan Long Duration Fund",0.63,0.0,0.0,0.01,0.64,0.22,0.0,0.0,0.01,0.23
 "Bandhan Low Duration Fund",0.54,0.0,0.0,0.04,0.58,0.28,0.0,0.0,0.04,0.32
-"Bandhan Midcap Fund",2.03,0.0,0.05,0.07,2.15,0.47,0.0,0.05,0.07,0.59
+"Bandhan Midcap Fund",2.03,0.0,0.05,0.08,2.16,0.5,0.0,0.05,0.08,0.63
 "Bandhan Money Manager Fund",0.95,0.0,0.0,0.03,0.98,0.2,0.0,0.0,0.03,0.23
-"Bandhan Multi Asset Allocation Fund",1.92,0.0,0.05,0.09,2.06,0.54,0.0,0.05,0.08,0.67
-"Bandhan Multi Cap Fund",1.9,0.0,0.05,0.06,2.01,0.4,0.0,0.05,0.06,0.51
+"Bandhan Multi Asset Allocation Fund",1.92,0.0,0.05,0.04,2.01,0.31,0.0,0.05,0.04,0.4
+"Bandhan Multi Cap Fund",1.9,0.0,0.05,0.07,2.02,0.42,0.0,0.05,0.06,0.53
 "Bandhan Nifty 100 Index Fund",0.6,0.0,0.0,0.01,0.61,0.09,0.0,0.0,0.01,0.1
 "Bandhan Nifty 50 ETF",0.08,0.0,0.0,0.01,0.09,0.0,0.0,0.0,0.0,0.0
 "Bandhan Nifty 50 Index Fund",0.59,0.0,0.0,0.01,0.6,0.09,0.0,0.0,0.01,0.1
@@ -228,11 +228,11 @@
 "Bandhan Nifty200 Momentum 30 Index Fund",1.0,0.0,0.0,0.07,1.07,0.36,0.0,0.0,0.06,0.42
 "Bandhan Overnight Fund",0.15,0.0,0.0,0.0,0.15,0.05,0.0,0.0,0.0,0.05
 "Bandhan Regular Savings Fund",1.81,0.0,0.05,0.18,2.04,0.97,0.0,0.05,0.17,1.19
-"Bandhan Retirement Fund",2.25,0.0,0.0,0.11,2.36,0.65,0.0,0.0,0.1,0.75
+"Bandhan Retirement Fund",2.25,0.0,0.0,0.08,2.33,0.54,0.0,0.0,0.08,0.62
 "Bandhan S&P BSE SENSEX ETF",0.37,0.0,0.0,0.03,0.4,0.0,0.0,0.0,0.0,0.0
-"Bandhan Small Cap Fund",1.74,0.0,0.05,0.06,1.85,0.31,0.0,0.05,0.06,0.42
-"Bandhan Sterling Value Fund",1.63,0.0,0.05,0.08,1.76,0.52,0.0,0.05,0.08,0.65
-"Bandhan Transportation and Logistics Fund",2.23,0.0,0.05,0.11,2.39,0.63,0.0,0.05,0.1,0.78
+"Bandhan Small Cap Fund",1.73,0.0,0.05,0.04,1.82,0.29,0.0,0.05,0.04,0.38
+"Bandhan Sterling Value Fund",1.63,0.0,0.05,0.09,1.77,0.55,0.0,0.05,0.09,0.69
+"Bandhan Transportation and Logistics Fund",2.25,0.0,0.05,0.12,2.42,0.69,0.0,0.05,0.11,0.85
 "Bandhan Ultra Short Term Fund",0.43,0.0,0.0,0.03,0.46,0.24,0.0,0.0,0.03,0.27
 "Bandhan US Equity Fund of Fund",1.47,0.0,0.05,0.06,1.58,0.37,0.0,0.05,0.06,0.48
 "Bandhan US Equity Fund of Fund",1.47,0.0,0.05,0.05,1.57,0.37,0.0,0.05,0.05,0.47
@@ -1347,34 +1347,34 @@
 "Sundaram Ultra Short Duration Fund (Formerly Known as Principal Ultra Short Term Fund)",1.46,0.0,0.0,0.02,1.48,0.22,0.0,0.0,0.02,0.24
 "Tata Arbitrage Fund",1.05,0.0,0.0,0.03,1.08,0.27,0.0,0.0,0.03,0.3
 "Tata Balanced Advantage Fund",1.61,0.0,0.05,0.02,1.68,0.21,0.0,0.05,0.02,0.28
-"Tata Banking & Financial Services Fund",1.9,0.0,0.05,0.05,2.0,0.4,0.0,0.05,0.05,0.5
+"Tata Banking & Financial Services Fund",1.9,0.0,0.05,0.05,2.0,0.39,0.0,0.05,0.05,0.49
 "Tata Banking & PSU Debt Fund",0.7,0.0,0.0,0.02,0.72,0.24,0.0,0.0,0.02,0.26
-"Tata Business Cycle Fund",1.9,0.0,0.05,0.03,1.98,0.26,0.0,0.05,0.03,0.34
+"Tata Business Cycle Fund",1.89,0.0,0.05,0.03,1.97,0.26,0.0,0.05,0.03,0.34
 "Tata Corporate Bond Fund",0.82,0.0,0.0,0.03,0.85,0.28,0.0,0.0,0.03,0.31
 "Tata CRISIL-IBX Gilt Index - April 2026 Index Fund",0.34,0.0,0.0,0.0,0.34,0.1,0.0,0.0,0.0,0.1
 "Tata Digital India Fund",1.6,0.0,0.05,0.02,1.67,0.23,0.0,0.05,0.02,0.3
-"Tata Dividend Yield Fund",2.13,0.0,0.05,0.05,2.23,0.39,0.0,0.05,0.05,0.49
+"Tata Dividend Yield Fund",2.12,0.0,0.05,0.05,2.22,0.39,0.0,0.05,0.05,0.49
 "Tata ELSS Tax Saver Fund",1.75,0.0,0.0,0.09,1.84,0.64,0.0,0.0,0.09,0.73
 "Tata Equity P/E Fund",1.64,0.0,0.05,0.1,1.79,0.67,0.0,0.05,0.1,0.82
 "Tata Equity Savings Fund",1.07,0.0,0.0,0.03,1.1,0.37,0.0,0.0,0.03,0.4
-"Tata Ethical Fund",1.85,0.0,0.05,0.09,1.99,0.62,0.0,0.05,0.09,0.76
+"Tata Ethical Fund",1.84,0.0,0.05,0.09,1.98,0.61,0.0,0.05,0.09,0.75
 "Tata Flexi Cap Fund",1.82,0.0,0.05,0.08,1.95,0.55,0.0,0.05,0.08,0.68
 "Tata Floating Rate Fund",0.69,0.0,0.0,0.03,0.72,0.27,0.0,0.0,0.03,0.3
 "Tata Focused Equity Fund",1.94,0.0,0.05,0.06,2.05,0.43,0.0,0.05,0.06,0.54
-"Tata Gilt Securities Fund",1.58,0.0,0.0,0.05,1.63,0.39,0.0,0.0,0.05,0.44
+"Tata Gilt Securities Fund",1.57,0.0,0.0,0.05,1.62,0.38,0.0,0.0,0.05,0.43
 "Tata Gold ETF Fund of Fund",0.69,0.0,0.0,0.0,0.69,0.07,0.0,0.0,0.0,0.07
 "Tata Gold Exchange Traded Fund",0.0,0.0,0.0,0.0,0.0,0.36,0.0,0.0,0.02,0.38
 "Tata Housing Opportunities Fund",2.23,0.0,0.05,0.08,2.36,0.55,0.0,0.05,0.08,0.68
 "Tata Hybrid Equity Fund",1.76,0.0,0.05,0.12,1.93,0.79,0.0,0.05,0.12,0.96
 "Tata India Consumer Fund",1.91,0.0,0.05,0.1,2.06,0.65,0.0,0.05,0.1,0.8
 "Tata India Pharma & Healthcare Fund",2.1,0.0,0.05,0.1,2.25,0.68,0.0,0.05,0.1,0.83
-"Tata Infrastructure Fund",1.9,0.0,0.05,0.17,2.12,1.04,0.0,0.05,0.17,1.26
+"Tata Infrastructure Fund",1.91,0.0,0.05,0.17,2.13,1.05,0.0,0.05,0.17,1.27
 "Tata Large & Mid Cap Fund",1.66,0.0,0.05,0.09,1.8,0.6,0.0,0.05,0.09,0.74
 "Tata Large Cap Fund",1.9,0.0,0.05,0.15,2.1,0.93,0.0,0.05,0.15,1.13
 "Tata Liquid Fund",0.3,0.0,0.0,0.02,0.32,0.19,0.0,0.0,0.02,0.21
 "Tata Mid Cap Growth Fund",1.77,0.0,0.05,0.1,1.92,0.63,0.0,0.05,0.1,0.78
 "Tata Money Market Fund",0.39,0.0,0.0,0.01,0.4,0.14,0.0,0.0,0.01,0.15
-"Tata Multi Asset Opportunities Fund",1.83,0.0,0.05,0.03,1.91,0.29,0.0,0.05,0.03,0.37
+"Tata Multi Asset Opportunities Fund",1.84,0.0,0.05,0.03,1.92,0.3,0.0,0.05,0.03,0.38
 "Tata Multicap Fund",1.86,0.0,0.05,0.01,1.92,0.2,0.0,0.05,0.01,0.26
 "Tata Nifty 50 Exchange Traded Fund",0.0,0.0,0.0,0.0,0.0,0.07,0.0,0.0,0.0,0.07
 "Tata Nifty 50 Index Fund",0.5,0.0,0.0,0.02,0.52,0.18,0.0,0.0,0.02,0.2
@@ -1387,10 +1387,10 @@
 "Tata Nifty SDL Plus AAA PSU Bond DEC 2027 60 40 Index Fund",0.44,0.0,0.0,0.02,0.46,0.2,0.0,0.0,0.02,0.22
 "Tata Overnight Fund",0.18,0.0,0.0,0.0,0.18,0.06,0.0,0.0,0.0,0.06
 "Tata Quant Fund",2.23,0.0,0.05,0.1,2.38,0.73,0.0,0.05,0.1,0.88
-"Tata Resources & Energy Fund",2.23,0.0,0.05,0.1,2.38,0.65,0.0,0.05,0.1,0.8
+"Tata Resources & Energy Fund",2.22,0.0,0.05,0.1,2.37,0.65,0.0,0.05,0.1,0.8
 "Tata Retirement Savings Fund-Conservative Plan",1.99,0.0,0.05,0.13,2.17,0.79,0.0,0.05,0.13,0.97
 "Tata Retirement Savings Fund-Moderate Plan",1.9,0.0,0.05,0.07,2.02,0.51,0.0,0.05,0.07,0.63
-"Tata Retirement Savings Fund-Progressive Plan",1.92,0.0,0.05,0.07,2.04,0.47,0.0,0.05,0.07,0.59
+"Tata Retirement Savings Fund-Progressive Plan",1.92,0.0,0.05,0.07,2.04,0.46,0.0,0.05,0.07,0.58
 "Tata S&P BSE SENSEX Index Fund",0.55,0.0,0.0,0.03,0.58,0.24,0.0,0.0,0.03,0.27
 "Tata Short Term Bond Fund",1.15,0.0,0.0,0.04,1.19,0.29,0.0,0.0,0.04,0.33
 "Tata Silver ETF Fund of Fund",0.6,0.0,0.0,0.0,0.6,0.07,0.0,0.0,0.0,0.07
