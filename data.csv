@@ -280,8 +280,8 @@
 "Baroda BNP Paribas Gold ETF",0.42,0.0,0.0,0.06,0.48,0.0,0.0,0.0,0.0,0.0
 "Baroda BNP Paribas India Consumption Fund",2.0,0.0,0.05,0.09,2.14,0.57,0.0,0.05,0.09,0.71
 "Baroda BNP Paribas Innovation Fund",2.06,0.0,0.05,0.02,2.13,0.23,0.0,0.05,0.02,0.3
-"Baroda BNP Paribas Large and Mid Cap Fund",2.03,0.0,0.05,0.12,2.2,0.77,0.0,0.05,0.12,0.94
-"Baroda BNP Paribas Large Cap Fund",1.92,0.0,0.05,0.11,2.08,0.73,0.0,0.05,0.11,0.89
+"Baroda BNP Paribas Large and Mid Cap Fund",2.02,0.0,0.05,0.12,2.19,0.77,0.0,0.05,0.12,0.94
+"Baroda BNP Paribas Large Cap Fund",1.91,0.0,0.05,0.11,2.07,0.73,0.0,0.05,0.11,0.89
 "Baroda BNP Paribas Liquid Fund",0.29,0.0,0.0,0.02,0.31,0.17,0.0,0.0,0.02,0.19
 "Baroda BNP Paribas Low Duration Fund",1.04,0.0,0.0,0.05,1.09,0.32,0.0,0.0,0.05,0.37
 "Baroda BNP Paribas Medium Duration Fund (Scheme has One Segregated Portfolio)",0.88,0.0,0.0,0.09,0.97,0.6,0.0,0.0,0.09,0.69
@@ -1187,19 +1187,19 @@
 "Quant Absolute Fund",1.91,0.0,0.05,0.08,2.04,0.7,0.0,0.05,0.08,0.83
 "Quant Active Fund",1.62,0.0,0.05,0.08,1.75,0.58,0.0,0.05,0.08,0.71
 "Quant Bfsi Fund",2.25,0.0,0.05,0.08,2.38,0.59,0.0,0.05,0.08,0.72
-"Quant Business Cycle Fund",2.02,0.0,0.05,0.08,2.15,0.59,0.0,0.05,0.08,0.72
+"Quant Business Cycle Fund",2.01,0.0,0.05,0.08,2.14,0.59,0.0,0.05,0.08,0.72
 "Quant Commodities Fund",2.25,0.0,0.05,0.09,2.39,0.63,0.0,0.05,0.09,0.77
 "Quant Consumption Fund",2.25,0.0,0.05,0.09,2.39,0.63,0.0,0.05,0.09,0.77
 "Quant Dynamic Asset Allocation Fund",2.08,0.0,0.05,0.08,2.21,0.61,0.0,0.05,0.08,0.74
 "Quant ELSS Tax Saver Fund",1.62,0.0,0.05,0.08,1.75,0.63,0.0,0.05,0.08,0.76
 "Quant ESG Equity Fund",2.25,0.0,0.05,0.09,2.39,0.63,0.0,0.05,0.09,0.77
 "Quant Flexi Cap Fund",1.72,0.0,0.05,0.07,1.84,0.56,0.0,0.05,0.07,0.68
-"Quant Focused Fund",2.12,0.0,0.05,0.08,2.25,0.63,0.0,0.05,0.08,0.76
+"Quant Focused Fund",2.11,0.0,0.05,0.08,2.24,0.63,0.0,0.05,0.08,0.76
 "Quant Gilt Fund",1.35,0.0,0.0,0.06,1.41,0.45,0.0,0.0,0.06,0.51
 "Quant Healthcare Fund",2.25,0.0,0.05,0.08,2.38,0.6,0.0,0.05,0.08,0.73
 "Quant Infrastructure Fund",1.82,0.0,0.05,0.08,1.95,0.6,0.0,0.05,0.08,0.73
 "Quant Large & Mid Cap Fund",1.87,0.0,0.05,0.07,1.99,0.63,0.0,0.05,0.07,0.75
-"Quant Large Cap Fund",2.11,0.0,0.05,0.07,2.23,0.54,0.0,0.05,0.07,0.66
+"Quant Large Cap Fund",2.1,0.0,0.05,0.07,2.22,0.54,0.0,0.05,0.07,0.66
 "Quant Liquid Fund",0.5,0.0,0.0,0.04,0.54,0.25,0.0,0.0,0.04,0.29
 "Quant Manufacturing Fund",2.21,0.0,0.05,0.09,2.35,0.66,0.0,0.05,0.09,0.8
 "Quant Mid Cap Fund",1.68,0.0,0.05,0.07,1.8,0.59,0.0,0.05,0.07,0.71
@@ -1434,7 +1434,7 @@
 "Union Medium Duration Fund",0.81,0.0,0.0,0.08,0.89,0.56,0.0,0.0,0.08,0.64
 "Union Midcap Fund",2.03,0.0,0.05,0.06,2.14,0.51,0.0,0.05,0.06,0.62
 "Union Money Market Fund",0.99,0.0,0.0,0.02,1.01,0.25,0.0,0.0,0.02,0.27
-"Union Multicap Fund",2.12,0.0,0.05,0.11,2.28,0.78,0.0,0.05,0.11,0.94
+"Union Multicap Fund",2.11,0.0,0.05,0.11,2.27,0.77,0.0,0.05,0.11,0.93
 "Union Overnight Fund",0.17,0.0,0.0,0.0,0.17,0.07,0.0,0.0,0.0,0.07
 "Union Retirement Fund",2.25,0.0,0.0,0.17,2.42,1.2,0.0,0.0,0.17,1.37
 "Union Small Cap Fund",1.98,0.0,0.05,0.11,2.14,0.74,0.0,0.05,0.11,0.9
