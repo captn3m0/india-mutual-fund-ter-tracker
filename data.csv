@@ -117,9 +117,9 @@
 "Axis Equity Etfs FoF",0.27,0.0,0.0,0.0,0.27,0.11,0.0,0.0,0.0,0.11
 "Axis Equity Hybrid Fund",1.95,0.0,0.05,0.15,2.15,0.83,0.0,0.05,0.15,1.03
 "Axis Equity Saver Fund",2.1,0.0,0.05,0.15,2.3,0.85,0.0,0.05,0.15,1.05
-"Axis ESG Integration Strategy Fund",1.97,0.0,0.05,0.18,2.2,1.01,0.0,0.05,0.18,1.24
+"Axis ESG Integration Strategy Fund",1.97,0.0,0.05,0.18,2.2,1.01,0.0,0.05,0.17,1.23
 "Axis Flexi Cap Fund",1.59,0.0,0.05,0.1,1.74,0.57,0.0,0.05,0.1,0.72
-"Axis Floater Fund",0.54,0.0,0.0,0.03,0.57,0.18,0.0,0.0,0.02,0.2
+"Axis Floater Fund",0.54,0.0,0.0,0.03,0.57,0.18,0.0,0.0,0.01,0.19
 "Axis Focused 25 Fund",1.56,0.0,0.05,0.1,1.71,0.62,0.0,0.05,0.1,0.77
 "Axis Gilt Fund",0.75,0.0,0.0,0.05,0.8,0.35,0.0,0.0,0.05,0.4
 "Axis Global Equity Alpha Fund of Fund",1.45,0.0,0.05,0.14,1.64,0.78,0.0,0.05,0.14,0.97
@@ -131,7 +131,7 @@
 "Axis India Manufacturing Fund",1.74,0.0,0.05,0.05,1.84,0.29,0.0,0.05,0.05,0.39
 "Axis Liquid Fund",0.22,0.0,0.0,0.02,0.24,0.15,0.0,0.0,0.02,0.17
 "Axis Long Duration Fund",0.67,0.0,0.0,0.02,0.69,0.23,0.0,0.0,0.02,0.25
-"Axis Midcap Fund",1.48,0.0,0.05,0.07,1.6,0.4,0.0,0.05,0.07,0.52
+"Axis Midcap Fund",1.48,0.0,0.05,0.07,1.6,0.4,0.0,0.05,0.06,0.51
 "Axis Money Market Fund",0.33,0.0,0.0,0.02,0.35,0.15,0.0,0.0,0.02,0.17
 "Axis Multi Asset Allocation Fund",1.87,0.0,0.05,0.19,2.11,1.07,0.0,0.05,0.19,1.31
 "Axis Multicap Fund",1.71,0.0,0.05,0.1,1.86,0.56,0.0,0.05,0.1,0.71
@@ -359,7 +359,7 @@
 "DSP Liquidity Fund",0.25,0.0,0.0,0.02,0.27,0.13,0.0,0.0,0.02,0.15
 "DSP Low Duration Fund",0.59,0.0,0.0,0.04,0.63,0.26,0.0,0.0,0.04,0.3
 "DSP Midcap Fund",1.54,0.0,0.05,0.11,1.7,0.62,0.0,0.05,0.11,0.78
-"DSP Multi Asset Allocation Fund",1.67,0.0,0.04,0.03,1.74,0.22,0.0,0.04,0.03,0.29
+"DSP Multi Asset Allocation Fund",1.66,0.0,0.04,0.03,1.73,0.21,0.0,0.04,0.03,0.28
 "DSP Multicap Fund",2.11,0.0,0.05,0.09,2.25,0.51,0.0,0.05,0.09,0.65
 "DSP Natural Resources and New Energy Fund",2.05,0.0,0.0,0.12,2.17,0.95,0.0,0.0,0.12,1.07
 "DSP Nifty 1D Rate Liquid ETF",0.0,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.0,0.4
@@ -462,7 +462,7 @@
 "Franklin India Money Market Fund",0.28,0.0,0.0,0.01,0.29,0.12,0.0,0.0,0.01,0.13
 "Franklin India Multi - Asset Solution Fund of Funds",1.95,0.0,0.05,0.06,2.06,1.0,0.0,0.05,0.04,1.09
 "Franklin India NSE Nifty 50 Index Fund",0.6,0.0,0.0,0.03,0.63,0.23,0.0,0.0,0.03,0.26
-"Franklin India Opportunities Fund",1.8,0.0,0.05,0.04,1.89,0.28,0.0,0.05,0.04,0.37
+"Franklin India Opportunities Fund",1.79,0.0,0.05,0.04,1.88,0.28,0.0,0.05,0.04,0.37
 "Franklin India Overnight Fund",0.13,0.0,0.0,0.01,0.14,0.1,0.0,0.0,0.01,0.11
 "Franklin India Pension Plan",2.0,0.0,0.05,0.22,2.27,1.24,0.0,0.05,0.22,1.51
 "Franklin India Prima Fund",1.6,0.0,0.05,0.14,1.79,0.83,0.0,0.05,0.14,1.02
