@@ -10,7 +10,7 @@
 "Aditya Birla Sun Life Arbitrage Fund",1.02,0.0,0.0,0.05,1.07,0.31,0.0,0.0,0.05,0.36
 "Aditya Birla Sun Life Asset Allocator FoF",1.28,0.0,0.04,0.03,1.35,0.24,0.0,0.04,0.03,0.31
 "Aditya Birla Sun Life Bal Bhavishya Yojna",2.07,0.0,0.0,0.09,2.16,0.58,0.0,0.0,0.09,0.67
-"Aditya Birla Sun Life Balanced Advantage Fund",1.65,0.0,0.05,0.08,1.79,0.5,0.0,0.05,0.08,0.64
+"Aditya Birla Sun Life Balanced Advantage Fund",1.66,0.0,0.05,0.08,1.79,0.51,0.0,0.05,0.08,0.64
 "Aditya Birla Sun Life Banking & PSU Debt Fund",0.67,0.0,0.0,0.05,0.72,0.33,0.0,0.0,0.05,0.38
 "Aditya Birla Sun Life Banking and Financial Services Fund",1.79,0.0,0.05,0.14,1.99,0.83,0.0,0.05,0.14,1.03
 "Aditya Birla Sun Life Business Cycle Fund",1.91,0.0,0.05,0.13,2.09,0.76,0.0,0.05,0.13,0.94
@@ -34,7 +34,7 @@
 "Aditya Birla Sun Life Equity Advantage Fund",1.7,0.0,0.05,0.15,1.9,0.88,0.0,0.05,0.15,1.08
 "Aditya Birla Sun Life Equity Hybrid '95 Fund",1.65,0.0,0.05,0.15,1.85,0.87,0.0,0.05,0.15,1.07
 "Aditya Birla Sun Life Equity Savings Fund",0.99,0.0,0.05,0.07,1.11,0.45,0.0,0.05,0.07,0.57
-"Aditya Birla Sun Life ESG Integration Strategy Fund",2.18,0.0,0.05,0.19,2.41,1.09,0.0,0.05,0.19,1.32
+"Aditya Birla Sun Life ESG Integration Strategy Fund",2.18,0.0,0.05,0.19,2.42,1.09,0.0,0.05,0.19,1.33
 "Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan",1.04,0.0,0.0,0.04,1.07,0.32,0.0,0.0,0.04,0.35
 "Aditya Birla Sun Life Financial Planning Fund - Conservative Plan",0.74,0.0,0.05,0.03,0.83,0.28,0.0,0.05,0.03,0.37
 "Aditya Birla Sun Life Financial Planning Fund - Moderate Plan",0.89,0.0,0.05,0.04,0.98,0.29,0.0,0.05,0.04,0.38
@@ -60,7 +60,7 @@
 "Aditya Birla Sun Life MNC Fund",1.77,0.0,0.05,0.18,2.0,1.05,0.0,0.05,0.18,1.28
 "Aditya Birla Sun Life Money Manager Fund",0.31,0.0,0.0,0.03,0.34,0.18,0.0,0.0,0.03,0.21
 "Aditya Birla Sun Life Multi - Index Fund of Funds",0.52,0.0,0.0,0.01,0.54,0.12,0.0,0.0,0.01,0.14
-"Aditya Birla Sun Life Multi Asset Allocation Fund",1.78,0.0,0.04,0.05,1.87,0.34,0.0,0.04,0.05,0.43
+"Aditya Birla Sun Life Multi Asset Allocation Fund",1.78,0.0,0.04,0.05,1.88,0.34,0.0,0.04,0.05,0.44
 "Aditya Birla Sun Life Multi-Cap Fund",1.71,0.0,0.05,0.08,1.83,0.48,0.0,0.05,0.08,0.6
 "Aditya Birla Sun Life NASDAQ 100 FoF",0.65,0.0,0.0,0.03,0.68,0.29,0.0,0.0,0.03,0.32
 "Aditya Birla Sun Life Nifty 200 Momentum 30 ETF",0.3,0.0,0.0,0.02,0.32,0.0,0.0,0.0,0.0,0.0
@@ -965,14 +965,14 @@
 "Mirae Asset Great Consumer Fund",1.79,0.0,0.05,0.06,1.9,0.37,0.0,0.05,0.06,0.48
 "Mirae Asset Hang Seng Tech ETF",0.52,0.0,0.0,0.08,0.6,0.0,0.0,0.0,0.0,0.0
 "Mirae Asset Hang Seng Tech ETF Fund of Fund",0.47,0.0,0.05,0.01,0.53,0.08,0.0,0.05,0.01,0.14
-"Mirae Asset Healthcare Fund",1.87,0.0,0.05,0.07,1.99,0.4,0.0,0.05,0.06,0.51
+"Mirae Asset Healthcare Fund",1.87,0.0,0.05,0.06,1.98,0.4,0.0,0.05,0.06,0.51
 "Mirae Asset Large & Midcap Fund",1.43,0.0,0.05,0.08,1.56,0.52,0.0,0.05,0.08,0.65
-"Mirae Asset Large Cap Fund",1.4,0.0,0.05,0.08,1.53,0.46,0.0,0.05,0.08,0.59
+"Mirae Asset Large Cap Fund",1.41,0.0,0.05,0.08,1.54,0.46,0.0,0.05,0.08,0.59
 "Mirae Asset Liquid Fund",0.19,0.0,0.0,0.01,0.2,0.11,0.0,0.0,0.01,0.12
 "Mirae Asset Low Duration Fund",0.85,0.0,0.0,0.03,0.88,0.21,0.0,0.0,0.02,0.23
 "Mirae Asset Midcap Fund",1.56,0.0,0.05,0.08,1.69,0.48,0.0,0.05,0.08,0.61
 "Mirae Asset Money Market Fund",0.54,0.0,0.0,0.02,0.56,0.2,0.0,0.0,0.02,0.22
-"Mirae Asset Multi Asset Allocation Fund",1.98,0.0,0.05,0.04,2.07,0.32,0.0,0.05,0.04,0.41
+"Mirae Asset Multi Asset Allocation Fund",1.98,0.0,0.05,0.04,2.07,0.31,0.0,0.05,0.04,0.4
 "Mirae Asset Multicap Fund",1.84,0.0,0.05,0.07,1.96,0.38,0.0,0.05,0.07,0.5
 "Mirae Asset Nifty 100 ESG Sector Leaders ETF",0.5,0.0,0.0,0.07,0.57,0.0,0.0,0.0,0.0,0.0
 "Mirae Asset Nifty 100 ESG Sector Leaders Fund of Fund",0.39,0.0,0.05,0.0,0.44,0.0,0.0,0.05,0.0,0.05
@@ -1517,7 +1517,7 @@
 "WhiteOak Capital Liquid Fund",0.3,0.0,0.0,0.02,0.32,0.2,0.0,0.0,0.02,0.22
 "WhiteOak Capital Mid Cap Fund",1.93,0.0,0.05,0.04,2.02,0.36,0.0,0.05,0.04,0.45
 "WhiteOak Capital Multi Asset Allocation Fund",1.63,0.0,0.05,0.07,1.75,0.46,0.0,0.05,0.07,0.58
-"WhiteOak Capital Multi Cap Fund",2.14,0.0,0.05,0.06,2.25,0.44,0.0,0.05,0.06,0.55
+"WhiteOak Capital Multi Cap Fund",2.13,0.0,0.05,0.06,2.24,0.43,0.0,0.05,0.06,0.54
 "WhiteOak Capital Pharma and Healthcare Fund",2.25,0.0,0.05,0.05,2.35,0.5,0.0,0.05,0.05,0.6
 "WhiteOak Capital Ultra Short Duration Fund",0.97,0.0,0.0,0.04,1.01,0.37,0.0,0.0,0.04,0.41
 "Zerodha ELSS Tax Saver Nifty Largemidcap 250 Index Fund",0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.25
