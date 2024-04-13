@@ -7,7 +7,7 @@
 "360 One Liquid Fund (Formerly Known as IIFL Liquid Fund) (An Open Ended Liquid Scheme)",0.23,0.0,0.0,0.02,0.25,0.18,0.0,0.0,0.02,0.2
 "360 One Quant Fund (Formerly Known as IIFL Quant Fund)",1.75,0.0,0.05,0.03,1.83,0.35,0.0,0.05,0.03,0.43
 "Aditya Birla Sun Life Active Debt Multi Manager FoF Scheme",0.56,0.0,0.05,0.02,0.62,0.21,0.0,0.05,0.02,0.27
-"Aditya Birla Sun Life Arbitrage Fund",1.02,0.0,0.0,0.05,1.07,0.31,0.0,0.0,0.05,0.36
+"Aditya Birla Sun Life Arbitrage Fund",1.01,0.0,0.0,0.05,1.06,0.3,0.0,0.0,0.05,0.35
 "Aditya Birla Sun Life Asset Allocator FoF",1.28,0.0,0.04,0.03,1.35,0.24,0.0,0.04,0.03,0.31
 "Aditya Birla Sun Life Bal Bhavishya Yojna",2.07,0.0,0.0,0.09,2.16,0.58,0.0,0.0,0.09,0.67
 "Aditya Birla Sun Life Balanced Advantage Fund",1.65,0.0,0.05,0.08,1.79,0.5,0.0,0.05,0.08,0.64
@@ -18,7 +18,7 @@
 "Aditya Birla Sun Life Credit Risk Fund",1.44,0.0,0.05,0.1,1.58,0.54,0.0,0.05,0.1,0.68
 "Aditya Birla Sun Life CRISIL IBX 50:50 Gilt Plus SDL APR 2028 Index Fund",0.32,0.0,0.0,0.02,0.35,0.17,0.0,0.0,0.02,0.2
 "Aditya Birla Sun Life CRISIL IBX 60:40 SDL+ AAA PSU APR 2026 Index Fund",0.43,0.0,0.0,0.02,0.45,0.18,0.0,0.0,0.02,0.2
-"Aditya Birla Sun Life CRISIL IBX 60:40 SDL+AAA PSU-APR 2025 Index Fund",0.34,0.0,0.0,0.02,0.36,0.19,0.0,0.0,0.02,0.21
+"Aditya Birla Sun Life CRISIL IBX 60:40 SDL+AAA PSU-APR 2025 Index Fund",0.34,0.0,0.0,0.03,0.36,0.19,0.0,0.0,0.03,0.21
 "Aditya Birla Sun Life CRISIL IBX 60:40 SDL+AAA PSU-APR 2027 Index Fund",0.38,0.0,0.0,0.02,0.4,0.18,0.0,0.0,0.02,0.2
 "Aditya Birla Sun Life CRISIL IBX AAA MAR 2024 Index Fund",0.31,0.0,0.0,0.01,0.32,0.1,0.0,0.0,0.01,0.11
 "Aditya Birla Sun Life CRISIL IBX Gilt -APR 2029 Index Fund",0.34,0.0,0.0,0.02,0.36,0.19,0.0,0.0,0.02,0.21
@@ -31,10 +31,10 @@
 "Aditya Birla Sun Life Dividend Yield Fund",1.98,0.0,0.05,0.21,2.24,1.18,0.0,0.05,0.21,1.44
 "Aditya Birla Sun Life Dynamic Bond Fund",1.14,0.0,0.0,0.09,1.23,0.55,0.0,0.0,0.09,0.64
 "Aditya Birla Sun Life ELSS Tax Saver Fund",1.55,0.0,0.0,0.13,1.68,0.78,0.0,0.0,0.13,0.91
-"Aditya Birla Sun Life Equity Advantage Fund",1.69,0.0,0.05,0.15,1.9,0.87,0.0,0.05,0.15,1.08
+"Aditya Birla Sun Life Equity Advantage Fund",1.7,0.0,0.05,0.15,1.9,0.88,0.0,0.05,0.15,1.08
 "Aditya Birla Sun Life Equity Hybrid '95 Fund",1.65,0.0,0.05,0.15,1.85,0.87,0.0,0.05,0.15,1.07
 "Aditya Birla Sun Life Equity Savings Fund",0.99,0.0,0.05,0.07,1.11,0.45,0.0,0.05,0.07,0.57
-"Aditya Birla Sun Life ESG Integration Strategy Fund",2.18,0.0,0.05,0.19,2.41,1.09,0.0,0.05,0.19,1.32
+"Aditya Birla Sun Life ESG Integration Strategy Fund",2.18,0.0,0.05,0.19,2.42,1.09,0.0,0.05,0.19,1.33
 "Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan",1.04,0.0,0.0,0.04,1.07,0.32,0.0,0.0,0.04,0.35
 "Aditya Birla Sun Life Financial Planning Fund - Conservative Plan",0.74,0.0,0.05,0.03,0.83,0.28,0.0,0.05,0.03,0.37
 "Aditya Birla Sun Life Financial Planning Fund - Moderate Plan",0.89,0.0,0.05,0.04,0.98,0.29,0.0,0.05,0.04,0.38
@@ -54,7 +54,7 @@
 "Aditya Birla Sun Life Liquid Fund",0.31,0.0,0.0,0.03,0.34,0.19,0.0,0.0,0.03,0.21
 "Aditya Birla Sun Life Long Duration Fund",1.03,0.0,0.0,0.06,1.09,0.37,0.0,0.0,0.06,0.43
 "Aditya Birla Sun Life Low Duration Fund",1.15,0.0,0.0,0.05,1.2,0.34,0.0,0.0,0.05,0.39
-"Aditya Birla Sun Life Manufacturing Equity Fund",2.09,0.0,0.05,0.21,2.34,1.18,0.0,0.05,0.21,1.43
+"Aditya Birla Sun Life Manufacturing Equity Fund",2.09,0.0,0.05,0.21,2.35,1.18,0.0,0.05,0.21,1.44
 "Aditya Birla Sun Life Medium Term Plan",1.46,0.0,0.0,0.12,1.58,0.73,0.0,0.0,0.12,0.85
 "Aditya Birla Sun Life Midcap Fund",1.71,0.0,0.05,0.15,1.91,0.86,0.0,0.05,0.15,1.06
 "Aditya Birla Sun Life MNC Fund",1.77,0.0,0.05,0.18,2.0,1.05,0.0,0.05,0.18,1.28
