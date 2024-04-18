@@ -449,14 +449,14 @@
 "Franklin India Debt Hybrid Fund",1.3,0.0,0.0,0.1,1.4,0.61,0.0,0.0,0.1,0.71
 "Franklin India Dynamic Asset Allocation Fund of Funds",1.98,0.0,0.05,0.08,2.11,1.07,0.0,0.05,0.08,1.2
 "Franklin India ELSS Tax Saver Fund",1.68,0.0,0.0,0.16,1.84,0.98,0.0,0.0,0.16,1.14
-"Franklin India Equity Advantage Fund",1.79,0.0,0.05,0.2,2.04,1.15,0.0,0.05,0.2,1.4
+"Franklin India Equity Advantage Fund",1.8,0.0,0.05,0.2,2.05,1.15,0.0,0.05,0.2,1.4
 "Franklin India Equity Hybrid Fund",1.93,0.0,0.05,0.16,2.14,0.95,0.0,0.05,0.16,1.16
 "Franklin India Equity Savings Fund",1.09,0.0,0.0,0.03,1.12,0.26,0.0,0.0,0.03,0.29
 "Franklin India Feeder - Franklin U. S. Opportunities Fund",1.4,0.0,0.05,0.07,1.52,0.42,0.0,0.05,0.07,0.54
 "Franklin India Feeder - Templeton European Opportunities Fund",1.28,0.0,0.05,0.07,1.4,0.43,0.0,0.05,0.06,0.54
 "Franklin India Flexi Cap Fund",1.56,0.0,0.05,0.14,1.75,0.84,0.0,0.05,0.14,1.03
 "Franklin India Floating Rate Fund",0.94,0.0,0.0,0.05,0.99,0.21,0.0,0.0,0.02,0.23
-"Franklin India Focused Equity Fund",1.59,0.0,0.05,0.14,1.78,0.82,0.0,0.05,0.14,1.01
+"Franklin India Focused Equity Fund",1.6,0.0,0.05,0.14,1.79,0.82,0.0,0.05,0.14,1.01
 "Franklin India Government Securities Fund",1.04,0.0,0.0,0.09,1.13,0.53,0.0,0.0,0.08,0.61
 "Franklin India Liquid Fund",0.19,0.0,0.0,0.01,0.2,0.12,0.0,0.0,0.01,0.13
 "Franklin India Money Market Fund",0.28,0.0,0.0,0.01,0.29,0.13,0.0,0.0,0.01,0.14
@@ -465,7 +465,7 @@
 "Franklin India Opportunities Fund",1.79,0.0,0.05,0.04,1.88,0.28,0.0,0.05,0.04,0.37
 "Franklin India Overnight Fund",0.13,0.0,0.0,0.01,0.14,0.1,0.0,0.0,0.01,0.11
 "Franklin India Pension Plan",2.0,0.0,0.05,0.22,2.27,1.25,0.0,0.05,0.22,1.52
-"Franklin India Prima Fund",1.6,0.0,0.05,0.14,1.79,0.83,0.0,0.05,0.14,1.02
+"Franklin India Prima Fund",1.61,0.0,0.05,0.14,1.8,0.83,0.0,0.05,0.14,1.02
 "Franklin India Short-Term Income Plan (No. of Segregated Portfolios- 3)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 "Franklin India Smaller Companies Fund",1.58,0.0,0.05,0.12,1.75,0.75,0.0,0.05,0.12,0.92
 "Franklin India Technology Fund",1.97,0.0,0.05,0.14,2.16,0.93,0.0,0.05,0.14,1.12
@@ -1187,7 +1187,7 @@
 "Quant Absolute Fund",1.91,0.0,0.05,0.08,2.04,0.7,0.0,0.05,0.08,0.83
 "Quant Active Fund",1.62,0.0,0.05,0.08,1.75,0.58,0.0,0.05,0.08,0.71
 "Quant Bfsi Fund",2.25,0.0,0.05,0.08,2.38,0.59,0.0,0.05,0.08,0.72
-"Quant Business Cycle Fund",2.02,0.0,0.05,0.08,2.15,0.59,0.0,0.05,0.08,0.72
+"Quant Business Cycle Fund",2.01,0.0,0.05,0.08,2.14,0.59,0.0,0.05,0.08,0.72
 "Quant Commodities Fund",2.25,0.0,0.05,0.09,2.39,0.63,0.0,0.05,0.09,0.77
 "Quant Consumption Fund",2.25,0.0,0.05,0.09,2.39,0.63,0.0,0.05,0.09,0.77
 "Quant Dynamic Asset Allocation Fund",2.07,0.0,0.05,0.08,2.2,0.61,0.0,0.05,0.08,0.74
@@ -1199,12 +1199,12 @@
 "Quant Healthcare Fund",2.25,0.0,0.05,0.08,2.38,0.6,0.0,0.05,0.08,0.73
 "Quant Infrastructure Fund",1.81,0.0,0.05,0.08,1.94,0.6,0.0,0.05,0.08,0.73
 "Quant Large & Mid Cap Fund",1.86,0.0,0.05,0.07,1.98,0.63,0.0,0.05,0.07,0.75
-"Quant Large Cap Fund",2.1,0.0,0.05,0.07,2.22,0.54,0.0,0.05,0.07,0.66
+"Quant Large Cap Fund",2.09,0.0,0.05,0.07,2.21,0.54,0.0,0.05,0.07,0.66
 "Quant Liquid Fund",0.5,0.0,0.0,0.04,0.54,0.25,0.0,0.0,0.04,0.29
 "Quant Manufacturing Fund",2.21,0.0,0.05,0.09,2.35,0.66,0.0,0.05,0.09,0.8
 "Quant Mid Cap Fund",1.67,0.0,0.05,0.07,1.79,0.59,0.0,0.05,0.07,0.71
 "Quant Momentum Fund",1.96,0.0,0.05,0.09,2.1,0.63,0.0,0.05,0.09,0.77
-"Quant Multi Asset Fund",1.86,0.0,0.05,0.08,1.99,0.63,0.0,0.05,0.08,0.76
+"Quant Multi Asset Fund",1.85,0.0,0.05,0.08,1.98,0.63,0.0,0.05,0.08,0.76
 "Quant Overnight Fund",0.22,0.0,0.0,0.01,0.23,0.1,0.0,0.0,0.01,0.11
 "Quant PSU Fund",2.21,0.0,0.05,0.09,2.35,0.63,0.0,0.05,0.09,0.77
 "Quant Quantamental Fund",1.9,0.0,0.05,0.07,2.02,0.63,0.0,0.05,0.07,0.75
