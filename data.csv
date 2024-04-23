@@ -102,7 +102,7 @@
 "Axis Arbitrage Fund",0.98,0.0,0.0,0.02,1.0,0.28,0.0,0.0,0.02,0.3
 "Axis Balanced Advantage Fund",1.89,0.0,0.05,0.13,2.07,0.72,0.0,0.05,0.13,0.9
 "Axis Banking & PSU Debt Fund",0.58,0.0,0.0,0.05,0.63,0.29,0.0,0.0,0.05,0.34
-"Axis Bluechip Fund",1.43,0.0,0.05,0.09,1.57,0.51,0.0,0.05,0.08,0.64
+"Axis Bluechip Fund",1.43,0.0,0.05,0.08,1.56,0.51,0.0,0.05,0.08,0.64
 "Axis Business Cycles Fund",1.83,0.0,0.05,0.08,1.96,0.43,0.0,0.05,0.07,0.55
 "Axis Children's Gift Fund",2.13,0.0,0.0,0.21,2.34,0.99,0.0,0.0,0.17,1.16
 "Axis Corporate Debt Fund",0.9,0.0,0.0,0.05,0.95,0.26,0.0,0.0,0.04,0.3
@@ -354,7 +354,7 @@
 "DSP Global Innovation Fund of Fund",2.0,0.0,0.0,0.04,2.04,1.11,0.0,0.0,0.04,1.15
 "DSP Gold ETF",0.0,0.0,0.0,0.0,0.0,0.46,0.0,0.0,0.02,0.48
 "DSP Gold ETF Fund of Fund",1.0,0.0,0.0,0.0,1.0,0.62,0.0,0.0,0.0,0.62
-"DSP Healthcare Fund",1.87,0.0,0.05,0.09,2.01,0.53,0.0,0.05,0.09,0.67
+"DSP Healthcare Fund",1.86,0.0,0.05,0.09,2.0,0.52,0.0,0.05,0.09,0.66
 "DSP India T.I.G.E.R. Fund",1.77,0.0,0.05,0.15,1.97,0.88,0.0,0.05,0.15,1.08
 "DSP Liquidity Fund",0.25,0.0,0.0,0.02,0.27,0.13,0.0,0.0,0.02,0.15
 "DSP Low Duration Fund",0.6,0.0,0.0,0.04,0.64,0.27,0.0,0.0,0.04,0.31
@@ -468,7 +468,7 @@
 "Franklin India Prima Fund",1.61,0.0,0.05,0.14,1.8,0.83,0.0,0.05,0.14,1.02
 "Franklin India Short-Term Income Plan (No. of Segregated Portfolios- 3)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 "Franklin India Smaller Companies Fund",1.58,0.0,0.05,0.12,1.75,0.74,0.0,0.05,0.12,0.91
-"Franklin India Technology Fund",1.97,0.0,0.05,0.14,2.16,0.94,0.0,0.05,0.14,1.13
+"Franklin India Technology Fund",1.97,0.0,0.05,0.14,2.16,0.93,0.0,0.05,0.14,1.12
 "Groww Aggressive Hybrid Fund (Formerly Known as Indiabulls Equity Hybrid Fund)",2.25,0.0,0.05,0.0,2.3,0.8,0.0,0.05,0.0,0.85
 "Groww Aggressive Hybrid Fund (Formerly Known as Indiabulls Equity Hybrid Fund)",2.25,0.0,0.05,0.0,2.3,0.8,0.0,0.05,0.0,0.85
 "Groww Banking & Financial Services Fund",2.25,0.0,0.05,0.0,2.3,0.31,0.0,0.05,0.0,0.36
@@ -1251,13 +1251,13 @@
 "SBI Equity Minimum Variance Fund",0.7,0.0,0.0,0.04,0.74,0.37,0.0,0.0,0.04,0.41
 "SBI Equity Savings Fund",1.05,0.0,0.05,0.09,1.19,0.53,0.0,0.05,0.09,0.67
 "SBI ESG Exclusionary Strategy Fund",1.7,0.0,0.05,0.18,1.93,1.08,0.0,0.05,0.18,1.31
-"SBI ESG Exclusionary Strategy Fund",1.71,0.0,0.05,0.19,1.95,1.09,0.0,0.05,0.19,1.33
+"SBI ESG Exclusionary Strategy Fund",1.71,0.0,0.05,0.18,1.94,1.09,0.0,0.05,0.18,1.32
 "SBI Flexicap Fund",1.51,0.0,0.05,0.11,1.67,0.67,0.0,0.05,0.11,0.83
 "SBI Floating Rate Debt Fund",0.43,0.0,0.0,0.03,0.46,0.23,0.0,0.0,0.03,0.26
 "SBI Focused Equity Fund",1.44,0.0,0.05,0.1,1.59,0.6,0.0,0.05,0.1,0.75
 "SBI Gold ETF",0.58,0.0,0.0,0.07,0.65,0.0,0.0,0.0,0.0,0.0
 "SBI Gold Fund",0.42,0.0,0.0,0.0,0.42,0.1,0.0,0.0,0.0,0.1
-"SBI Healthcare Opportunities Fund",1.84,0.0,0.05,0.13,2.02,0.78,0.0,0.05,0.13,0.96
+"SBI Healthcare Opportunities Fund",1.83,0.0,0.05,0.13,2.01,0.77,0.0,0.05,0.13,0.95
 "SBI Infrastructure Fund",1.8,0.0,0.05,0.19,2.04,1.13,0.0,0.05,0.19,1.37
 "SBI International Access - US Equity FoF",1.47,0.0,0.0,0.13,1.6,0.77,0.0,0.0,0.13,0.9
 "SBI Large & Midcap Fund",1.5,0.0,0.05,0.1,1.65,0.6,0.0,0.05,0.1,0.75
