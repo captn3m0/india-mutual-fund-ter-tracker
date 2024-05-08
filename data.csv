@@ -465,7 +465,7 @@
 "Franklin India Opportunities Fund",1.78,0.0,0.05,0.08,1.91,0.52,0.0,0.05,0.08,0.65
 "Franklin India Overnight Fund",0.14,0.0,0.0,0.01,0.15,0.09,0.0,0.0,0.01,0.1
 "Franklin India Pension Plan",2.0,0.0,0.05,0.22,2.27,1.24,0.0,0.05,0.22,1.51
-"Franklin India Prima Fund",1.6,0.0,0.05,0.13,1.78,0.79,0.0,0.05,0.13,0.97
+"Franklin India Prima Fund",1.6,0.0,0.05,0.13,1.78,0.78,0.0,0.05,0.13,0.96
 "Franklin India Short-Term Income Plan (No. of Segregated Portfolios- 3)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 "Franklin India Smaller Companies Fund",1.58,0.0,0.05,0.13,1.76,0.76,0.0,0.05,0.13,0.94
 "Franklin India Technology Fund",1.97,0.0,0.05,0.15,2.17,0.95,0.0,0.05,0.15,1.15
@@ -594,8 +594,8 @@
 "HSBC Gilt Fund",1.64,0.0,0.0,0.06,1.7,0.42,0.0,0.0,0.06,0.48
 "HSBC Global Emerging Markets Fund",1.36,0.0,0.05,0.1,1.51,0.65,0.0,0.05,0.1,0.8
 "HSBC Global Equity Climate Change Fund of Fund",1.3,0.0,0.05,0.1,1.45,0.65,0.0,0.05,0.1,0.8
-"HSBC Infrastructure Fund",1.86,0.0,0.05,0.14,2.05,0.82,0.0,0.05,0.14,1.01
-"HSBC Large & Mid Cap Fund",1.81,0.0,0.05,0.13,1.99,0.77,0.0,0.05,0.13,0.95
+"HSBC Infrastructure Fund",1.85,0.0,0.05,0.14,2.04,0.81,0.0,0.05,0.14,1.0
+"HSBC Large & Mid Cap Fund",1.8,0.0,0.05,0.13,1.98,0.76,0.0,0.05,0.13,0.94
 "HSBC Large Cap Fund",1.92,0.0,0.05,0.16,2.13,0.97,0.0,0.05,0.16,1.18
 "HSBC Liquid Fund",0.22,0.0,0.0,0.0,0.22,0.12,0.0,0.0,0.0,0.12
 "HSBC Low Duration Fund",0.61,0.0,0.0,0.03,0.64,0.22,0.0,0.0,0.03,0.25
@@ -905,7 +905,7 @@
 "LIC MF Money Market Fund",1.0,0.0,0.0,0.02,1.02,0.57,0.0,0.0,0.02,0.59
 "LIC MF Multi Cap Fund",2.06,0.0,0.05,0.06,2.17,0.4,0.0,0.05,0.06,0.51
 "LIC MF Nifty 100 ETF",0.25,0.0,0.0,0.03,0.28,0.0,0.0,0.0,0.0,0.0
-"LIC MF Nifty 50 ETF",0.1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0
+"LIC MF Nifty 50 ETF",0.06,0.0,0.0,0.0,0.06,0.0,0.0,0.0,0.0,0.0
 "LIC MF Nifty 50 Index Fund",1.0,0.0,0.0,0.01,1.01,0.19,0.0,0.0,0.01,0.2
 "LIC MF Nifty 8-13 Yr G-SEC ETF",0.15,0.0,0.0,0.01,0.16,0.0,0.0,0.0,0.0,0.0
 "LIC MF Nifty Midcap 100 ETF",0.15,0.0,0.0,0.01,0.16,0.0,0.0,0.0,0.0,0.0
@@ -1160,7 +1160,7 @@
 "PGIM India Corporate Bond Fund",1.0,0.0,0.0,0.03,1.03,0.28,0.0,0.0,0.01,0.29
 "PGIM India CRISIL IBX Gilt Index - APR 2028 Fund",0.5,0.0,0.0,0.01,0.51,0.35,0.0,0.0,0.01,0.36
 "PGIM India Dynamic Bond Fund",1.6,0.0,0.0,0.04,1.64,0.31,0.0,0.0,0.04,0.35
-"PGIM India ELSS Tax Saver Fund",2.19,0.0,0.0,0.1,2.29,0.68,0.0,0.0,0.1,0.78
+"PGIM India ELSS Tax Saver Fund",2.19,0.0,0.0,0.1,2.29,0.67,0.0,0.0,0.1,0.77
 "PGIM India Emerging Markets Equity Fund",1.5,0.0,0.05,0.07,1.62,0.47,0.0,0.05,0.07,0.59
 "PGIM India Equity Savings Fund",1.26,0.0,0.0,0.05,1.31,0.47,0.0,0.0,0.05,0.52
 "PGIM India Flexi Cap Fund",1.69,0.0,0.05,0.05,1.79,0.33,0.0,0.05,0.05,0.43
@@ -1178,7 +1178,7 @@
 "PGIM India Small Cap Fund",1.97,0.0,0.05,0.07,2.09,0.41,0.0,0.05,0.06,0.52
 "PGIM India Ultra Short Duration Fund",0.85,0.0,0.0,0.05,0.9,0.24,0.0,0.0,0.03,0.27
 "Quant Absolute Fund",1.9,0.0,0.05,0.08,2.03,0.62,0.0,0.05,0.08,0.75
-"Quant Active Fund",1.62,0.0,0.05,0.06,1.73,0.51,0.0,0.05,0.06,0.62
+"Quant Active Fund",1.61,0.0,0.05,0.06,1.72,0.51,0.0,0.05,0.06,0.62
 "Quant Bfsi Fund",2.24,0.0,0.05,0.07,2.36,0.56,0.0,0.05,0.07,0.68
 "Quant Business Cycle Fund",2.01,0.0,0.05,0.06,2.12,0.51,0.0,0.05,0.06,0.62
 "Quant Commodities Fund",2.25,0.0,0.05,0.09,2.39,0.66,0.0,0.05,0.09,0.8
@@ -1196,11 +1196,11 @@
 "Quant Liquid Fund",0.5,0.0,0.0,0.04,0.54,0.25,0.0,0.0,0.04,0.29
 "Quant Manufacturing Fund",2.19,0.0,0.05,0.08,2.32,0.62,0.0,0.05,0.08,0.75
 "Quant Mid Cap Fund",1.66,0.0,0.05,0.06,1.77,0.51,0.0,0.05,0.06,0.62
-"Quant Momentum Fund",1.94,0.0,0.05,0.08,2.07,0.61,0.0,0.05,0.08,0.74
+"Quant Momentum Fund",1.93,0.0,0.05,0.08,2.06,0.61,0.0,0.05,0.08,0.74
 "Quant Multi Asset Fund",1.83,0.0,0.05,0.08,1.96,0.54,0.0,0.05,0.08,0.67
 "Quant Overnight Fund",0.22,0.0,0.0,0.01,0.23,0.15,0.0,0.0,0.01,0.16
-"Quant PSU Fund",2.19,0.0,0.05,0.1,2.34,0.68,0.0,0.05,0.1,0.83
-"Quant Quantamental Fund",1.89,0.0,0.05,0.07,2.01,0.52,0.0,0.05,0.07,0.64
+"Quant PSU Fund",2.18,0.0,0.05,0.1,2.33,0.68,0.0,0.05,0.1,0.83
+"Quant Quantamental Fund",1.88,0.0,0.05,0.07,2.0,0.52,0.0,0.05,0.07,0.64
 "Quant Small Cap Fund",1.52,0.0,0.05,0.07,1.64,0.52,0.0,0.05,0.07,0.64
 "Quant Teck Fund",2.25,0.0,0.05,0.09,2.39,0.64,0.0,0.05,0.09,0.78
 "Quant Value Fund",1.94,0.0,0.05,0.05,2.04,0.41,0.0,0.05,0.05,0.51
@@ -1403,7 +1403,7 @@
 "Taurus Mid Cap Fund",2.23,0.0,0.05,0.28,2.56,1.83,0.0,0.05,0.28,2.16
 "Taurus Nifty 50 Index Fund",0.99,0.0,0.05,0.0,1.04,0.73,0.0,0.05,0.0,0.78
 "Templeton India Equity Income Fund",1.89,0.0,0.05,0.18,2.12,1.07,0.0,0.05,0.18,1.3
-"Templeton India Value Fund",1.91,0.0,0.05,0.12,2.08,0.73,0.0,0.05,0.12,0.9
+"Templeton India Value Fund",1.91,0.0,0.05,0.12,2.08,0.72,0.0,0.05,0.12,0.89
 "TRUSTMF Banking & PSU Fund",0.7,0.0,0.0,0.01,0.71,0.2,0.0,0.0,0.01,0.21
 "TRUSTMF Corporate Bond Fund",0.63,0.0,0.0,0.02,0.65,0.23,0.0,0.0,0.02,0.25
 "TRUSTMF Flexi Cap Fund",2.24,0.0,0.05,0.05,2.34,0.4,0.0,0.05,0.05,0.5
@@ -1462,10 +1462,10 @@
 "UTI - S&P BSE SENSEX Next 50 Exchange Traded Fund",0.2,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0
 "UTI - Transportation and Logistics Fund",1.79,0.0,0.05,0.1,1.94,0.64,0.0,0.05,0.1,0.79
 "UTI - Unit Linked Insurance Plan",1.46,0.0,0.05,0.13,1.64,0.75,0.0,0.05,0.13,0.93
-"UTI Aggressive Hybrid Fund",1.71,0.0,0.05,0.19,1.95,1.08,0.0,0.05,0.19,1.32
+"UTI Aggressive Hybrid Fund",1.7,0.0,0.05,0.19,1.94,1.08,0.0,0.05,0.19,1.32
 "UTI Balanced Advantage Fund",1.82,0.0,0.05,0.02,1.89,0.31,0.0,0.05,0.02,0.38
 "UTI Banking & PSU Fund",0.55,0.0,0.0,0.03,0.58,0.22,0.0,0.0,0.03,0.25
-"UTI Children's Equity Fund",2.07,0.0,0.05,0.14,2.26,0.98,0.0,0.05,0.14,1.17
+"UTI Children's Equity Fund",2.06,0.0,0.05,0.14,2.25,0.97,0.0,0.05,0.14,1.16
 "UTI Children's Hybrid Fund",1.49,0.0,0.05,0.18,1.72,1.28,0.0,0.05,0.18,1.51
 "UTI Conservative Hybrid Fund",1.59,0.0,0.05,0.16,1.8,0.98,0.0,0.05,0.16,1.19
 "UTI CRISIL SDL Maturity April 2033 Index Fund",0.4,0.0,0.0,0.02,0.42,0.14,0.0,0.0,0.02,0.16
