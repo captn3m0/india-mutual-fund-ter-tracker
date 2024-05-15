@@ -168,7 +168,7 @@
 "Axis Ultra Short Term Fund",1.12,0.0,0.0,0.04,1.16,0.24,0.0,0.0,0.04,0.28
 "Axis US Treasury Dynamic Bond ETF Fund of Fund",0.14,0.0,0.0,0.0,0.14,0.09,0.0,0.0,0.0,0.09
 "Axis Value Fund",2.22,0.0,0.05,0.14,2.41,0.86,0.0,0.05,0.15,1.06
-"Bajaj Finserv Arbitrage Fund",0.94,0.0,0.0,0.04,0.98,0.24,0.0,0.0,0.04,0.28
+"Bajaj Finserv Arbitrage Fund",0.94,0.0,0.0,0.03,0.97,0.24,0.0,0.0,0.03,0.27
 "Bajaj Finserv Balanced Advantage Fund",2.04,0.0,0.05,0.05,2.14,0.45,0.0,0.05,0.05,0.55
 "Bajaj Finserv Banking and PSU Fund",0.85,0.0,0.0,0.04,0.89,0.3,0.0,0.0,0.04,0.34
 "Bajaj Finserv Flexi Cap Fund",1.83,0.0,0.05,0.03,1.91,0.33,0.0,0.05,0.03,0.41
@@ -757,21 +757,21 @@
 "Invesco India Gold ETF Fund of Fund",0.45,0.0,0.0,0.0,0.45,0.2,0.0,0.0,0.0,0.2
 "Invesco India Gold Exchange Traded Fund",0.55,0.0,0.0,0.0,0.55,0.0,0.0,0.0,0.0,0.0
 "Invesco India Infrastructure Fund",2.03,0.0,0.05,0.09,2.17,0.65,0.0,0.05,0.09,0.79
-"Invesco India Large & Mid Cap Fund",1.72,0.0,0.05,0.08,1.85,0.54,0.0,0.05,0.08,0.67
+"Invesco India Large & Mid Cap Fund",1.71,0.0,0.05,0.08,1.84,0.54,0.0,0.05,0.08,0.67
 "Invesco India Largecap Fund",2.05,0.0,0.0,0.09,2.14,0.67,0.0,0.0,0.09,0.76
 "Invesco India Liquid Fund",0.22,0.0,0.0,0.0,0.22,0.15,0.0,0.0,0.0,0.15
 "Invesco India Low Duration Fund",0.6,0.0,0.0,0.0,0.6,0.32,0.0,0.0,0.0,0.32
 "Invesco India Medium Duration Fund",1.25,0.0,0.0,0.05,1.3,0.35,0.0,0.0,0.05,0.4
-"Invesco India Midcap Fund",1.74,0.0,0.05,0.07,1.86,0.49,0.0,0.05,0.07,0.61
+"Invesco India Midcap Fund",1.73,0.0,0.05,0.07,1.85,0.49,0.0,0.05,0.07,0.61
 "Invesco India Money Market Fund",0.45,0.0,0.0,0.02,0.47,0.2,0.0,0.0,0.02,0.22
-"Invesco India Multicap Fund",1.79,0.0,0.05,0.08,1.92,0.53,0.0,0.05,0.08,0.66
+"Invesco India Multicap Fund",1.78,0.0,0.05,0.08,1.91,0.53,0.0,0.05,0.08,0.66
 "Invesco India Nifty 50 Exchange Traded Fund",0.1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0
 "Invesco India Nifty G-SEC JUL 2027 Index Fund",0.29,0.0,0.0,0.0,0.29,0.14,0.0,0.0,0.0,0.14
 "Invesco India Nifty G-SEC SEP 2032 Index Fund",0.29,0.0,0.0,0.0,0.29,0.14,0.0,0.0,0.0,0.14
 "Invesco India Overnight Fund",0.12,0.0,0.0,0.0,0.12,0.06,0.0,0.0,0.0,0.06
 "Invesco India PSU Equity Fund",2.07,0.0,0.05,0.12,2.24,0.76,0.0,0.05,0.12,0.93
 "Invesco India Short Duration Fund",1.11,0.0,0.0,0.04,1.15,0.31,0.0,0.0,0.04,0.35
-"Invesco India Smallcap Fund",1.76,0.0,0.05,0.05,1.86,0.36,0.0,0.05,0.05,0.46
+"Invesco India Smallcap Fund",1.75,0.0,0.05,0.05,1.85,0.36,0.0,0.05,0.05,0.46
 "Invesco India Ultra Short Duration Fund",0.89,0.0,0.0,0.0,0.89,0.24,0.0,0.0,0.0,0.24
 "ITI Arbitrage Fund",0.92,0.0,0.0,0.01,0.93,0.2,0.0,0.0,0.01,0.21
 "ITI Balanced Advantage Fund",2.25,0.0,0.05,0.06,2.36,0.51,0.0,0.05,0.06,0.62
@@ -1104,7 +1104,7 @@
 "Nippon India Index Fund - S&P BSE SENSEX Plan",0.58,0.0,0.0,0.0,0.58,0.2,0.0,0.0,0.0,0.2
 "Nippon India Innovation Fund",1.96,0.0,0.05,0.11,2.12,0.65,0.0,0.05,0.11,0.81
 "Nippon India Japan Equity Fund",2.24,0.0,0.05,0.16,2.45,0.99,0.0,0.05,0.16,1.2
-"Nippon India Large Cap Fund",1.48,0.0,0.05,0.1,1.63,0.61,0.0,0.05,0.1,0.76
+"Nippon India Large Cap Fund",1.47,0.0,0.05,0.1,1.62,0.6,0.0,0.05,0.1,0.75
 "Nippon India Liquid Fund",0.34,0.0,0.0,0.0,0.34,0.2,0.0,0.0,0.0,0.2
 "Nippon India Low Duration Fund",0.91,0.0,0.0,0.04,0.95,0.33,0.0,0.0,0.04,0.37
 "Nippon India Money Market Fund",0.34,0.0,0.0,0.02,0.36,0.22,0.0,0.0,0.02,0.24
@@ -1129,7 +1129,7 @@
 "Nippon India Nivesh Lakshya Fund",0.57,0.0,0.0,0.03,0.6,0.27,0.0,0.0,0.03,0.3
 "Nippon India Overnight Fund",0.17,0.0,0.0,0.0,0.17,0.08,0.0,0.0,0.0,0.08
 "Nippon India Passive Flexicap FoF",0.55,0.0,0.0,0.02,0.57,0.15,0.0,0.0,0.02,0.17
-"Nippon India Pharma Fund",1.65,0.0,0.05,0.13,1.83,0.75,0.0,0.05,0.13,0.93
+"Nippon India Pharma Fund",1.64,0.0,0.05,0.13,1.82,0.74,0.0,0.05,0.13,0.92
 "Nippon India Power & Infra Fund",1.71,0.0,0.05,0.16,1.92,0.95,0.0,0.05,0.16,1.16
 "Nippon India Quant Fund",0.92,0.0,0.0,0.06,0.98,0.44,0.0,0.0,0.06,0.5
 "Nippon India Retirement Fund- Income Generation Scheme",1.95,0.0,0.0,0.15,2.1,0.91,0.0,0.0,0.15,1.06
@@ -1137,8 +1137,8 @@
 "Nippon India Short Term Fund",0.9,0.0,0.0,0.04,0.94,0.33,0.0,0.0,0.04,0.37
 "Nippon India Silver ETF",0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.01,0.51
 "Nippon India Silver ETF FoF",0.5,0.0,0.05,0.03,0.58,0.17,0.0,0.05,0.03,0.25
-"Nippon India Small Cap Fund",1.34,0.0,0.05,0.09,1.48,0.55,0.0,0.05,0.09,0.69
-"Nippon India Strategic Debt Fund (Number of Segregated Portfolios - 2)",0.94,0.0,0.05,0.07,1.06,0.39,0.0,0.05,0.07,0.51
+"Nippon India Small Cap Fund",1.33,0.0,0.05,0.09,1.47,0.54,0.0,0.05,0.09,0.68
+"Nippon India Strategic Debt Fund (Number of Segregated Portfolios - 2)",0.94,0.0,0.05,0.07,1.06,0.38,0.0,0.05,0.07,0.5
 "Nippon India Taiwan Equity Fund",2.25,0.0,0.05,0.13,2.43,0.86,0.0,0.05,0.13,1.04
 "Nippon India Ultra Short Duration Fund (Number of Segregated Portfolio -1)",1.09,0.0,0.0,0.04,1.13,0.34,0.0,0.0,0.04,0.38
 "Nippon India US Equity Opportunites Fund",2.18,0.0,0.05,0.17,2.4,1.05,0.0,0.05,0.17,1.27
@@ -1285,7 +1285,7 @@
 "SBI Nifty Smallcap 250 Index Fund",0.95,0.0,0.0,0.06,1.01,0.35,0.0,0.0,0.06,0.41
 "SBI Nifty50 Equal Weight Index Fund",0.95,0.0,0.0,0.07,1.02,0.45,0.0,0.0,0.07,0.52
 "SBI Overnight Fund",0.14,0.0,0.0,0.01,0.15,0.06,0.0,0.0,0.01,0.07
-"SBI PSU Fund",1.84,0.0,0.05,0.11,2.0,0.7,0.0,0.05,0.11,0.86
+"SBI PSU Fund",1.83,0.0,0.05,0.11,1.99,0.69,0.0,0.05,0.11,0.85
 "SBI Retirement Benefit Fund - Aggressive Hybrid Plan",1.98,0.0,0.0,0.14,2.12,0.91,0.0,0.0,0.14,1.05
 "SBI Retirement Benefit Fund - Aggressive Plan",1.86,0.0,0.0,0.11,1.97,0.72,0.0,0.0,0.11,0.83
 "SBI Retirement Benefit Fund - Conservative Hybrid Plan",1.5,0.0,0.0,0.16,1.66,0.97,0.0,0.0,0.16,1.13
