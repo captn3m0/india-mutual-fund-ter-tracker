@@ -262,14 +262,14 @@
 "Bank of India Small Cap Fund",2.03,0.0,0.05,0.06,2.14,0.5,0.0,0.05,0.06,0.61
 "Bank of India Small Cap Fund",2.05,0.0,0.05,0.06,2.16,0.52,0.0,0.05,0.06,0.63
 "Bank of India Ultra Short Duration Fund",1.1,0.0,0.0,0.09,1.19,0.58,0.0,0.0,0.09,0.67
-"Baroda BNP Paribas Aggressive Hybrid Fund",2.05,0.0,0.05,0.06,2.16,0.42,0.0,0.05,0.06,0.53
+"Baroda BNP Paribas Aggressive Hybrid Fund",2.05,0.0,0.05,0.06,2.16,0.41,0.0,0.05,0.06,0.52
 "Baroda BNP Paribas Aqua Fund of Fund",1.5,0.0,0.05,0.05,1.6,0.44,0.0,0.05,0.05,0.54
 "Baroda BNP Paribas Arbitrage Fund",1.03,0.0,0.0,0.04,1.07,0.34,0.0,0.0,0.04,0.38
 "Baroda BNP Paribas Balanced Advantage Fund",1.76,0.0,0.05,0.09,1.9,0.58,0.0,0.05,0.09,0.72
 "Baroda BNP Paribas Banking and Financial Services Fund",2.24,0.0,0.05,0.17,2.46,1.04,0.0,0.05,0.17,1.26
 "Baroda BNP Paribas Banking and PSU Bond Fund",0.75,0.0,0.0,0.04,0.79,0.35,0.0,0.0,0.04,0.39
 "Baroda BNP Paribas Business Cycle Fund",2.24,0.0,0.05,0.16,2.45,0.99,0.0,0.05,0.16,1.2
-"Baroda BNP Paribas Conservative Hybrid Fund",1.95,0.0,0.05,0.07,2.07,0.43,0.0,0.05,0.07,0.55
+"Baroda BNP Paribas Conservative Hybrid Fund",1.94,0.0,0.05,0.07,2.06,0.43,0.0,0.05,0.07,0.55
 "Baroda BNP Paribas Corporate Bond Fund",0.56,0.0,0.0,0.02,0.58,0.18,0.0,0.0,0.02,0.2
 "Baroda BNP Paribas Credit Risk Fund (Scheme has One Segregated Portfolio))",1.49,0.0,0.0,0.11,1.6,0.68,0.0,0.0,0.11,0.79
 "Baroda BNP Paribas Dynamic Bond Fund",1.6,0.0,0.0,0.09,1.69,0.62,0.0,0.0,0.09,0.71
@@ -277,7 +277,7 @@
 "Baroda BNP Paribas Equity Savings Fund",2.25,0.0,0.05,0.2,2.5,1.24,0.0,0.05,0.2,1.49
 "Baroda BNP Paribas Flexi Cap Fund",1.98,0.0,0.05,0.12,2.15,0.76,0.0,0.05,0.12,0.93
 "Baroda BNP Paribas Floater Fund",0.62,0.0,0.0,0.02,0.64,0.22,0.0,0.0,0.02,0.24
-"Baroda BNP Paribas Focused Fund",2.2,0.0,0.05,0.05,2.3,0.4,0.0,0.05,0.05,0.5
+"Baroda BNP Paribas Focused Fund",2.2,0.0,0.05,0.05,2.3,0.39,0.0,0.05,0.05,0.49
 "Baroda BNP Paribas Gilt Fund",0.44,0.0,0.0,0.01,0.45,0.13,0.0,0.0,0.01,0.14
 "Baroda BNP Paribas Gold ETF",0.42,0.0,0.0,0.06,0.48,0.0,0.0,0.0,0.0,0.0
 "Baroda BNP Paribas India Consumption Fund",1.99,0.0,0.05,0.08,2.12,0.57,0.0,0.05,0.08,0.7
@@ -1264,13 +1264,13 @@
 "SBI Magnum Comma Fund",2.2,0.0,0.05,0.28,2.53,1.64,0.0,0.05,0.28,1.97
 "SBI Magnum Constant Maturity Fund",0.6,0.0,0.0,0.04,0.64,0.27,0.0,0.0,0.04,0.31
 "SBI Magnum Gilt Fund",0.88,0.0,0.0,0.06,0.94,0.4,0.0,0.0,0.06,0.46
-"SBI Magnum Global Fund",1.67,0.0,0.05,0.17,1.89,0.98,0.0,0.05,0.17,1.2
+"SBI Magnum Global Fund",1.67,0.0,0.05,0.16,1.88,0.98,0.0,0.05,0.16,1.19
 "SBI Magnum Income Fund",1.35,0.0,0.0,0.11,1.46,0.68,0.0,0.0,0.11,0.79
 "SBI Magnum Low Duration Fund",0.96,0.0,0.0,0.06,1.02,0.37,0.0,0.0,0.06,0.43
 "SBI Magnum Medium Duration Fund",1.12,0.0,0.0,0.09,1.21,0.59,0.0,0.0,0.09,0.68
 "SBI Magnum Midcap Fund",1.53,0.0,0.05,0.11,1.69,0.66,0.0,0.05,0.11,0.82
 "SBI Magnum Ultra Short Duration Fund",0.5,0.0,0.0,0.04,0.54,0.27,0.0,0.0,0.04,0.31
-"SBI Multi Asset Allocation Fund",1.38,0.0,0.05,0.07,1.5,0.44,0.0,0.05,0.07,0.56
+"SBI Multi Asset Allocation Fund",1.37,0.0,0.05,0.07,1.49,0.43,0.0,0.05,0.07,0.55
 "SBI Multicap Fund",1.54,0.0,0.05,0.12,1.71,0.73,0.0,0.05,0.12,0.9
 "SBI Nifty 10 Yr Benchmark G-SEC ETF",0.14,0.0,0.0,0.0,0.14,0.0,0.0,0.0,0.0,0.0
 "SBI Nifty 1D Rate ETF",0.35,0.0,0.0,0.0,0.35,0.0,0.0,0.0,0.0,0.0
@@ -1287,9 +1287,9 @@
 "SBI Nifty Smallcap 250 Index Fund",0.95,0.0,0.0,0.06,1.01,0.35,0.0,0.0,0.06,0.41
 "SBI Nifty50 Equal Weight Index Fund",0.95,0.0,0.0,0.07,1.02,0.45,0.0,0.0,0.07,0.52
 "SBI Overnight Fund",0.14,0.0,0.0,0.01,0.15,0.06,0.0,0.0,0.01,0.07
-"SBI PSU Fund",1.83,0.0,0.05,0.11,1.99,0.69,0.0,0.05,0.11,0.85
-"SBI Retirement Benefit Fund - Aggressive Hybrid Plan",1.98,0.0,0.0,0.14,2.12,0.91,0.0,0.0,0.14,1.05
-"SBI Retirement Benefit Fund - Aggressive Plan",1.86,0.0,0.0,0.11,1.97,0.72,0.0,0.0,0.11,0.83
+"SBI PSU Fund",1.82,0.0,0.05,0.11,1.98,0.68,0.0,0.05,0.11,0.84
+"SBI Retirement Benefit Fund - Aggressive Hybrid Plan",1.97,0.0,0.0,0.14,2.11,0.9,0.0,0.0,0.14,1.04
+"SBI Retirement Benefit Fund - Aggressive Plan",1.85,0.0,0.0,0.11,1.96,0.71,0.0,0.0,0.11,0.82
 "SBI Retirement Benefit Fund - Conservative Hybrid Plan",1.5,0.0,0.0,0.16,1.66,0.97,0.0,0.0,0.16,1.13
 "SBI Retirement Benefit Fund - Conservative Plan",1.25,0.0,0.0,0.13,1.38,0.79,0.0,0.0,0.13,0.92
 "SBI S&P BSE 100 ETF",0.14,0.0,0.0,0.0,0.14,0.0,0.0,0.0,0.0,0.0
@@ -1421,17 +1421,17 @@
 "Union Children's Fund",2.25,0.0,0.0,0.09,2.34,0.71,0.0,0.0,0.09,0.8
 "Union Corporate Bond Fund",0.65,0.0,0.0,0.04,0.69,0.34,0.0,0.0,0.04,0.38
 "Union Dynamic Bond Fund",1.33,0.0,0.0,0.17,1.5,1.07,0.0,0.0,0.17,1.24
-"Union ELSS Tax Saver Fund (Formerly Union Tax Saver (ELSS) Fund",2.11,0.0,0.0,0.18,2.29,1.19,0.0,0.0,0.18,1.37
+"Union ELSS Tax Saver Fund (Formerly Union Tax Saver (ELSS) Fund",2.1,0.0,0.0,0.18,2.28,1.18,0.0,0.0,0.18,1.36
 "Union Equity Savings Fund",1.8,0.0,0.0,0.19,1.99,1.29,0.0,0.0,0.19,1.48
 "Union Flexi Cap Fund",1.89,0.0,0.05,0.1,2.04,0.7,0.0,0.05,0.1,0.85
 "Union Focused Fund",2.25,0.0,0.05,0.18,2.48,1.23,0.0,0.05,0.18,1.46
 "Union Gilt Fund",1.11,0.0,0.0,0.09,1.2,0.61,0.0,0.0,0.09,0.7
 "Union Innovation & Opportunities Fund",2.19,0.0,0.05,0.08,2.32,0.61,0.0,0.05,0.08,0.74
-"Union Large & Midcap Fund",2.17,0.0,0.05,0.1,2.32,0.74,0.0,0.05,0.1,0.89
+"Union Large & Midcap Fund",2.16,0.0,0.05,0.1,2.31,0.73,0.0,0.05,0.1,0.88
 "Union Largecap Fund",2.25,0.0,0.05,0.22,2.52,1.41,0.0,0.05,0.22,1.68
 "Union Liquid Fund",0.18,0.0,0.0,0.0,0.18,0.08,0.0,0.0,0.0,0.08
 "Union Medium Duration Fund",0.82,0.0,0.0,0.08,0.9,0.56,0.0,0.0,0.08,0.64
-"Union Midcap Fund",2.02,0.0,0.05,0.06,2.13,0.5,0.0,0.05,0.06,0.61
+"Union Midcap Fund",2.01,0.0,0.05,0.06,2.12,0.49,0.0,0.05,0.06,0.6
 "Union Money Market Fund",0.99,0.0,0.0,0.02,1.01,0.25,0.0,0.0,0.02,0.27
 "Union Multicap Fund",2.09,0.0,0.05,0.11,2.25,0.75,0.0,0.05,0.11,0.91
 "Union Overnight Fund",0.17,0.0,0.0,0.0,0.17,0.07,0.0,0.0,0.0,0.07
