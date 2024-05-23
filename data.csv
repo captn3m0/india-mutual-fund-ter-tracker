@@ -318,17 +318,17 @@
 "Canara Robeco Corporate Bond Fund",0.98,0.0,0.0,0.05,1.03,0.34,0.0,0.0,0.04,0.38
 "Canara Robeco Dynamic Bond Fund",1.66,0.0,0.0,0.09,1.75,0.58,0.0,0.0,0.08,0.66
 "Canara Robeco ELSS Tax Saver",1.64,0.0,0.0,0.06,1.7,0.47,0.0,0.0,0.06,0.53
-"Canara Robeco Emerging Equities",1.5,0.0,0.05,0.07,1.62,0.45,0.0,0.05,0.07,0.57
+"Canara Robeco Emerging Equities",1.5,0.0,0.05,0.07,1.62,0.45,0.0,0.05,0.06,0.56
 "Canara Robeco Equity Hybrid Fund",1.61,0.0,0.05,0.07,1.73,0.46,0.0,0.05,0.07,0.58
 "Canara Robeco Flexi Cap Fund",1.58,0.0,0.05,0.06,1.69,0.42,0.0,0.05,0.06,0.53
-"Canara Robeco Focused Equity Fund",1.87,0.0,0.05,0.05,1.97,0.37,0.0,0.05,0.05,0.47
+"Canara Robeco Focused Equity Fund",1.86,0.0,0.05,0.05,1.96,0.36,0.0,0.05,0.05,0.46
 "Canara Robeco Gilt Fund",1.19,0.0,0.0,0.06,1.25,0.46,0.0,0.0,0.06,0.52
 "Canara Robeco Income Fund",1.78,0.0,0.0,0.1,1.88,0.64,0.0,0.0,0.1,0.74
-"Canara Robeco Infrastructure",2.19,0.0,0.05,0.15,2.39,0.88,0.0,0.05,0.14,1.07
+"Canara Robeco Infrastructure",2.18,0.0,0.05,0.15,2.38,0.88,0.0,0.05,0.14,1.07
 "Canara Robeco Liquid Fund",0.18,0.0,0.0,0.01,0.19,0.11,0.0,0.0,0.01,0.12
 "Canara Robeco Manufacturing Fund",1.98,0.0,0.05,0.05,2.08,0.38,0.0,0.05,0.05,0.48
-"Canara Robeco Mid Cap Fund",1.87,0.0,0.05,0.07,1.99,0.47,0.0,0.05,0.07,0.59
-"Canara Robeco Multi Cap Fund",1.88,0.0,0.05,0.06,1.99,0.42,0.0,0.05,0.06,0.53
+"Canara Robeco Mid Cap Fund",1.87,0.0,0.05,0.06,1.98,0.47,0.0,0.05,0.06,0.58
+"Canara Robeco Multi Cap Fund",1.87,0.0,0.05,0.06,1.98,0.41,0.0,0.05,0.06,0.52
 "Canara Robeco Overnight Fund",0.11,0.0,0.0,0.0,0.11,0.1,0.0,0.0,0.0,0.1
 "Canara Robeco Savings Fund",0.54,0.0,0.0,0.05,0.59,0.26,0.0,0.0,0.03,0.29
 "Canara Robeco Short Duration Fund",0.97,0.0,0.0,0.05,1.02,0.36,0.0,0.0,0.05,0.41
@@ -798,7 +798,7 @@
 "JM Arbitrage Fund",1.03,0.0,0.0,0.03,1.06,0.33,0.0,0.0,0.03,0.36
 "JM Dynamic Bond Fund",0.92,0.0,0.0,0.05,0.97,0.47,0.0,0.0,0.05,0.52
 "JM ELSS Tax Saver Fund",2.24,0.0,0.0,0.13,2.37,1.0,0.0,0.0,0.13,1.13
-"JM Flexicap Fund",1.86,0.0,0.05,0.03,1.94,0.37,0.0,0.05,0.03,0.45
+"JM Flexicap Fund",1.85,0.0,0.05,0.03,1.93,0.36,0.0,0.05,0.03,0.44
 "JM Focused Fund",2.24,0.0,0.05,0.1,2.39,0.77,0.0,0.05,0.1,0.92
 "JM Large Cap Fund",2.25,0.0,0.05,0.11,2.41,0.85,0.0,0.05,0.11,1.01
 "JM Liquid Fund",0.25,0.0,0.0,0.01,0.26,0.15,0.0,0.0,0.01,0.16
@@ -1411,7 +1411,7 @@
 "Templeton India Value Fund",1.91,0.0,0.05,0.12,2.08,0.72,0.0,0.05,0.12,0.89
 "TRUSTMF Banking & PSU Fund",0.7,0.0,0.0,0.01,0.71,0.2,0.0,0.0,0.01,0.21
 "TRUSTMF Corporate Bond Fund",0.63,0.0,0.0,0.02,0.65,0.23,0.0,0.0,0.02,0.25
-"TRUSTMF Flexi Cap Fund",2.23,0.0,0.05,0.05,2.33,0.4,0.0,0.05,0.05,0.5
+"TRUSTMF Flexi Cap Fund",2.22,0.0,0.05,0.05,2.32,0.4,0.0,0.05,0.05,0.5
 "TRUSTMF Liquid Fund",0.25,0.0,0.0,0.0,0.25,0.1,0.0,0.0,0.0,0.1
 "TRUSTMF Money Market Fund",0.31,0.0,0.0,0.0,0.31,0.16,0.0,0.0,0.0,0.16
 "TRUSTMF Overnight Fund",0.12,0.0,0.0,0.0,0.12,0.07,0.0,0.0,0.0,0.07
