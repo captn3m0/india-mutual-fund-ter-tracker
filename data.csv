@@ -2,7 +2,7 @@
 "360 One Balanced Hybrid Fund",1.93,0.0,0.05,0.04,2.02,0.36,0.0,0.05,0.04,0.45
 "360 One Dynamic Bond Fund (Formerly Known as IIFL Dynamic Bond Fund)",0.49,0.0,0.0,0.03,0.52,0.24,0.0,0.0,0.03,0.27
 "360 One ELSS Tax Saver Nifty 50 Index Fund(Formerly Known as IIFL ELSS Nifty 50 Tax Saver Index Fund",0.52,0.0,0.0,0.0,0.52,0.27,0.0,0.0,0.0,0.27
-"360 One Flexicap Fund",2.22,0.0,0.05,0.04,2.31,0.36,0.0,0.05,0.04,0.45
+"360 One Flexicap Fund",2.21,0.0,0.05,0.04,2.3,0.36,0.0,0.05,0.04,0.45
 "360 One Focused Equity Fund (Formerly Known as IIFL Focused Equity Fund)",1.65,0.0,0.05,0.1,1.8,0.72,0.0,0.05,0.1,0.87
 "360 One Liquid Fund (Formerly Known as IIFL Liquid Fund) (An Open Ended Liquid Scheme)",0.23,0.0,0.0,0.02,0.25,0.18,0.0,0.0,0.02,0.2
 "360 One Quant Fund (Formerly Known as IIFL Quant Fund)",1.75,0.0,0.05,0.03,1.83,0.35,0.0,0.05,0.03,0.43
@@ -1466,76 +1466,76 @@
 "Union Retirement Fund",2.25,0.0,0.0,0.13,2.38,0.98,0.0,0.0,0.13,1.11
 "Union Small Cap Fund",1.97,0.0,0.05,0.1,2.12,0.73,0.0,0.05,0.1,0.88
 "Union Value Fund",2.24,0.0,0.05,0.18,2.47,1.17,0.0,0.05,0.18,1.4
-"UTI - Arbitrage Fund",0.88,0.0,0.0,0.04,0.92,0.34,0.0,0.0,0.04,0.38
-"UTI - Banking and Financial Services Fund",2.04,0.0,0.05,0.16,2.25,0.97,0.0,0.05,0.16,1.18
+"UTI - Arbitrage Fund",0.88,0.0,0.0,0.02,0.9,0.34,0.0,0.0,0.02,0.36
+"UTI - Banking and Financial Services Fund",2.04,0.0,0.05,0.13,2.22,0.97,0.0,0.05,0.13,1.15
 "UTI - CCF - Saving Plan",1.49,0.0,0.05,0.18,1.72,1.28,0.0,0.05,0.18,1.51
 "UTI - CCF Investment Plan",2.07,0.0,0.05,0.14,2.26,0.98,0.0,0.05,0.14,1.17
-"UTI - Corporate Bond Fund",0.55,0.0,0.0,0.04,0.59,0.25,0.0,0.0,0.04,0.29
-"UTI - Credit Risk Fund.",1.47,0.0,0.05,0.13,1.65,0.73,0.0,0.05,0.13,0.91
-"UTI - Dividend Yield Fund",1.76,0.0,0.05,0.19,2.0,1.17,0.0,0.05,0.19,1.41
-"UTI - Dynamic Bond Fund.",1.45,0.0,0.0,0.11,1.56,0.6,0.0,0.0,0.11,0.71
-"UTI - Equity Savings Fund",1.4,0.0,0.05,0.09,1.54,0.59,0.0,0.05,0.09,0.73
-"UTI - Flexi Cap Fund.",1.49,0.0,0.05,0.13,1.67,0.73,0.0,0.05,0.13,0.91
-"UTI - Floater Fund",0.81,0.0,0.0,0.04,0.85,0.31,0.0,0.0,0.04,0.35
-"UTI - Gilt Fund",0.85,0.0,0.0,0.1,0.95,0.59,0.0,0.0,0.1,0.69
+"UTI - Corporate Bond Fund",0.55,0.0,0.0,0.03,0.58,0.25,0.0,0.0,0.03,0.28
+"UTI - Credit Risk Fund.",1.47,0.0,0.05,0.11,1.63,0.73,0.0,0.05,0.11,0.89
+"UTI - Dividend Yield Fund",1.76,0.0,0.05,0.18,1.99,1.17,0.0,0.05,0.18,1.4
+"UTI - Dynamic Bond Fund.",1.45,0.0,0.0,0.09,1.54,0.6,0.0,0.0,0.09,0.69
+"UTI - Equity Savings Fund",1.4,0.0,0.05,0.06,1.51,0.59,0.0,0.05,0.06,0.7
+"UTI - Flexi Cap Fund.",1.49,0.0,0.05,0.1,1.64,0.73,0.0,0.05,0.1,0.88
+"UTI - Floater Fund",0.81,0.0,0.0,0.03,0.84,0.31,0.0,0.0,0.03,0.34
+"UTI - Gilt Fund",0.85,0.0,0.0,0.08,0.93,0.59,0.0,0.0,0.08,0.67
 "UTI - Gold Exchange Traded Fund",0.44,0.0,0.0,0.02,0.46,0.0,0.0,0.0,0.0,0.0
-"UTI - Healthcare Fund",2.08,0.0,0.05,0.2,2.33,1.1,0.0,0.05,0.2,1.35
-"UTI - India Consumer Fund",2.2,0.0,0.05,0.22,2.47,1.3,0.0,0.05,0.22,1.57
-"UTI - Infrastructure Fund",1.87,0.0,0.05,0.28,2.2,1.56,0.0,0.05,0.28,1.89
-"UTI - Large Cap Fund",1.58,0.0,0.05,0.12,1.75,0.68,0.0,0.05,0.12,0.85
+"UTI - Healthcare Fund",2.08,0.0,0.05,0.16,2.29,1.1,0.0,0.05,0.16,1.31
+"UTI - India Consumer Fund",2.2,0.0,0.05,0.2,2.45,1.3,0.0,0.05,0.2,1.55
+"UTI - Infrastructure Fund",1.87,0.0,0.05,0.24,2.16,1.56,0.0,0.05,0.24,1.85
+"UTI - Large Cap Fund",1.58,0.0,0.05,0.09,1.72,0.68,0.0,0.05,0.09,0.82
 "UTI - Liquid Fund",0.25,0.0,0.0,0.02,0.27,0.16,0.0,0.0,0.02,0.18
-"UTI - Mid Cap Fund",1.6,0.0,0.05,0.1,1.75,0.66,0.0,0.05,0.1,0.81
-"UTI - MNC Fund",1.81,0.0,0.05,0.15,2.01,0.95,0.0,0.05,0.15,1.15
+"UTI - Mid Cap Fund",1.6,0.0,0.05,0.09,1.74,0.66,0.0,0.05,0.09,0.8
+"UTI - MNC Fund",1.81,0.0,0.05,0.14,2.0,0.95,0.0,0.05,0.14,1.14
 "UTI - Money Market Fund",0.25,0.0,0.0,0.02,0.27,0.17,0.0,0.0,0.02,0.19
 "UTI - Nifty Next 50 Exchange Traded Fund.",0.13,0.0,0.0,0.02,0.15,0.0,0.0,0.0,0.0,0.0
 "UTI - Nifty Next 50 Index Fund",0.75,0.0,0.0,0.05,0.8,0.3,0.0,0.0,0.05,0.35
 "UTI - Overnight Fund",0.1,0.0,0.0,0.0,0.1,0.05,0.0,0.0,0.0,0.05
 "UTI - S&P BSE SENSEX Next 50 Exchange Traded Fund",0.2,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0
-"UTI - Transportation and Logistics Fund",1.78,0.0,0.05,0.1,1.93,0.63,0.0,0.05,0.1,0.78
-"UTI - Unit Linked Insurance Plan",1.46,0.0,0.05,0.13,1.64,0.75,0.0,0.05,0.13,0.93
-"UTI Aggressive Hybrid Fund",1.7,0.0,0.05,0.19,1.94,1.08,0.0,0.05,0.19,1.32
-"UTI Balanced Advantage Fund",1.81,0.0,0.05,0.02,1.88,0.3,0.0,0.05,0.02,0.37
-"UTI Banking & PSU Fund",0.55,0.0,0.0,0.03,0.58,0.22,0.0,0.0,0.03,0.25
-"UTI Children's Equity Fund",2.05,0.0,0.05,0.14,2.24,0.96,0.0,0.05,0.14,1.15
-"UTI Children's Hybrid Fund",1.49,0.0,0.05,0.18,1.72,1.28,0.0,0.05,0.18,1.51
+"UTI - Transportation and Logistics Fund",1.78,0.0,0.05,0.08,1.91,0.63,0.0,0.05,0.08,0.76
+"UTI - Unit Linked Insurance Plan",1.46,0.0,0.05,0.12,1.63,0.75,0.0,0.05,0.12,0.92
+"UTI Aggressive Hybrid Fund",1.7,0.0,0.05,0.15,1.9,1.07,0.0,0.05,0.15,1.27
+"UTI Balanced Advantage Fund",1.81,0.0,0.05,0.03,1.89,0.3,0.0,0.05,0.03,0.38
+"UTI Banking & PSU Fund",0.55,0.0,0.0,0.02,0.57,0.22,0.0,0.0,0.02,0.24
+"UTI Children's Equity Fund",2.05,0.0,0.05,0.15,2.25,0.96,0.0,0.05,0.15,1.16
+"UTI Children's Hybrid Fund",1.49,0.0,0.05,0.19,1.73,1.28,0.0,0.05,0.19,1.52
 "UTI Conservative Hybrid Fund",1.59,0.0,0.05,0.16,1.8,0.98,0.0,0.05,0.16,1.19
 "UTI CRISIL SDL Maturity April 2033 Index Fund",0.4,0.0,0.0,0.02,0.42,0.14,0.0,0.0,0.02,0.16
-"UTI CRISIL SDL Maturity June 2027 Index Fund",0.4,0.0,0.0,0.02,0.42,0.13,0.0,0.0,0.02,0.15
-"UTI ELSS Tax Saver Fund",1.77,0.0,0.0,0.12,1.89,0.74,0.0,0.0,0.12,0.86
-"UTI Focused Fund",1.83,0.0,0.05,0.08,1.96,0.46,0.0,0.05,0.08,0.59
+"UTI CRISIL SDL Maturity June 2027 Index Fund",0.4,0.0,0.0,0.01,0.41,0.13,0.0,0.0,0.01,0.14
+"UTI ELSS Tax Saver Fund",1.77,0.0,0.0,0.11,1.88,0.74,0.0,0.0,0.11,0.85
+"UTI Focused Fund",1.83,0.0,0.05,0.05,1.93,0.45,0.0,0.05,0.05,0.55
 "UTI Gilt Fund with 10 Year Constant Duration",0.68,0.0,0.0,0.02,0.7,0.21,0.0,0.0,0.02,0.23
 "UTI Gold ETF Fund of Fund",0.56,0.0,0.0,0.0,0.56,0.1,0.0,0.0,0.0,0.1
-"UTI Innovation Fund",2.2,0.0,0.05,0.12,2.37,0.79,0.0,0.05,0.12,0.96
-"UTI Large & Mid Cap Fund",1.8,0.0,0.05,0.15,2.0,1.01,0.0,0.05,0.15,1.21
-"UTI Long Duration Fund",1.45,0.0,0.0,0.06,1.51,0.52,0.0,0.0,0.06,0.58
-"UTI Low Duration Fund",0.4,0.0,0.0,0.05,0.45,0.31,0.0,0.0,0.05,0.36
-"UTI Medium Duration Fund",1.45,0.0,0.05,0.12,1.62,0.81,0.0,0.05,0.12,0.98
-"UTI Medium to Long Duration Fund",1.45,0.0,0.0,0.18,1.63,1.07,0.0,0.0,0.18,1.25
-"UTI Multi Asset Allocation Fund",1.84,0.0,0.05,0.12,2.01,0.96,0.0,0.05,0.12,1.13
+"UTI Innovation Fund",2.2,0.0,0.05,0.1,2.35,0.79,0.0,0.05,0.1,0.94
+"UTI Large & Mid Cap Fund",1.8,0.0,0.05,0.16,2.01,1.01,0.0,0.05,0.16,1.22
+"UTI Long Duration Fund",1.45,0.0,0.0,0.05,1.5,0.52,0.0,0.0,0.05,0.57
+"UTI Low Duration Fund",0.4,0.0,0.0,0.04,0.44,0.31,0.0,0.0,0.04,0.35
+"UTI Medium Duration Fund",1.45,0.0,0.05,0.09,1.59,0.81,0.0,0.05,0.09,0.95
+"UTI Medium to Long Duration Fund",1.45,0.0,0.0,0.17,1.62,1.07,0.0,0.0,0.17,1.24
+"UTI Multi Asset Allocation Fund",1.84,0.0,0.05,0.08,1.97,0.96,0.0,0.05,0.08,1.09
 "UTI Nifty 10 Yr Benchmark G-SEC ETF",0.1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0
 "UTI Nifty 200 Momentum 30 Index Fund",0.86,0.0,0.0,0.06,0.92,0.4,0.0,0.0,0.06,0.46
-"UTI Nifty 5 Yr Benchmark G-SEC ETF",0.2,0.0,0.0,0.02,0.22,0.0,0.0,0.0,0.0,0.0
+"UTI Nifty 5 Yr Benchmark G-SEC ETF",0.2,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0
 "UTI Nifty 50 ETF",0.05,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.0,0.0
-"UTI Nifty 50 Index Fund",0.38,0.0,0.0,0.03,0.41,0.18,0.0,0.0,0.03,0.21
-"UTI Nifty 500 Value 50 Index Fund",0.95,0.0,0.0,0.05,1.0,0.49,0.0,0.0,0.05,0.54
+"UTI Nifty 50 Index Fund",0.38,0.0,0.0,0.0,0.38,0.18,0.0,0.0,0.0,0.18
+"UTI Nifty 500 Value 50 Index Fund",0.95,0.0,0.0,0.08,1.03,0.49,0.0,0.0,0.08,0.57
 "UTI Nifty Bank ETF",0.15,0.0,0.0,0.01,0.16,0.0,0.0,0.0,0.0,0.0
-"UTI Nifty IT ETF",0.18,0.0,0.0,0.02,0.2,0.0,0.0,0.0,0.0,0.0
-"UTI Nifty Midcap 150 Exchange Traded Fund",0.2,0.0,0.0,0.01,0.21,0.0,0.0,0.0,0.0,0.0
-"UTI Nifty Midcap 150 Quality 50 Index Fund",0.85,0.0,0.0,0.06,0.91,0.4,0.0,0.0,0.06,0.46
+"UTI Nifty IT ETF",0.18,0.0,0.0,0.0,0.18,0.0,0.0,0.0,0.0,0.0
+"UTI Nifty Midcap 150 Exchange Traded Fund",0.2,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0
+"UTI Nifty Midcap 150 Quality 50 Index Fund",0.85,0.0,0.0,0.05,0.9,0.4,0.0,0.0,0.05,0.45
 "UTI Nifty SDL Plus AAA PSU Bond APR 2026 75:25 Index Fund",0.4,0.0,0.0,0.02,0.42,0.15,0.0,0.0,0.02,0.17
 "UTI Nifty SDL Plus AAA PSU Bond APR 2028- 75:25 Index Fund",0.4,0.0,0.0,0.02,0.42,0.15,0.0,0.0,0.02,0.17
-"UTI Nifty50 Equal Weight Index Fund",0.95,0.0,0.0,0.05,1.0,0.51,0.0,0.0,0.05,0.56
-"UTI Retirement Fund",1.49,0.0,0.05,0.1,1.64,0.83,0.0,0.05,0.1,0.98
-"UTI S&P BSE Housing Index Fund",0.95,0.0,0.0,0.05,1.0,0.51,0.0,0.0,0.05,0.56
+"UTI Nifty50 Equal Weight Index Fund",0.95,0.0,0.0,0.08,1.03,0.51,0.0,0.0,0.08,0.59
+"UTI Retirement Fund",1.49,0.0,0.05,0.11,1.65,0.83,0.0,0.05,0.11,0.99
+"UTI S&P BSE Housing Index Fund",0.95,0.0,0.0,0.07,1.02,0.51,0.0,0.0,0.07,0.58
 "UTI S&P BSE Low Volatility Index Fund",0.85,0.0,0.0,0.06,0.91,0.39,0.0,0.0,0.06,0.45
 "UTI S&P BSE SENSEX ETF",0.05,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.0,0.0
 "UTI S&P BSE SENSEX Index Fund",0.28,0.0,0.0,0.02,0.3,0.18,0.0,0.0,0.02,0.2
 "UTI Short Duration Fund",0.8,0.0,0.0,0.04,0.84,0.33,0.0,0.0,0.04,0.37
 "UTI Silver ETF Fund of Fund",0.5,0.0,0.0,0.0,0.5,0.12,0.0,0.0,0.0,0.12
-"UTI Silver Exchange Traded Fund",0.5,0.0,0.0,0.03,0.53,0.0,0.0,0.0,0.0,0.0
-"UTI Small Cap Fund",1.76,0.0,0.05,0.06,1.87,0.37,0.0,0.05,0.06,0.48
+"UTI Silver Exchange Traded Fund",0.5,0.0,0.0,0.04,0.54,0.0,0.0,0.0,0.0,0.0
+"UTI Small Cap Fund",1.76,0.0,0.05,0.04,1.85,0.37,0.0,0.05,0.04,0.46
 "UTI Ultra Short Duration Fund",0.92,0.0,0.0,0.04,0.96,0.39,0.0,0.0,0.04,0.43
-"UTI Value Fund",1.62,0.0,0.05,0.16,1.83,0.91,0.0,0.05,0.16,1.12
+"UTI Value Fund",1.62,0.0,0.05,0.13,1.8,0.91,0.0,0.05,0.13,1.09
 "WhiteOak Capital Balanced Advantage Fund",2.07,0.0,0.05,0.06,2.18,0.42,0.0,0.05,0.06,0.53
 "WhiteOak Capital Balanced Hybrid Fund",2.0,0.0,0.05,0.08,2.13,0.54,0.0,0.05,0.08,0.67
 "WhiteOak Capital Banking & Financial Services Fund",2.25,0.0,0.05,0.06,2.36,0.51,0.0,0.05,0.06,0.62
