@@ -366,7 +366,7 @@
 "CPSE ETF",0.0,0.0,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.05
 "DSP 10Y G-SEC Fund",0.48,0.0,0.0,0.04,0.52,0.27,0.0,0.0,0.04,0.31
 "DSP Arbitrage Fund",0.95,0.0,0.0,0.05,1.0,0.3,0.0,0.0,0.05,0.35
-"DSP Banking & Financial Services Fund",2.18,0.0,0.05,0.11,2.34,0.68,0.0,0.05,0.11,0.84
+"DSP Banking & Financial Services Fund",2.17,0.0,0.05,0.11,2.33,0.67,0.0,0.05,0.11,0.83
 "DSP Banking & PSU Debt Fund",0.51,0.0,0.0,0.04,0.55,0.28,0.0,0.0,0.04,0.32
 "DSP Bond Fund",0.67,0.0,0.0,0.05,0.72,0.35,0.0,0.0,0.05,0.4
 "DSP BSE Liquid Rate ETF",0.0,0.0,0.0,0.0,0.0,0.34,0.0,0.0,0.01,0.35
@@ -379,7 +379,7 @@
 "DSP ELSS Tax Saver Fund",1.55,0.0,0.0,0.1,1.65,0.67,0.0,0.0,0.1,0.77
 "DSP Equity & Bond Fund",1.62,0.0,0.05,0.1,1.77,0.6,0.0,0.05,0.1,0.75
 "DSP Equity Opportunities Fund",1.58,0.0,0.05,0.11,1.74,0.61,0.0,0.05,0.11,0.77
-"DSP Equity Savings Fund",1.27,0.0,0.0,0.06,1.33,0.42,0.0,0.0,0.06,0.48
+"DSP Equity Savings Fund",1.26,0.0,0.0,0.06,1.32,0.41,0.0,0.0,0.06,0.47
 "DSP Flexi Cap Fund",1.6,0.0,0.05,0.1,1.75,0.6,0.0,0.05,0.1,0.75
 "DSP Floater Fund",0.46,0.0,0.0,0.03,0.49,0.2,0.0,0.0,0.03,0.23
 "DSP Focus Fund",1.85,0.0,0.05,0.15,2.05,0.82,0.0,0.05,0.15,1.02
@@ -423,7 +423,7 @@
 "DSP Silver ETF",0.0,0.0,0.0,0.0,0.0,0.49,0.0,0.0,0.01,0.5
 "DSP Small Cap Fund",1.56,0.0,0.05,0.12,1.73,0.72,0.0,0.05,0.12,0.89
 "DSP Strategic Bond Fund",1.09,0.0,0.0,0.07,1.16,0.46,0.0,0.0,0.07,0.53
-"DSP Top 100 Equity Fund",1.76,0.0,0.05,0.17,1.98,0.97,0.0,0.05,0.17,1.19
+"DSP Top 100 Equity Fund",1.75,0.0,0.05,0.17,1.97,0.96,0.0,0.05,0.17,1.18
 "DSP Ultra Short Fund",0.98,0.0,0.0,0.04,1.02,0.26,0.0,0.0,0.04,0.3
 "DSP US Flexible Equity Fund",2.25,0.0,0.0,0.09,2.34,1.42,0.0,0.0,0.09,1.51
 "DSP US Treasury Fund of Fund",0.21,0.0,0.05,0.01,0.27,0.16,0.0,0.05,0.01,0.22
@@ -793,16 +793,16 @@
 "Invesco India ELSS Tax Saver Fund",1.83,0.0,0.0,0.09,1.92,0.67,0.0,0.0,0.09,0.76
 "Invesco India Equity Savings Fund",2.22,0.0,0.05,0.04,2.31,0.81,0.0,0.05,0.03,0.89
 "Invesco India ESG Equity Fund",2.24,0.0,0.05,0.13,2.42,0.84,0.0,0.05,0.12,1.01
-"Invesco India ESG Integration Strategy Fund",2.24,0.0,0.05,0.13,2.42,0.84,0.0,0.05,0.12,1.01
+"Invesco India ESG Integration Strategy Fund",2.23,0.0,0.05,0.13,2.41,0.84,0.0,0.05,0.12,1.01
 "Invesco India Financial Services Fund",2.13,0.0,0.05,0.13,2.31,0.83,0.0,0.05,0.13,1.01
 "Invesco India Flexi Cap Fund",1.93,0.0,0.05,0.07,2.05,0.5,0.0,0.05,0.07,0.62
 "Invesco India Focused Fund",1.82,0.0,0.05,0.07,1.94,0.48,0.0,0.05,0.07,0.6
 "Invesco India Gilt Fund",1.25,0.0,0.0,0.0,1.25,0.46,0.0,0.0,0.0,0.46
 "Invesco India Gold ETF Fund of Fund",0.45,0.0,0.0,0.0,0.45,0.2,0.0,0.0,0.0,0.2
 "Invesco India Gold Exchange Traded Fund",0.55,0.0,0.0,0.0,0.55,0.0,0.0,0.0,0.0,0.0
-"Invesco India Infrastructure Fund",2.01,0.0,0.05,0.09,2.15,0.65,0.0,0.05,0.09,0.79
+"Invesco India Infrastructure Fund",2.0,0.0,0.05,0.09,2.14,0.65,0.0,0.05,0.09,0.79
 "Invesco India Large & Mid Cap Fund",1.71,0.0,0.05,0.08,1.84,0.54,0.0,0.05,0.08,0.67
-"Invesco India Largecap Fund",2.05,0.0,0.0,0.09,2.14,0.67,0.0,0.0,0.09,0.76
+"Invesco India Largecap Fund",2.04,0.0,0.0,0.09,2.13,0.67,0.0,0.0,0.09,0.76
 "Invesco India Liquid Fund",0.22,0.0,0.0,0.0,0.22,0.15,0.0,0.0,0.0,0.15
 "Invesco India Low Duration Fund",0.6,0.0,0.0,0.0,0.6,0.32,0.0,0.0,0.0,0.32
 "Invesco India Medium Duration Fund",1.25,0.0,0.0,0.05,1.3,0.35,0.0,0.0,0.05,0.4
@@ -813,7 +813,7 @@
 "Invesco India Nifty G-SEC JUL 2027 Index Fund",0.29,0.0,0.0,0.0,0.29,0.14,0.0,0.0,0.0,0.14
 "Invesco India Nifty G-SEC SEP 2032 Index Fund",0.29,0.0,0.0,0.0,0.29,0.14,0.0,0.0,0.0,0.14
 "Invesco India Overnight Fund",0.12,0.0,0.0,0.0,0.12,0.06,0.0,0.0,0.0,0.06
-"Invesco India PSU Equity Fund",2.03,0.0,0.05,0.12,2.2,0.76,0.0,0.05,0.12,0.93
+"Invesco India PSU Equity Fund",2.02,0.0,0.05,0.12,2.19,0.76,0.0,0.05,0.12,0.93
 "Invesco India Short Duration Fund",1.11,0.0,0.0,0.04,1.15,0.31,0.0,0.0,0.04,0.35
 "Invesco India Smallcap Fund",1.75,0.0,0.05,0.05,1.85,0.36,0.0,0.05,0.05,0.46
 "Invesco India Ultra Short Duration Fund",0.89,0.0,0.0,0.0,0.89,0.24,0.0,0.0,0.0,0.24
