@@ -344,21 +344,21 @@
 "Bharat Bond FoF- April 2031",0.0,0.0,0.05,0.01,0.06,0.0,0.0,0.05,0.01,0.06
 "Canara Robeco Banking and PSU Debt Fund",0.67,0.0,0.0,0.04,0.71,0.35,0.0,0.0,0.04,0.39
 "Canara Robeco Bluechip Equity Fund",1.57,0.0,0.05,0.05,1.67,0.36,0.0,0.05,0.05,0.46
-"Canara Robeco Conservative Hybrid Fund",1.69,0.0,0.05,0.09,1.83,0.51,0.0,0.05,0.08,0.64
+"Canara Robeco Conservative Hybrid Fund",1.69,0.0,0.05,0.08,1.82,0.51,0.0,0.05,0.08,0.64
 "Canara Robeco Consumer Trends Fund",1.95,0.0,0.05,0.11,2.11,0.69,0.0,0.05,0.11,0.85
 "Canara Robeco Corporate Bond Fund",0.98,0.0,0.0,0.05,1.03,0.34,0.0,0.0,0.04,0.38
 "Canara Robeco Dynamic Bond Fund",1.66,0.0,0.0,0.09,1.75,0.58,0.0,0.0,0.08,0.66
 "Canara Robeco ELSS Tax Saver",1.64,0.0,0.0,0.06,1.7,0.47,0.0,0.0,0.06,0.53
 "Canara Robeco Emerging Equities",1.5,0.0,0.05,0.06,1.61,0.45,0.0,0.05,0.06,0.56
 "Canara Robeco Equity Hybrid Fund",1.61,0.0,0.05,0.07,1.73,0.46,0.0,0.05,0.07,0.58
-"Canara Robeco Flexi Cap Fund",1.58,0.0,0.05,0.06,1.69,0.42,0.0,0.05,0.06,0.53
+"Canara Robeco Flexi Cap Fund",1.57,0.0,0.05,0.06,1.68,0.41,0.0,0.05,0.06,0.52
 "Canara Robeco Focused Equity Fund",1.86,0.0,0.05,0.05,1.96,0.36,0.0,0.05,0.05,0.46
 "Canara Robeco Gilt Fund",1.19,0.0,0.0,0.06,1.25,0.46,0.0,0.0,0.06,0.52
 "Canara Robeco Income Fund",1.78,0.0,0.0,0.1,1.88,0.64,0.0,0.0,0.1,0.74
 "Canara Robeco Infrastructure",2.18,0.0,0.05,0.15,2.38,0.88,0.0,0.05,0.14,1.07
 "Canara Robeco Liquid Fund",0.18,0.0,0.0,0.01,0.19,0.11,0.0,0.0,0.01,0.12
 "Canara Robeco Manufacturing Fund",1.97,0.0,0.05,0.05,2.07,0.37,0.0,0.05,0.05,0.47
-"Canara Robeco Mid Cap Fund",1.87,0.0,0.05,0.06,1.98,0.47,0.0,0.05,0.06,0.58
+"Canara Robeco Mid Cap Fund",1.86,0.0,0.05,0.06,1.97,0.46,0.0,0.05,0.06,0.57
 "Canara Robeco Multi Cap Fund",1.85,0.0,0.05,0.05,1.95,0.39,0.0,0.05,0.05,0.49
 "Canara Robeco Overnight Fund",0.11,0.0,0.0,0.0,0.11,0.1,0.0,0.0,0.0,0.1
 "Canara Robeco Savings Fund",0.54,0.0,0.0,0.05,0.59,0.26,0.0,0.0,0.03,0.29
@@ -487,9 +487,9 @@
 "Franklin India Corporate Debt Fund",0.75,0.0,0.0,0.03,0.78,0.2,0.0,0.0,0.03,0.23
 "Franklin India Debt Hybrid Fund",1.3,0.0,0.0,0.1,1.4,0.6,0.0,0.0,0.09,0.69
 "Franklin India Dynamic Asset Allocation Fund of Funds",1.86,0.0,0.05,0.07,1.98,0.96,0.0,0.05,0.07,1.08
-"Franklin India ELSS Tax Saver Fund",1.67,0.0,0.0,0.14,1.81,0.87,0.0,0.0,0.14,1.01
-"Franklin India Equity Advantage Fund",1.79,0.0,0.05,0.18,2.02,1.05,0.0,0.05,0.18,1.28
-"Franklin India Equity Hybrid Fund",1.92,0.0,0.05,0.15,2.12,0.88,0.0,0.05,0.15,1.08
+"Franklin India ELSS Tax Saver Fund",1.67,0.0,0.0,0.14,1.81,0.86,0.0,0.0,0.14,1.0
+"Franklin India Equity Advantage Fund",1.78,0.0,0.05,0.18,2.01,1.04,0.0,0.05,0.18,1.27
+"Franklin India Equity Hybrid Fund",1.92,0.0,0.05,0.15,2.12,0.87,0.0,0.05,0.15,1.07
 "Franklin India Equity Savings Fund",1.09,0.0,0.0,0.03,1.12,0.26,0.0,0.0,0.03,0.29
 "Franklin India Feeder - Franklin U. S. Opportunities Fund",1.39,0.0,0.05,0.08,1.52,0.44,0.0,0.05,0.08,0.57
 "Franklin India Feeder - Templeton European Opportunities Fund",1.28,0.0,0.05,0.07,1.4,0.42,0.0,0.05,0.06,0.53
@@ -503,7 +503,7 @@
 "Franklin India NSE Nifty 50 Index Fund",0.6,0.0,0.0,0.03,0.63,0.22,0.0,0.0,0.03,0.25
 "Franklin India Opportunities Fund",1.75,0.0,0.05,0.09,1.89,0.54,0.0,0.05,0.09,0.68
 "Franklin India Overnight Fund",0.14,0.0,0.0,0.01,0.15,0.09,0.0,0.0,0.01,0.1
-"Franklin India Pension Plan",2.0,0.0,0.05,0.22,2.27,1.21,0.0,0.05,0.21,1.47
+"Franklin India Pension Plan",2.0,0.0,0.05,0.22,2.27,1.2,0.0,0.05,0.21,1.46
 "Franklin India Prima Fund",1.59,0.0,0.05,0.13,1.77,0.77,0.0,0.05,0.13,0.95
 "Franklin India Short-Term Income Plan (No. of Segregated Portfolios- 3)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 "Franklin India Smaller Companies Fund",1.57,0.0,0.05,0.13,1.75,0.75,0.0,0.05,0.12,0.92
@@ -841,7 +841,7 @@
 "JM Arbitrage Fund",1.04,0.0,0.0,0.03,1.07,0.34,0.0,0.0,0.03,0.37
 "JM Dynamic Bond Fund",0.92,0.0,0.0,0.05,0.97,0.47,0.0,0.0,0.05,0.52
 "JM ELSS Tax Saver Fund",2.24,0.0,0.0,0.13,2.37,1.0,0.0,0.0,0.13,1.13
-"JM Flexicap Fund",1.84,0.0,0.05,0.03,1.92,0.35,0.0,0.05,0.03,0.43
+"JM Flexicap Fund",1.83,0.0,0.05,0.03,1.91,0.34,0.0,0.05,0.03,0.42
 "JM Focused Fund",2.24,0.0,0.05,0.1,2.39,0.77,0.0,0.05,0.1,0.92
 "JM Large Cap Fund",2.25,0.0,0.05,0.11,2.41,0.85,0.0,0.05,0.11,1.01
 "JM Liquid Fund",0.25,0.0,0.0,0.01,0.26,0.15,0.0,0.0,0.01,0.16
@@ -850,7 +850,7 @@
 "JM Midcap Fund",2.04,0.0,0.05,0.01,2.1,0.27,0.0,0.05,0.01,0.33
 "JM Overnight Fund",0.15,0.0,0.0,0.01,0.16,0.08,0.0,0.0,0.01,0.09
 "JM Short Duration Fund",1.07,0.0,0.0,0.02,1.09,0.32,0.0,0.0,0.02,0.34
-"JM Value Fund",2.17,0.0,0.05,0.11,2.33,0.83,0.0,0.05,0.11,0.99
+"JM Value Fund",2.16,0.0,0.05,0.11,2.32,0.83,0.0,0.05,0.11,0.99
 "Kotak All Weather Debt FoF",0.15,0.0,0.0,0.0,0.15,0.07,0.0,0.0,0.0,0.07
 "Kotak Balanced Advantage Fund",1.55,0.0,0.05,0.06,1.66,0.45,0.0,0.0,0.06,0.51
 "Kotak Banking and Financial Services Fund",2.11,0.0,0.05,0.1,2.26,0.61,0.0,0.0,0.1,0.71
@@ -1240,31 +1240,31 @@
 "PGIM India Ultra Short Duration Fund",0.85,0.0,0.0,0.05,0.9,0.24,0.0,0.0,0.03,0.27
 "Quant Absolute Fund",1.88,0.0,0.05,0.08,2.01,0.62,0.0,0.05,0.08,0.75
 "Quant Active Fund",1.6,0.0,0.05,0.06,1.71,0.51,0.0,0.05,0.06,0.62
-"Quant Bfsi Fund",2.22,0.0,0.05,0.07,2.34,0.56,0.0,0.05,0.07,0.68
+"Quant Bfsi Fund",2.21,0.0,0.05,0.07,2.33,0.56,0.0,0.05,0.07,0.68
 "Quant Business Cycle Fund",1.99,0.0,0.05,0.06,2.1,0.51,0.0,0.05,0.06,0.62
 "Quant Commodities Fund",2.25,0.0,0.05,0.09,2.39,0.66,0.0,0.05,0.09,0.8
 "Quant Consumption Fund",2.25,0.0,0.05,0.09,2.39,0.63,0.0,0.05,0.09,0.77
-"Quant Dynamic Asset Allocation Fund",2.02,0.0,0.05,0.07,2.14,0.53,0.0,0.05,0.07,0.65
+"Quant Dynamic Asset Allocation Fund",2.01,0.0,0.05,0.07,2.13,0.53,0.0,0.05,0.07,0.65
 "Quant ELSS Tax Saver Fund",1.61,0.0,0.05,0.09,1.75,0.63,0.0,0.05,0.09,0.77
 "Quant ESG Equity Fund",2.25,0.0,0.05,0.09,2.39,0.63,0.0,0.05,0.09,0.77
-"Quant Flexi Cap Fund",1.67,0.0,0.05,0.06,1.78,0.48,0.0,0.05,0.06,0.59
-"Quant Focused Fund",2.05,0.0,0.05,0.08,2.18,0.57,0.0,0.05,0.08,0.7
+"Quant Flexi Cap Fund",1.66,0.0,0.05,0.06,1.77,0.48,0.0,0.05,0.06,0.59
+"Quant Focused Fund",2.04,0.0,0.05,0.08,2.17,0.57,0.0,0.05,0.08,0.7
 "Quant Gilt Fund",1.35,0.0,0.0,0.06,1.41,0.45,0.0,0.0,0.06,0.51
 "Quant Healthcare Fund",2.25,0.0,0.05,0.07,2.37,0.56,0.0,0.05,0.07,0.68
-"Quant Infrastructure Fund",1.77,0.0,0.05,0.07,1.89,0.54,0.0,0.05,0.07,0.66
-"Quant Large & Mid Cap Fund",1.8,0.0,0.05,0.07,1.92,0.54,0.0,0.05,0.07,0.66
-"Quant Large Cap Fund",2.0,0.0,0.05,0.06,2.11,0.48,0.0,0.05,0.06,0.59
+"Quant Infrastructure Fund",1.76,0.0,0.05,0.07,1.88,0.54,0.0,0.05,0.07,0.66
+"Quant Large & Mid Cap Fund",1.79,0.0,0.05,0.07,1.91,0.54,0.0,0.05,0.07,0.66
+"Quant Large Cap Fund",1.98,0.0,0.05,0.06,2.09,0.48,0.0,0.05,0.06,0.59
 "Quant Liquid Fund",0.5,0.0,0.0,0.02,0.52,0.25,0.0,0.0,0.02,0.27
 "Quant Manufacturing Fund",2.12,0.0,0.05,0.08,2.25,0.62,0.0,0.05,0.08,0.75
 "Quant Mid Cap Fund",1.63,0.0,0.05,0.06,1.74,0.51,0.0,0.05,0.06,0.62
 "Quant Momentum Fund",1.9,0.0,0.05,0.08,2.03,0.61,0.0,0.05,0.08,0.74
-"Quant Multi Asset Fund",1.81,0.0,0.05,0.08,1.94,0.54,0.0,0.05,0.08,0.67
+"Quant Multi Asset Fund",1.8,0.0,0.05,0.08,1.93,0.54,0.0,0.05,0.08,0.67
 "Quant Overnight Fund",0.22,0.0,0.0,0.0,0.22,0.15,0.0,0.0,0.0,0.15
-"Quant PSU Fund",2.09,0.0,0.05,0.1,2.24,0.68,0.0,0.05,0.1,0.83
+"Quant PSU Fund",2.08,0.0,0.05,0.1,2.23,0.68,0.0,0.05,0.1,0.83
 "Quant Quantamental Fund",1.84,0.0,0.05,0.07,1.96,0.52,0.0,0.05,0.07,0.64
 "Quant Small Cap Fund",1.5,0.0,0.05,0.07,1.62,0.52,0.0,0.05,0.07,0.64
 "Quant Teck Fund",2.25,0.0,0.05,0.09,2.39,0.64,0.0,0.05,0.09,0.78
-"Quant Value Fund",1.92,0.0,0.05,0.05,2.02,0.41,0.0,0.05,0.05,0.51
+"Quant Value Fund",1.91,0.0,0.05,0.05,2.01,0.41,0.0,0.05,0.05,0.51
 "Quantum Dynamic Bond Fund",0.9,0.0,0.0,0.06,0.96,0.45,0.0,0.0,0.06,0.51
 "Quantum ELSS Tax Saver Fund",1.9,0.0,0.0,0.1,2.0,0.8,0.0,0.0,0.1,0.9
 "Quantum Equity Fund of Funds",0.71,0.0,0.0,0.04,0.75,0.47,0.0,0.0,0.04,0.51
@@ -1463,7 +1463,7 @@
 "Taurus Mid Cap Fund",2.23,0.0,0.05,0.28,2.56,1.83,0.0,0.05,0.28,2.16
 "Taurus Nifty 50 Index Fund",0.99,0.0,0.05,0.0,1.04,0.73,0.0,0.05,0.0,0.78
 "Templeton India Equity Income Fund",1.88,0.0,0.05,0.18,2.11,1.05,0.0,0.05,0.18,1.28
-"Templeton India Value Fund",1.91,0.0,0.05,0.12,2.08,0.7,0.0,0.05,0.12,0.87
+"Templeton India Value Fund",1.9,0.0,0.05,0.12,2.07,0.69,0.0,0.05,0.12,0.86
 "TRUSTMF Banking & PSU Fund",0.7,0.0,0.0,0.01,0.71,0.2,0.0,0.0,0.01,0.21
 "TRUSTMF Corporate Bond Fund",0.63,0.0,0.0,0.02,0.65,0.23,0.0,0.0,0.02,0.25
 "TRUSTMF Flexi Cap Fund",2.21,0.0,0.05,0.05,2.31,0.4,0.0,0.05,0.05,0.5
