@@ -481,7 +481,7 @@
 "Franklin Build India Fund",1.84,0.0,0.05,0.14,2.03,0.82,0.0,0.05,0.14,1.01
 "Franklin India Balanced Advantage Fund",1.91,0.0,0.05,0.05,2.01,0.33,0.0,0.05,0.05,0.43
 "Franklin India Banking & PSU Debt Fund",0.49,0.0,0.0,0.03,0.52,0.16,0.0,0.0,0.02,0.18
-"Franklin India Bluechip Fund",1.64,0.0,0.05,0.13,1.82,0.78,0.0,0.05,0.13,0.96
+"Franklin India Bluechip Fund",1.64,0.0,0.05,0.13,1.82,0.77,0.0,0.05,0.13,0.95
 "Franklin India Corporate Debt Fund",0.75,0.0,0.0,0.03,0.78,0.2,0.0,0.0,0.03,0.23
 "Franklin India Debt Hybrid Fund",1.3,0.0,0.0,0.1,1.4,0.6,0.0,0.0,0.09,0.69
 "Franklin India Dynamic Asset Allocation Fund of Funds",1.86,0.0,0.05,0.07,1.98,0.96,0.0,0.05,0.07,1.08
@@ -499,13 +499,13 @@
 "Franklin India Money Market Fund",0.28,0.0,0.0,0.01,0.29,0.12,0.0,0.0,0.01,0.13
 "Franklin India Multi - Asset Solution Fund of Funds",1.83,0.0,0.05,0.07,1.95,0.89,0.0,0.05,0.05,0.99
 "Franklin India NSE Nifty 50 Index Fund",0.6,0.0,0.0,0.03,0.63,0.22,0.0,0.0,0.03,0.25
-"Franklin India Opportunities Fund",1.76,0.0,0.05,0.09,1.9,0.54,0.0,0.05,0.09,0.68
+"Franklin India Opportunities Fund",1.75,0.0,0.05,0.09,1.89,0.54,0.0,0.05,0.09,0.68
 "Franklin India Overnight Fund",0.14,0.0,0.0,0.01,0.15,0.09,0.0,0.0,0.01,0.1
 "Franklin India Pension Plan",2.0,0.0,0.05,0.22,2.27,1.21,0.0,0.05,0.21,1.47
 "Franklin India Prima Fund",1.59,0.0,0.05,0.13,1.77,0.77,0.0,0.05,0.13,0.95
 "Franklin India Short-Term Income Plan (No. of Segregated Portfolios- 3)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 "Franklin India Smaller Companies Fund",1.57,0.0,0.05,0.13,1.75,0.75,0.0,0.05,0.12,0.92
-"Franklin India Technology Fund",1.96,0.0,0.05,0.15,2.16,0.95,0.0,0.05,0.15,1.15
+"Franklin India Technology Fund",1.96,0.0,0.05,0.15,2.16,0.94,0.0,0.05,0.15,1.14
 "Groww Aggressive Hybrid Fund (Formerly Known as Indiabulls Equity Hybrid Fund)",2.25,0.0,0.05,0.0,2.3,0.8,0.0,0.05,0.0,0.85
 "Groww Banking & Financial Services Fund",2.25,0.0,0.05,0.0,2.3,0.31,0.0,0.05,0.0,0.36
 "Groww Dynamic Bond Fund (Formerly Known as Indiabulls Dynamic Bond Fund)",1.45,0.0,0.0,0.0,1.45,0.45,0.0,0.0,0.0,0.45
@@ -1279,7 +1279,7 @@
 "Samco Active Momentum Fund",2.14,0.0,0.05,0.12,2.31,0.74,0.0,0.05,0.12,0.91
 "Samco Dynamic Asset Allocation Fund",2.19,0.0,0.05,0.08,2.32,0.57,0.0,0.05,0.08,0.7
 "Samco ELSS Tax Saver Fund",2.25,0.0,0.0,0.1,2.35,0.85,0.0,0.0,0.1,0.95
-"Samco Flexi Cap Fund",2.19,0.0,0.05,0.12,2.36,0.77,0.0,0.05,0.12,0.94
+"Samco Flexi Cap Fund",2.18,0.0,0.05,0.12,2.35,0.76,0.0,0.05,0.12,0.93
 "Samco Overnight Fund",0.33,0.0,0.0,0.0,0.33,0.13,0.0,0.0,0.0,0.13
 "SBI Arbitrage Opportunities Fund",0.9,0.0,0.0,0.06,0.96,0.38,0.0,0.0,0.06,0.44
 "SBI Balanced Advantage Fund",1.45,0.0,0.05,0.09,1.59,0.55,0.0,0.05,0.09,0.69
@@ -1396,33 +1396,33 @@
 "Tata Balanced Advantage Fund",1.61,0.0,0.05,0.03,1.69,0.28,0.0,0.05,0.03,0.36
 "Tata Banking & Financial Services Fund",1.89,0.0,0.05,0.05,1.99,0.39,0.0,0.05,0.05,0.49
 "Tata Banking & PSU Debt Fund",0.7,0.0,0.0,0.02,0.72,0.24,0.0,0.0,0.02,0.26
-"Tata Business Cycle Fund",1.87,0.0,0.05,0.03,1.95,0.31,0.0,0.05,0.03,0.39
+"Tata Business Cycle Fund",1.86,0.0,0.05,0.03,1.94,0.3,0.0,0.05,0.03,0.38
 "Tata Corporate Bond Fund",0.82,0.0,0.0,0.03,0.85,0.28,0.0,0.0,0.03,0.31
 "Tata CRISIL-IBX Gilt Index - April 2026 Index Fund",0.34,0.0,0.0,0.0,0.34,0.1,0.0,0.0,0.0,0.1
 "Tata Digital India Fund",1.61,0.0,0.05,0.03,1.69,0.3,0.0,0.05,0.03,0.38
-"Tata Dividend Yield Fund",2.09,0.0,0.05,0.05,2.19,0.4,0.0,0.05,0.05,0.5
+"Tata Dividend Yield Fund",2.09,0.0,0.05,0.05,2.19,0.39,0.0,0.05,0.05,0.49
 "Tata ELSS Tax Saver Fund",1.74,0.0,0.0,0.09,1.83,0.63,0.0,0.0,0.09,0.72
 "Tata Equity P/E Fund",1.63,0.0,0.05,0.1,1.78,0.66,0.0,0.05,0.1,0.81
 "Tata Equity Savings Fund",1.07,0.0,0.0,0.04,1.11,0.44,0.0,0.0,0.04,0.48
 "Tata Ethical Fund",1.83,0.0,0.05,0.09,1.97,0.6,0.0,0.05,0.09,0.74
-"Tata Flexi Cap Fund",1.82,0.0,0.05,0.08,1.95,0.55,0.0,0.05,0.08,0.68
+"Tata Flexi Cap Fund",1.81,0.0,0.05,0.08,1.94,0.54,0.0,0.05,0.08,0.67
 "Tata Floating Rate Fund",0.7,0.0,0.0,0.03,0.73,0.27,0.0,0.0,0.03,0.3
-"Tata Focused Equity Fund",1.93,0.0,0.05,0.07,2.05,0.51,0.0,0.05,0.07,0.63
-"Tata Gilt Securities Fund",1.52,0.0,0.0,0.05,1.57,0.38,0.0,0.0,0.05,0.43
+"Tata Focused Equity Fund",1.93,0.0,0.05,0.07,2.05,0.5,0.0,0.05,0.07,0.62
+"Tata Gilt Securities Fund",1.5,0.0,0.0,0.05,1.55,0.36,0.0,0.0,0.05,0.41
 "Tata Gold ETF Fund of Fund",0.69,0.0,0.0,0.0,0.69,0.07,0.0,0.0,0.0,0.07
 "Tata Gold Exchange Traded Fund",0.0,0.0,0.0,0.0,0.0,0.36,0.0,0.0,0.02,0.38
-"Tata Housing Opportunities Fund",2.21,0.0,0.05,0.08,2.34,0.54,0.0,0.05,0.08,0.67
+"Tata Housing Opportunities Fund",2.21,0.0,0.05,0.07,2.33,0.53,0.0,0.05,0.07,0.65
 "Tata Hybrid Equity Fund",1.75,0.0,0.05,0.13,1.93,0.83,0.0,0.05,0.13,1.01
-"Tata India Consumer Fund",1.9,0.0,0.05,0.1,2.05,0.64,0.0,0.05,0.1,0.79
+"Tata India Consumer Fund",1.9,0.0,0.05,0.09,2.04,0.63,0.0,0.05,0.09,0.77
 "Tata India Pharma & Healthcare Fund",2.09,0.0,0.05,0.1,2.24,0.67,0.0,0.05,0.1,0.82
-"Tata Infrastructure Fund",1.88,0.0,0.05,0.17,2.1,1.02,0.0,0.05,0.17,1.24
+"Tata Infrastructure Fund",1.86,0.0,0.05,0.16,2.07,1.0,0.0,0.05,0.16,1.21
 "Tata Large & Mid Cap Fund",1.65,0.0,0.05,0.09,1.79,0.59,0.0,0.05,0.09,0.73
-"Tata Large Cap Fund",1.88,0.0,0.05,0.14,2.07,0.91,0.0,0.05,0.14,1.1
+"Tata Large Cap Fund",1.87,0.0,0.05,0.14,2.06,0.91,0.0,0.05,0.14,1.1
 "Tata Liquid Fund",0.3,0.0,0.0,0.02,0.32,0.19,0.0,0.0,0.02,0.21
 "Tata Mid Cap Growth Fund",1.75,0.0,0.05,0.09,1.89,0.61,0.0,0.05,0.09,0.75
 "Tata Money Market Fund",0.39,0.0,0.0,0.01,0.4,0.14,0.0,0.0,0.01,0.15
 "Tata Multi Asset Opportunities Fund",1.81,0.0,0.05,0.03,1.89,0.3,0.0,0.05,0.03,0.38
-"Tata Multicap Fund",1.85,0.0,0.05,0.02,1.92,0.24,0.0,0.05,0.02,0.31
+"Tata Multicap Fund",1.84,0.0,0.05,0.02,1.91,0.23,0.0,0.05,0.02,0.3
 "Tata Nifty 50 Exchange Traded Fund",0.0,0.0,0.0,0.0,0.0,0.07,0.0,0.0,0.0,0.07
 "Tata Nifty 50 Index Fund",0.5,0.0,0.0,0.02,0.52,0.18,0.0,0.0,0.02,0.2
 "Tata Nifty Auto Index Fund",1.0,0.0,0.05,0.04,1.09,0.25,0.0,0.05,0.04,0.34
@@ -1440,15 +1440,15 @@
 "Tata Nifty500 Multicap Infrastructure 50:30:20 Index Fund",1.0,0.0,0.05,0.04,1.09,0.25,0.0,0.05,0.04,0.34
 "Tata Overnight Fund",0.18,0.0,0.0,0.0,0.18,0.06,0.0,0.0,0.0,0.06
 "Tata Quant Fund",2.23,0.0,0.05,0.1,2.38,0.73,0.0,0.05,0.1,0.88
-"Tata Resources & Energy Fund",2.19,0.0,0.05,0.09,2.33,0.62,0.0,0.05,0.09,0.76
+"Tata Resources & Energy Fund",2.19,0.0,0.05,0.09,2.33,0.61,0.0,0.05,0.09,0.75
 "Tata Retirement Savings Fund-Conservative Plan",1.99,0.0,0.05,0.13,2.17,0.79,0.0,0.05,0.13,0.97
 "Tata Retirement Savings Fund-Moderate Plan",1.9,0.0,0.05,0.07,2.02,0.5,0.0,0.05,0.07,0.62
-"Tata Retirement Savings Fund-Progressive Plan",1.91,0.0,0.05,0.06,2.02,0.46,0.0,0.05,0.06,0.57
+"Tata Retirement Savings Fund-Progressive Plan",1.91,0.0,0.05,0.06,2.02,0.45,0.0,0.05,0.06,0.56
 "Tata S&P BSE SENSEX Index Fund",0.55,0.0,0.0,0.03,0.58,0.24,0.0,0.0,0.03,0.27
 "Tata Short Term Bond Fund",1.14,0.0,0.0,0.04,1.18,0.32,0.0,0.0,0.04,0.36
 "Tata Silver ETF Fund of Fund",0.6,0.0,0.0,0.0,0.6,0.07,0.0,0.0,0.0,0.07
 "Tata Silver Exchange Traded Fund",0.0,0.0,0.0,0.0,0.0,0.44,0.0,0.0,0.0,0.44
-"Tata Small Cap Fund",1.66,0.0,0.05,0.03,1.74,0.26,0.0,0.05,0.03,0.34
+"Tata Small Cap Fund",1.65,0.0,0.05,0.03,1.73,0.26,0.0,0.05,0.03,0.34
 "Tata Treasury Advantage Fund",0.55,0.0,0.0,0.02,0.57,0.22,0.0,0.0,0.02,0.24
 "Tata Ultra Short Term Fund",1.12,0.0,0.0,0.04,1.16,0.33,0.0,0.0,0.04,0.37
 "Tata Young Citizens Fund",2.24,0.0,0.05,0.31,2.6,1.82,0.0,0.05,0.31,2.18
@@ -1460,7 +1460,7 @@
 "Taurus Large Cap Fund",2.22,0.0,0.05,0.35,2.62,2.11,0.0,0.05,0.35,2.51
 "Taurus Mid Cap Fund",2.23,0.0,0.05,0.28,2.56,1.83,0.0,0.05,0.28,2.16
 "Taurus Nifty 50 Index Fund",0.99,0.0,0.05,0.0,1.04,0.73,0.0,0.05,0.0,0.78
-"Templeton India Equity Income Fund",1.88,0.0,0.05,0.18,2.11,1.06,0.0,0.05,0.18,1.29
+"Templeton India Equity Income Fund",1.88,0.0,0.05,0.18,2.11,1.05,0.0,0.05,0.18,1.28
 "Templeton India Value Fund",1.91,0.0,0.05,0.12,2.08,0.7,0.0,0.05,0.12,0.87
 "TRUSTMF Banking & PSU Fund",0.7,0.0,0.0,0.01,0.71,0.2,0.0,0.0,0.01,0.21
 "TRUSTMF Corporate Bond Fund",0.63,0.0,0.0,0.02,0.65,0.23,0.0,0.0,0.02,0.25
