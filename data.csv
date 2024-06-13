@@ -842,7 +842,7 @@
 "ITI Ultra Short Duration Fund",0.95,0.0,0.0,0.0,0.95,0.1,0.0,0.0,0.0,0.1
 "ITI Value Fund",2.25,0.0,0.05,0.05,2.35,0.38,0.0,0.05,0.05,0.48
 "JM Aggressive Hybrid Fund",2.25,0.0,0.05,0.05,2.35,0.5,0.0,0.05,0.05,0.6
-"JM Arbitrage Fund",1.04,0.0,0.0,0.03,1.07,0.34,0.0,0.0,0.03,0.37
+"JM Arbitrage Fund",1.04,0.0,0.0,0.03,1.07,0.33,0.0,0.0,0.03,0.36
 "JM Dynamic Bond Fund",0.92,0.0,0.0,0.05,0.97,0.47,0.0,0.0,0.05,0.52
 "JM ELSS Tax Saver Fund",2.24,0.0,0.0,0.13,2.37,1.0,0.0,0.0,0.13,1.13
 "JM Flexicap Fund",1.82,0.0,0.05,0.02,1.89,0.33,0.0,0.05,0.02,0.4
@@ -851,7 +851,7 @@
 "JM Liquid Fund",0.25,0.0,0.0,0.01,0.26,0.15,0.0,0.0,0.01,0.16
 "JM Low Duration Fund",0.7,0.0,0.0,0.01,0.71,0.24,0.0,0.0,0.01,0.25
 "JM Medium to Long Duration Fund",1.0,0.0,0.0,0.06,1.06,0.55,0.0,0.0,0.06,0.61
-"JM Midcap Fund",2.03,0.0,0.05,0.01,2.09,0.26,0.0,0.05,0.01,0.32
+"JM Midcap Fund",2.02,0.0,0.05,0.01,2.08,0.25,0.0,0.05,0.01,0.31
 "JM Overnight Fund",0.15,0.0,0.0,0.01,0.16,0.08,0.0,0.0,0.01,0.09
 "JM Short Duration Fund",1.06,0.0,0.0,0.02,1.08,0.31,0.0,0.0,0.02,0.33
 "JM Value Fund",2.15,0.0,0.05,0.1,2.3,0.82,0.0,0.05,0.1,0.97
@@ -1267,7 +1267,7 @@
 "Quant Multi Asset Fund",1.8,0.0,0.05,0.08,1.93,0.54,0.0,0.05,0.08,0.67
 "Quant Overnight Fund",0.22,0.0,0.0,0.0,0.22,0.15,0.0,0.0,0.0,0.15
 "Quant PSU Fund",2.07,0.0,0.05,0.1,2.22,0.68,0.0,0.05,0.1,0.83
-"Quant Quantamental Fund",1.84,0.0,0.05,0.07,1.96,0.52,0.0,0.05,0.07,0.64
+"Quant Quantamental Fund",1.83,0.0,0.05,0.07,1.95,0.52,0.0,0.05,0.07,0.64
 "Quant Small Cap Fund",1.5,0.0,0.05,0.07,1.62,0.52,0.0,0.05,0.07,0.64
 "Quant Teck Fund",2.25,0.0,0.05,0.09,2.39,0.64,0.0,0.05,0.09,0.78
 "Quant Value Fund",1.91,0.0,0.05,0.05,2.01,0.41,0.0,0.05,0.05,0.51
@@ -1386,20 +1386,20 @@
 "Sundaram Focused Fund (Formerly Known as Principal Focused Multicap Fund)",2.02,0.0,0.05,0.16,2.23,0.91,0.0,0.05,0.16,1.12
 "Sundaram Global Brand Fund",2.25,0.0,0.05,0.0,2.3,1.28,0.0,0.05,0.0,1.33
 "Sundaram Infrastructure Advantage Fund (Erstwhile Sundaram Capex Opportunities)",2.03,0.0,0.05,0.25,2.33,1.47,0.0,0.05,0.25,1.76
-"Sundaram Large and Midcap Fund",1.67,0.0,0.05,0.08,1.8,0.57,0.0,0.05,0.08,0.7
+"Sundaram Large and Midcap Fund",1.66,0.0,0.05,0.08,1.79,0.56,0.0,0.05,0.08,0.69
 "Sundaram Large Cap Fund ( Formerly Know as Sundaram Blue Chip Fund)",1.78,0.0,0.05,0.07,1.89,0.49,0.0,0.05,0.07,0.6
 "Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund)",0.26,0.0,0.0,0.01,0.27,0.12,0.0,0.0,0.01,0.13
 "Sundaram Low Duration Fund (Formerly Known as Principal Low Duration Fund)",1.07,0.0,0.0,0.04,1.11,0.35,0.0,0.0,0.04,0.39
 "Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund)",2.0,0.0,0.0,0.17,2.16,1.09,0.0,0.0,0.17,1.25
-"Sundaram Mid Cap Fund",1.58,0.0,0.05,0.11,1.74,0.74,0.0,0.05,0.11,0.9
+"Sundaram Mid Cap Fund",1.57,0.0,0.05,0.11,1.73,0.73,0.0,0.05,0.11,0.89
 "Sundaram Money Market Fund",0.33,0.0,0.0,0.02,0.35,0.24,0.0,0.0,0.02,0.26
-"Sundaram Multi Asset Allocation Fund",1.88,0.0,0.05,0.02,1.95,0.15,0.0,0.05,0.02,0.23
+"Sundaram Multi Asset Allocation Fund",1.87,0.0,0.05,0.02,1.95,0.15,0.0,0.05,0.02,0.23
 "Sundaram Multi Cap Fund (Formerly Known as Principal Multi Cap Growth Fund)",1.81,0.0,0.05,0.11,1.97,0.7,0.0,0.05,0.11,0.86
 "Sundaram Nifty 100 Equal Weight Fund (Formerly Known as Principal Nifty 100 Equal Weight Fund)",1.0,0.0,0.0,0.03,1.03,0.54,0.0,0.0,0.03,0.57
 "Sundaram Overnight Fund",0.18,0.0,0.0,0.0,0.18,0.07,0.0,0.0,0.0,0.07
 "Sundaram Services Fund",1.76,0.0,0.05,0.08,1.9,0.59,0.0,0.05,0.08,0.72
 "Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund)",0.83,0.0,0.0,0.02,0.85,0.27,0.0,0.0,0.02,0.29
-"Sundaram Small Cap Fund",1.78,0.0,0.05,0.1,1.93,0.67,0.0,0.05,0.1,0.82
+"Sundaram Small Cap Fund",1.78,0.0,0.05,0.1,1.92,0.67,0.0,0.05,0.1,0.81
 "Sundaram Ultra Short Duration Fund (Formerly Known as Principal Ultra Short Term Fund)",1.44,0.0,0.0,0.02,1.46,0.22,0.0,0.0,0.02,0.24
 "Tata Arbitrage Fund",1.04,0.0,0.0,0.03,1.07,0.26,0.0,0.0,0.03,0.29
 "Tata Balanced Advantage Fund",1.61,0.0,0.05,0.03,1.69,0.28,0.0,0.05,0.03,0.36
