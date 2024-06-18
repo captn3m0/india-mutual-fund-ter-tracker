@@ -347,7 +347,7 @@
 "Canara Robeco Bluechip Equity Fund",1.57,0.0,0.05,0.04,1.66,0.36,0.0,0.05,0.04,0.45
 "Canara Robeco Conservative Hybrid Fund",1.69,0.0,0.05,0.08,1.82,0.51,0.0,0.05,0.08,0.64
 "Canara Robeco Consumer Trends Fund",1.95,0.0,0.05,0.1,2.1,0.68,0.0,0.05,0.1,0.83
-"Canara Robeco Corporate Bond Fund",0.98,0.0,0.0,0.05,1.03,0.34,0.0,0.0,0.04,0.38
+"Canara Robeco Corporate Bond Fund",0.98,0.0,0.0,0.04,1.02,0.34,0.0,0.0,0.04,0.38
 "Canara Robeco Dynamic Bond Fund",1.66,0.0,0.0,0.09,1.75,0.6,0.0,0.0,0.08,0.68
 "Canara Robeco ELSS Tax Saver",1.63,0.0,0.0,0.05,1.68,0.46,0.0,0.0,0.05,0.51
 "Canara Robeco Emerging Equities",1.49,0.0,0.05,0.06,1.6,0.44,0.0,0.05,0.06,0.55
@@ -358,9 +358,9 @@
 "Canara Robeco Income Fund",1.78,0.0,0.0,0.1,1.88,0.64,0.0,0.0,0.1,0.74
 "Canara Robeco Infrastructure",2.16,0.0,0.05,0.13,2.34,0.84,0.0,0.05,0.13,1.02
 "Canara Robeco Liquid Fund",0.19,0.0,0.0,0.01,0.2,0.11,0.0,0.0,0.01,0.12
-"Canara Robeco Manufacturing Fund",1.96,0.0,0.05,0.04,2.05,0.36,0.0,0.05,0.04,0.45
+"Canara Robeco Manufacturing Fund",1.95,0.0,0.05,0.04,2.04,0.35,0.0,0.05,0.04,0.44
 "Canara Robeco Mid Cap Fund",1.85,0.0,0.05,0.06,1.96,0.47,0.0,0.05,0.06,0.58
-"Canara Robeco Multi Cap Fund",1.84,0.0,0.05,0.05,1.94,0.38,0.0,0.05,0.05,0.48
+"Canara Robeco Multi Cap Fund",1.83,0.0,0.05,0.05,1.93,0.37,0.0,0.05,0.05,0.47
 "Canara Robeco Overnight Fund",0.11,0.0,0.0,0.0,0.11,0.1,0.0,0.0,0.0,0.1
 "Canara Robeco Savings Fund",0.53,0.0,0.0,0.05,0.58,0.26,0.0,0.0,0.03,0.29
 "Canara Robeco Short Duration Fund",0.97,0.0,0.0,0.05,1.02,0.36,0.0,0.0,0.05,0.41
@@ -1104,6 +1104,7 @@
 "Motilal Oswal Small Cap Fund",1.92,0.0,0.05,0.07,2.04,0.45,0.0,0.05,0.07,0.57
 "Motilal Oswal Ultra Short Term Fund",1.0,0.0,0.0,0.06,1.06,0.46,0.0,0.0,0.06,0.52
 "Navi Aggressive Hybrid Fund",2.25,0.0,0.0,0.03,2.28,0.42,0.0,0.0,0.0,0.42
+"Navi BSE SENSEX Index Fund",0.9,0.0,0.0,0.0,0.9,0.14,0.0,0.0,0.0,0.14
 "Navi Conservative Hybrid Fund",2.0,0.0,0.0,0.05,2.05,0.33,0.0,0.0,0.0,0.34
 "Navi ELSS Tax Saver Fund",2.25,0.0,0.0,0.04,2.29,0.37,0.0,0.0,0.02,0.39
 "Navi ELSS Tax Saver Nifty 50 Index Fund",0.99,0.0,0.0,0.01,1.0,0.1,0.0,0.0,0.0,0.1
@@ -1258,7 +1259,7 @@
 "Quant Focused Fund",2.04,0.0,0.05,0.08,2.17,0.57,0.0,0.05,0.08,0.7
 "Quant Gilt Fund",1.35,0.0,0.0,0.06,1.41,0.45,0.0,0.0,0.06,0.51
 "Quant Healthcare Fund",2.25,0.0,0.05,0.07,2.37,0.56,0.0,0.05,0.07,0.68
-"Quant Infrastructure Fund",1.76,0.0,0.05,0.07,1.88,0.54,0.0,0.05,0.07,0.66
+"Quant Infrastructure Fund",1.75,0.0,0.05,0.07,1.87,0.54,0.0,0.05,0.07,0.66
 "Quant Large & Mid Cap Fund",1.78,0.0,0.05,0.07,1.9,0.54,0.0,0.05,0.07,0.66
 "Quant Large Cap Fund",1.97,0.0,0.05,0.06,2.08,0.48,0.0,0.05,0.06,0.59
 "Quant Liquid Fund",0.5,0.0,0.0,0.02,0.52,0.24,0.0,0.0,0.02,0.26
@@ -1593,5 +1594,7 @@
 "WhiteOak Capital Ultra Short Duration Fund",0.97,0.0,0.0,0.04,1.01,0.37,0.0,0.0,0.04,0.41
 "Zerodha ELSS Tax Saver Nifty Largemidcap 250 Index Fund",0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.25
 "Zerodha Gold ETF",0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.01,0.31
+"Zerodha Nifty 100 ETF",0.0,0.0,0.0,0.0,0.0,0.22,0.0,0.0,0.0,0.22
 "Zerodha Nifty 1D Rate Liquid ETF",0.0,0.0,0.0,0.0,0.0,0.23,0.0,0.0,0.03,0.26
 "Zerodha Nifty Largemidcap 250 Index Fund",0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.25
+"Zerodha Nifty Midcap 150 ETF",0.0,0.0,0.0,0.0,0.0,0.18,0.0,0.0,0.0,0.18
