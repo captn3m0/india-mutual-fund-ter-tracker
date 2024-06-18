@@ -436,7 +436,7 @@
 "DSP World Energy Fund",2.03,0.0,0.0,0.07,2.1,1.47,0.0,0.0,0.07,1.54
 "DSP World Gold Fund of Fund",2.25,0.0,0.0,0.1,2.35,1.63,0.0,0.0,0.1,1.73
 "DSP World Mining Fund",2.09,0.0,0.0,0.05,2.14,1.46,0.0,0.0,0.05,1.51
-"Edelweiss Aggressive Hybrid Fund",1.91,0.0,0.05,0.05,2.01,0.29,0.0,0.05,0.05,0.39
+"Edelweiss Aggressive Hybrid Fund",1.9,0.0,0.05,0.05,2.0,0.29,0.0,0.05,0.05,0.39
 "Edelweiss Arbitrage Fund",1.01,0.0,0.0,0.05,1.06,0.33,0.0,0.0,0.05,0.38
 "Edelweiss ASEAN Equity Off-shore Fund",1.27,0.0,0.05,0.09,1.41,0.57,0.0,0.05,0.09,0.71
 "Edelweiss Balanced Advantage Fund",1.59,0.0,0.05,0.06,1.7,0.4,0.0,0.05,0.06,0.51
@@ -450,16 +450,16 @@
 "Edelweiss Emerging Markets Opportunities Equity Offshore Fund",1.27,0.0,0.05,0.06,1.38,0.4,0.0,0.05,0.06,0.51
 "Edelweiss Equity Savings Fund",1.5,0.0,0.0,0.08,1.58,0.51,0.0,0.0,0.08,0.59
 "Edelweiss Europe Dynamic Equity Offshore Fund",1.27,0.0,0.05,0.07,1.39,0.44,0.0,0.05,0.07,0.56
-"Edelweiss Flexi Cap Fund",1.9,0.0,0.05,0.06,2.01,0.34,0.0,0.05,0.06,0.45
+"Edelweiss Flexi Cap Fund",1.91,0.0,0.05,0.05,2.01,0.35,0.0,0.05,0.05,0.45
 "Edelweiss Focused Fund",2.12,0.0,0.05,0.08,2.25,0.5,0.0,0.05,0.08,0.63
 "Edelweiss Gold and Silver ETF FoF",0.59,0.0,0.05,0.04,0.68,0.2,0.0,0.05,0.04,0.29
 "Edelweiss Gold ETF",0.35,0.0,0.0,0.0,0.35,0.0,0.0,0.0,0.0,0.0
 "Edelweiss Government Securities Fund",1.08,0.0,0.0,0.06,1.14,0.41,0.0,0.0,0.06,0.47
 "Edelweiss Greater China Equity Off-shore Fund",1.43,0.0,0.05,0.08,1.56,0.51,0.0,0.05,0.08,0.64
-"Edelweiss Large & Mid Cap Fund",1.79,0.0,0.05,0.05,1.89,0.35,0.0,0.05,0.05,0.45
+"Edelweiss Large & Mid Cap Fund",1.79,0.0,0.05,0.05,1.89,0.34,0.0,0.05,0.05,0.44
 "Edelweiss Large Cap Fund",2.08,0.0,0.05,0.08,2.21,0.5,0.0,0.05,0.08,0.63
 "Edelweiss Liquid Fund",0.24,0.0,0.0,0.01,0.25,0.07,0.0,0.0,0.01,0.08
-"Edelweiss Mid Cap Fund",1.67,0.0,0.05,0.05,1.77,0.29,0.0,0.05,0.05,0.39
+"Edelweiss Mid Cap Fund",1.66,0.0,0.05,0.05,1.76,0.29,0.0,0.05,0.05,0.39
 "Edelweiss Money Market Fund",0.9,0.0,0.0,0.03,0.93,0.21,0.0,0.0,0.03,0.24
 "Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund",0.98,0.0,0.0,0.06,1.04,0.43,0.0,0.0,0.06,0.49
 "Edelweiss Multi Asset Allocation Fund",0.62,0.0,0.05,0.04,0.71,0.31,0.0,0.05,0.04,0.4
@@ -981,7 +981,7 @@
 "Mahindra Manulife Aggressive Hybrid Fund",2.0,0.0,0.05,0.05,2.1,0.36,0.0,0.05,0.05,0.46
 "Mahindra Manulife Arbitrage Fund",1.17,0.0,0.0,0.04,1.21,0.37,0.0,0.0,0.04,0.41
 "Mahindra Manulife Asia Pacific Reits FoF",1.29,0.0,0.05,0.03,1.37,0.38,0.0,0.05,0.03,0.46
-"Mahindra Manulife Balanced Advantage Fund",2.16,0.0,0.05,0.07,2.28,0.45,0.0,0.05,0.07,0.57
+"Mahindra Manulife Balanced Advantage Fund",2.16,0.0,0.05,0.06,2.27,0.45,0.0,0.05,0.06,0.56
 "Mahindra Manulife Business Cycle Fund",2.08,0.0,0.05,0.04,2.17,0.29,0.0,0.05,0.04,0.38
 "Mahindra Manulife Consumption Fund",2.25,0.0,0.05,0.08,2.38,0.56,0.0,0.05,0.08,0.69
 "Mahindra Manulife Dynamic Bond Fund",1.53,0.0,0.0,0.04,1.57,0.35,0.0,0.0,0.04,0.39
