@@ -104,10 +104,10 @@
 "Axis Arbitrage Fund",0.98,0.0,0.0,0.03,1.01,0.28,0.0,0.0,0.03,0.31
 "Axis Balanced Advantage Fund",1.87,0.0,0.05,0.12,2.04,0.72,0.0,0.05,0.12,0.89
 "Axis Banking & PSU Debt Fund",0.58,0.0,0.0,0.05,0.63,0.29,0.0,0.0,0.05,0.34
-"Axis Bluechip Fund",1.42,0.0,0.05,0.09,1.56,0.52,0.0,0.05,0.09,0.66
+"Axis Bluechip Fund",1.42,0.0,0.05,0.09,1.56,0.54,0.0,0.05,0.09,0.68
 "Axis BSE SENSEX ETF",0.2,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0
 "Axis BSE SENSEX Index Fund",0.8,0.0,0.0,0.0,0.8,0.2,0.0,0.0,0.0,0.2
-"Axis Business Cycles Fund",1.82,0.0,0.05,0.08,1.95,0.43,0.0,0.05,0.07,0.55
+"Axis Business Cycles Fund",1.82,0.0,0.05,0.08,1.95,0.48,0.0,0.05,0.08,0.61
 "Axis Children's Gift Fund",2.11,0.0,0.0,0.2,2.31,1.01,0.0,0.0,0.17,1.18
 "Axis Corporate Debt Fund",0.87,0.0,0.0,0.04,0.91,0.26,0.0,0.0,0.04,0.3
 "Axis Credit Risk Fund",1.46,0.0,0.0,0.11,1.57,0.69,0.0,0.0,0.11,0.8
@@ -122,10 +122,10 @@
 "Axis Equity Hybrid Fund",1.94,0.0,0.05,0.15,2.14,0.8,0.0,0.05,0.14,0.99
 "Axis Equity Saver Fund",2.08,0.0,0.05,0.15,2.28,0.84,0.0,0.05,0.14,1.03
 "Axis ESG Integration Strategy Fund",1.97,0.0,0.05,0.18,2.2,1.04,0.0,0.05,0.18,1.27
-"Axis Flexi Cap Fund",1.57,0.0,0.05,0.09,1.71,0.57,0.0,0.05,0.09,0.71
+"Axis Flexi Cap Fund",1.57,0.0,0.05,0.09,1.71,0.56,0.0,0.05,0.09,0.7
 "Axis Floater Fund",0.52,0.0,0.0,0.02,0.54,0.18,0.0,0.0,0.02,0.2
 "Axis Focused 25 Fund",1.57,0.0,0.05,0.1,1.72,0.62,0.0,0.05,0.1,0.77
-"Axis Focused Fund",1.56,0.0,0.05,0.11,1.72,0.62,0.0,0.05,0.11,0.78
+"Axis Focused Fund",1.56,0.0,0.05,0.11,1.72,0.63,0.0,0.05,0.11,0.79
 "Axis Gilt Fund",0.73,0.0,0.0,0.05,0.78,0.33,0.0,0.0,0.05,0.38
 "Axis Global Equity Alpha Fund of Fund",1.45,0.0,0.05,0.11,1.61,0.65,0.0,0.05,0.11,0.81
 "Axis Global Innovation Fund of Fund",1.45,0.0,0.05,0.1,1.6,0.57,0.0,0.05,0.1,0.72
@@ -134,10 +134,10 @@
 "Axis Greater China Equity Fund of Fund",1.45,0.0,0.05,0.06,1.56,0.49,0.0,0.05,0.06,0.6
 "Axis Growth Opportunities Fund",1.57,0.0,0.05,0.07,1.69,0.45,0.0,0.05,0.07,0.57
 "Axis India Manufacturing Fund",1.69,0.0,0.05,0.03,1.77,0.17,0.0,0.05,0.03,0.25
-"Axis Innovation Fund",1.99,0.0,0.05,0.18,2.22,0.99,0.0,0.05,0.17,1.21
+"Axis Innovation Fund",1.99,0.0,0.05,0.18,2.22,1.05,0.0,0.05,0.18,1.28
 "Axis Liquid Fund",0.32,0.0,0.0,0.02,0.34,0.15,0.0,0.0,0.02,0.17
 "Axis Long Duration Fund",0.67,0.0,0.0,0.03,0.7,0.23,0.0,0.0,0.03,0.26
-"Axis Midcap Fund",1.45,0.0,0.05,0.07,1.57,0.4,0.0,0.05,0.07,0.52
+"Axis Midcap Fund",1.45,0.0,0.05,0.07,1.57,0.41,0.0,0.05,0.07,0.53
 "Axis Money Market Fund",0.3,0.0,0.0,0.01,0.31,0.12,0.0,0.0,0.01,0.13
 "Axis Multi Asset Allocation Fund",1.88,0.0,0.05,0.16,2.09,0.87,0.0,0.05,0.15,1.07
 "Axis Multicap Fund",1.69,0.0,0.05,0.08,1.82,0.5,0.0,0.05,0.08,0.63
@@ -158,23 +158,23 @@
 "Axis Nifty SDL September 2026 Debt Index Fund",0.3,0.0,0.0,0.0,0.3,0.15,0.0,0.0,0.0,0.15
 "Axis Nifty Smallcap 50 Index Fund",1.0,0.0,0.0,0.0,1.0,0.25,0.0,0.0,0.0,0.25
 "Axis Overnight Fund",0.11,0.0,0.0,0.0,0.11,0.05,0.0,0.0,0.0,0.05
-"Axis Quant Fund",2.03,0.0,0.05,0.09,2.17,0.55,0.0,0.05,0.09,0.69
+"Axis Quant Fund",2.03,0.0,0.05,0.09,2.17,0.52,0.0,0.05,0.09,0.66
 "Axis Regular Saver Fund",2.0,0.0,0.05,0.13,2.18,0.66,0.0,0.05,0.12,0.83
-"Axis Retirement Savings Fund - Aggressive Plan",2.1,0.0,0.0,0.13,2.23,0.79,0.0,0.0,0.13,0.92
+"Axis Retirement Savings Fund - Aggressive Plan",2.1,0.0,0.0,0.12,2.22,0.76,0.0,0.0,0.12,0.88
 "Axis Retirement Savings Fund - Conservative Plan",1.99,0.0,0.0,0.14,2.13,0.6,0.0,0.0,0.09,0.69
-"Axis Retirement Savings Fund - Dynamic Plan",2.24,0.0,0.0,0.15,2.39,0.91,0.0,0.0,0.15,1.06
+"Axis Retirement Savings Fund - Dynamic Plan",2.24,0.0,0.0,0.14,2.38,0.89,0.0,0.0,0.15,1.04
 "Axis S&P BSE SENSEX ETF",0.2,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0
 "Axis S&P BSE SENSEX Index Fund",0.8,0.0,0.0,0.0,0.8,0.2,0.0,0.0,0.0,0.2
 "Axis Short Term Fund",0.84,0.0,0.0,0.04,0.88,0.3,0.0,0.0,0.04,0.34
 "Axis Silver ETF",0.35,0.0,0.0,0.0,0.35,0.0,0.0,0.0,0.0,0.0
 "Axis Silver Fund of Fund",0.65,0.0,0.05,0.0,0.7,0.1,0.0,0.05,0.0,0.15
-"Axis Small Cap Fund",1.5,0.0,0.05,0.07,1.62,0.42,0.0,0.05,0.07,0.54
+"Axis Small Cap Fund",1.5,0.0,0.05,0.07,1.62,0.43,0.0,0.05,0.07,0.55
 "Axis Special Situations Fund",2.0,0.0,0.05,0.18,2.23,1.0,0.0,0.05,0.17,1.22
 "Axis Strategic Bond Fund",0.98,0.0,0.0,0.05,1.03,0.34,0.0,0.0,0.05,0.39
 "Axis Treasury Advantage Fund",0.59,0.0,0.0,0.04,0.63,0.27,0.0,0.0,0.04,0.31
 "Axis Ultra Short Term Fund",1.12,0.0,0.0,0.04,1.16,0.28,0.0,0.0,0.04,0.32
 "Axis US Treasury Dynamic Bond ETF Fund of Fund",0.14,0.0,0.0,0.0,0.14,0.09,0.0,0.0,0.0,0.09
-"Axis Value Fund",2.2,0.0,0.05,0.14,2.39,0.83,0.0,0.05,0.14,1.02
+"Axis Value Fund",2.2,0.0,0.05,0.14,2.39,0.82,0.0,0.05,0.14,1.01
 "Bajaj Finserv Arbitrage Fund",0.93,0.0,0.0,0.03,0.96,0.23,0.0,0.0,0.03,0.26
 "Bajaj Finserv Balanced Advantage Fund",2.02,0.0,0.05,0.05,2.12,0.45,0.0,0.05,0.05,0.55
 "Bajaj Finserv Banking and PSU Fund",0.85,0.0,0.0,0.04,0.89,0.3,0.0,0.0,0.04,0.34
@@ -392,14 +392,14 @@
 "DSP Global Innovation Fund of Fund",2.0,0.0,0.0,0.05,2.05,1.15,0.0,0.0,0.05,1.2
 "DSP Gold ETF",0.0,0.0,0.0,0.0,0.0,0.46,0.0,0.0,0.02,0.48
 "DSP Gold ETF Fund of Fund",1.0,0.0,0.0,0.0,1.0,0.61,0.0,0.0,0.0,0.61
-"DSP Healthcare Fund",1.85,0.0,0.05,0.09,1.99,0.53,0.0,0.05,0.09,0.67
+"DSP Healthcare Fund",1.85,0.0,0.05,0.08,1.98,0.51,0.0,0.05,0.08,0.64
 "DSP India T.I.G.E.R. Fund",1.73,0.0,0.05,0.14,1.92,0.8,0.0,0.05,0.14,0.99
 "DSP Liquidity Fund",0.25,0.0,0.0,0.02,0.27,0.13,0.0,0.0,0.02,0.15
 "DSP Low Duration Fund",0.59,0.0,0.0,0.04,0.63,0.26,0.0,0.0,0.04,0.3
 "DSP Midcap Fund",1.52,0.0,0.05,0.1,1.67,0.58,0.0,0.05,0.1,0.73
 "DSP Multi Asset Allocation Fund",1.63,0.0,0.04,0.04,1.71,0.27,0.0,0.04,0.04,0.35
 "DSP Multicap Fund",2.01,0.0,0.05,0.07,2.13,0.47,0.0,0.05,0.07,0.59
-"DSP Natural Resources and New Energy Fund",2.01,0.0,0.0,0.12,2.13,0.92,0.0,0.0,0.12,1.04
+"DSP Natural Resources and New Energy Fund",2.0,0.0,0.0,0.11,2.11,0.9,0.0,0.0,0.11,1.01
 "DSP Nifty 1D Rate Liquid ETF",0.0,0.0,0.0,0.0,0.0,0.34,0.0,0.0,0.01,0.35
 "DSP Nifty 50 Equal Weight ETF",0.0,0.0,0.0,0.0,0.0,0.26,0.0,0.0,0.04,0.3
 "DSP Nifty 50 Equal Weight Index Fund",0.95,0.0,0.0,0.05,1.0,0.35,0.0,0.0,0.05,0.4
@@ -432,9 +432,9 @@
 "DSP US Flexible Equity Fund",2.25,0.0,0.0,0.09,2.34,1.42,0.0,0.0,0.09,1.51
 "DSP US Treasury Fund of Fund",0.21,0.0,0.05,0.01,0.27,0.16,0.0,0.05,0.01,0.22
 "DSP Value Fund",1.59,0.0,0.0,0.1,1.69,0.83,0.0,0.0,0.1,0.93
-"DSP World Agriculture Fund",2.13,0.0,0.0,0.13,2.26,1.56,0.0,0.0,0.13,1.69
+"DSP World Agriculture Fund",2.13,0.0,0.0,0.12,2.25,1.5,0.0,0.0,0.12,1.62
 "DSP World Energy Fund",2.03,0.0,0.0,0.07,2.1,1.47,0.0,0.0,0.07,1.54
-"DSP World Gold Fund of Fund",2.25,0.0,0.0,0.1,2.35,1.63,0.0,0.0,0.1,1.73
+"DSP World Gold Fund of Fund",2.25,0.0,0.0,0.09,2.34,1.58,0.0,0.0,0.09,1.67
 "DSP World Mining Fund",2.09,0.0,0.0,0.05,2.14,1.46,0.0,0.0,0.05,1.51
 "Edelweiss Aggressive Hybrid Fund",1.9,0.0,0.05,0.05,2.0,0.29,0.0,0.05,0.05,0.39
 "Edelweiss Arbitrage Fund",1.01,0.0,0.0,0.05,1.06,0.33,0.0,0.0,0.05,0.38
@@ -477,7 +477,7 @@
 "Edelweiss Recently Listed IPO Fund",2.08,0.0,0.05,0.13,2.26,0.77,0.0,0.05,0.13,0.95
 "Edelweiss Silver ETF",0.39,0.0,0.0,0.0,0.39,0.0,0.0,0.0,0.0,0.0
 "Edelweiss Small Cap Fund",1.76,0.0,0.05,0.05,1.86,0.32,0.0,0.05,0.05,0.42
-"Edelweiss Technology Fund",2.24,0.0,0.05,0.07,2.36,0.49,0.0,0.05,0.07,0.61
+"Edelweiss Technology Fund",2.24,0.0,0.05,0.07,2.36,0.48,0.0,0.05,0.07,0.6
 "Edelweiss US Technology Equity Fund of Fund",1.4,0.0,0.05,0.08,1.53,0.49,0.0,0.05,0.08,0.62
 "Edelweiss US Value Equity Offshore Fund",1.43,0.0,0.05,0.09,1.57,0.56,0.0,0.05,0.09,0.7
 "Franklin Asian Equity Fund",2.25,0.0,0.05,0.23,2.53,1.36,0.0,0.05,0.23,1.64
@@ -1473,7 +1473,7 @@
 "Taurus Large Cap Fund",2.22,0.0,0.05,0.35,2.62,2.11,0.0,0.05,0.35,2.51
 "Taurus Mid Cap Fund",2.23,0.0,0.05,0.28,2.56,1.83,0.0,0.05,0.28,2.16
 "Taurus Nifty 50 Index Fund",0.99,0.0,0.05,0.0,1.04,0.73,0.0,0.05,0.0,0.78
-"Templeton India Equity Income Fund",1.87,0.0,0.05,0.18,2.1,1.04,0.0,0.05,0.18,1.27
+"Templeton India Equity Income Fund",1.86,0.0,0.05,0.18,2.09,1.04,0.0,0.05,0.18,1.27
 "Templeton India Value Fund",1.89,0.0,0.05,0.12,2.06,0.68,0.0,0.05,0.12,0.85
 "TRUSTMF Banking & PSU Fund",0.7,0.0,0.0,0.01,0.71,0.2,0.0,0.0,0.01,0.21
 "TRUSTMF Corporate Bond Fund",0.63,0.0,0.0,0.02,0.65,0.23,0.0,0.0,0.02,0.25
