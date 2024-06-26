@@ -104,7 +104,7 @@
 "Axis Arbitrage Fund",0.98,0.0,0.0,0.03,1.01,0.28,0.0,0.0,0.03,0.31
 "Axis Balanced Advantage Fund",1.87,0.0,0.05,0.12,2.04,0.72,0.0,0.05,0.12,0.89
 "Axis Banking & PSU Debt Fund",0.58,0.0,0.0,0.05,0.63,0.29,0.0,0.0,0.05,0.34
-"Axis Bluechip Fund",1.42,0.0,0.05,0.09,1.56,0.54,0.0,0.05,0.09,0.68
+"Axis Bluechip Fund",1.42,0.0,0.05,0.09,1.56,0.53,0.0,0.05,0.09,0.67
 "Axis BSE SENSEX ETF",0.2,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0
 "Axis BSE SENSEX Index Fund",0.8,0.0,0.0,0.0,0.8,0.2,0.0,0.0,0.0,0.2
 "Axis Business Cycles Fund",1.82,0.0,0.05,0.08,1.95,0.48,0.0,0.05,0.08,0.61
@@ -139,7 +139,7 @@
 "Axis Long Duration Fund",0.67,0.0,0.0,0.03,0.7,0.23,0.0,0.0,0.03,0.26
 "Axis Midcap Fund",1.45,0.0,0.05,0.07,1.57,0.41,0.0,0.05,0.07,0.53
 "Axis Money Market Fund",0.3,0.0,0.0,0.01,0.31,0.12,0.0,0.0,0.01,0.13
-"Axis Multi Asset Allocation Fund",1.88,0.0,0.05,0.16,2.09,0.87,0.0,0.05,0.15,1.07
+"Axis Multi Asset Allocation Fund",1.88,0.0,0.05,0.15,2.08,0.87,0.0,0.05,0.15,1.07
 "Axis Multicap Fund",1.69,0.0,0.05,0.08,1.82,0.5,0.0,0.05,0.08,0.63
 "Axis NASDAQ 100 Fund of Fund",0.66,0.0,0.0,0.0,0.66,0.22,0.0,0.0,0.0,0.22
 "Axis Nifty 100 Index Fund",0.9,0.0,0.0,0.02,0.92,0.19,0.0,0.0,0.02,0.21
@@ -462,7 +462,7 @@
 "Edelweiss Liquid Fund",0.24,0.0,0.0,0.01,0.25,0.07,0.0,0.0,0.01,0.08
 "Edelweiss Mid Cap Fund",1.67,0.0,0.05,0.05,1.77,0.31,0.0,0.05,0.05,0.41
 "Edelweiss Money Market Fund",0.9,0.0,0.0,0.03,0.93,0.21,0.0,0.0,0.03,0.24
-"Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund",0.98,0.0,0.0,0.06,1.04,0.43,0.0,0.0,0.06,0.49
+"Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund",0.98,0.0,0.0,0.06,1.04,0.45,0.0,0.0,0.06,0.51
 "Edelweiss Multi Asset Allocation Fund",0.62,0.0,0.05,0.04,0.71,0.31,0.0,0.05,0.04,0.4
 "Edelweiss Multi Cap Fund",1.89,0.0,0.05,0.05,1.99,0.33,0.0,0.05,0.05,0.43
 "Edelweiss Nifty 100 Quality 30 Index Fund",0.72,0.0,0.0,0.02,0.74,0.12,0.0,0.0,0.02,0.14
@@ -478,7 +478,7 @@
 "Edelweiss Recently Listed IPO Fund",2.08,0.0,0.05,0.13,2.26,0.77,0.0,0.05,0.13,0.95
 "Edelweiss Silver ETF",0.39,0.0,0.0,0.0,0.39,0.0,0.0,0.0,0.0,0.0
 "Edelweiss Small Cap Fund",1.76,0.0,0.05,0.05,1.86,0.32,0.0,0.05,0.05,0.42
-"Edelweiss Technology Fund",2.24,0.0,0.05,0.07,2.36,0.48,0.0,0.05,0.07,0.6
+"Edelweiss Technology Fund",2.23,0.0,0.05,0.07,2.35,0.48,0.0,0.05,0.07,0.6
 "Edelweiss US Technology Equity Fund of Fund",1.4,0.0,0.05,0.08,1.53,0.49,0.0,0.05,0.08,0.62
 "Edelweiss US Value Equity Offshore Fund",1.43,0.0,0.05,0.09,1.57,0.56,0.0,0.05,0.09,0.7
 "Franklin Asian Equity Fund",2.25,0.0,0.05,0.23,2.53,1.36,0.0,0.05,0.23,1.64
@@ -1003,10 +1003,10 @@
 "Mahindra Manulife Short Duration Fund",1.24,0.0,0.0,0.02,1.26,0.27,0.0,0.0,0.02,0.29
 "Mahindra Manulife Small Cap Fund",1.74,0.0,0.05,0.02,1.81,0.19,0.0,0.05,0.02,0.26
 "Mahindra Manulife Ultra Short Duration Fund",0.68,0.0,0.0,0.03,0.71,0.26,0.0,0.0,0.03,0.29
-"Mirae Asset Aggressive Hybrid Fund",1.63,0.0,0.05,0.05,1.73,0.28,0.0,0.05,0.04,0.37
+"Mirae Asset Aggressive Hybrid Fund",1.62,0.0,0.05,0.04,1.71,0.28,0.0,0.05,0.04,0.37
 "Mirae Asset Arbitrage Fund",1.01,0.0,0.0,0.02,1.03,0.2,0.0,0.0,0.02,0.22
 "Mirae Asset Balanced Advantage Fund",1.94,0.0,0.05,0.09,2.08,0.54,0.0,0.05,0.09,0.68
-"Mirae Asset Banking and Financial Services Fund",1.92,0.0,0.05,0.08,2.05,0.46,0.0,0.05,0.08,0.59
+"Mirae Asset Banking and Financial Services Fund",1.92,0.0,0.05,0.08,2.05,0.45,0.0,0.05,0.07,0.57
 "Mirae Asset Banking and PSU Fund",0.78,0.0,0.0,0.04,0.82,0.32,0.0,0.0,0.04,0.36
 "Mirae Asset BSE SENSEX ETF",0.03,0.0,0.0,0.0,0.03,0.0,0.0,0.0,0.0,0.0
 "Mirae Asset Corporate Bond Fund",0.65,0.0,0.0,0.02,0.67,0.2,0.0,0.0,0.02,0.22
@@ -1016,7 +1016,7 @@
 "Mirae Asset Equity Allocator Fund of Fund",0.08,0.0,0.03,0.0,0.11,0.01,0.0,0.03,0.0,0.04
 "Mirae Asset Equity Savings Fund",1.28,0.0,0.0,0.03,1.31,0.29,0.0,0.0,0.03,0.32
 "Mirae Asset Flexi Cap Fund",1.9,0.0,0.05,0.07,2.02,0.43,0.0,0.05,0.07,0.55
-"Mirae Asset Focused Fund",1.64,0.0,0.05,0.07,1.76,0.45,0.0,0.05,0.07,0.57
+"Mirae Asset Focused Fund",1.63,0.0,0.05,0.07,1.75,0.44,0.0,0.05,0.07,0.56
 "Mirae Asset Global Electric & Autonomous Vehicles Etfs Fund of Fund",0.46,0.0,0.05,0.03,0.54,0.16,0.0,0.05,0.03,0.24
 "Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund",0.32,0.0,0.05,0.03,0.4,0.17,0.0,0.05,0.03,0.25
 "Mirae Asset Gold ETF",0.3,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0
@@ -1031,7 +1031,7 @@
 "Mirae Asset Midcap Fund",1.54,0.0,0.05,0.07,1.66,0.44,0.0,0.05,0.07,0.56
 "Mirae Asset Money Market Fund",0.54,0.0,0.0,0.03,0.57,0.21,0.0,0.0,0.02,0.23
 "Mirae Asset Multi Asset Allocation Fund",1.95,0.0,0.05,0.05,2.05,0.3,0.0,0.05,0.05,0.4
-"Mirae Asset Multicap Fund",1.8,0.0,0.05,0.05,1.9,0.3,0.0,0.05,0.05,0.4
+"Mirae Asset Multicap Fund",1.8,0.0,0.05,0.05,1.9,0.29,0.0,0.05,0.05,0.39
 "Mirae Asset Nifty 100 ESG Sector Leaders ETF",0.45,0.0,0.0,0.08,0.53,0.0,0.0,0.0,0.0,0.0
 "Mirae Asset Nifty 100 ESG Sector Leaders Fund of Fund",0.4,0.0,0.05,0.01,0.46,0.01,0.0,0.05,0.01,0.07
 "Mirae Asset Nifty 100 Low Volatility 30 ETF",0.09,0.0,0.0,0.0,0.09,0.0,0.0,0.0,0.0,0.0
@@ -1316,11 +1316,11 @@
 "SBI Energy Opportunities Fund",1.62,0.0,0.05,0.07,1.74,0.35,0.0,0.05,0.07,0.47
 "SBI Equity Hybrid Fund",1.26,0.0,0.05,0.1,1.41,0.59,0.0,0.05,0.1,0.74
 "SBI Equity Minimum Variance Fund",0.7,0.0,0.0,0.04,0.74,0.37,0.0,0.0,0.04,0.41
-"SBI Equity Savings Fund",1.05,0.0,0.05,0.09,1.19,0.53,0.0,0.05,0.09,0.67
+"SBI Equity Savings Fund",1.05,0.0,0.05,0.09,1.19,0.52,0.0,0.05,0.09,0.66
 "SBI ESG Exclusionary Strategy Fund",1.69,0.0,0.05,0.18,1.92,1.07,0.0,0.05,0.18,1.3
 "SBI Flexicap Fund",1.5,0.0,0.05,0.11,1.66,0.66,0.0,0.05,0.11,0.82
 "SBI Floating Rate Debt Fund",0.43,0.0,0.0,0.03,0.46,0.23,0.0,0.0,0.03,0.26
-"SBI Focused Equity Fund",1.42,0.0,0.05,0.09,1.56,0.58,0.0,0.05,0.09,0.72
+"SBI Focused Equity Fund",1.42,0.0,0.05,0.1,1.57,0.58,0.0,0.05,0.1,0.73
 "SBI Gold ETF",0.58,0.0,0.0,0.07,0.65,0.0,0.0,0.0,0.0,0.0
 "SBI Gold Fund",0.42,0.0,0.0,0.0,0.42,0.1,0.0,0.0,0.0,0.1
 "SBI Healthcare Opportunities Fund",1.82,0.0,0.05,0.13,2.0,0.76,0.0,0.05,0.13,0.94
@@ -1330,7 +1330,7 @@
 "SBI Liquid Fund",0.28,0.0,0.0,0.03,0.31,0.17,0.0,0.0,0.03,0.2
 "SBI Long Duration Fund",0.65,0.0,0.0,0.03,0.68,0.2,0.0,0.0,0.03,0.23
 "SBI Long Term Equity Fund",1.48,0.0,0.0,0.13,1.61,0.8,0.0,0.0,0.13,0.93
-"SBI Magnum Children's Benefit Fund - Investment Plan",1.87,0.0,0.0,0.1,1.97,0.71,0.0,0.0,0.1,0.81
+"SBI Magnum Children's Benefit Fund - Investment Plan",1.87,0.0,0.0,0.11,1.98,0.71,0.0,0.0,0.11,0.82
 "SBI Magnum Children's Benefit Fund - Savings Plan",1.1,0.0,0.0,0.11,1.21,0.75,0.0,0.0,0.11,0.86
 "SBI Magnum Comma Fund",2.2,0.0,0.05,0.28,2.53,1.6,0.0,0.05,0.28,1.93
 "SBI Magnum Constant Maturity Fund",0.6,0.0,0.0,0.04,0.64,0.27,0.0,0.0,0.04,0.31
@@ -1586,13 +1586,13 @@
 "WhiteOak Capital Balanced Hybrid Fund",2.0,0.0,0.05,0.09,2.14,0.54,0.0,0.05,0.09,0.68
 "WhiteOak Capital Banking & Financial Services Fund",2.25,0.0,0.05,0.07,2.37,0.52,0.0,0.05,0.07,0.64
 "WhiteOak Capital ELSS Tax Saver Fund",2.25,0.0,0.0,0.07,2.32,0.61,0.0,0.0,0.07,0.68
-"WhiteOak Capital Flexi Cap Fund",1.76,0.0,0.05,0.03,1.84,0.29,0.0,0.05,0.03,0.37
+"WhiteOak Capital Flexi Cap Fund",1.77,0.0,0.05,0.04,1.86,0.31,0.0,0.05,0.04,0.4
 "WhiteOak Capital Large & Mid Cap Fund",1.99,0.0,0.05,0.03,2.07,0.29,0.0,0.05,0.03,0.37
 "WhiteOak Capital Large Cap Fund",2.23,0.0,0.05,0.08,2.36,0.55,0.0,0.05,0.08,0.68
 "WhiteOak Capital Liquid Fund",0.28,0.0,0.0,0.01,0.29,0.19,0.0,0.0,0.01,0.2
 "WhiteOak Capital Mid Cap Fund",1.89,0.0,0.05,0.03,1.97,0.32,0.0,0.05,0.03,0.4
 "WhiteOak Capital Multi Asset Allocation Fund",1.65,0.0,0.05,0.07,1.77,0.45,0.0,0.05,0.07,0.57
-"WhiteOak Capital Multi Cap Fund",2.06,0.0,0.05,0.05,2.16,0.39,0.0,0.05,0.05,0.49
+"WhiteOak Capital Multi Cap Fund",2.05,0.0,0.05,0.05,2.15,0.39,0.0,0.05,0.05,0.49
 "WhiteOak Capital Pharma and Healthcare Fund",2.25,0.0,0.05,0.07,2.37,0.53,0.0,0.05,0.07,0.65
 "WhiteOak Capital Special Opportunities Fund",2.25,0.0,0.05,0.06,2.36,0.53,0.0,0.05,0.06,0.64
 "WhiteOak Capital Ultra Short Duration Fund",0.97,0.0,0.0,0.06,1.03,0.44,0.0,0.0,0.06,0.5
