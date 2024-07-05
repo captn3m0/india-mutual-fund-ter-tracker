@@ -633,7 +633,7 @@
 "HSBC Medium to Long Duration Fund",1.82,0.0,0.0,0.1,1.92,0.59,0.0,0.0,0.1,0.69
 "HSBC Midcap Fund",1.59,0.0,0.05,0.09,1.73,0.54,0.0,0.05,0.09,0.68
 "HSBC Money Market Fund",0.38,0.0,0.0,0.02,0.4,0.18,0.0,0.0,0.02,0.2
-"HSBC Multi Asset Allocation Fund",1.81,0.0,0.05,0.07,1.93,0.45,0.0,0.05,0.07,0.57
+"HSBC Multi Asset Allocation Fund",1.8,0.0,0.05,0.07,1.92,0.44,0.0,0.05,0.07,0.56
 "HSBC Multi Cap Fund",1.77,0.0,0.05,0.08,1.9,0.5,0.0,0.05,0.08,0.63
 "HSBC Nifty 50 Index Fund",0.45,0.0,0.0,0.0,0.45,0.2,0.0,0.0,0.0,0.2
 "HSBC Nifty Next 50 Index Fund",0.8,0.0,0.0,0.0,0.8,0.35,0.0,0.0,0.0,0.35
@@ -649,7 +649,7 @@
 "ICICI Prudential Banking & Financial Services Fund",1.64,0.0,0.05,0.15,1.84,0.84,0.0,0.05,0.15,1.04
 "ICICI Prudential Banking & PSU Debt Fund",0.74,0.0,0.0,0.0,0.74,0.39,0.0,0.0,0.0,0.39
 "ICICI Prudential Bharat 22 FoF",0.13,0.0,0.0,0.0,0.13,0.12,0.0,0.0,0.0,0.12
-"ICICI Prudential Bharat Consumption Fund",1.85,0.0,0.05,0.17,2.07,0.94,0.0,0.05,0.17,1.16
+"ICICI Prudential Bharat Consumption Fund",1.84,0.0,0.05,0.17,2.06,0.93,0.0,0.05,0.17,1.15
 "ICICI Prudential Bluechip Fund",1.29,0.0,0.05,0.12,1.46,0.7,0.0,0.05,0.12,0.87
 "ICICI Prudential Bond Fund",1.03,0.0,0.0,0.0,1.03,0.62,0.0,0.0,0.0,0.62
 "ICICI Prudential BSE 500 ETF",0.32,0.0,0.0,0.0,0.32,0.0,0.0,0.0,0.0,0.0
@@ -749,7 +749,7 @@
 "ICICI Prudential Retirement Fund Hybrid Aggressive Plan",2.22,0.0,0.0,0.12,2.34,0.7,0.0,0.0,0.12,0.82
 "ICICI Prudential Retirement Fund Hybrid Conservative Plan",1.99,0.0,0.0,0.15,2.14,0.89,0.0,0.0,0.15,1.04
 "ICICI Prudential Retirement Fund Pure Debt Plan",1.99,0.0,0.0,0.16,2.15,0.93,0.0,0.0,0.16,1.09
-"ICICI Prudential Retirement Fund Pure Equity Plan",2.1,0.0,0.0,0.11,2.21,0.68,0.0,0.0,0.11,0.79
+"ICICI Prudential Retirement Fund Pure Equity Plan",2.09,0.0,0.0,0.11,2.2,0.67,0.0,0.0,0.11,0.78
 "ICICI Prudential Savings Fund",0.53,0.0,0.0,0.0,0.53,0.42,0.0,0.0,0.0,0.42
 "ICICI Prudential Short Term Fund",1.07,0.0,0.0,0.0,1.07,0.45,0.0,0.0,0.0,0.45
 "ICICI Prudential Silver ETF",0.4,0.0,0.0,0.0,0.4,0.0,0.0,0.0,0.0,0.0
@@ -964,10 +964,10 @@
 "Mahindra Manulife Large Cap Fund",2.24,0.0,0.05,0.08,2.37,0.56,0.0,0.05,0.08,0.69
 "Mahindra Manulife Liquid Fund",0.25,0.0,0.0,0.01,0.26,0.14,0.0,0.0,0.01,0.15
 "Mahindra Manulife Low Duration Fund",1.06,0.0,0.0,0.03,1.09,0.27,0.0,0.0,0.03,0.3
-"Mahindra Manulife Manufacturing Fund",2.14,0.0,0.05,0.06,2.25,0.42,0.0,0.05,0.06,0.53
-"Mahindra Manulife Mid Cap Fund",1.81,0.0,0.05,0.04,1.9,0.33,0.0,0.05,0.04,0.42
+"Mahindra Manulife Manufacturing Fund",2.13,0.0,0.05,0.06,2.24,0.41,0.0,0.05,0.06,0.52
+"Mahindra Manulife Mid Cap Fund",1.8,0.0,0.05,0.04,1.89,0.32,0.0,0.05,0.04,0.41
 "Mahindra Manulife Multi Asset Allocation Fund",1.95,0.0,0.05,0.04,2.04,0.33,0.0,0.05,0.04,0.42
-"Mahindra Manulife Multi Cap Fund",1.75,0.0,0.05,0.04,1.84,0.27,0.0,0.05,0.04,0.36
+"Mahindra Manulife Multi Cap Fund",1.74,0.0,0.05,0.04,1.83,0.26,0.0,0.05,0.04,0.35
 "Mahindra Manulife Overnight Fund",0.19,0.0,0.0,0.0,0.19,0.09,0.0,0.0,0.0,0.09
 "Mahindra Manulife Short Duration Fund",1.24,0.0,0.0,0.02,1.26,0.27,0.0,0.0,0.02,0.29
 "Mahindra Manulife Small Cap Fund",1.73,0.0,0.05,0.02,1.8,0.18,0.0,0.05,0.02,0.25
@@ -1183,7 +1183,7 @@
 "Nippon India Ultra Short Duration Fund (Number of Segregated Portfolio -1)",1.09,0.0,0.0,0.04,1.13,0.34,0.0,0.0,0.04,0.38
 "Nippon India US Equity Opportunites Fund",2.17,0.0,0.05,0.17,2.39,1.06,0.0,0.05,0.17,1.28
 "Nippon India Value Fund",1.63,0.0,0.05,0.16,1.84,0.95,0.0,0.05,0.16,1.16
-"Nippon India Vision Fund",1.72,0.0,0.05,0.22,1.99,1.24,0.0,0.05,0.22,1.51
+"Nippon India Vision Fund",1.71,0.0,0.05,0.21,1.97,1.23,0.0,0.05,0.21,1.49
 "NJ Arbitrage Fund",0.97,0.0,0.0,0.04,1.01,0.26,0.0,0.0,0.03,0.29
 "NJ Balanced Advantage Fund",1.75,0.0,0.05,0.08,1.88,0.46,0.0,0.05,0.07,0.58
 "NJ ELSS Tax Saver Scheme",2.25,0.0,0.0,0.07,2.32,0.43,0.0,0.0,0.06,0.49
