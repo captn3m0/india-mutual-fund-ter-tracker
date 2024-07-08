@@ -952,12 +952,12 @@
 "Mahindra Manulife Aggressive Hybrid Fund",1.99,0.0,0.05,0.05,2.09,0.35,0.0,0.05,0.05,0.45
 "Mahindra Manulife Arbitrage Fund",1.17,0.0,0.0,0.04,1.21,0.37,0.0,0.0,0.04,0.41
 "Mahindra Manulife Asia Pacific Reits FoF",1.28,0.0,0.05,0.03,1.36,0.37,0.0,0.05,0.03,0.45
-"Mahindra Manulife Balanced Advantage Fund",2.15,0.0,0.05,0.06,2.26,0.44,0.0,0.05,0.06,0.55
+"Mahindra Manulife Balanced Advantage Fund",2.14,0.0,0.05,0.06,2.25,0.43,0.0,0.05,0.06,0.54
 "Mahindra Manulife Business Cycle Fund",2.06,0.0,0.05,0.03,2.14,0.27,0.0,0.05,0.03,0.35
 "Mahindra Manulife Consumption Fund",2.25,0.0,0.05,0.08,2.38,0.56,0.0,0.05,0.08,0.69
 "Mahindra Manulife Dynamic Bond Fund",1.53,0.0,0.0,0.04,1.57,0.35,0.0,0.0,0.04,0.39
 "Mahindra Manulife ELSS Tax Saver Fund",2.08,0.0,0.0,0.07,2.15,0.5,0.0,0.0,0.07,0.57
-"Mahindra Manulife Equity Savings Fund",2.25,0.0,0.05,0.09,2.39,0.59,0.0,0.05,0.09,0.73
+"Mahindra Manulife Equity Savings Fund",2.24,0.0,0.05,0.09,2.38,0.58,0.0,0.05,0.09,0.72
 "Mahindra Manulife Flexi Cap Fund",1.97,0.0,0.05,0.04,2.06,0.29,0.0,0.05,0.04,0.38
 "Mahindra Manulife Focused Fund",1.95,0.0,0.05,0.04,2.04,0.3,0.0,0.05,0.04,0.39
 "Mahindra Manulife Large & Mid Cap Fund",1.85,0.0,0.05,0.04,1.94,0.3,0.0,0.05,0.04,0.39
@@ -967,7 +967,7 @@
 "Mahindra Manulife Manufacturing Fund",2.13,0.0,0.05,0.06,2.24,0.41,0.0,0.05,0.06,0.52
 "Mahindra Manulife Mid Cap Fund",1.8,0.0,0.05,0.04,1.89,0.32,0.0,0.05,0.04,0.41
 "Mahindra Manulife Multi Asset Allocation Fund",1.95,0.0,0.05,0.04,2.04,0.33,0.0,0.05,0.04,0.42
-"Mahindra Manulife Multi Cap Fund",1.74,0.0,0.05,0.04,1.83,0.26,0.0,0.05,0.04,0.35
+"Mahindra Manulife Multi Cap Fund",1.74,0.0,0.05,0.03,1.82,0.26,0.0,0.05,0.03,0.34
 "Mahindra Manulife Overnight Fund",0.19,0.0,0.0,0.0,0.19,0.09,0.0,0.0,0.0,0.09
 "Mahindra Manulife Short Duration Fund",1.24,0.0,0.0,0.02,1.26,0.27,0.0,0.0,0.02,0.29
 "Mahindra Manulife Small Cap Fund",1.73,0.0,0.05,0.02,1.8,0.18,0.0,0.05,0.02,0.25
@@ -1296,7 +1296,7 @@
 "SBI Gold ETF",0.58,0.0,0.0,0.07,0.65,0.0,0.0,0.0,0.0,0.0
 "SBI Gold Fund",0.42,0.0,0.0,0.0,0.42,0.1,0.0,0.0,0.0,0.1
 "SBI Healthcare Opportunities Fund",1.82,0.0,0.05,0.13,2.0,0.76,0.0,0.05,0.13,0.94
-"SBI Infrastructure Fund",1.73,0.0,0.05,0.15,1.93,0.96,0.0,0.05,0.15,1.16
+"SBI Infrastructure Fund",1.74,0.0,0.05,0.15,1.94,0.97,0.0,0.05,0.15,1.17
 "SBI International Access - US Equity FoF",1.47,0.0,0.0,0.13,1.6,0.77,0.0,0.0,0.13,0.9
 "SBI Large & Midcap Fund",1.47,0.0,0.05,0.09,1.61,0.57,0.0,0.05,0.09,0.71
 "SBI Liquid Fund",0.28,0.0,0.0,0.03,0.31,0.17,0.0,0.0,0.03,0.2
@@ -1341,6 +1341,7 @@
 "SBI S&P BSE SENSEX Next 50 ETF",0.12,0.0,0.0,0.0,0.12,0.0,0.0,0.0,0.0,0.0
 "SBI Savings Fund",0.73,0.0,0.0,0.03,0.76,0.22,0.0,0.0,0.03,0.25
 "SBI Short Term Debt Fund",0.8,0.0,0.0,0.04,0.84,0.3,0.0,0.0,0.04,0.34
+"SBI Silver ETF",0.37,0.0,0.0,0.02,0.39,0.0,0.0,0.0,0.0,0.0
 "SBI Small Cap Fund",1.44,0.0,0.05,0.09,1.58,0.51,0.0,0.05,0.09,0.65
 "SBI Technology Opportunities Fund",1.76,0.0,0.05,0.11,1.92,0.68,0.0,0.05,0.11,0.84
 "Shriram Aggressive Hybrid Fund",2.25,0.0,0.05,0.11,2.41,0.95,0.0,0.05,0.11,1.11
