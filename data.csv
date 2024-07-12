@@ -585,7 +585,7 @@
 "HDFC Non-Cyclical Consumer Fund",2.17,0.0,0.05,0.16,2.38,0.93,0.0,0.05,0.16,1.14
 "HDFC Overnight Fund",0.19,0.0,0.0,0.0,0.19,0.1,0.0,0.0,0.0,0.1
 "HDFC Pharma and Healthcare Fund",2.08,0.0,0.05,0.14,2.27,0.85,0.0,0.05,0.14,1.04
-"HDFC Retirement Savings Fund - Equity Plan",1.7,0.0,0.0,0.09,1.79,0.56,0.0,0.0,0.09,0.65
+"HDFC Retirement Savings Fund - Equity Plan",1.69,0.0,0.0,0.09,1.78,0.55,0.0,0.0,0.09,0.64
 "HDFC Retirement Savings Fund - Hybrid-Debt Plan",2.0,0.0,0.0,0.14,2.14,0.9,0.0,0.0,0.14,1.04
 "HDFC Retirement Savings Fund - Hybrid-Equity Plan",1.95,0.0,0.0,0.14,2.09,0.77,0.0,0.0,0.14,0.91
 "HDFC S&P BSE 500 ETF",0.3,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0
@@ -595,7 +595,7 @@
 "HDFC Silver ETF",0.4,0.0,0.0,0.0,0.4,0.0,0.0,0.0,0.0,0.0
 "HDFC Silver ETF Fund of Fund",0.6,0.0,0.0,0.0,0.6,0.27,0.0,0.0,0.0,0.27
 "HDFC Small Cap Fund",1.44,0.0,0.05,0.09,1.58,0.51,0.0,0.05,0.09,0.65
-"HDFC Technology Fund",2.03,0.0,0.05,0.14,2.22,0.82,0.0,0.05,0.14,1.01
+"HDFC Technology Fund",2.02,0.0,0.05,0.14,2.21,0.81,0.0,0.05,0.14,1.0
 "HDFC Top 100 Fund",1.42,0.0,0.05,0.14,1.61,0.82,0.0,0.05,0.14,1.01
 "HDFC Transportation and Logistics Fund",2.0,0.0,0.05,0.14,2.19,0.77,0.0,0.05,0.14,0.96
 "HDFC Ultra Short Term Fund",0.64,0.0,0.0,0.05,0.69,0.32,0.0,0.0,0.05,0.37
@@ -663,7 +663,7 @@
 "ICICI Prudential BSE SENSEX Index Fund",0.27,0.0,0.0,0.0,0.27,0.19,0.0,0.0,0.0,0.19
 "ICICI Prudential Business Cycle Fund",1.58,0.0,0.05,0.1,1.73,0.58,0.0,0.05,0.1,0.73
 "ICICI Prudential Child Care Fund (Gift Plan)",1.98,0.0,0.0,0.21,2.19,1.24,0.0,0.0,0.21,1.45
-"ICICI Prudential Commodities Fund",1.84,0.0,0.05,0.1,1.99,0.71,0.0,0.05,0.1,0.86
+"ICICI Prudential Commodities Fund",1.83,0.0,0.05,0.1,1.98,0.7,0.0,0.05,0.1,0.85
 "ICICI Prudential Constant Maturity Gilt Fund",0.39,0.0,0.0,0.0,0.39,0.23,0.0,0.0,0.0,0.23
 "ICICI Prudential Corporate Bond Fund",0.57,0.0,0.0,0.0,0.57,0.34,0.0,0.0,0.0,0.34
 "ICICI Prudential Credit Risk Fund",1.29,0.0,0.05,0.11,1.45,0.61,0.0,0.05,0.11,0.77
@@ -678,7 +678,7 @@
 "ICICI Prudential Flexicap Fund",1.54,0.0,0.05,0.1,1.69,0.58,0.0,0.05,0.1,0.73
 "ICICI Prudential Floating Interest Fund",1.22,0.0,0.0,0.0,1.22,0.56,0.0,0.0,0.0,0.56
 "ICICI Prudential FMCG Fund",1.93,0.0,0.05,0.19,2.17,1.06,0.0,0.05,0.19,1.3
-"ICICI Prudential Focused Equity Fund",1.62,0.0,0.05,0.08,1.75,0.44,0.0,0.05,0.08,0.57
+"ICICI Prudential Focused Equity Fund",1.61,0.0,0.05,0.08,1.74,0.43,0.0,0.05,0.08,0.56
 "ICICI Prudential Gilt Fund",1.09,0.0,0.0,0.0,1.09,0.56,0.0,0.0,0.0,0.56
 "ICICI Prudential Global Advantage Fund (FoF)",1.09,0.0,0.05,0.07,1.21,0.38,0.0,0.05,0.07,0.5
 "ICICI Prudential Global Stable Equity Fund (FoF)",1.33,0.0,0.05,0.13,1.51,0.84,0.0,0.05,0.13,1.02
@@ -749,7 +749,7 @@
 "ICICI Prudential Quant Fund",1.18,0.0,0.05,0.0,1.23,0.58,0.0,0.05,0.0,0.63
 "ICICI Prudential Regular Gold Savings Fund (FoF)",0.31,0.0,0.05,0.0,0.36,0.04,0.0,0.05,0.0,0.09
 "ICICI Prudential Regular Savings Fund",1.49,0.0,0.05,0.13,1.67,0.73,0.0,0.05,0.13,0.91
-"ICICI Prudential Retirement Fund Hybrid Aggressive Plan",2.22,0.0,0.0,0.12,2.34,0.7,0.0,0.0,0.12,0.82
+"ICICI Prudential Retirement Fund Hybrid Aggressive Plan",2.21,0.0,0.0,0.12,2.33,0.69,0.0,0.0,0.12,0.81
 "ICICI Prudential Retirement Fund Hybrid Conservative Plan",1.99,0.0,0.0,0.15,2.14,0.89,0.0,0.0,0.15,1.04
 "ICICI Prudential Retirement Fund Pure Debt Plan",1.99,0.0,0.0,0.16,2.15,0.93,0.0,0.0,0.16,1.09
 "ICICI Prudential Retirement Fund Pure Equity Plan",2.09,0.0,0.0,0.11,2.2,0.67,0.0,0.0,0.11,0.78
@@ -960,7 +960,7 @@
 "Mahindra Manulife Business Cycle Fund",2.05,0.0,0.05,0.03,2.13,0.26,0.0,0.05,0.03,0.34
 "Mahindra Manulife Consumption Fund",2.25,0.0,0.05,0.08,2.38,0.56,0.0,0.05,0.08,0.69
 "Mahindra Manulife Dynamic Bond Fund",1.53,0.0,0.0,0.04,1.57,0.35,0.0,0.0,0.04,0.39
-"Mahindra Manulife ELSS Tax Saver Fund",2.08,0.0,0.0,0.07,2.15,0.5,0.0,0.0,0.07,0.57
+"Mahindra Manulife ELSS Tax Saver Fund",2.08,0.0,0.0,0.06,2.14,0.5,0.0,0.0,0.06,0.56
 "Mahindra Manulife Equity Savings Fund",2.24,0.0,0.05,0.09,2.38,0.58,0.0,0.05,0.09,0.72
 "Mahindra Manulife Flexi Cap Fund",1.97,0.0,0.05,0.04,2.06,0.29,0.0,0.05,0.04,0.38
 "Mahindra Manulife Focused Fund",1.94,0.0,0.05,0.04,2.03,0.29,0.0,0.05,0.04,0.38
@@ -1156,7 +1156,7 @@
 "Nippon India Index Fund - BSE SENSEX Plan",0.48,0.0,0.0,0.0,0.48,0.2,0.0,0.0,0.0,0.2
 "Nippon India Index Fund - Nifty 50 Plan",0.49,0.0,0.05,0.02,0.56,0.13,0.0,0.05,0.02,0.2
 "Nippon India Index Fund - S&P BSE SENSEX Plan",0.58,0.0,0.0,0.0,0.58,0.2,0.0,0.0,0.0,0.2
-"Nippon India Innovation Fund",1.92,0.0,0.05,0.1,2.07,0.61,0.0,0.05,0.1,0.76
+"Nippon India Innovation Fund",1.91,0.0,0.05,0.1,2.06,0.6,0.0,0.05,0.1,0.75
 "Nippon India Japan Equity Fund",2.24,0.0,0.05,0.16,2.45,0.99,0.0,0.05,0.16,1.2
 "Nippon India Large Cap Fund",1.45,0.0,0.05,0.1,1.6,0.58,0.0,0.05,0.1,0.73
 "Nippon India Liquid Fund",0.34,0.0,0.0,0.0,0.34,0.2,0.0,0.0,0.0,0.2
@@ -1184,7 +1184,7 @@
 "Nippon India Overnight Fund",0.17,0.0,0.0,0.0,0.17,0.08,0.0,0.0,0.0,0.08
 "Nippon India Passive Flexicap FoF",0.55,0.0,0.0,0.03,0.58,0.17,0.0,0.0,0.03,0.2
 "Nippon India Pharma Fund",1.64,0.0,0.05,0.13,1.82,0.74,0.0,0.05,0.13,0.92
-"Nippon India Power & Infra Fund",1.66,0.0,0.05,0.15,1.86,0.89,0.0,0.05,0.15,1.09
+"Nippon India Power & Infra Fund",1.65,0.0,0.05,0.15,1.85,0.89,0.0,0.05,0.15,1.09
 "Nippon India Quant Fund",0.92,0.0,0.0,0.06,0.98,0.44,0.0,0.0,0.06,0.5
 "Nippon India Retirement Fund- Income Generation Scheme",1.95,0.0,0.0,0.15,2.1,0.91,0.0,0.0,0.15,1.06
 "Nippon India Retirement Fund- Wealth Creation Scheme",1.78,0.0,0.0,0.13,1.91,0.81,0.0,0.0,0.13,0.94
@@ -1487,7 +1487,7 @@
 "Union Focused Fund",2.25,0.0,0.05,0.18,2.48,1.23,0.0,0.05,0.18,1.46
 "Union Gilt Fund",1.11,0.0,0.0,0.09,1.2,0.61,0.0,0.0,0.09,0.7
 "Union Innovation & Opportunities Fund",2.16,0.0,0.05,0.07,2.28,0.58,0.0,0.05,0.07,0.7
-"Union Large & Midcap Fund",2.13,0.0,0.05,0.09,2.27,0.7,0.0,0.05,0.09,0.84
+"Union Large & Midcap Fund",2.12,0.0,0.05,0.09,2.26,0.69,0.0,0.05,0.09,0.83
 "Union Largecap Fund",2.25,0.0,0.05,0.22,2.52,1.41,0.0,0.05,0.22,1.68
 "Union Liquid Fund",0.17,0.0,0.0,0.0,0.17,0.07,0.0,0.0,0.0,0.07
 "Union Medium Duration Fund",0.82,0.0,0.0,0.08,0.9,0.56,0.0,0.0,0.08,0.64
