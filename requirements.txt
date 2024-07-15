@@ -6,7 +6,7 @@ click==8.1.7
 csv-diff==1.1
 decorator==5.1.1
 dictdiffer==0.9.0
-exceptiongroup==1.2.1
+exceptiongroup==1.2.2
 html-to-csv @ git+https://github.com/hanwentao/html2csv@fc27e30c90bc557ae812876d0d8c5514053128a5
 idna==3.7
 iniconfig==2.0.0
