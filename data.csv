@@ -194,6 +194,8 @@
 "Bandhan Asset Allocation Fund of Fund-Conservative Plan",0.68,0.0,0.05,0.04,0.77,0.18,0.0,0.05,0.04,0.27
 "Bandhan Asset Allocation Fund of Fund-Moderate Plan",0.9,0.0,0.05,0.08,1.03,0.3,0.0,0.05,0.06,0.41
 "Bandhan Balanced Advantage Fund",1.81,0.0,0.05,0.08,1.94,0.5,0.0,0.05,0.08,0.63
+"Bandhan Balanced Advantage Fund",1.81,0.0,0.05,0.08,1.94,0.5,0.0,0.05,0.08,0.63
+"Bandhan Banking & PSU Debt Fund",0.59,0.0,0.0,0.04,0.63,0.29,0.0,0.0,0.04,0.33
 "Bandhan Banking & PSU Debt Fund",0.59,0.0,0.0,0.04,0.63,0.29,0.0,0.0,0.04,0.33
 "Bandhan Bond Fund - Income Plan",1.79,0.0,0.0,0.19,1.98,1.13,0.0,0.0,0.19,1.32
 "Bandhan Bond Fund - Medium Term Plan",1.23,0.0,0.0,0.08,1.31,0.52,0.0,0.0,0.08,0.6
@@ -201,24 +203,34 @@
 "Bandhan Conservative Hybrid Fund",1.79,0.0,0.05,0.17,2.01,0.9,0.0,0.05,0.16,1.11
 "Bandhan Core Equity Fund",1.69,0.0,0.05,0.09,1.83,0.55,0.0,0.05,0.09,0.69
 "Bandhan Corporate Bond Fund",0.61,0.0,0.0,0.04,0.65,0.29,0.0,0.0,0.04,0.33
+"Bandhan Corporate Bond Fund",0.61,0.0,0.0,0.04,0.65,0.29,0.0,0.0,0.04,0.33
+"Bandhan Credit Risk Fund",1.59,0.0,0.0,0.09,1.68,0.59,0.0,0.0,0.09,0.68
 "Bandhan Credit Risk Fund",1.59,0.0,0.0,0.09,1.68,0.59,0.0,0.0,0.09,0.68
 "Bandhan CRISIL IBX 90:10 SDL Plus Gilt - April 2032 Index Fund",0.33,0.0,0.0,0.02,0.35,0.15,0.0,0.0,0.02,0.17
 "Bandhan CRISIL IBX 90:10 SDL Plus Gilt - NOV 2026 Index Fund",0.39,0.0,0.0,0.02,0.41,0.14,0.0,0.0,0.02,0.16
 "Bandhan CRISIL IBX 90:10 SDL Plus Gilt - September 2027 Index Fund",0.39,0.0,0.0,0.02,0.41,0.14,0.0,0.0,0.02,0.16
 "Bandhan CRISIL IBX Gilt April 2026 Index Fund",0.39,0.0,0.0,0.02,0.41,0.14,0.0,0.0,0.02,0.16
+"Bandhan CRISIL IBX Gilt April 2026 Index Fund",0.39,0.0,0.0,0.02,0.41,0.14,0.0,0.0,0.02,0.16
+"Bandhan CRISIL IBX Gilt April 2028 Index Fund",0.41,0.0,0.0,0.02,0.43,0.16,0.0,0.0,0.02,0.18
 "Bandhan CRISIL IBX Gilt April 2028 Index Fund",0.41,0.0,0.0,0.02,0.43,0.16,0.0,0.0,0.02,0.18
 "Bandhan CRISIL IBX Gilt April 2032 Index Fund",0.43,0.0,0.0,0.03,0.46,0.17,0.0,0.0,0.03,0.2
+"Bandhan CRISIL IBX Gilt April 2032 Index Fund",0.43,0.0,0.0,0.03,0.46,0.17,0.0,0.0,0.03,0.2
+"Bandhan CRISIL IBX Gilt June 2027 Index Fund",0.41,0.0,0.0,0.02,0.43,0.16,0.0,0.0,0.02,0.18
 "Bandhan CRISIL IBX Gilt June 2027 Index Fund",0.41,0.0,0.0,0.02,0.43,0.16,0.0,0.0,0.02,0.18
 "Bandhan Dynamic Bond Fund",1.51,0.0,0.0,0.1,1.61,0.65,0.0,0.0,0.1,0.75
+"Bandhan ELSS Tax Saver Fund",1.66,0.0,0.0,0.08,1.74,0.56,0.0,0.0,0.08,0.64
 "Bandhan ELSS Tax Saver Fund",1.66,0.0,0.0,0.08,1.74,0.56,0.0,0.0,0.08,0.64
 "Bandhan Equity Savings Fund",1.32,0.0,0.0,0.06,1.38,0.36,0.0,0.0,0.06,0.42
 "Bandhan Financial Services Fund",2.09,0.0,0.05,0.07,2.21,0.43,0.0,0.05,0.07,0.55
 "Bandhan Flexi Cap Fund",1.65,0.0,0.05,0.16,1.86,0.94,0.0,0.05,0.16,1.15
 "Bandhan Floating Rate Fund",0.75,0.0,0.0,0.04,0.79,0.27,0.0,0.0,0.04,0.31
+"Bandhan Floating Rate Fund",0.75,0.0,0.0,0.04,0.79,0.27,0.0,0.0,0.04,0.31
 "Bandhan Focused Equity Fund",1.94,0.0,0.05,0.12,2.11,0.66,0.0,0.05,0.11,0.82
 "Bandhan GSF - Constant Maturity Plan",0.48,0.0,0.0,0.04,0.52,0.26,0.0,0.0,0.04,0.3
 "Bandhan GSF Investment Plan",1.07,0.0,0.0,0.07,1.14,0.45,0.0,0.0,0.07,0.52
 "Bandhan Hybrid Equity Fund",2.17,0.0,0.05,0.15,2.37,0.87,0.0,0.05,0.15,1.07
+"Bandhan Hybrid Equity Fund",2.17,0.0,0.05,0.15,2.37,0.87,0.0,0.05,0.15,1.07
+"Bandhan Infrastructure Fund",1.93,0.0,0.05,0.12,2.1,0.72,0.0,0.05,0.12,0.89
 "Bandhan Infrastructure Fund",1.93,0.0,0.05,0.12,2.1,0.72,0.0,0.05,0.12,0.89
 "Bandhan Innovation Fund",2.09,0.0,0.05,0.06,2.2,0.43,0.0,0.05,0.06,0.54
 "Bandhan Large Cap Fund",1.95,0.0,0.0,0.12,2.07,0.8,0.0,0.0,0.12,0.92
@@ -226,26 +238,39 @@
 "Bandhan Long Duration Fund",0.63,0.0,0.0,0.01,0.64,0.22,0.0,0.0,0.01,0.23
 "Bandhan Low Duration Fund",0.55,0.0,0.0,0.04,0.59,0.29,0.0,0.0,0.04,0.33
 "Bandhan Midcap Fund",1.97,0.0,0.05,0.07,2.09,0.45,0.0,0.05,0.07,0.57
+"Bandhan Midcap Fund",1.97,0.0,0.05,0.07,2.09,0.45,0.0,0.05,0.07,0.57
 "Bandhan Money Manager Fund",0.84,0.0,0.0,0.01,0.85,0.09,0.0,0.0,0.01,0.1
 "Bandhan Multi Asset Allocation Fund",1.92,0.0,0.05,0.04,2.01,0.29,0.0,0.05,0.04,0.38
 "Bandhan Multi Cap Fund",1.86,0.0,0.05,0.06,1.97,0.38,0.0,0.05,0.06,0.49
+"Bandhan Multi Cap Fund",1.86,0.0,0.05,0.06,1.97,0.38,0.0,0.05,0.06,0.49
+"Bandhan Nifty 100 Index Fund",0.6,0.0,0.0,0.01,0.61,0.09,0.0,0.0,0.01,0.1
 "Bandhan Nifty 100 Index Fund",0.6,0.0,0.0,0.01,0.61,0.09,0.0,0.0,0.01,0.1
 "Bandhan Nifty 50 ETF",0.08,0.0,0.0,0.01,0.09,0.0,0.0,0.0,0.0,0.0
+"Bandhan Nifty 50 ETF",0.08,0.0,0.0,0.01,0.09,0.0,0.0,0.0,0.0,0.0
+"Bandhan Nifty 50 Index Fund",0.59,0.0,0.0,0.01,0.6,0.09,0.0,0.0,0.01,0.1
 "Bandhan Nifty 50 Index Fund",0.59,0.0,0.0,0.01,0.6,0.09,0.0,0.0,0.01,0.1
 "Bandhan Nifty Alpha 50 Index Fund",0.97,0.0,0.0,0.04,1.01,0.3,0.0,0.0,0.04,0.34
 "Bandhan Nifty IT Index Fund",0.97,0.0,0.0,0.04,1.01,0.32,0.0,0.0,0.04,0.36
 "Bandhan Nifty Smallcap 250 Index Fund",0.87,0.0,0.0,0.01,0.88,0.18,0.0,0.0,0.01,0.19
 "Bandhan Nifty Total Market Index Fund",1.0,0.0,0.0,0.04,1.04,0.35,0.0,0.0,0.04,0.39
 "Bandhan Nifty100 Low Volatility 30 Index Fund",0.97,0.0,0.0,0.06,1.03,0.3,0.0,0.0,0.05,0.35
+"Bandhan Nifty100 Low Volatility 30 Index Fund",0.97,0.0,0.0,0.06,1.03,0.3,0.0,0.0,0.05,0.35
 "Bandhan Nifty200 Momentum 30 Index Fund",1.0,0.0,0.0,0.07,1.07,0.36,0.0,0.0,0.06,0.42
+"Bandhan Nifty200 Momentum 30 Index Fund",1.0,0.0,0.0,0.07,1.07,0.36,0.0,0.0,0.06,0.42
+"Bandhan Overnight Fund",0.15,0.0,0.0,0.0,0.15,0.05,0.0,0.0,0.0,0.05
 "Bandhan Overnight Fund",0.15,0.0,0.0,0.0,0.15,0.05,0.0,0.0,0.0,0.05
 "Bandhan Regular Savings Fund",1.79,0.0,0.05,0.17,2.01,0.9,0.0,0.05,0.16,1.11
 "Bandhan Retirement Fund",2.25,0.0,0.0,0.09,2.34,0.56,0.0,0.0,0.08,0.64
 "Bandhan S&P BSE SENSEX ETF",0.37,0.0,0.0,0.03,0.4,0.0,0.0,0.0,0.0,0.0
+"Bandhan S&P BSE SENSEX ETF",0.37,0.0,0.0,0.03,0.4,0.0,0.0,0.0,0.0,0.0
+"Bandhan Small Cap Fund",1.68,0.0,0.05,0.04,1.77,0.26,0.0,0.05,0.04,0.35
 "Bandhan Small Cap Fund",1.68,0.0,0.05,0.04,1.77,0.26,0.0,0.05,0.04,0.35
 "Bandhan Sterling Value Fund",1.61,0.0,0.05,0.09,1.75,0.54,0.0,0.05,0.09,0.68
 "Bandhan Transportation and Logistics Fund",2.22,0.0,0.05,0.11,2.38,0.68,0.0,0.05,0.11,0.84
+"Bandhan Transportation and Logistics Fund",2.22,0.0,0.05,0.11,2.38,0.68,0.0,0.05,0.11,0.84
 "Bandhan Ultra Short Term Fund",0.43,0.0,0.0,0.03,0.46,0.24,0.0,0.0,0.03,0.27
+"Bandhan Ultra Short Term Fund",0.43,0.0,0.0,0.03,0.46,0.24,0.0,0.0,0.03,0.27
+"Bandhan US Equity Fund of Fund",1.47,0.0,0.05,0.06,1.58,0.37,0.0,0.05,0.06,0.48
 "Bandhan US Equity Fund of Fund",1.47,0.0,0.05,0.06,1.58,0.37,0.0,0.05,0.06,0.48
 "Bandhan US Treasury Bond 0-1 Year Fund of Fund",0.12,0.0,0.05,0.01,0.18,0.08,0.0,0.05,0.01,0.14
 "Bank of India Arbitrage Fund",0.92,0.0,0.0,0.02,0.94,0.21,0.0,0.0,0.02,0.23
