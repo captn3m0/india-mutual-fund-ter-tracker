@@ -360,10 +360,10 @@
 "Canara Robeco Banking and PSU Debt Fund",0.67,0.0,0.0,0.04,0.71,0.3,0.0,0.0,0.04,0.34
 "Canara Robeco Bluechip Equity Fund",1.56,0.0,0.05,0.05,1.66,0.36,0.0,0.05,0.05,0.46
 "Canara Robeco Conservative Hybrid Fund",1.69,0.0,0.05,0.08,1.82,0.51,0.0,0.05,0.08,0.64
-"Canara Robeco Consumer Trends Fund",1.94,0.0,0.05,0.1,2.09,0.67,0.0,0.05,0.1,0.82
+"Canara Robeco Consumer Trends Fund",1.93,0.0,0.05,0.1,2.08,0.67,0.0,0.05,0.1,0.82
 "Canara Robeco Corporate Bond Fund",0.98,0.0,0.0,0.05,1.03,0.35,0.0,0.0,0.04,0.39
 "Canara Robeco Dynamic Bond Fund",1.66,0.0,0.0,0.09,1.75,0.6,0.0,0.0,0.08,0.68
-"Canara Robeco ELSS Tax Saver",1.63,0.0,0.0,0.06,1.69,0.47,0.0,0.0,0.05,0.52
+"Canara Robeco ELSS Tax Saver",1.63,0.0,0.0,0.05,1.68,0.46,0.0,0.0,0.05,0.51
 "Canara Robeco Emerging Equities",1.49,0.0,0.05,0.06,1.6,0.44,0.0,0.05,0.06,0.55
 "Canara Robeco Equity Hybrid Fund",1.6,0.0,0.05,0.06,1.71,0.45,0.0,0.05,0.06,0.56
 "Canara Robeco Flexi Cap Fund",1.57,0.0,0.05,0.06,1.68,0.42,0.0,0.05,0.06,0.53
@@ -1270,7 +1270,7 @@
 "Quant Business Cycle Fund",1.96,0.0,0.05,0.06,2.07,0.46,0.0,0.05,0.06,0.57
 "Quant Commodities Fund",2.25,0.0,0.05,0.09,2.39,0.66,0.0,0.05,0.09,0.8
 "Quant Consumption Fund",2.25,0.0,0.05,0.09,2.39,0.63,0.0,0.05,0.09,0.77
-"Quant Dynamic Asset Allocation Fund",1.99,0.0,0.05,0.07,2.11,0.53,0.0,0.05,0.07,0.65
+"Quant Dynamic Asset Allocation Fund",1.98,0.0,0.05,0.07,2.1,0.53,0.0,0.05,0.07,0.65
 "Quant ELSS Tax Saver Fund",1.6,0.0,0.05,0.08,1.73,0.58,0.0,0.05,0.08,0.71
 "Quant ESG Equity Fund",2.25,0.0,0.05,0.09,2.39,0.63,0.0,0.05,0.09,0.77
 "Quant Flexi Cap Fund",1.65,0.0,0.05,0.06,1.76,0.48,0.0,0.05,0.06,0.59
@@ -1279,14 +1279,14 @@
 "Quant Healthcare Fund",2.25,0.0,0.05,0.07,2.37,0.56,0.0,0.05,0.07,0.68
 "Quant Infrastructure Fund",1.75,0.0,0.05,0.07,1.87,0.54,0.0,0.05,0.07,0.66
 "Quant Large & Mid Cap Fund",1.77,0.0,0.05,0.06,1.88,0.5,0.0,0.05,0.06,0.61
-"Quant Large Cap Fund",1.92,0.0,0.05,0.05,2.02,0.44,0.0,0.05,0.05,0.54
+"Quant Large Cap Fund",1.91,0.0,0.05,0.05,2.01,0.44,0.0,0.05,0.05,0.54
 "Quant Liquid Fund",0.5,0.0,0.0,0.02,0.52,0.25,0.0,0.0,0.02,0.27
 "Quant Manufacturing Fund",2.06,0.0,0.05,0.08,2.19,0.58,0.0,0.05,0.08,0.71
 "Quant Mid Cap Fund",1.62,0.0,0.05,0.06,1.73,0.47,0.0,0.05,0.06,0.58
-"Quant Momentum Fund",1.87,0.0,0.05,0.08,2.0,0.61,0.0,0.05,0.08,0.74
-"Quant Multi Asset Fund",1.8,0.0,0.05,0.07,1.92,0.5,0.0,0.05,0.07,0.62
+"Quant Momentum Fund",1.86,0.0,0.05,0.08,1.99,0.61,0.0,0.05,0.08,0.74
+"Quant Multi Asset Fund",1.79,0.0,0.05,0.07,1.91,0.5,0.0,0.05,0.07,0.62
 "Quant Overnight Fund",0.22,0.0,0.0,0.0,0.22,0.15,0.0,0.0,0.0,0.15
-"Quant PSU Fund",2.05,0.0,0.05,0.1,2.2,0.68,0.0,0.05,0.1,0.83
+"Quant PSU Fund",2.04,0.0,0.05,0.1,2.19,0.68,0.0,0.05,0.1,0.83
 "Quant Quantamental Fund",1.83,0.0,0.05,0.06,1.94,0.47,0.0,0.05,0.06,0.58
 "Quant Small Cap Fund",1.49,0.0,0.05,0.07,1.61,0.52,0.0,0.05,0.07,0.64
 "Quant Teck Fund",2.25,0.0,0.05,0.09,2.39,0.64,0.0,0.05,0.09,0.78
@@ -1403,12 +1403,12 @@
 "Sundaram Arbitrage Fund(Formerly Known as Prinicpal Arbitrage Fund)",0.91,0.0,0.0,0.02,0.93,0.26,0.0,0.0,0.02,0.28
 "Sundaram Balanced Advantage Fund (Formerly Known as Principal Balanced Advantage Fund)",1.95,0.0,0.05,0.07,2.07,0.47,0.0,0.05,0.07,0.59
 "Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking & PSU Debt Fund)",0.38,0.0,0.0,0.03,0.41,0.24,0.0,0.0,0.03,0.27
-"Sundaram Business Cycle Fund",1.99,0.0,0.05,0.04,2.08,0.34,0.0,0.05,0.04,0.43
+"Sundaram Business Cycle Fund",1.98,0.0,0.05,0.04,2.08,0.33,0.0,0.05,0.04,0.43
 "Sundaram Conservative Hybrid Fund (Formerly Known as Sundaram Debt Oriented Hybrid Fund)",2.0,0.0,0.0,0.14,2.15,0.96,0.0,0.0,0.14,1.1
 "Sundaram Consumption Fund (Formerly Known as Sundaram Rural and Consumption Fund)",1.95,0.0,0.05,0.18,2.17,1.1,0.0,0.05,0.18,1.32
 "Sundaram Corporate Bond Fund",0.52,0.0,0.0,0.03,0.55,0.29,0.0,0.0,0.03,0.32
 "Sundaram Diversified Equity",1.94,0.0,0.0,0.22,2.16,1.38,0.0,0.0,0.22,1.6
-"Sundaram Dividend Yield Fund (Formerly Known as Principal Dividend Yield Fund)",2.07,0.0,0.05,0.13,2.25,0.79,0.0,0.05,0.13,0.97
+"Sundaram Dividend Yield Fund (Formerly Known as Principal Dividend Yield Fund)",2.07,0.0,0.05,0.13,2.25,0.79,0.0,0.05,0.13,0.96
 "Sundaram ELSS Tax Saver Fund",1.97,0.0,0.0,0.23,2.2,1.42,0.0,0.0,0.23,1.65
 "Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund)",2.1,0.0,0.0,0.06,2.16,0.48,0.0,0.0,0.06,0.54
 "Sundaram Financial Services Opportunities Fund",1.97,0.0,0.05,0.09,2.11,0.62,0.0,0.05,0.09,0.76
