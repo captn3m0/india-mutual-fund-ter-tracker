@@ -346,7 +346,7 @@
 "Bharat Bond FoF - April 2030",0.0,0.0,0.05,0.01,0.06,0.0,0.0,0.05,0.01,0.06
 "Bharat Bond FoF- April 2025",0.0,0.0,0.05,0.01,0.06,0.0,0.0,0.05,0.01,0.06
 "Bharat Bond FoF- April 2031",0.0,0.0,0.05,0.01,0.06,0.0,0.0,0.05,0.01,0.06
-"Canara Robeco Balanced Advantage Fund",1.99,0.0,0.05,0.04,2.08,0.33,0.0,0.05,0.04,0.42
+"Canara Robeco Balanced Advantage Fund",1.98,0.0,0.05,0.04,2.07,0.33,0.0,0.05,0.04,0.42
 "Canara Robeco Banking and PSU Debt Fund",0.67,0.0,0.0,0.04,0.71,0.3,0.0,0.0,0.04,0.34
 "Canara Robeco Bluechip Equity Fund",1.56,0.0,0.05,0.05,1.66,0.36,0.0,0.05,0.05,0.46
 "Canara Robeco Conservative Hybrid Fund",1.7,0.0,0.05,0.08,1.83,0.51,0.0,0.05,0.08,0.64
@@ -363,7 +363,7 @@
 "Canara Robeco Infrastructure",2.11,0.0,0.05,0.12,2.28,0.8,0.0,0.05,0.12,0.97
 "Canara Robeco Liquid Fund",0.18,0.0,0.0,0.01,0.19,0.11,0.0,0.0,0.01,0.12
 "Canara Robeco Manufacturing Fund",1.94,0.0,0.05,0.04,2.03,0.34,0.0,0.05,0.04,0.43
-"Canara Robeco Mid Cap Fund",1.83,0.0,0.05,0.06,1.94,0.46,0.0,0.05,0.06,0.57
+"Canara Robeco Mid Cap Fund",1.84,0.0,0.05,0.06,1.95,0.46,0.0,0.05,0.06,0.57
 "Canara Robeco Multi Cap Fund",1.79,0.0,0.05,0.04,1.88,0.33,0.0,0.05,0.04,0.42
 "Canara Robeco Overnight Fund",0.11,0.0,0.0,0.0,0.11,0.1,0.0,0.0,0.0,0.1
 "Canara Robeco Savings Fund",0.61,0.0,0.0,0.05,0.66,0.3,0.0,0.0,0.04,0.34
@@ -851,7 +851,7 @@
 "JM Overnight Fund",0.15,0.0,0.0,0.0,0.15,0.08,0.0,0.0,0.0,0.08
 "JM Short Duration Fund",1.06,0.0,0.0,0.03,1.09,0.31,0.0,0.0,0.03,0.34
 "JM Small Cap Fund",2.25,0.0,0.05,0.04,2.34,0.45,0.0,0.05,0.04,0.54
-"JM Value Fund",2.06,0.0,0.05,0.1,2.21,0.76,0.0,0.05,0.1,0.91
+"JM Value Fund",2.07,0.0,0.05,0.1,2.22,0.77,0.0,0.05,0.1,0.92
 "Kotak All Weather Debt FoF",0.15,0.0,0.0,0.0,0.15,0.08,0.0,0.0,0.0,0.08
 "Kotak Balanced Advantage Fund",1.54,0.0,0.05,0.06,1.65,0.45,0.0,0.0,0.06,0.51
 "Kotak Banking and Financial Services Fund",2.1,0.0,0.05,0.1,2.25,0.61,0.0,0.0,0.1,0.71
@@ -1253,14 +1253,14 @@
 "Quant Business Cycle Fund",1.96,0.0,0.05,0.06,2.07,0.46,0.0,0.05,0.06,0.57
 "Quant Commodities Fund",2.25,0.0,0.05,0.09,2.39,0.66,0.0,0.05,0.09,0.8
 "Quant Consumption Fund",2.25,0.0,0.05,0.09,2.39,0.63,0.0,0.05,0.09,0.77
-"Quant Dynamic Asset Allocation Fund",1.98,0.0,0.05,0.07,2.1,0.53,0.0,0.05,0.07,0.65
+"Quant Dynamic Asset Allocation Fund",1.99,0.0,0.05,0.07,2.11,0.53,0.0,0.05,0.07,0.65
 "Quant ELSS Tax Saver Fund",1.6,0.0,0.05,0.08,1.73,0.58,0.0,0.05,0.08,0.71
 "Quant ESG Equity Fund",2.25,0.0,0.05,0.09,2.39,0.63,0.0,0.05,0.09,0.77
 "Quant Flexi Cap Fund",1.65,0.0,0.05,0.06,1.76,0.48,0.0,0.05,0.06,0.59
-"Quant Focused Fund",2.03,0.0,0.05,0.08,2.16,0.57,0.0,0.05,0.08,0.7
+"Quant Focused Fund",2.04,0.0,0.05,0.08,2.17,0.57,0.0,0.05,0.08,0.7
 "Quant Gilt Fund",1.35,0.0,0.0,0.06,1.41,0.45,0.0,0.0,0.06,0.51
 "Quant Healthcare Fund",2.25,0.0,0.05,0.07,2.37,0.56,0.0,0.05,0.07,0.68
-"Quant Infrastructure Fund",1.75,0.0,0.05,0.07,1.87,0.54,0.0,0.05,0.07,0.66
+"Quant Infrastructure Fund",1.76,0.0,0.05,0.07,1.88,0.54,0.0,0.05,0.07,0.66
 "Quant Large & Mid Cap Fund",1.77,0.0,0.05,0.06,1.88,0.5,0.0,0.05,0.06,0.61
 "Quant Large Cap Fund",1.91,0.0,0.05,0.05,2.01,0.44,0.0,0.05,0.05,0.54
 "Quant Liquid Fund",0.5,0.0,0.0,0.02,0.52,0.24,0.0,0.0,0.02,0.26
@@ -1269,8 +1269,8 @@
 "Quant Momentum Fund",1.87,0.0,0.05,0.08,2.0,0.61,0.0,0.05,0.08,0.74
 "Quant Multi Asset Fund",1.79,0.0,0.05,0.07,1.91,0.5,0.0,0.05,0.07,0.62
 "Quant Overnight Fund",0.22,0.0,0.0,0.0,0.22,0.15,0.0,0.0,0.0,0.15
-"Quant PSU Fund",2.05,0.0,0.05,0.1,2.2,0.68,0.0,0.05,0.1,0.83
-"Quant Quantamental Fund",1.83,0.0,0.05,0.06,1.94,0.47,0.0,0.05,0.06,0.58
+"Quant PSU Fund",2.06,0.0,0.05,0.1,2.21,0.68,0.0,0.05,0.1,0.83
+"Quant Quantamental Fund",1.84,0.0,0.05,0.06,1.95,0.47,0.0,0.05,0.06,0.58
 "Quant Small Cap Fund",1.49,0.0,0.05,0.07,1.61,0.52,0.0,0.05,0.07,0.64
 "Quant Teck Fund",2.25,0.0,0.05,0.09,2.39,0.64,0.0,0.05,0.09,0.78
 "Quant Value Fund",1.9,0.0,0.05,0.04,1.99,0.36,0.0,0.05,0.04,0.45
@@ -1394,7 +1394,7 @@
 "Sundaram Flexicap Fund",1.88,0.0,0.05,0.06,2.0,0.47,0.0,0.05,0.06,0.59
 "Sundaram Focused Fund (Formerly Known as Principal Focused Multicap Fund)",2.03,0.0,0.05,0.16,2.24,1.01,0.0,0.05,0.16,1.22
 "Sundaram Global Brand Fund",2.25,0.0,0.05,0.01,2.31,1.3,0.0,0.05,0.01,1.36
-"Sundaram Infrastructure Advantage Fund (Erstwhile Sundaram Capex Opportunities)",2.05,0.0,0.05,0.25,2.35,1.47,0.0,0.05,0.25,1.77
+"Sundaram Infrastructure Advantage Fund (Erstwhile Sundaram Capex Opportunities)",2.06,0.0,0.05,0.25,2.35,1.48,0.0,0.05,0.25,1.77
 "Sundaram Large and Midcap Fund",1.66,0.0,0.05,0.08,1.8,0.59,0.0,0.05,0.08,0.73
 "Sundaram Large Cap Fund ( Formerly Know as Sundaram Blue Chip Fund)",1.77,0.0,0.05,0.07,1.89,0.49,0.0,0.05,0.07,0.61
 "Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund)",0.29,0.0,0.0,0.01,0.3,0.12,0.0,0.0,0.01,0.13
@@ -1403,12 +1403,12 @@
 "Sundaram Mid Cap Fund",1.58,0.0,0.05,0.11,1.74,0.75,0.0,0.05,0.11,0.91
 "Sundaram Money Market Fund",0.35,0.0,0.0,0.02,0.37,0.24,0.0,0.0,0.02,0.26
 "Sundaram Multi Asset Allocation Fund",1.84,0.0,0.05,0.02,1.91,0.12,0.0,0.05,0.02,0.19
-"Sundaram Multi Cap Fund (Formerly Known as Principal Multi Cap Growth Fund)",1.82,0.0,0.05,0.11,1.98,0.72,0.0,0.05,0.11,0.88
+"Sundaram Multi Cap Fund (Formerly Known as Principal Multi Cap Growth Fund)",1.82,0.0,0.05,0.11,1.99,0.72,0.0,0.05,0.11,0.89
 "Sundaram Nifty 100 Equal Weight Fund (Formerly Known as Principal Nifty 100 Equal Weight Fund)",1.0,0.0,0.0,0.03,1.03,0.53,0.0,0.0,0.03,0.56
 "Sundaram Overnight Fund",0.18,0.0,0.0,0.0,0.18,0.07,0.0,0.0,0.0,0.07
 "Sundaram Services Fund",1.77,0.0,0.05,0.08,1.9,0.59,0.0,0.05,0.08,0.72
 "Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund)",0.82,0.0,0.0,0.02,0.84,0.27,0.0,0.0,0.02,0.29
-"Sundaram Small Cap Fund",1.78,0.0,0.05,0.1,1.93,0.67,0.0,0.05,0.1,0.82
+"Sundaram Small Cap Fund",1.78,0.0,0.05,0.1,1.94,0.67,0.0,0.05,0.1,0.83
 "Sundaram Ultra Short Duration Fund (Formerly Known as Principal Ultra Short Term Fund)",1.46,0.0,0.0,0.02,1.48,0.22,0.0,0.0,0.02,0.24
 "Tata Arbitrage Fund",1.04,0.0,0.0,0.03,1.07,0.26,0.0,0.0,0.03,0.29
 "Tata Balanced Advantage Fund",1.6,0.0,0.05,0.03,1.68,0.27,0.0,0.05,0.03,0.35
