@@ -350,12 +350,12 @@
 "Bharat Bond FoF- April 2031",0.0,0.0,0.05,0.01,0.06,0.0,0.0,0.05,0.01,0.06
 "Canara Robeco Balanced Advantage Fund",1.97,0.0,0.05,0.04,2.06,0.32,0.0,0.05,0.04,0.41
 "Canara Robeco Banking and PSU Debt Fund",0.67,0.0,0.0,0.04,0.71,0.3,0.0,0.0,0.04,0.34
-"Canara Robeco Bluechip Equity Fund",1.56,0.0,0.05,0.05,1.66,0.36,0.0,0.05,0.05,0.46
+"Canara Robeco Bluechip Equity Fund",1.56,0.0,0.05,0.04,1.65,0.36,0.0,0.05,0.04,0.45
 "Canara Robeco Conservative Hybrid Fund",1.69,0.0,0.05,0.08,1.82,0.51,0.0,0.05,0.08,0.64
-"Canara Robeco Consumer Trends Fund",1.93,0.0,0.05,0.1,2.08,0.67,0.0,0.05,0.1,0.82
+"Canara Robeco Consumer Trends Fund",1.93,0.0,0.05,0.1,2.08,0.66,0.0,0.05,0.1,0.81
 "Canara Robeco Corporate Bond Fund",0.98,0.0,0.0,0.05,1.03,0.35,0.0,0.0,0.04,0.39
 "Canara Robeco Dynamic Bond Fund",1.66,0.0,0.0,0.09,1.75,0.6,0.0,0.0,0.08,0.68
-"Canara Robeco ELSS Tax Saver",1.63,0.0,0.0,0.05,1.68,0.46,0.0,0.0,0.05,0.51
+"Canara Robeco ELSS Tax Saver",1.62,0.0,0.0,0.05,1.67,0.46,0.0,0.0,0.05,0.51
 "Canara Robeco Emerging Equities",1.49,0.0,0.05,0.06,1.6,0.43,0.0,0.05,0.06,0.54
 "Canara Robeco Equity Hybrid Fund",1.6,0.0,0.05,0.06,1.71,0.45,0.0,0.05,0.06,0.56
 "Canara Robeco Flexi Cap Fund",1.57,0.0,0.05,0.06,1.68,0.42,0.0,0.05,0.06,0.53
@@ -1226,7 +1226,7 @@
 "NJ ELSS Tax Saver Scheme",2.25,0.0,0.0,0.07,2.32,0.45,0.0,0.0,0.06,0.51
 "NJ Flexi Cap Fund",1.93,0.0,0.05,0.06,2.04,0.36,0.0,0.05,0.05,0.46
 "NJ Overnight Fund",0.15,0.0,0.0,0.0,0.15,0.05,0.0,0.0,0.0,0.05
-"Old Bridge Focused Equity Fund",2.19,0.0,0.05,0.17,2.41,1.14,0.0,0.05,0.17,1.36
+"Old Bridge Focused Equity Fund",2.18,0.0,0.05,0.17,2.4,1.13,0.0,0.05,0.17,1.35
 "Parag Parikh Arbitrage Fund",0.62,0.0,0.0,0.02,0.64,0.27,0.0,0.0,0.02,0.29
 "Parag Parikh Conservative Hybrid Fund",0.6,0.0,0.0,0.03,0.63,0.3,0.0,0.0,0.03,0.33
 "Parag Parikh Dynamic Asset Allocation Fund",0.6,0.0,0.0,0.02,0.62,0.3,0.0,0.0,0.02,0.32
@@ -1262,20 +1262,20 @@
 "Quant Commodities Fund",2.25,0.0,0.05,0.09,2.39,0.66,0.0,0.05,0.09,0.8
 "Quant Consumption Fund",2.25,0.0,0.05,0.09,2.39,0.63,0.0,0.05,0.09,0.77
 "Quant Dynamic Asset Allocation Fund",1.97,0.0,0.05,0.07,2.09,0.53,0.0,0.05,0.07,0.65
-"Quant ELSS Tax Saver Fund",1.6,0.0,0.05,0.08,1.73,0.58,0.0,0.05,0.08,0.71
+"Quant ELSS Tax Saver Fund",1.59,0.0,0.05,0.08,1.72,0.58,0.0,0.05,0.08,0.71
 "Quant ESG Equity Fund",2.25,0.0,0.05,0.09,2.39,0.63,0.0,0.05,0.09,0.77
 "Quant Flexi Cap Fund",1.65,0.0,0.05,0.06,1.76,0.48,0.0,0.05,0.06,0.59
 "Quant Focused Fund",2.03,0.0,0.05,0.08,2.16,0.57,0.0,0.05,0.08,0.7
 "Quant Gilt Fund",1.35,0.0,0.0,0.06,1.41,0.45,0.0,0.0,0.06,0.51
 "Quant Healthcare Fund",2.25,0.0,0.05,0.07,2.37,0.56,0.0,0.05,0.07,0.68
 "Quant Infrastructure Fund",1.75,0.0,0.05,0.07,1.87,0.54,0.0,0.05,0.07,0.66
-"Quant Large & Mid Cap Fund",1.77,0.0,0.05,0.06,1.88,0.5,0.0,0.05,0.06,0.61
+"Quant Large & Mid Cap Fund",1.76,0.0,0.05,0.06,1.87,0.5,0.0,0.05,0.06,0.61
 "Quant Large Cap Fund",1.89,0.0,0.05,0.05,1.99,0.44,0.0,0.05,0.05,0.54
 "Quant Liquid Fund",0.5,0.0,0.0,0.02,0.52,0.24,0.0,0.0,0.02,0.26
 "Quant Manufacturing Fund",2.04,0.0,0.05,0.08,2.17,0.58,0.0,0.05,0.08,0.71
 "Quant Mid Cap Fund",1.62,0.0,0.05,0.06,1.73,0.47,0.0,0.05,0.06,0.58
 "Quant Momentum Fund",1.86,0.0,0.05,0.08,1.99,0.61,0.0,0.05,0.08,0.74
-"Quant Multi Asset Fund",1.79,0.0,0.05,0.07,1.91,0.5,0.0,0.05,0.07,0.62
+"Quant Multi Asset Fund",1.78,0.0,0.05,0.07,1.9,0.5,0.0,0.05,0.07,0.62
 "Quant Overnight Fund",0.22,0.0,0.0,0.0,0.22,0.15,0.0,0.0,0.0,0.15
 "Quant PSU Fund",2.05,0.0,0.05,0.1,2.2,0.68,0.0,0.05,0.1,0.83
 "Quant Quantamental Fund",1.83,0.0,0.05,0.06,1.94,0.47,0.0,0.05,0.06,0.58
