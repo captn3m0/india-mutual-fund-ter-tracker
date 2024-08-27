@@ -110,8 +110,8 @@
 "Axis BSE SENSEX ETF",0.2,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0
 "Axis BSE SENSEX Index Fund",0.8,0.0,0.0,0.0,0.8,0.2,0.0,0.0,0.0,0.2
 "Axis Business Cycles Fund",1.81,0.0,0.05,0.08,1.94,0.51,0.0,0.05,0.08,0.64
-"Axis Children's Gift Fund",2.08,0.0,0.0,0.2,2.28,1.05,0.0,0.0,0.18,1.23
-"Axis Corporate Debt Fund",0.87,0.0,0.0,0.04,0.91,0.26,0.0,0.0,0.04,0.3
+"Axis Children's Gift Fund",2.08,0.0,0.0,0.2,2.28,1.05,0.0,0.0,0.17,1.22
+"Axis Corporate Debt Fund",0.87,0.0,0.0,0.04,0.91,0.28,0.0,0.0,0.04,0.32
 "Axis Credit Risk Fund",1.46,0.0,0.0,0.11,1.57,0.69,0.0,0.0,0.11,0.8
 "Axis CRISIL IBX 50:50 Gilt Plus SDL June 2028 Index Fund",0.4,0.0,0.0,0.0,0.4,0.18,0.0,0.0,0.0,0.18
 "Axis CRISIL IBX 50:50 Gilt Plus SDL September 2027 Index Fund",0.4,0.0,0.0,0.0,0.4,0.15,0.0,0.0,0.0,0.15
@@ -139,7 +139,7 @@
 "Axis Liquid Fund",0.27,0.0,0.0,0.02,0.29,0.13,0.0,0.0,0.02,0.15
 "Axis Long Duration Fund",0.67,0.0,0.0,0.03,0.7,0.23,0.0,0.0,0.03,0.26
 "Axis Midcap Fund",1.45,0.0,0.05,0.07,1.57,0.42,0.0,0.05,0.07,0.54
-"Axis Money Market Fund",0.3,0.0,0.0,0.01,0.31,0.12,0.0,0.0,0.01,0.13
+"Axis Money Market Fund",0.3,0.0,0.0,0.02,0.32,0.14,0.0,0.0,0.02,0.16
 "Axis Multi Asset Allocation Fund",1.9,0.0,0.05,0.15,2.1,0.87,0.0,0.05,0.15,1.07
 "Axis Multicap Fund",1.67,0.0,0.05,0.08,1.8,0.51,0.0,0.05,0.08,0.64
 "Axis NASDAQ 100 Fund of Fund",0.66,0.0,0.0,0.02,0.68,0.22,0.0,0.0,0.02,0.24
@@ -147,7 +147,7 @@
 "Axis Nifty 50 ETF",0.07,0.0,0.0,0.0,0.07,0.0,0.0,0.0,0.0,0.0
 "Axis Nifty 50 Index Fund",0.42,0.0,0.0,0.0,0.42,0.12,0.0,0.0,0.0,0.12
 "Axis Nifty 500 Index Fund",1.0,0.0,0.0,0.0,1.0,0.1,0.0,0.0,0.0,0.1
-"Axis Nifty AAA Bond Plus SDL APR 2026 50:50 ETF",0.24,0.0,0.0,0.0,0.24,0.0,0.0,0.0,0.0,0.0
+"Axis Nifty AAA Bond Plus SDL APR 2026 50:50 ETF",0.14,0.0,0.0,0.0,0.14,0.0,0.0,0.0,0.0,0.0
 "Axis Nifty AAA Bond Plus SDL APR 2026 50:50 ETF FoF",0.22,0.0,0.0,0.01,0.23,0.07,0.0,0.0,0.01,0.08
 "Axis Nifty Bank ETF",0.18,0.0,0.0,0.01,0.19,0.0,0.0,0.0,0.0,0.0
 "Axis Nifty Bank Index Fund",0.97,0.0,0.0,0.0,0.97,0.09,0.0,0.0,0.01,0.1
@@ -169,8 +169,8 @@
 "Axis Silver ETF",0.35,0.0,0.0,0.02,0.37,0.0,0.0,0.0,0.0,0.0
 "Axis Silver Fund of Fund",0.65,0.0,0.05,0.01,0.71,0.1,0.0,0.05,0.01,0.16
 "Axis Small Cap Fund",1.49,0.0,0.05,0.07,1.61,0.42,0.0,0.05,0.07,0.54
-"Axis Strategic Bond Fund",0.98,0.0,0.0,0.05,1.03,0.37,0.0,0.0,0.05,0.42
-"Axis Treasury Advantage Fund",0.59,0.0,0.0,0.04,0.63,0.28,0.0,0.0,0.04,0.32
+"Axis Strategic Bond Fund",1.0,0.0,0.0,0.06,1.06,0.39,0.0,0.0,0.06,0.45
+"Axis Treasury Advantage Fund",0.61,0.0,0.0,0.05,0.66,0.3,0.0,0.0,0.05,0.35
 "Axis Ultra Short Term Fund",1.12,0.0,0.0,0.05,1.17,0.31,0.0,0.0,0.05,0.36
 "Axis US Treasury Dynamic Bond ETF Fund of Fund",0.14,0.0,0.0,0.01,0.15,0.09,0.0,0.0,0.01,0.1
 "Axis Value Fund",2.18,0.0,0.05,0.13,2.36,0.79,0.0,0.05,0.13,0.97
