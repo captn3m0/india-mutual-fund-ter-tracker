@@ -180,7 +180,7 @@
 "Bajaj Finserv Flexi Cap Fund",1.77,0.0,0.05,0.03,1.85,0.33,0.0,0.05,0.03,0.41
 "Bajaj Finserv Large and Mid Cap Fund",1.98,0.0,0.05,0.06,2.09,0.5,0.0,0.05,0.06,0.61
 "Bajaj Finserv Large and Mid Cap Fund",2.01,0.0,0.05,0.06,2.12,0.5,0.0,0.05,0.06,0.61
-"Bajaj Finserv Large Cap Fund",2.1,0.0,0.05,0.06,2.21,0.5,0.0,0.05,0.06,0.61
+"Bajaj Finserv Large Cap Fund",2.09,0.0,0.05,0.06,2.2,0.5,0.0,0.05,0.06,0.61
 "Bajaj Finserv Liquid Fund",0.26,0.0,0.0,0.01,0.27,0.09,0.0,0.0,0.01,0.1
 "Bajaj Finserv Money Market Fund",0.74,0.0,0.0,0.03,0.77,0.19,0.0,0.0,0.03,0.22
 "Bajaj Finserv Multi Asset Allocation Fund",2.02,0.0,0.05,0.06,2.13,0.45,0.0,0.05,0.06,0.56
@@ -481,7 +481,7 @@
 "Edelweiss Overnight Fund",0.15,0.0,0.0,0.01,0.16,0.1,0.0,0.0,0.01,0.11
 "Edelweiss Recently Listed IPO Fund",2.07,0.0,0.05,0.14,2.26,0.81,0.0,0.05,0.14,1.0
 "Edelweiss Silver ETF",0.39,0.0,0.0,0.0,0.39,0.0,0.0,0.0,0.0,0.0
-"Edelweiss Small Cap Fund",1.74,0.0,0.05,0.05,1.84,0.3,0.0,0.05,0.05,0.4
+"Edelweiss Small Cap Fund",1.75,0.0,0.05,0.05,1.85,0.3,0.0,0.05,0.05,0.4
 "Edelweiss Technology Fund",2.2,0.0,0.05,0.07,2.32,0.46,0.0,0.05,0.07,0.58
 "Edelweiss US Technology Equity Fund of Fund",1.4,0.0,0.05,0.08,1.53,0.49,0.0,0.05,0.08,0.62
 "Edelweiss US Value Equity Offshore Fund",1.42,0.0,0.05,0.09,1.56,0.52,0.0,0.05,0.09,0.66
@@ -537,12 +537,12 @@
 "HDFC BSE 500 ETF",0.3,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0
 "HDFC BSE 500 Index Fund",0.89,0.0,0.0,0.0,0.89,0.3,0.0,0.0,0.0,0.3
 "HDFC BSE SENSEX ETF",0.05,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.0,0.0
-"HDFC Business Cycle Fund",1.79,0.0,0.05,0.1,1.94,0.62,0.0,0.05,0.1,0.77
+"HDFC Business Cycle Fund",1.8,0.0,0.05,0.1,1.95,0.63,0.0,0.05,0.1,0.78
 "HDFC Capital Builder Value Fund",1.65,0.0,0.05,0.14,1.84,0.79,0.0,0.05,0.14,0.98
 "HDFC Childrens Gift Fund",1.61,0.0,0.0,0.13,1.74,0.77,0.0,0.0,0.13,0.9
 "HDFC Corporate Bond Fund",0.56,0.0,0.0,0.05,0.61,0.31,0.0,0.0,0.05,0.36
 "HDFC Credit Risk Debt Fund",1.4,0.0,0.05,0.13,1.58,0.79,0.0,0.05,0.13,0.97
-"HDFC Defence Fund",1.75,0.0,0.05,0.09,1.89,0.58,0.0,0.05,0.09,0.72
+"HDFC Defence Fund",1.76,0.0,0.05,0.09,1.9,0.59,0.0,0.05,0.09,0.73
 "HDFC Developed World Indexes Fund of Funds",0.62,0.0,0.05,0.0,0.67,0.18,0.0,0.05,0.0,0.23
 "HDFC Dividend Yield Fund",1.68,0.0,0.05,0.07,1.8,0.44,0.0,0.05,0.07,0.56
 "HDFC Dynamic Debt Fund",1.45,0.0,0.0,0.1,1.55,0.64,0.0,0.0,0.1,0.74
@@ -568,11 +568,11 @@
 "HDFC Low Duration Fund",0.99,0.0,0.0,0.05,1.04,0.4,0.0,0.0,0.05,0.45
 "HDFC Manufacturing Fund",1.57,0.0,0.05,0.05,1.67,0.31,0.0,0.05,0.05,0.41
 "HDFC Medium Term Debt Fund",1.2,0.0,0.0,0.08,1.28,0.52,0.0,0.0,0.08,0.6
-"HDFC Mid-Cap Opportunities Fund",1.24,0.0,0.05,0.1,1.39,0.57,0.0,0.05,0.1,0.72
+"HDFC Mid-Cap Opportunities Fund",1.25,0.0,0.05,0.1,1.4,0.58,0.0,0.05,0.1,0.73
 "HDFC MNC Fund",2.19,0.0,0.05,0.17,2.41,1.0,0.0,0.05,0.17,1.22
 "HDFC Money Market Fund",0.39,0.0,0.0,0.0,0.39,0.23,0.0,0.0,0.0,0.23
 "HDFC Multi Cap Fund",1.54,0.0,0.05,0.07,1.66,0.43,0.0,0.05,0.07,0.55
-"HDFC Multi-Asset Fund",1.78,0.0,0.05,0.11,1.94,0.61,0.0,0.05,0.11,0.77
+"HDFC Multi-Asset Fund",1.77,0.0,0.05,0.11,1.93,0.6,0.0,0.05,0.11,0.76
 "HDFC Nifty 100 Equal Weight Index Fund",0.83,0.0,0.0,0.0,0.83,0.4,0.0,0.0,0.0,0.4
 "HDFC Nifty 100 ETF",0.3,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0
 "HDFC Nifty 100 Index Fund",0.75,0.0,0.0,0.0,0.75,0.3,0.0,0.0,0.0,0.3
@@ -1271,7 +1271,7 @@
 "Quant Gilt Fund",1.35,0.0,0.0,0.06,1.41,0.45,0.0,0.0,0.06,0.51
 "Quant Healthcare Fund",2.25,0.0,0.05,0.07,2.37,0.56,0.0,0.05,0.07,0.68
 "Quant Infrastructure Fund",1.75,0.0,0.05,0.07,1.87,0.54,0.0,0.05,0.07,0.66
-"Quant Large & Mid Cap Fund",1.76,0.0,0.05,0.06,1.87,0.5,0.0,0.05,0.06,0.61
+"Quant Large & Mid Cap Fund",1.77,0.0,0.05,0.06,1.88,0.5,0.0,0.05,0.06,0.61
 "Quant Large Cap Fund",1.88,0.0,0.05,0.05,1.98,0.44,0.0,0.05,0.05,0.54
 "Quant Liquid Fund",0.5,0.0,0.0,0.02,0.52,0.24,0.0,0.0,0.02,0.26
 "Quant Manufacturing Fund",2.04,0.0,0.05,0.08,2.17,0.58,0.0,0.05,0.08,0.71
