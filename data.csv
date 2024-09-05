@@ -855,7 +855,7 @@
 "Kotak Equity Arbitrage Fund",0.97,0.0,0.0,0.04,1.01,0.39,0.0,0.0,0.04,0.43
 "Kotak Equity Hybrid Fund",1.67,0.0,0.05,0.05,1.77,0.38,0.0,0.0,0.05,0.43
 "Kotak Equity Opportunities Fund",1.48,0.0,0.05,0.06,1.59,0.41,0.0,0.0,0.06,0.47
-"Kotak Equity Savings Fund",1.66,0.0,0.05,0.08,1.79,0.58,0.0,0.0,0.08,0.66
+"Kotak Equity Savings Fund",1.65,0.0,0.05,0.08,1.78,0.58,0.0,0.0,0.08,0.66
 "Kotak ESG Exclusionary Strategy Fund",2.06,0.0,0.05,0.1,2.21,0.65,0.0,0.0,0.1,0.75
 "Kotak Flexicap Fund",1.33,0.0,0.05,0.07,1.45,0.5,0.0,0.0,0.07,0.57
 "Kotak Floating Rate Fund",0.6,0.0,0.0,0.02,0.62,0.22,0.0,0.0,0.02,0.24
@@ -1393,33 +1393,33 @@
 "Tata Balanced Advantage Fund",1.6,0.0,0.05,0.03,1.68,0.27,0.0,0.05,0.03,0.35
 "Tata Banking & Financial Services Fund",1.86,0.0,0.05,0.04,1.95,0.36,0.0,0.05,0.04,0.45
 "Tata BSE SENSEX Index Fund",0.55,0.0,0.0,0.03,0.58,0.24,0.0,0.0,0.03,0.27
-"Tata Business Cycle Fund",1.83,0.0,0.05,0.03,1.91,0.27,0.0,0.05,0.03,0.35
+"Tata Business Cycle Fund",1.81,0.0,0.05,0.04,1.9,0.31,0.0,0.05,0.04,0.4
 "Tata Corporate Bond Fund",0.83,0.0,0.0,0.03,0.86,0.29,0.0,0.0,0.03,0.32
 "Tata CRISIL-IBX Gilt Index - April 2026 Index Fund",0.34,0.0,0.0,0.0,0.34,0.1,0.0,0.0,0.0,0.1
 "Tata Digital India Fund",1.58,0.0,0.05,0.03,1.66,0.27,0.0,0.05,0.03,0.35
-"Tata Dividend Yield Fund",2.06,0.0,0.05,0.04,2.15,0.36,0.0,0.05,0.04,0.45
+"Tata Dividend Yield Fund",2.04,0.0,0.05,0.06,2.15,0.45,0.0,0.05,0.06,0.56
 "Tata ELSS Tax Saver Fund",1.72,0.0,0.0,0.08,1.8,0.61,0.0,0.0,0.08,0.69
 "Tata Equity P/E Fund",1.62,0.0,0.05,0.1,1.77,0.65,0.0,0.05,0.1,0.8
 "Tata Equity Savings Fund",1.07,0.0,0.0,0.04,1.11,0.44,0.0,0.0,0.04,0.48
 "Tata Ethical Fund",1.78,0.0,0.05,0.08,1.91,0.55,0.0,0.05,0.08,0.68
-"Tata Flexi Cap Fund",1.8,0.0,0.05,0.08,1.93,0.53,0.0,0.05,0.08,0.66
+"Tata Flexi Cap Fund",1.79,0.0,0.05,0.08,1.92,0.52,0.0,0.05,0.08,0.65
 "Tata Floating Rate Fund",0.7,0.0,0.0,0.03,0.73,0.27,0.0,0.0,0.03,0.3
 "Tata Focused Equity Fund",1.91,0.0,0.05,0.07,2.03,0.49,0.0,0.05,0.07,0.61
 "Tata Gilt Securities Fund",1.51,0.0,0.0,0.05,1.56,0.37,0.0,0.0,0.05,0.42
 "Tata Gold ETF Fund of Fund",0.69,0.0,0.0,0.0,0.69,0.07,0.0,0.0,0.0,0.07
 "Tata Gold Exchange Traded Fund",0.0,0.0,0.0,0.0,0.0,0.36,0.0,0.0,0.02,0.38
-"Tata Housing Opportunities Fund",2.19,0.0,0.05,0.07,2.31,0.51,0.0,0.05,0.07,0.63
+"Tata Housing Opportunities Fund",2.18,0.0,0.05,0.07,2.3,0.51,0.0,0.05,0.07,0.63
 "Tata Hybrid Equity Fund",1.74,0.0,0.05,0.13,1.92,0.81,0.0,0.05,0.13,0.99
 "Tata India Consumer Fund",1.85,0.0,0.05,0.09,1.99,0.59,0.0,0.05,0.09,0.73
-"Tata India Pharma & Healthcare Fund",2.01,0.0,0.05,0.08,2.14,0.6,0.0,0.05,0.08,0.73
+"Tata India Pharma & Healthcare Fund",2.01,0.0,0.05,0.08,2.14,0.59,0.0,0.05,0.08,0.72
 "Tata Infrastructure Fund",1.84,0.0,0.05,0.16,2.05,0.97,0.0,0.05,0.16,1.18
 "Tata Large & Mid Cap Fund",1.62,0.0,0.05,0.08,1.75,0.57,0.0,0.05,0.08,0.7
 "Tata Large Cap Fund",1.85,0.0,0.05,0.14,2.04,0.88,0.0,0.05,0.14,1.07
 "Tata Liquid Fund",0.3,0.0,0.0,0.02,0.32,0.19,0.0,0.0,0.02,0.21
 "Tata Mid Cap Growth Fund",1.73,0.0,0.05,0.09,1.87,0.59,0.0,0.05,0.09,0.73
 "Tata Money Market Fund",0.39,0.0,0.0,0.01,0.4,0.14,0.0,0.0,0.01,0.15
-"Tata Multi Asset Opportunities Fund",1.79,0.0,0.05,0.03,1.87,0.28,0.0,0.05,0.03,0.36
-"Tata Multicap Fund",1.83,0.0,0.05,0.02,1.9,0.22,0.0,0.05,0.02,0.29
+"Tata Multi Asset Opportunities Fund",1.79,0.0,0.05,0.04,1.88,0.34,0.0,0.05,0.04,0.43
+"Tata Multicap Fund",1.78,0.0,0.05,0.03,1.86,0.28,0.0,0.05,0.03,0.36
 "Tata Nifty 50 Exchange Traded Fund",0.0,0.0,0.0,0.0,0.0,0.07,0.0,0.0,0.0,0.07
 "Tata Nifty 50 Index Fund",0.5,0.0,0.0,0.02,0.52,0.18,0.0,0.0,0.02,0.2
 "Tata Nifty Auto Index Fund",1.0,0.0,0.05,0.04,1.09,0.25,0.0,0.05,0.04,0.34
