@@ -215,21 +215,21 @@
 "Bandhan Equity Savings Fund",1.08,0.0,0.0,0.02,1.1,0.17,0.0,0.0,0.02,0.19
 "Bandhan Financial Services Fund",2.08,0.0,0.05,0.08,2.21,0.47,0.0,0.05,0.07,0.59
 "Bandhan Flexi Cap Fund",1.64,0.0,0.05,0.16,1.85,0.92,0.0,0.05,0.16,1.13
-"Bandhan Floating Rate Fund",0.75,0.0,0.0,0.04,0.79,0.27,0.0,0.0,0.03,0.3
+"Bandhan Floating Rate Fund",0.75,0.0,0.0,0.04,0.79,0.27,0.0,0.0,0.04,0.31
 "Bandhan Focused Equity Fund",1.93,0.0,0.05,0.12,2.1,0.66,0.0,0.05,0.11,0.82
 "Bandhan GSF - Constant Maturity Plan",0.48,0.0,0.0,0.04,0.52,0.26,0.0,0.0,0.04,0.3
 "Bandhan GSF Investment Plan",1.07,0.0,0.0,0.07,1.14,0.45,0.0,0.0,0.07,0.52
 "Bandhan Hybrid Equity Fund",2.15,0.0,0.05,0.15,2.35,0.83,0.0,0.05,0.14,1.02
 "Bandhan Infrastructure Fund",1.91,0.0,0.05,0.11,2.07,0.66,0.0,0.05,0.11,0.82
-"Bandhan Innovation Fund",2.02,0.0,0.05,0.07,2.14,0.43,0.0,0.05,0.07,0.55
-"Bandhan Large Cap Fund",1.94,0.0,0.0,0.13,2.07,0.8,0.0,0.0,0.13,0.93
+"Bandhan Innovation Fund",2.02,0.0,0.05,0.07,2.14,0.42,0.0,0.05,0.07,0.54
+"Bandhan Large Cap Fund",1.93,0.0,0.0,0.13,2.06,0.8,0.0,0.0,0.13,0.93
 "Bandhan Liquid Fund",0.24,0.0,0.0,0.01,0.25,0.11,0.0,0.0,0.01,0.12
-"Bandhan Long Duration Fund",0.63,0.0,0.0,0.02,0.65,0.22,0.0,0.0,0.02,0.24
-"Bandhan Low Duration Fund",0.55,0.0,0.0,0.04,0.59,0.29,0.0,0.0,0.04,0.33
+"Bandhan Long Duration Fund",0.63,0.0,0.0,0.03,0.66,0.22,0.0,0.0,0.03,0.25
+"Bandhan Low Duration Fund",0.55,0.0,0.0,0.05,0.6,0.29,0.0,0.0,0.04,0.33
 "Bandhan Midcap Fund",1.96,0.0,0.05,0.07,2.08,0.45,0.0,0.05,0.07,0.57
 "Bandhan Money Manager Fund",0.34,0.0,0.0,0.01,0.35,0.09,0.0,0.0,0.01,0.1
 "Bandhan Multi Asset Allocation Fund",1.9,0.0,0.05,0.05,2.0,0.31,0.0,0.05,0.05,0.41
-"Bandhan Multi Cap Fund",1.85,0.0,0.05,0.07,1.97,0.4,0.0,0.05,0.06,0.51
+"Bandhan Multi Cap Fund",1.84,0.0,0.05,0.07,1.96,0.4,0.0,0.05,0.06,0.51
 "Bandhan Nifty 100 Index Fund",0.6,0.0,0.0,0.0,0.6,0.09,0.0,0.0,0.0,0.09
 "Bandhan Nifty 50 ETF",0.08,0.0,0.0,0.01,0.09,0.0,0.0,0.0,0.0,0.0
 "Bandhan Nifty 50 Index Fund",0.59,0.0,0.0,0.01,0.6,0.09,0.0,0.0,0.01,0.1
@@ -242,7 +242,7 @@
 "Bandhan Nifty200 Momentum 30 Index Fund",1.0,0.0,0.0,0.06,1.06,0.36,0.0,0.0,0.05,0.41
 "Bandhan Overnight Fund",0.15,0.0,0.0,0.0,0.15,0.05,0.0,0.0,0.0,0.05
 "Bandhan Retirement Fund",2.25,0.0,0.0,0.09,2.34,0.59,0.0,0.0,0.09,0.68
-"Bandhan Small Cap Fund",1.65,0.0,0.05,0.04,1.74,0.25,0.0,0.05,0.04,0.34
+"Bandhan Small Cap Fund",1.64,0.0,0.05,0.04,1.73,0.25,0.0,0.05,0.04,0.34
 "Bandhan Sterling Value Fund",1.6,0.0,0.05,0.09,1.74,0.54,0.0,0.05,0.09,0.68
 "Bandhan Transportation and Logistics Fund",2.21,0.0,0.05,0.12,2.38,0.69,0.0,0.05,0.11,0.85
 "Bandhan Ultra Short Term Fund",0.43,0.0,0.0,0.03,0.46,0.24,0.0,0.0,0.03,0.27
@@ -456,7 +456,7 @@
 "Edelweiss Recently Listed IPO Fund",2.07,0.0,0.05,0.14,2.26,0.81,0.0,0.05,0.14,1.0
 "Edelweiss Silver ETF",0.39,0.0,0.0,0.0,0.39,0.0,0.0,0.0,0.0,0.0
 "Edelweiss Small Cap Fund",1.74,0.0,0.05,0.05,1.84,0.3,0.0,0.05,0.05,0.4
-"Edelweiss Technology Fund",2.2,0.0,0.05,0.07,2.32,0.46,0.0,0.05,0.07,0.58
+"Edelweiss Technology Fund",2.19,0.0,0.05,0.07,2.31,0.45,0.0,0.05,0.07,0.57
 "Edelweiss US Technology Equity Fund of Fund",1.4,0.0,0.05,0.08,1.53,0.49,0.0,0.05,0.08,0.62
 "Edelweiss US Value Equity Offshore Fund",1.42,0.0,0.05,0.09,1.56,0.52,0.0,0.05,0.09,0.66
 "Franklin Asian Equity Fund",2.25,0.0,0.05,0.23,2.53,1.4,0.0,0.05,0.23,1.68
@@ -601,7 +601,7 @@
 "Helios Overnight Fund",0.14,0.0,0.0,0.01,0.15,0.09,0.0,0.0,0.01,0.1
 "HSBC Aggressive Hybrid Fund",1.69,0.0,0.05,0.11,1.85,0.65,0.0,0.05,0.11,0.81
 "HSBC Arbitrage Fund",0.91,0.0,0.0,0.03,0.94,0.24,0.0,0.0,0.03,0.27
-"HSBC Asia Pacific (Ex Japan) Dividend Yield Fund",1.23,0.0,0.05,0.12,1.4,0.83,0.0,0.05,0.12,1.0
+"HSBC Asia Pacific (Ex Japan) Dividend Yield Fund",1.23,0.0,0.05,0.13,1.41,0.83,0.0,0.05,0.13,1.01
 "HSBC Balanced Advantage Fund",1.96,0.0,0.05,0.1,2.11,0.62,0.0,0.05,0.1,0.77
 "HSBC Banking and PSU Debt Fund",0.58,0.0,0.0,0.03,0.61,0.2,0.0,0.0,0.03,0.23
 "HSBC Brazil Fund",1.39,0.0,0.05,0.13,1.57,0.82,0.0,0.05,0.13,1.0
