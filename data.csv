@@ -486,7 +486,7 @@
 "Franklin India Government Securities Fund",1.04,0.0,0.0,0.09,1.13,0.52,0.0,0.0,0.08,0.6
 "Franklin India Liquid Fund",0.18,0.0,0.0,0.01,0.19,0.12,0.0,0.0,0.01,0.13
 "Franklin India Money Market Fund",0.28,0.0,0.0,0.01,0.29,0.13,0.0,0.0,0.01,0.14
-"Franklin India Multi - Asset Solution Fund of Funds",1.86,0.0,0.05,0.05,1.96,0.92,0.0,0.05,0.03,1.0
+"Franklin India Multi - Asset Solution Fund of Funds",1.86,0.0,0.05,0.05,1.96,0.92,0.0,0.05,0.04,1.01
 "Franklin India Multi Cap Fund",1.74,0.0,0.05,0.02,1.81,0.15,0.0,0.05,0.02,0.22
 "Franklin India NSE Nifty 50 Index Fund",0.6,0.0,0.0,0.02,0.62,0.22,0.0,0.0,0.02,0.24
 "Franklin India Opportunities Fund",1.7,0.0,0.05,0.06,1.81,0.39,0.0,0.05,0.06,0.5
@@ -996,7 +996,7 @@
 "Mirae Asset Equity Allocator Fund of Fund",0.08,0.0,0.03,0.0,0.11,0.01,0.0,0.03,0.0,0.04
 "Mirae Asset Equity Savings Fund",1.28,0.0,0.0,0.04,1.32,0.3,0.0,0.0,0.04,0.34
 "Mirae Asset Flexi Cap Fund",1.86,0.0,0.05,0.07,1.98,0.41,0.0,0.05,0.07,0.53
-"Mirae Asset Focused Fund",1.63,0.0,0.05,0.08,1.76,0.46,0.0,0.05,0.08,0.59
+"Mirae Asset Focused Fund",1.63,0.0,0.05,0.08,1.76,0.45,0.0,0.05,0.07,0.57
 "Mirae Asset Global Electric & Autonomous Vehicles Etfs Fund of Fund",0.46,0.0,0.05,0.03,0.54,0.17,0.0,0.05,0.03,0.25
 "Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund",0.32,0.0,0.05,0.03,0.4,0.18,0.0,0.05,0.03,0.26
 "Mirae Asset Gold ETF",0.3,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0
@@ -1015,7 +1015,7 @@
 "Mirae Asset Nifty 100 ESG Sector Leaders ETF",0.45,0.0,0.0,0.08,0.53,0.0,0.0,0.0,0.0,0.0
 "Mirae Asset Nifty 100 ESG Sector Leaders Fund of Fund",0.4,0.0,0.05,0.01,0.46,0.02,0.0,0.05,0.01,0.08
 "Mirae Asset Nifty 100 Low Volatility 30 ETF",0.09,0.0,0.0,0.0,0.09,0.0,0.0,0.0,0.0,0.0
-"Mirae Asset Nifty 1D Rate Liquid ETF",0.24,0.0,0.0,0.02,0.26,0.0,0.0,0.0,0.0,0.0
+"Mirae Asset Nifty 1D Rate Liquid ETF",0.24,0.0,0.0,0.03,0.27,0.0,0.0,0.0,0.0,0.0
 "Mirae Asset Nifty 200 Alpha 30 ETF",0.33,0.0,0.0,0.05,0.38,0.0,0.0,0.0,0.0,0.0
 "Mirae Asset Nifty 50 ETF",0.04,0.0,0.0,0.0,0.04,0.0,0.0,0.0,0.0,0.0
 "Mirae Asset Nifty 8-13 Yr G-SEC ETF",0.09,0.0,0.0,0.01,0.1,0.0,0.0,0.0,0.0,0.0
@@ -1062,10 +1062,10 @@
 "Motilal Oswal Flexi Cap Fund",1.55,0.0,0.05,0.12,1.72,0.7,0.0,0.05,0.12,0.87
 "Motilal Oswal Focused Fund",1.86,0.0,0.05,0.12,2.03,0.73,0.0,0.05,0.12,0.9
 "Motilal Oswal Gold and Silver Etfs Fund of Funds",0.5,0.0,0.0,0.01,0.51,0.15,0.0,0.0,0.01,0.16
-"Motilal Oswal Large and Midcap Fund",1.68,0.0,0.05,0.06,1.79,0.41,0.0,0.05,0.06,0.52
-"Motilal Oswal Large Cap Fund",2.01,0.0,0.05,0.1,2.16,0.64,0.0,0.05,0.1,0.79
+"Motilal Oswal Large and Midcap Fund",1.67,0.0,0.05,0.06,1.78,0.4,0.0,0.05,0.06,0.51
+"Motilal Oswal Large Cap Fund",2.0,0.0,0.05,0.1,2.15,0.63,0.0,0.05,0.1,0.78
 "Motilal Oswal Liquid Fund",0.35,0.0,0.0,0.02,0.37,0.2,0.0,0.0,0.02,0.22
-"Motilal Oswal Manufacturing Fund",2.2,0.0,0.05,0.14,2.39,0.85,0.0,0.05,0.14,1.04
+"Motilal Oswal Manufacturing Fund",2.2,0.0,0.05,0.14,2.39,0.84,0.0,0.05,0.14,1.03
 "Motilal Oswal Midcap Fund",1.53,0.0,0.05,0.06,1.64,0.48,0.0,0.05,0.06,0.59
 "Motilal Oswal Multi Asset Fund",1.89,0.0,0.05,0.12,2.06,0.74,0.0,0.05,0.12,0.91
 "Motilal Oswal Multi Cap Fund",1.93,0.0,0.05,0.08,2.06,0.51,0.0,0.05,0.08,0.64
@@ -1325,7 +1325,7 @@
 "SBI Magnum Comma Fund",2.18,0.0,0.05,0.28,2.51,1.58,0.0,0.05,0.28,1.91
 "SBI Magnum Constant Maturity Fund",0.6,0.0,0.0,0.04,0.64,0.27,0.0,0.0,0.04,0.31
 "SBI Magnum Gilt Fund",0.88,0.0,0.0,0.06,0.94,0.4,0.0,0.0,0.06,0.46
-"SBI Magnum Global Fund",1.65,0.0,0.05,0.16,1.86,0.96,0.0,0.05,0.16,1.17
+"SBI Magnum Global Fund",1.65,0.0,0.05,0.17,1.87,0.96,0.0,0.05,0.17,1.18
 "SBI Magnum Income Fund",1.35,0.0,0.0,0.11,1.46,0.67,0.0,0.0,0.11,0.78
 "SBI Magnum Low Duration Fund",0.96,0.0,0.0,0.06,1.02,0.37,0.0,0.0,0.06,0.43
 "SBI Magnum Medium Duration Fund",1.12,0.0,0.0,0.1,1.22,0.59,0.0,0.0,0.1,0.69
