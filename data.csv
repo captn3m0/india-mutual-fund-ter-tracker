@@ -285,7 +285,7 @@
 "Baroda BNP Paribas Credit Risk Fund (Scheme has One Segregated Portfolio))",1.49,0.0,0.0,0.11,1.6,0.68,0.0,0.0,0.11,0.79
 "Baroda BNP Paribas Credit Risk Fund (Scheme has Two Segregated Portfolio))",1.49,0.0,0.0,0.11,1.6,0.68,0.0,0.0,0.11,0.79
 "Baroda BNP Paribas Credit Risk Fund (Scheme has Two Segregated Portfolios)",1.49,0.0,0.0,0.11,1.6,0.68,0.0,0.0,0.11,0.79
-"Baroda BNP Paribas Dividend Yield Fund",2.06,0.0,0.05,0.05,2.16,0.36,0.0,0.05,0.05,0.46
+"Baroda BNP Paribas Dividend Yield Fund",2.05,0.0,0.05,0.04,2.14,0.35,0.0,0.05,0.04,0.44
 "Baroda BNP Paribas Dynamic Bond Fund",1.6,0.0,0.0,0.09,1.69,0.62,0.0,0.0,0.09,0.71
 "Baroda BNP Paribas ELSS Tax Saver Fund",2.07,0.0,0.0,0.12,2.19,0.84,0.0,0.0,0.12,0.96
 "Baroda BNP Paribas Equity Savings Fund",2.25,0.0,0.05,0.19,2.49,1.16,0.0,0.05,0.19,1.4
@@ -351,7 +351,7 @@
 "Canara Robeco Short Duration Fund",0.97,0.0,0.0,0.05,1.02,0.36,0.0,0.0,0.05,0.41
 "Canara Robeco Small Cap Fund",1.58,0.0,0.05,0.04,1.67,0.35,0.0,0.05,0.04,0.44
 "Canara Robeco Ultra Short Term Fund",0.89,0.0,0.0,0.06,0.95,0.34,0.0,0.0,0.05,0.39
-"Canara Robeco Value Fund",1.99,0.0,0.05,0.07,2.11,0.47,0.0,0.05,0.07,0.59
+"Canara Robeco Value Fund",1.98,0.0,0.05,0.07,2.1,0.47,0.0,0.05,0.07,0.59
 "CPSE ETF",0.0,0.0,0.0,0.0,0.0,0.07,0.0,0.0,0.0,0.07
 "DSP 10Y G-SEC Fund",0.48,0.0,0.0,0.04,0.52,0.27,0.0,0.0,0.04,0.31
 "DSP Arbitrage Fund",0.94,0.0,0.0,0.05,0.99,0.3,0.0,0.0,0.05,0.35
@@ -981,7 +981,7 @@
 "Mahindra Manulife Multi Cap Fund",1.73,0.0,0.05,0.05,1.83,0.3,0.0,0.05,0.05,0.4
 "Mahindra Manulife Overnight Fund",0.19,0.0,0.0,0.0,0.19,0.09,0.0,0.0,0.0,0.09
 "Mahindra Manulife Short Duration Fund",1.24,0.0,0.0,0.02,1.26,0.27,0.0,0.0,0.02,0.29
-"Mahindra Manulife Small Cap Fund",1.7,0.0,0.05,0.03,1.78,0.2,0.0,0.05,0.03,0.28
+"Mahindra Manulife Small Cap Fund",1.71,0.0,0.05,0.03,1.79,0.21,0.0,0.05,0.03,0.29
 "Mahindra Manulife Ultra Short Duration Fund",0.68,0.0,0.0,0.02,0.7,0.26,0.0,0.0,0.02,0.28
 "Mirae Asset Aggressive Hybrid Fund",1.62,0.0,0.05,0.05,1.72,0.3,0.0,0.05,0.05,0.4
 "Mirae Asset Arbitrage Fund",0.98,0.0,0.0,0.02,1.0,0.19,0.0,0.0,0.02,0.21
@@ -1224,7 +1224,7 @@
 "PGIM India Global Equity Opportunities Fund",1.42,0.0,0.05,0.08,1.55,0.48,0.0,0.05,0.08,0.61
 "PGIM India Global Select Real Estate Securities Fund of Fund",1.29,0.0,0.05,0.06,1.4,0.44,0.0,0.05,0.06,0.55
 "PGIM India Hybrid Equity Fund",2.18,0.0,0.05,0.11,2.34,0.64,0.0,0.05,0.09,0.78
-"PGIM India Large and Midcap Fund",2.22,0.0,0.05,0.08,2.35,0.48,0.0,0.05,0.08,0.61
+"PGIM India Large and Midcap Fund",2.22,0.0,0.05,0.08,2.35,0.49,0.0,0.05,0.07,0.61
 "PGIM India Large Cap Fund",2.2,0.0,0.05,0.11,2.36,0.69,0.0,0.05,0.11,0.85
 "PGIM India Liquid Fund",0.21,0.0,0.0,0.01,0.22,0.11,0.0,0.0,0.01,0.12
 "PGIM India Midcap Opportunities Fund",1.59,0.0,0.05,0.05,1.69,0.35,0.0,0.05,0.05,0.45
@@ -1232,7 +1232,7 @@
 "PGIM India Multi Cap Fund",2.25,0.0,0.05,0.1,2.4,0.59,0.0,0.05,0.09,0.73
 "PGIM India Overnight Fund",0.15,0.0,0.0,0.0,0.15,0.1,0.0,0.0,0.0,0.1
 "PGIM India Retirement Fund",2.25,0.0,0.0,0.06,2.31,0.6,0.0,0.0,0.06,0.66
-"PGIM India Small Cap Fund",1.95,0.0,0.05,0.06,2.06,0.4,0.0,0.05,0.06,0.51
+"PGIM India Small Cap Fund",1.94,0.0,0.05,0.06,2.05,0.4,0.0,0.05,0.06,0.51
 "PGIM India Ultra Short Duration Fund",0.87,0.0,0.0,0.05,0.92,0.27,0.0,0.0,0.03,0.3
 "Quant Absolute Fund",1.86,0.0,0.05,0.08,1.99,0.57,0.0,0.05,0.08,0.7
 "Quant Active Fund",1.59,0.0,0.05,0.06,1.7,0.47,0.0,0.05,0.06,0.58
@@ -1373,7 +1373,7 @@
 "Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking & PSU Debt Fund)",0.38,0.0,0.0,0.03,0.41,0.24,0.0,0.0,0.03,0.27
 "Sundaram Business Cycle Fund",1.96,0.0,0.05,0.04,2.05,0.31,0.0,0.05,0.04,0.4
 "Sundaram Conservative Hybrid Fund (Formerly Known as Sundaram Debt Oriented Hybrid Fund)",2.0,0.0,0.0,0.14,2.15,0.96,0.0,0.0,0.14,1.1
-"Sundaram Consumption Fund (Formerly Known as Sundaram Rural and Consumption Fund)",1.94,0.0,0.05,0.17,2.16,1.09,0.0,0.05,0.17,1.31
+"Sundaram Consumption Fund (Formerly Known as Sundaram Rural and Consumption Fund)",1.93,0.0,0.05,0.17,2.16,1.08,0.0,0.05,0.17,1.31
 "Sundaram Corporate Bond Fund",0.52,0.0,0.0,0.03,0.55,0.29,0.0,0.0,0.03,0.32
 "Sundaram Diversified Equity",1.94,0.0,0.0,0.22,2.16,1.38,0.0,0.0,0.22,1.6
 "Sundaram Dividend Yield Fund (Formerly Known as Principal Dividend Yield Fund)",2.07,0.0,0.05,0.13,2.25,0.79,0.0,0.05,0.13,0.97
@@ -1472,7 +1472,7 @@
 "Templeton India Value Fund",1.87,0.0,0.05,0.11,2.03,0.69,0.0,0.05,0.11,0.85
 "TRUSTMF Banking & PSU Fund",0.7,0.0,0.0,0.01,0.71,0.2,0.0,0.0,0.01,0.21
 "TRUSTMF Corporate Bond Fund",0.63,0.0,0.0,0.02,0.65,0.23,0.0,0.0,0.02,0.25
-"TRUSTMF Flexi Cap Fund",2.17,0.0,0.05,0.04,2.26,0.4,0.0,0.05,0.04,0.49
+"TRUSTMF Flexi Cap Fund",2.16,0.0,0.05,0.04,2.25,0.4,0.0,0.05,0.04,0.49
 "TRUSTMF Liquid Fund",0.25,0.0,0.0,0.0,0.25,0.1,0.0,0.0,0.0,0.1
 "TRUSTMF Money Market Fund",0.31,0.0,0.0,0.0,0.31,0.16,0.0,0.0,0.0,0.16
 "TRUSTMF Overnight Fund",0.12,0.0,0.0,0.0,0.12,0.07,0.0,0.0,0.0,0.07
