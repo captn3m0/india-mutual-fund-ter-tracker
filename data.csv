@@ -355,7 +355,7 @@
 "CPSE ETF",0.0,0.0,0.0,0.0,0.0,0.07,0.0,0.0,0.0,0.07
 "DSP 10Y G-SEC Fund",0.48,0.0,0.0,0.04,0.52,0.27,0.0,0.0,0.04,0.31
 "DSP Arbitrage Fund",0.94,0.0,0.0,0.05,0.99,0.3,0.0,0.0,0.05,0.35
-"DSP Banking & Financial Services Fund",2.08,0.0,0.05,0.1,2.23,0.55,0.0,0.05,0.1,0.7
+"DSP Banking & Financial Services Fund",2.08,0.0,0.05,0.1,2.23,0.56,0.0,0.05,0.1,0.71
 "DSP Banking & PSU Debt Fund",0.52,0.0,0.0,0.04,0.56,0.28,0.0,0.0,0.04,0.32
 "DSP Bond Fund",0.72,0.0,0.0,0.05,0.77,0.35,0.0,0.0,0.05,0.4
 "DSP BSE Liquid Rate ETF",0.0,0.0,0.0,0.0,0.0,0.34,0.0,0.0,0.01,0.35
@@ -367,7 +367,7 @@
 "DSP ELSS Tax Saver Fund",1.53,0.0,0.0,0.1,1.63,0.62,0.0,0.0,0.1,0.72
 "DSP Equity & Bond Fund",1.6,0.0,0.05,0.09,1.74,0.53,0.0,0.05,0.09,0.67
 "DSP Equity Opportunities Fund",1.56,0.0,0.05,0.09,1.7,0.53,0.0,0.05,0.09,0.67
-"DSP Equity Savings Fund",1.3,0.0,0.0,0.06,1.36,0.4,0.0,0.0,0.06,0.46
+"DSP Equity Savings Fund",1.29,0.0,0.0,0.06,1.35,0.39,0.0,0.0,0.06,0.45
 "DSP Flexi Cap Fund",1.58,0.0,0.05,0.09,1.72,0.53,0.0,0.05,0.09,0.67
 "DSP Floater Fund",0.48,0.0,0.0,0.03,0.51,0.21,0.0,0.0,0.03,0.24
 "DSP Focus Fund",1.83,0.0,0.05,0.13,2.01,0.76,0.0,0.05,0.13,0.94
@@ -380,7 +380,7 @@
 "DSP India T.I.G.E.R. Fund",1.7,0.0,0.05,0.11,1.86,0.68,0.0,0.05,0.11,0.84
 "DSP Liquidity Fund",0.19,0.0,0.0,0.01,0.2,0.09,0.0,0.0,0.01,0.1
 "DSP Low Duration Fund",0.58,0.0,0.0,0.04,0.62,0.26,0.0,0.0,0.04,0.3
-"DSP Midcap Fund",1.51,0.0,0.05,0.09,1.65,0.55,0.0,0.05,0.09,0.69
+"DSP Midcap Fund",1.52,0.0,0.05,0.09,1.66,0.56,0.0,0.05,0.09,0.7
 "DSP Multi Asset Allocation Fund",1.62,0.0,0.04,0.03,1.69,0.21,0.0,0.04,0.03,0.28
 "DSP Multicap Fund",1.94,0.0,0.05,0.06,2.05,0.38,0.0,0.05,0.06,0.49
 "DSP Natural Resources and New Energy Fund",1.99,0.0,0.0,0.11,2.1,0.87,0.0,0.0,0.11,0.98
@@ -400,7 +400,7 @@
 "DSP Nifty PSU Bank ETF",0.0,0.0,0.0,0.0,0.0,0.39,0.0,0.0,0.07,0.46
 "DSP Nifty SDL Plus G-SEC JUN 2028 30:70 Index Fund",0.27,0.0,0.0,0.02,0.29,0.14,0.0,0.0,0.02,0.16
 "DSP Nifty SDL Plus G-SEC SEP 2027 50:50 Index Fund",0.3,0.0,0.0,0.02,0.32,0.14,0.0,0.0,0.02,0.16
-"DSP Nifty Smallcap250 Quality 50 Index Fund",1.0,0.0,0.0,0.01,1.01,0.29,0.0,0.0,0.01,0.3
+"DSP Nifty Smallcap250 Quality 50 Index Fund",1.0,0.0,0.0,0.02,1.02,0.29,0.0,0.0,0.02,0.31
 "DSP Nifty Top 10 Equal Weight ETF",0.0,0.0,0.0,0.0,0.0,0.14,0.0,0.0,0.01,0.15
 "DSP Nifty Top 10 Equal Weight Index Fund",0.97,0.0,0.0,0.03,1.0,0.22,0.0,0.0,0.03,0.25
 "DSP Overnight Fund",0.14,0.0,0.0,0.0,0.14,0.06,0.0,0.0,0.0,0.06
@@ -598,7 +598,7 @@
 "HDFC Silver ETF",0.4,0.0,0.0,0.0,0.4,0.0,0.0,0.0,0.0,0.0
 "HDFC Silver ETF Fund of Fund",0.6,0.0,0.0,0.0,0.6,0.27,0.0,0.0,0.0,0.27
 "HDFC Small Cap Fund",1.43,0.0,0.05,0.09,1.57,0.54,0.0,0.05,0.09,0.68
-"HDFC Technology Fund",1.98,0.0,0.05,0.14,2.17,0.77,0.0,0.05,0.14,0.96
+"HDFC Technology Fund",1.99,0.0,0.05,0.14,2.18,0.78,0.0,0.05,0.14,0.97
 "HDFC Top 100 Fund",1.41,0.0,0.05,0.14,1.6,0.81,0.0,0.05,0.14,1.0
 "HDFC Transportation and Logistics Fund",1.98,0.0,0.05,0.14,2.17,0.75,0.0,0.05,0.14,0.94
 "HDFC Ultra Short Term Fund",0.64,0.0,0.0,0.05,0.69,0.32,0.0,0.0,0.05,0.37
@@ -1367,7 +1367,7 @@
 "Shriram Multi Asset Allocation Fund",2.25,0.0,0.05,0.03,2.33,0.32,0.0,0.05,0.03,0.4
 "Shriram Nifty 1D Rate Liquid ETF",0.0,0.0,0.0,0.0,0.0,0.35,0.0,0.0,0.04,0.39
 "Shriram Overnight Fund",0.15,0.0,0.0,0.01,0.16,0.1,0.0,0.0,0.01,0.11
-"Sundaram Aggressive Hybrid Fund (Formerly Known as Principal Hybrid Equity Fund)",1.7,0.0,0.05,0.08,1.84,0.56,0.0,0.05,0.08,0.7
+"Sundaram Aggressive Hybrid Fund (Formerly Known as Principal Hybrid Equity Fund)",1.71,0.0,0.05,0.08,1.84,0.57,0.0,0.05,0.08,0.7
 "Sundaram Arbitrage Fund(Formerly Known as Prinicpal Arbitrage Fund)",0.91,0.0,0.0,0.02,0.93,0.26,0.0,0.0,0.02,0.28
 "Sundaram Balanced Advantage Fund (Formerly Known as Principal Balanced Advantage Fund)",1.95,0.0,0.05,0.07,2.06,0.47,0.0,0.05,0.07,0.58
 "Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking & PSU Debt Fund)",0.38,0.0,0.0,0.03,0.41,0.24,0.0,0.0,0.03,0.27
