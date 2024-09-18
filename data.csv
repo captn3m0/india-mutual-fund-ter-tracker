@@ -40,8 +40,8 @@
 "Aditya Birla Sun Life ESG Integration Strategy Fund",2.17,0.0,0.05,0.18,2.4,1.08,0.0,0.05,0.18,1.31
 "Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan",1.09,0.0,0.0,0.04,1.13,0.31,0.0,0.0,0.04,0.35
 "Aditya Birla Sun Life Financial Planning Fund - Conservative Plan",0.91,0.0,0.05,0.08,1.04,0.49,0.0,0.05,0.08,0.62
-"Aditya Birla Sun Life Financial Planning Fund - Moderate Plan",1.02,0.0,0.05,0.07,1.14,0.46,0.0,0.05,0.07,0.58
-"Aditya Birla Sun Life Flexi Cap Fund",1.49,0.0,0.05,0.11,1.65,0.68,0.0,0.05,0.11,0.84
+"Aditya Birla Sun Life Financial Planning Fund - Moderate Plan",1.01,0.0,0.05,0.07,1.14,0.45,0.0,0.05,0.07,0.58
+"Aditya Birla Sun Life Flexi Cap Fund",1.49,0.0,0.05,0.11,1.65,0.67,0.0,0.05,0.11,0.84
 "Aditya Birla Sun Life Floating Rate Fund",0.41,0.0,0.0,0.03,0.44,0.2,0.0,0.0,0.03,0.23
 "Aditya Birla Sun Life Focused Fund",1.64,0.0,0.05,0.12,1.8,0.69,0.0,0.05,0.12,0.85
 "Aditya Birla Sun Life Frontline Equity Fund",1.45,0.0,0.05,0.13,1.63,0.78,0.0,0.05,0.13,0.96
@@ -59,7 +59,7 @@
 "Aditya Birla Sun Life Low Duration Fund",1.17,0.0,0.0,0.06,1.23,0.36,0.0,0.0,0.06,0.42
 "Aditya Birla Sun Life Manufacturing Equity Fund",2.0,0.0,0.05,0.18,2.23,1.03,0.0,0.05,0.18,1.26
 "Aditya Birla Sun Life Medium Term Plan",1.46,0.0,0.0,0.12,1.58,0.73,0.0,0.0,0.12,0.85
-"Aditya Birla Sun Life Midcap Fund",1.67,0.0,0.05,0.14,1.87,0.82,0.0,0.05,0.14,1.01
+"Aditya Birla Sun Life Midcap Fund",1.67,0.0,0.05,0.14,1.86,0.82,0.0,0.05,0.14,1.01
 "Aditya Birla Sun Life MNC Fund",1.75,0.0,0.05,0.18,1.98,1.05,0.0,0.05,0.18,1.29
 "Aditya Birla Sun Life Money Manager Fund",0.32,0.0,0.0,0.03,0.35,0.19,0.0,0.0,0.03,0.22
 "Aditya Birla Sun Life Multi - Index Fund of Funds",0.59,0.0,0.0,0.02,0.61,0.26,0.0,0.0,0.02,0.28
@@ -984,23 +984,23 @@
 "Mahindra Manulife Small Cap Fund",1.71,0.0,0.05,0.03,1.79,0.21,0.0,0.05,0.03,0.29
 "Mahindra Manulife Ultra Short Duration Fund",0.68,0.0,0.0,0.02,0.7,0.26,0.0,0.0,0.02,0.28
 "Mirae Asset Aggressive Hybrid Fund",1.62,0.0,0.05,0.05,1.72,0.3,0.0,0.05,0.05,0.4
-"Mirae Asset Arbitrage Fund",0.98,0.0,0.0,0.02,1.0,0.19,0.0,0.0,0.02,0.21
+"Mirae Asset Arbitrage Fund",0.96,0.0,0.0,0.02,0.98,0.17,0.0,0.0,0.02,0.19
 "Mirae Asset Balanced Advantage Fund",1.93,0.0,0.05,0.09,2.07,0.54,0.0,0.05,0.09,0.68
 "Mirae Asset Banking and Financial Services Fund",1.92,0.0,0.05,0.08,2.05,0.47,0.0,0.05,0.08,0.6
-"Mirae Asset Banking and PSU Fund",0.78,0.0,0.0,0.04,0.82,0.32,0.0,0.0,0.04,0.36
+"Mirae Asset Banking and PSU Fund",0.77,0.0,0.0,0.04,0.81,0.32,0.0,0.0,0.04,0.36
 "Mirae Asset BSE SENSEX ETF",0.04,0.0,0.0,0.0,0.04,0.0,0.0,0.0,0.0,0.0
-"Mirae Asset Corporate Bond Fund",0.65,0.0,0.0,0.02,0.67,0.2,0.0,0.0,0.02,0.22
+"Mirae Asset Corporate Bond Fund",0.65,0.0,0.0,0.02,0.67,0.19,0.0,0.0,0.02,0.21
 "Mirae Asset CRISIL IBX Gilt Index - April 2033 Index Fund",0.39,0.0,0.0,0.0,0.39,0.08,0.0,0.0,0.0,0.08
-"Mirae Asset Dynamic Bond Fund",1.07,0.0,0.0,0.02,1.09,0.16,0.0,0.0,0.01,0.17
+"Mirae Asset Dynamic Bond Fund",1.06,0.0,0.0,0.02,1.08,0.16,0.0,0.0,0.01,0.17
 "Mirae Asset ELSS Tax Saver Fund",1.48,0.0,0.0,0.07,1.55,0.51,0.0,0.0,0.07,0.58
-"Mirae Asset Equity Allocator Fund of Fund",0.08,0.0,0.03,0.0,0.11,0.01,0.0,0.03,0.0,0.04
+"Mirae Asset Equity Allocator Fund of Fund",0.08,0.0,0.03,0.0,0.11,0.0,0.0,0.03,0.0,0.03
 "Mirae Asset Equity Savings Fund",1.28,0.0,0.0,0.04,1.32,0.3,0.0,0.0,0.04,0.34
-"Mirae Asset Flexi Cap Fund",1.86,0.0,0.05,0.07,1.98,0.41,0.0,0.05,0.07,0.53
-"Mirae Asset Focused Fund",1.63,0.0,0.05,0.08,1.76,0.45,0.0,0.05,0.07,0.57
-"Mirae Asset Global Electric & Autonomous Vehicles Etfs Fund of Fund",0.46,0.0,0.05,0.03,0.54,0.17,0.0,0.05,0.03,0.25
-"Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund",0.32,0.0,0.05,0.03,0.4,0.18,0.0,0.05,0.03,0.26
-"Mirae Asset Gold ETF",0.3,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0
-"Mirae Asset Great Consumer Fund",1.74,0.0,0.05,0.05,1.84,0.31,0.0,0.05,0.05,0.41
+"Mirae Asset Flexi Cap Fund",1.86,0.0,0.05,0.07,1.98,0.42,0.0,0.05,0.07,0.54
+"Mirae Asset Focused Fund",1.63,0.0,0.05,0.08,1.76,0.46,0.0,0.05,0.08,0.59
+"Mirae Asset Global Electric & Autonomous Vehicles Etfs Fund of Fund",0.46,0.0,0.05,0.02,0.53,0.16,0.0,0.05,0.02,0.23
+"Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund",0.32,0.0,0.05,0.03,0.4,0.17,0.0,0.05,0.03,0.25
+"Mirae Asset Gold ETF",0.32,0.0,0.0,0.0,0.32,0.0,0.0,0.0,0.0,0.0
+"Mirae Asset Great Consumer Fund",1.74,0.0,0.05,0.05,1.84,0.33,0.0,0.05,0.05,0.43
 "Mirae Asset Hang Seng Tech ETF",0.52,0.0,0.0,0.08,0.6,0.0,0.0,0.0,0.0,0.0
 "Mirae Asset Hang Seng Tech ETF Fund of Fund",0.47,0.0,0.05,0.01,0.53,0.04,0.0,0.05,0.01,0.1
 "Mirae Asset Healthcare Fund",1.82,0.0,0.05,0.06,1.93,0.37,0.0,0.05,0.06,0.48
@@ -1009,13 +1009,13 @@
 "Mirae Asset Liquid Fund",0.19,0.0,0.0,0.01,0.2,0.08,0.0,0.0,0.01,0.09
 "Mirae Asset Low Duration Fund",0.83,0.0,0.0,0.02,0.85,0.23,0.0,0.0,0.02,0.25
 "Mirae Asset Midcap Fund",1.53,0.0,0.05,0.07,1.65,0.45,0.0,0.05,0.07,0.57
-"Mirae Asset Money Market Fund",0.5,0.0,0.0,0.02,0.52,0.18,0.0,0.0,0.02,0.2
-"Mirae Asset Multi Asset Allocation Fund",1.93,0.0,0.05,0.05,2.03,0.3,0.0,0.05,0.05,0.4
-"Mirae Asset Multicap Fund",1.78,0.0,0.05,0.04,1.87,0.29,0.0,0.05,0.04,0.38
+"Mirae Asset Money Market Fund",0.5,0.0,0.0,0.01,0.51,0.17,0.0,0.0,0.01,0.18
+"Mirae Asset Multi Asset Allocation Fund",1.92,0.0,0.05,0.05,2.02,0.31,0.0,0.05,0.05,0.41
+"Mirae Asset Multicap Fund",1.78,0.0,0.05,0.05,1.88,0.3,0.0,0.05,0.05,0.4
 "Mirae Asset Nifty 100 ESG Sector Leaders ETF",0.45,0.0,0.0,0.08,0.53,0.0,0.0,0.0,0.0,0.0
 "Mirae Asset Nifty 100 ESG Sector Leaders Fund of Fund",0.4,0.0,0.05,0.01,0.46,0.02,0.0,0.05,0.01,0.08
 "Mirae Asset Nifty 100 Low Volatility 30 ETF",0.09,0.0,0.0,0.0,0.09,0.0,0.0,0.0,0.0,0.0
-"Mirae Asset Nifty 1D Rate Liquid ETF",0.24,0.0,0.0,0.03,0.27,0.0,0.0,0.0,0.0,0.0
+"Mirae Asset Nifty 1D Rate Liquid ETF",0.25,0.0,0.0,0.03,0.28,0.0,0.0,0.0,0.0,0.0
 "Mirae Asset Nifty 200 Alpha 30 ETF",0.33,0.0,0.0,0.05,0.38,0.0,0.0,0.0,0.0,0.0
 "Mirae Asset Nifty 50 ETF",0.04,0.0,0.0,0.0,0.04,0.0,0.0,0.0,0.0,0.0
 "Mirae Asset Nifty 8-13 Yr G-SEC ETF",0.09,0.0,0.0,0.01,0.1,0.0,0.0,0.0,0.0,0.0
@@ -1028,21 +1028,21 @@
 "Mirae Asset Nifty IT ETF",0.09,0.0,0.0,0.01,0.1,0.0,0.0,0.0,0.0,0.0
 "Mirae Asset Nifty Midcap 150 ETF",0.05,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.0,0.0
 "Mirae Asset Nifty Midsmallcap400 Momentum Quality 100 ETF",0.33,0.0,0.0,0.05,0.38,0.0,0.0,0.0,0.0,0.0
-"Mirae Asset Nifty Midsmallcap400 Momentum Quality 100 ETF Fund of Fund",0.66,0.0,0.05,0.0,0.71,0.01,0.0,0.05,0.0,0.06
+"Mirae Asset Nifty Midsmallcap400 Momentum Quality 100 ETF Fund of Fund",0.66,0.0,0.05,0.01,0.72,0.02,0.0,0.05,0.01,0.08
 "Mirae Asset Nifty Next 50 ETF",0.05,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.0,0.0
 "Mirae Asset Nifty SDL JUN 2027 Index Fund",0.32,0.0,0.0,0.01,0.33,0.13,0.0,0.0,0.01,0.14
-"Mirae Asset Nifty SDL June 2028 Index Fund",0.48,0.0,0.0,0.01,0.49,0.11,0.0,0.0,0.01,0.12
+"Mirae Asset Nifty SDL June 2028 Index Fund",0.48,0.0,0.0,0.0,0.48,0.11,0.0,0.0,0.0,0.11
 "Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF",0.33,0.0,0.0,0.05,0.38,0.0,0.0,0.0,0.0,0.0
-"Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF Fund of Fund",0.6,0.0,0.05,0.02,0.67,0.08,0.0,0.05,0.02,0.15
-"Mirae Asset Nifty200 Alpha 30 ETF Fund of Fund",0.66,0.0,0.04,0.0,0.7,0.0,0.0,0.04,0.0,0.04
+"Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF Fund of Fund",0.6,0.0,0.05,0.02,0.67,0.09,0.0,0.05,0.02,0.16
+"Mirae Asset Nifty200 Alpha 30 ETF Fund of Fund",0.65,0.0,0.03,0.0,0.68,0.0,0.0,0.03,0.0,0.03
 "Mirae Asset Nifty500 Multicap 50:25:25 ETF",0.16,0.0,0.0,0.02,0.18,0.0,0.0,0.0,0.0,0.0
-"Mirae Asset NYSE FANG + ETF Fund of Fund",0.4,0.0,0.04,0.0,0.44,0.01,0.0,0.04,0.0,0.05
+"Mirae Asset NYSE FANG + ETF Fund of Fund",0.4,0.0,0.04,0.01,0.45,0.01,0.0,0.04,0.01,0.06
 "Mirae Asset NYSE FANG+ ETF",0.57,0.0,0.0,0.09,0.66,0.0,0.0,0.0,0.0,0.0
 "Mirae Asset Overnight Fund",0.16,0.0,0.0,0.0,0.16,0.07,0.0,0.0,0.0,0.07
 "Mirae Asset S&P 500 Top 50 ETF",0.56,0.0,0.0,0.09,0.65,0.0,0.0,0.0,0.0,0.0
 "Mirae Asset S&P 500 Top 50 ETF Fund of Fund",0.43,0.0,0.05,0.01,0.49,0.03,0.0,0.05,0.01,0.09
 "Mirae Asset Short Duration Fund",1.08,0.0,0.0,0.04,1.12,0.26,0.0,0.0,0.03,0.29
-"Mirae Asset Silver ETF",0.4,0.0,0.0,0.01,0.41,0.0,0.0,0.0,0.0,0.0
+"Mirae Asset Silver ETF",0.4,0.0,0.0,0.0,0.4,0.0,0.0,0.0,0.0,0.0
 "Mirae Asset Ultra Short Duration Fund",0.44,0.0,0.0,0.02,0.46,0.19,0.0,0.0,0.02,0.21
 "Motilal Oswal 5 Year G-SEC Fund of Fund",0.2,0.0,0.0,0.0,0.2,0.13,0.0,0.0,0.0,0.13
 "Motilal Oswal Asset Allocation Fund of Fund- Aggressive",0.52,0.0,0.0,0.0,0.52,0.09,0.0,0.0,0.0,0.09
@@ -1065,7 +1065,7 @@
 "Motilal Oswal Large and Midcap Fund",1.67,0.0,0.05,0.06,1.78,0.4,0.0,0.05,0.06,0.51
 "Motilal Oswal Large Cap Fund",2.0,0.0,0.05,0.1,2.15,0.63,0.0,0.05,0.1,0.78
 "Motilal Oswal Liquid Fund",0.35,0.0,0.0,0.02,0.37,0.2,0.0,0.0,0.02,0.22
-"Motilal Oswal Manufacturing Fund",2.2,0.0,0.05,0.14,2.39,0.84,0.0,0.05,0.14,1.03
+"Motilal Oswal Manufacturing Fund",2.19,0.0,0.05,0.14,2.38,0.84,0.0,0.05,0.14,1.03
 "Motilal Oswal Midcap Fund",1.53,0.0,0.05,0.06,1.64,0.48,0.0,0.05,0.06,0.59
 "Motilal Oswal Multi Asset Fund",1.89,0.0,0.05,0.12,2.06,0.74,0.0,0.05,0.12,0.91
 "Motilal Oswal Multi Cap Fund",1.93,0.0,0.05,0.08,2.06,0.51,0.0,0.05,0.08,0.64
@@ -1091,7 +1091,7 @@
 "Motilal Oswal Nifty Smallcap 250 Index Fund",1.0,0.0,0.0,0.04,1.04,0.32,0.0,0.0,0.04,0.36
 "Motilal Oswal Quant Fund",0.8,0.0,0.05,0.09,0.94,0.55,0.0,0.05,0.09,0.69
 "Motilal Oswal S&P 500 Index Fund",1.0,0.0,0.05,0.08,1.13,0.49,0.0,0.05,0.08,0.62
-"Motilal Oswal Small Cap Fund",1.84,0.0,0.05,0.05,1.94,0.37,0.0,0.05,0.05,0.47
+"Motilal Oswal Small Cap Fund",1.83,0.0,0.05,0.05,1.93,0.36,0.0,0.05,0.05,0.46
 "Motilal Oswal Ultra Short Term Fund",1.0,0.0,0.0,0.06,1.06,0.46,0.0,0.0,0.06,0.52
 "Navi Aggressive Hybrid Fund",2.25,0.0,0.0,0.03,2.28,0.42,0.0,0.0,0.0,0.42
 "Navi BSE SENSEX Index Fund",0.9,0.0,0.0,0.0,0.9,0.14,0.0,0.0,0.0,0.14
@@ -1359,7 +1359,7 @@
 "SBI Silver ETF",0.4,0.0,0.0,0.02,0.42,0.0,0.0,0.0,0.0,0.0
 "SBI Silver ETF Fund of Fund",0.6,0.0,0.0,0.03,0.63,0.22,0.0,0.0,0.03,0.25
 "SBI Small Cap Fund",1.43,0.0,0.05,0.08,1.56,0.5,0.0,0.05,0.08,0.63
-"SBI Technology Opportunities Fund",1.74,0.0,0.05,0.11,1.9,0.66,0.0,0.05,0.11,0.82
+"SBI Technology Opportunities Fund",1.73,0.0,0.05,0.11,1.89,0.65,0.0,0.05,0.11,0.81
 "Shriram Aggressive Hybrid Fund",2.25,0.0,0.05,0.1,2.4,0.7,0.0,0.05,0.1,0.85
 "Shriram Balanced Advantage Fund",2.25,0.0,0.05,0.06,2.36,0.48,0.0,0.05,0.06,0.59
 "Shriram ELSS Tax Saver Fund",2.25,0.0,0.0,0.07,2.32,0.65,0.0,0.0,0.07,0.72
