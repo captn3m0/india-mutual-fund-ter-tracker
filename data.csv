@@ -651,7 +651,7 @@
 "HSBC Ultra Short Duration Fund",0.45,0.0,0.0,0.02,0.47,0.19,0.0,0.0,0.02,0.21
 "HSBC Value Fund",1.56,0.0,0.05,0.1,1.71,0.62,0.0,0.05,0.1,0.77
 "ICICI Prudential All Seasons Bond Fund",1.31,0.0,0.0,0.0,1.31,0.59,0.0,0.0,0.0,0.59
-"ICICI Prudential Asset Allocator Fund (FoF)",1.1,0.0,0.05,0.01,1.16,0.01,0.0,0.05,0.01,0.07
+"ICICI Prudential Asset Allocator Fund (FoF)",1.12,0.0,0.05,0.01,1.18,0.03,0.0,0.05,0.01,0.09
 "ICICI Prudential Balanced Advantage Fund",1.29,0.0,0.05,0.12,1.46,0.68,0.0,0.05,0.12,0.85
 "ICICI Prudential Banking & Financial Services Fund",1.63,0.0,0.05,0.14,1.82,0.83,0.0,0.05,0.14,1.02
 "ICICI Prudential Banking & PSU Debt Fund",0.74,0.0,0.0,0.0,0.74,0.39,0.0,0.0,0.0,0.39
@@ -689,11 +689,11 @@
 "ICICI Prudential Global Stable Equity Fund (FoF)",1.35,0.0,0.05,0.14,1.54,0.86,0.0,0.05,0.14,1.05
 "ICICI Prudential Gold ETF",0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0
 "ICICI Prudential Housing Opportunities Fund",1.83,0.0,0.05,0.13,2.01,0.76,0.0,0.05,0.13,0.94
-"ICICI Prudential Income Optimizer Fund (FoF)",0.72,0.0,0.05,0.09,0.86,0.48,0.0,0.05,0.09,0.62
+"ICICI Prudential Income Optimizer Fund (FoF)",0.8,0.0,0.05,0.08,0.93,0.4,0.0,0.05,0.08,0.53
 "ICICI Prudential India Equity FoF",1.05,0.0,0.05,0.09,1.19,0.54,0.0,0.05,0.09,0.68
 "ICICI Prudential India Opportunities Fund",1.49,0.0,0.05,0.08,1.62,0.46,0.0,0.05,0.08,0.59
 "ICICI Prudential Infrastructure Fund",1.68,0.0,0.05,0.18,1.91,1.02,0.0,0.05,0.18,1.25
-"ICICI Prudential Innovation Fund",1.67,0.0,0.05,0.08,1.8,0.5,0.0,0.05,0.08,0.63
+"ICICI Prudential Innovation Fund",1.68,0.0,0.05,0.08,1.81,0.51,0.0,0.05,0.08,0.64
 "ICICI Prudential Large & Mid Cap Fund",1.54,0.0,0.05,0.11,1.7,0.65,0.0,0.05,0.11,0.81
 "ICICI Prudential Liquid Fund",0.29,0.0,0.0,0.0,0.29,0.2,0.0,0.0,0.0,0.2
 "ICICI Prudential Long Term Bond Fund",0.95,0.0,0.0,0.0,0.95,0.4,0.0,0.0,0.0,0.4
@@ -1407,7 +1407,7 @@
 "Tata Business Cycle Fund",1.8,0.0,0.05,0.03,1.88,0.31,0.0,0.05,0.03,0.39
 "Tata Corporate Bond Fund",0.83,0.0,0.0,0.03,0.86,0.29,0.0,0.0,0.03,0.32
 "Tata CRISIL-IBX Gilt Index - April 2026 Index Fund",0.34,0.0,0.0,0.0,0.34,0.1,0.0,0.0,0.0,0.1
-"Tata Digital India Fund",1.58,0.0,0.05,0.02,1.65,0.27,0.0,0.05,0.02,0.34
+"Tata Digital India Fund",1.58,0.0,0.05,0.03,1.66,0.27,0.0,0.05,0.03,0.35
 "Tata Dividend Yield Fund",2.05,0.0,0.05,0.06,2.16,0.45,0.0,0.05,0.06,0.56
 "Tata ELSS Tax Saver Fund",1.72,0.0,0.0,0.08,1.8,0.61,0.0,0.0,0.08,0.69
 "Tata Equity P/E Fund",1.62,0.0,0.05,0.1,1.77,0.65,0.0,0.05,0.1,0.8
@@ -1421,9 +1421,9 @@
 "Tata Gold Exchange Traded Fund",0.0,0.0,0.0,0.0,0.0,0.36,0.0,0.0,0.02,0.38
 "Tata Housing Opportunities Fund",2.18,0.0,0.05,0.07,2.3,0.51,0.0,0.05,0.07,0.63
 "Tata Hybrid Equity Fund",1.74,0.0,0.05,0.13,1.92,0.81,0.0,0.05,0.13,0.99
-"Tata India Consumer Fund",1.84,0.0,0.05,0.08,1.97,0.58,0.0,0.05,0.08,0.71
+"Tata India Consumer Fund",1.84,0.0,0.05,0.08,1.97,0.57,0.0,0.05,0.08,0.7
 "Tata India Pharma & Healthcare Fund",2.0,0.0,0.05,0.08,2.13,0.57,0.0,0.05,0.08,0.7
-"Tata Infrastructure Fund",1.84,0.0,0.05,0.15,2.04,0.93,0.0,0.05,0.15,1.13
+"Tata Infrastructure Fund",1.84,0.0,0.05,0.15,2.04,0.94,0.0,0.05,0.15,1.14
 "Tata Large & Mid Cap Fund",1.63,0.0,0.05,0.08,1.76,0.54,0.0,0.05,0.08,0.67
 "Tata Large Cap Fund",1.84,0.0,0.05,0.13,2.02,0.86,0.0,0.05,0.13,1.04
 "Tata Liquid Fund",0.3,0.0,0.0,0.02,0.32,0.19,0.0,0.0,0.02,0.21
