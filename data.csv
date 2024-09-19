@@ -652,11 +652,11 @@
 "HSBC Value Fund",1.56,0.0,0.05,0.1,1.71,0.62,0.0,0.05,0.1,0.77
 "ICICI Prudential All Seasons Bond Fund",1.31,0.0,0.0,0.0,1.31,0.59,0.0,0.0,0.0,0.59
 "ICICI Prudential Asset Allocator Fund (FoF)",1.12,0.0,0.05,0.01,1.18,0.03,0.0,0.05,0.01,0.09
-"ICICI Prudential Balanced Advantage Fund",1.29,0.0,0.05,0.12,1.46,0.68,0.0,0.05,0.12,0.85
+"ICICI Prudential Balanced Advantage Fund",1.28,0.0,0.05,0.12,1.45,0.67,0.0,0.05,0.12,0.84
 "ICICI Prudential Banking & Financial Services Fund",1.63,0.0,0.05,0.14,1.82,0.83,0.0,0.05,0.14,1.02
 "ICICI Prudential Banking & PSU Debt Fund",0.74,0.0,0.0,0.0,0.74,0.39,0.0,0.0,0.0,0.39
 "ICICI Prudential Bharat 22 FoF",0.13,0.0,0.0,0.0,0.13,0.12,0.0,0.0,0.0,0.12
-"ICICI Prudential Bharat Consumption Fund",1.82,0.0,0.05,0.16,2.03,0.91,0.0,0.05,0.16,1.12
+"ICICI Prudential Bharat Consumption Fund",1.81,0.0,0.05,0.16,2.02,0.9,0.0,0.05,0.16,1.11
 "ICICI Prudential Bluechip Fund",1.27,0.0,0.05,0.12,1.44,0.69,0.0,0.05,0.12,0.86
 "ICICI Prudential Bond Fund",1.03,0.0,0.0,0.0,1.03,0.62,0.0,0.0,0.0,0.62
 "ICICI Prudential BSE 500 ETF",0.32,0.0,0.0,0.0,0.32,0.0,0.0,0.0,0.0,0.0
@@ -759,7 +759,7 @@
 "ICICI Prudential Retirement Fund Hybrid Aggressive Plan",2.19,0.0,0.0,0.09,2.28,0.75,0.0,0.0,0.09,0.84
 "ICICI Prudential Retirement Fund Hybrid Conservative Plan",1.99,0.0,0.0,0.15,2.14,0.89,0.0,0.0,0.15,1.04
 "ICICI Prudential Retirement Fund Pure Debt Plan",2.0,0.0,0.0,0.17,2.17,1.02,0.0,0.0,0.17,1.19
-"ICICI Prudential Retirement Fund Pure Equity Plan",2.05,0.0,0.0,0.1,2.15,0.63,0.0,0.0,0.1,0.73
+"ICICI Prudential Retirement Fund Pure Equity Plan",2.06,0.0,0.0,0.1,2.16,0.64,0.0,0.0,0.1,0.74
 "ICICI Prudential Savings Fund",0.53,0.0,0.0,0.0,0.53,0.42,0.0,0.0,0.0,0.42
 "ICICI Prudential Short Term Fund",1.05,0.0,0.0,0.0,1.05,0.45,0.0,0.0,0.0,0.45
 "ICICI Prudential Silver ETF",0.4,0.0,0.0,0.0,0.4,0.0,0.0,0.0,0.0,0.0
@@ -933,16 +933,16 @@
 "LIC MF Conservative Hybrid Fund",2.0,0.0,0.05,0.2,2.25,1.02,0.0,0.05,0.15,1.22
 "LIC MF Dividend Yield Fund",2.24,0.0,0.05,0.2,2.49,1.2,0.0,0.05,0.2,1.45
 "LIC MF ELSS Tax Saver",2.01,0.0,0.0,0.11,2.12,0.85,0.0,0.0,0.11,0.96
-"LIC MF Equity Savings Fund",1.81,0.0,0.05,0.14,2.0,0.81,0.0,0.05,0.13,0.99
+"LIC MF Equity Savings Fund",1.81,0.0,0.05,0.14,2.0,0.81,0.0,0.05,0.14,1.0
 "LIC MF Flexi Cap Fund",2.02,0.0,0.05,0.18,2.25,1.15,0.0,0.05,0.18,1.38
 "LIC MF Focused Fund",2.24,0.0,0.05,0.22,2.51,1.3,0.0,0.05,0.21,1.56
 "LIC MF Gilt Fund",1.35,0.0,0.05,0.08,1.48,0.62,0.0,0.05,0.08,0.75
 "LIC MF Gold ETF Fund of Fund",0.6,0.0,0.05,0.02,0.67,0.19,0.0,0.05,0.02,0.26
 "LIC MF Gold Exchange Traded Fund",0.4,0.0,0.0,0.01,0.41,0.0,0.0,0.0,0.0,0.0
 "LIC MF Healthcare Fund",2.24,0.0,0.05,0.15,2.44,1.01,0.0,0.05,0.15,1.21
-"LIC MF Infrastructure Fund",2.17,0.0,0.05,0.18,2.4,1.16,0.0,0.05,0.17,1.38
+"LIC MF Infrastructure Fund",2.17,0.0,0.05,0.18,2.4,1.16,0.0,0.05,0.18,1.39
 "LIC MF Large & Mid Cap Fund",1.79,0.0,0.05,0.06,1.9,0.48,0.0,0.05,0.06,0.59
-"LIC MF Large Cap Fund",1.95,0.0,0.05,0.11,2.11,0.84,0.0,0.05,0.1,0.99
+"LIC MF Large Cap Fund",1.95,0.0,0.05,0.11,2.11,0.84,0.0,0.05,0.11,1.0
 "LIC MF Liquid Fund",0.2,0.0,0.0,0.01,0.21,0.15,0.0,0.0,0.01,0.16
 "LIC MF Low Duration Fund",0.93,0.0,0.0,0.03,0.96,0.24,0.0,0.0,0.03,0.27
 "LIC MF Medium to Long Duration Fund",1.21,0.0,0.0,0.01,1.22,0.2,0.0,0.0,0.01,0.21
@@ -965,7 +965,7 @@
 "Mahindra Manulife Arbitrage Fund",1.17,0.0,0.0,0.04,1.21,0.37,0.0,0.0,0.04,0.41
 "Mahindra Manulife Asia Pacific Reits FoF",1.28,0.0,0.05,0.03,1.36,0.37,0.0,0.05,0.03,0.45
 "Mahindra Manulife Balanced Advantage Fund",2.1,0.0,0.05,0.06,2.21,0.39,0.0,0.05,0.06,0.5
-"Mahindra Manulife Business Cycle Fund",2.02,0.0,0.05,0.04,2.11,0.3,0.0,0.05,0.04,0.39
+"Mahindra Manulife Business Cycle Fund",2.02,0.0,0.05,0.05,2.12,0.3,0.0,0.05,0.05,0.4
 "Mahindra Manulife Consumption Fund",2.25,0.0,0.05,0.07,2.37,0.54,0.0,0.05,0.07,0.66
 "Mahindra Manulife Dynamic Bond Fund",1.53,0.0,0.0,0.04,1.57,0.35,0.0,0.0,0.04,0.39
 "Mahindra Manulife ELSS Tax Saver Fund",2.07,0.0,0.0,0.07,2.14,0.49,0.0,0.0,0.07,0.56
@@ -977,12 +977,12 @@
 "Mahindra Manulife Liquid Fund",0.25,0.0,0.0,0.02,0.27,0.14,0.0,0.0,0.02,0.16
 "Mahindra Manulife Low Duration Fund",1.06,0.0,0.0,0.03,1.09,0.27,0.0,0.0,0.03,0.3
 "Mahindra Manulife Manufacturing Fund",2.09,0.0,0.05,0.07,2.21,0.47,0.0,0.05,0.07,0.59
-"Mahindra Manulife Mid Cap Fund",1.78,0.0,0.05,0.05,1.88,0.32,0.0,0.05,0.05,0.42
+"Mahindra Manulife Mid Cap Fund",1.78,0.0,0.05,0.05,1.88,0.34,0.0,0.05,0.05,0.44
 "Mahindra Manulife Multi Asset Allocation Fund",1.95,0.0,0.05,0.05,2.05,0.33,0.0,0.05,0.05,0.43
-"Mahindra Manulife Multi Cap Fund",1.73,0.0,0.05,0.05,1.83,0.3,0.0,0.05,0.05,0.4
+"Mahindra Manulife Multi Cap Fund",1.73,0.0,0.05,0.05,1.83,0.31,0.0,0.05,0.05,0.41
 "Mahindra Manulife Overnight Fund",0.19,0.0,0.0,0.0,0.19,0.09,0.0,0.0,0.0,0.09
 "Mahindra Manulife Short Duration Fund",1.24,0.0,0.0,0.02,1.26,0.27,0.0,0.0,0.02,0.29
-"Mahindra Manulife Small Cap Fund",1.71,0.0,0.05,0.03,1.79,0.21,0.0,0.05,0.03,0.29
+"Mahindra Manulife Small Cap Fund",1.71,0.0,0.05,0.04,1.8,0.23,0.0,0.05,0.04,0.32
 "Mahindra Manulife Ultra Short Duration Fund",0.68,0.0,0.0,0.02,0.7,0.26,0.0,0.0,0.02,0.28
 "Mirae Asset Aggressive Hybrid Fund",1.62,0.0,0.05,0.05,1.72,0.3,0.0,0.05,0.05,0.4
 "Mirae Asset Arbitrage Fund",0.96,0.0,0.0,0.02,0.98,0.17,0.0,0.0,0.02,0.19
@@ -1224,8 +1224,8 @@
 "PGIM India Gilt Fund",1.43,0.0,0.0,0.06,1.49,0.44,0.0,0.0,0.06,0.5
 "PGIM India Global Equity Opportunities Fund",1.42,0.0,0.05,0.08,1.55,0.48,0.0,0.05,0.08,0.61
 "PGIM India Global Select Real Estate Securities Fund of Fund",1.29,0.0,0.05,0.06,1.4,0.44,0.0,0.05,0.06,0.55
-"PGIM India Hybrid Equity Fund",2.18,0.0,0.05,0.11,2.34,0.63,0.0,0.05,0.09,0.77
-"PGIM India Large and Midcap Fund",2.22,0.0,0.05,0.08,2.35,0.48,0.0,0.05,0.08,0.61
+"PGIM India Hybrid Equity Fund",2.18,0.0,0.05,0.11,2.34,0.64,0.0,0.05,0.09,0.78
+"PGIM India Large and Midcap Fund",2.22,0.0,0.05,0.08,2.35,0.49,0.0,0.05,0.07,0.61
 "PGIM India Large Cap Fund",2.2,0.0,0.05,0.11,2.36,0.69,0.0,0.05,0.11,0.85
 "PGIM India Liquid Fund",0.21,0.0,0.0,0.01,0.22,0.11,0.0,0.0,0.01,0.12
 "PGIM India Midcap Opportunities Fund",1.59,0.0,0.05,0.05,1.69,0.35,0.0,0.05,0.05,0.45
