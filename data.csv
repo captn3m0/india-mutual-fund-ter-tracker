@@ -372,7 +372,7 @@
 "DSP Equity Savings Fund",1.29,0.0,0.0,0.06,1.35,0.39,0.0,0.0,0.06,0.45
 "DSP Flexi Cap Fund",1.58,0.0,0.05,0.09,1.72,0.53,0.0,0.05,0.09,0.67
 "DSP Floater Fund",0.48,0.0,0.0,0.03,0.51,0.21,0.0,0.0,0.03,0.24
-"DSP Focus Fund",1.83,0.0,0.05,0.13,2.01,0.76,0.0,0.05,0.13,0.94
+"DSP Focus Fund",1.82,0.0,0.05,0.13,2.0,0.75,0.0,0.05,0.13,0.93
 "DSP Gilt Fund",1.17,0.0,0.0,0.08,1.25,0.48,0.0,0.0,0.08,0.56
 "DSP Global Allocation Fund of Fund",1.99,0.0,0.0,0.04,2.03,1.37,0.0,0.0,0.04,1.41
 "DSP Global Innovation Fund of Fund",2.0,0.0,0.0,0.04,2.04,1.12,0.0,0.0,0.04,1.16
@@ -541,7 +541,7 @@
 "HDFC Gold Fund",0.44,0.0,0.05,0.0,0.49,0.13,0.0,0.05,0.0,0.18
 "HDFC Housing Opportunities Fund",1.95,0.0,0.05,0.17,2.17,0.98,0.0,0.05,0.17,1.2
 "HDFC Hybrid Debt Fund",1.53,0.0,0.05,0.18,1.76,1.0,0.0,0.05,0.18,1.23
-"HDFC Hybrid Equity Fund",1.49,0.0,0.05,0.14,1.68,0.83,0.0,0.05,0.14,1.02
+"HDFC Hybrid Equity Fund",1.48,0.0,0.05,0.14,1.67,0.82,0.0,0.05,0.14,1.01
 "HDFC Income Fund",1.28,0.0,0.0,0.11,1.39,0.69,0.0,0.0,0.11,0.8
 "HDFC Index Fund - BSE SENSEX Plan",0.36,0.0,0.0,0.0,0.36,0.2,0.0,0.0,0.0,0.2
 "HDFC Index Fund-Nifty 50 Plan",0.36,0.0,0.0,0.0,0.36,0.2,0.0,0.0,0.0,0.2
@@ -553,7 +553,7 @@
 "HDFC Manufacturing Fund",1.57,0.0,0.05,0.05,1.67,0.33,0.0,0.05,0.05,0.43
 "HDFC Medium Term Debt Fund",1.2,0.0,0.0,0.08,1.28,0.52,0.0,0.0,0.08,0.6
 "HDFC Mid-Cap Opportunities Fund",1.24,0.0,0.05,0.1,1.39,0.57,0.0,0.05,0.1,0.72
-"HDFC MNC Fund",2.19,0.0,0.05,0.17,2.41,1.0,0.0,0.05,0.17,1.22
+"HDFC MNC Fund",2.18,0.0,0.05,0.17,2.4,0.99,0.0,0.05,0.17,1.21
 "HDFC Money Market Fund",0.39,0.0,0.0,0.0,0.39,0.23,0.0,0.0,0.0,0.23
 "HDFC Multi Cap Fund",1.53,0.0,0.05,0.07,1.65,0.47,0.0,0.05,0.07,0.59
 "HDFC Multi-Asset Fund",1.77,0.0,0.05,0.11,1.93,0.6,0.0,0.05,0.11,0.76
@@ -590,19 +590,19 @@
 "HDFC Nifty50 Equal Weight Index Fund",0.81,0.0,0.0,0.05,0.86,0.35,0.0,0.0,0.05,0.4
 "HDFC Nifty50 Value 20 ETF",0.15,0.0,0.0,0.0,0.15,0.0,0.0,0.0,0.0,0.0
 "HDFC Nifty500 Multicap 50:25:25 Index Fund",0.8,0.0,0.0,0.0,0.8,0.3,0.0,0.0,0.0,0.3
-"HDFC Non-Cyclical Consumer Fund",2.1,0.0,0.05,0.16,2.31,0.88,0.0,0.05,0.16,1.09
+"HDFC Non-Cyclical Consumer Fund",2.09,0.0,0.05,0.16,2.3,0.87,0.0,0.05,0.16,1.08
 "HDFC Overnight Fund",0.19,0.0,0.0,0.0,0.19,0.1,0.0,0.0,0.0,0.1
 "HDFC Pharma and Healthcare Fund",2.0,0.0,0.05,0.14,2.19,0.77,0.0,0.05,0.14,0.96
 "HDFC Retirement Savings Fund - Equity Plan",1.68,0.0,0.0,0.09,1.77,0.57,0.0,0.0,0.09,0.66
 "HDFC Retirement Savings Fund - Hybrid-Debt Plan",2.0,0.0,0.0,0.14,2.14,0.88,0.0,0.0,0.14,1.02
-"HDFC Retirement Savings Fund - Hybrid-Equity Plan",1.95,0.0,0.0,0.14,2.09,0.79,0.0,0.0,0.14,0.93
+"HDFC Retirement Savings Fund - Hybrid-Equity Plan",1.94,0.0,0.0,0.14,2.08,0.78,0.0,0.0,0.14,0.92
 "HDFC Short Term Debt Fund",0.66,0.0,0.0,0.05,0.71,0.35,0.0,0.0,0.05,0.4
 "HDFC Silver ETF",0.4,0.0,0.0,0.0,0.4,0.0,0.0,0.0,0.0,0.0
 "HDFC Silver ETF Fund of Fund",0.6,0.0,0.0,0.0,0.6,0.27,0.0,0.0,0.0,0.27
 "HDFC Small Cap Fund",1.43,0.0,0.05,0.09,1.57,0.54,0.0,0.05,0.09,0.68
-"HDFC Technology Fund",1.99,0.0,0.05,0.14,2.18,0.78,0.0,0.05,0.14,0.97
-"HDFC Top 100 Fund",1.41,0.0,0.05,0.14,1.6,0.81,0.0,0.05,0.14,1.0
-"HDFC Transportation and Logistics Fund",1.98,0.0,0.05,0.14,2.17,0.75,0.0,0.05,0.14,0.94
+"HDFC Technology Fund",1.98,0.0,0.05,0.14,2.17,0.77,0.0,0.05,0.14,0.96
+"HDFC Top 100 Fund",1.4,0.0,0.05,0.14,1.59,0.8,0.0,0.05,0.14,0.99
+"HDFC Transportation and Logistics Fund",1.97,0.0,0.05,0.14,2.16,0.74,0.0,0.05,0.14,0.93
 "HDFC Ultra Short Term Fund",0.64,0.0,0.0,0.05,0.69,0.32,0.0,0.0,0.05,0.37
 "Helios Balanced Advantage Fund",2.24,0.0,0.05,0.09,2.38,0.6,0.0,0.05,0.09,0.74
 "Helios Financial Services Fund",2.25,0.0,0.05,0.09,2.39,0.62,0.0,0.05,0.09,0.76
@@ -1142,7 +1142,7 @@
 "Nippon India ETF Nifty CPSE Bond Plus SDL Sep2024 50:50",0.0,0.0,0.0,0.0,0.0,0.19,0.0,0.0,0.01,0.2
 "Nippon India ETF Nifty Dividend Opportunities 50",0.0,0.0,0.0,0.0,0.0,0.37,0.0,0.0,0.0,0.37
 "Nippon India ETF Nifty India Consumption",0.0,0.0,0.0,0.0,0.0,0.29,0.0,0.0,0.02,0.31
-"Nippon India ETF Nifty Infrastructure BeES",0.0,0.0,0.0,0.0,0.0,0.92,0.0,0.0,0.12,1.04
+"Nippon India ETF Nifty Infrastructure BeES",0.0,0.0,0.0,0.0,0.0,0.91,0.0,0.0,0.12,1.03
 "Nippon India ETF Nifty IT",0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.02,0.22
 "Nippon India ETF Nifty Midcap 150",0.0,0.0,0.0,0.0,0.0,0.21,0.0,0.0,0.0,0.21
 "Nippon India ETF Nifty Next 50 Junior BeES",0.0,0.0,0.0,0.0,0.0,0.16,0.0,0.0,0.01,0.17
@@ -1153,7 +1153,7 @@
 "Nippon India Focused Equity Fund",1.62,0.0,0.05,0.16,1.83,0.93,0.0,0.05,0.16,1.14
 "Nippon India Gilt Securities Fund",1.17,0.0,0.05,0.07,1.29,0.38,0.0,0.05,0.07,0.5
 "Nippon India Gold Savings Fund",0.3,0.0,0.05,0.0,0.35,0.09,0.0,0.05,0.0,0.14
-"Nippon India Growth Fund",1.43,0.0,0.05,0.11,1.59,0.63,0.0,0.05,0.11,0.79
+"Nippon India Growth Fund",1.42,0.0,0.05,0.11,1.58,0.62,0.0,0.05,0.11,0.78
 "Nippon India Hybrid Bond Fund (Number of Segregated Portfolios - 2)",1.69,0.0,0.05,0.16,1.9,0.91,0.0,0.05,0.16,1.12
 "Nippon India Income Fund",1.39,0.0,0.05,0.08,1.52,0.54,0.0,0.05,0.08,0.67
 "Nippon India Index Fund - BSE SENSEX Plan",0.48,0.0,0.0,0.0,0.48,0.2,0.0,0.0,0.0,0.2
