@@ -152,7 +152,7 @@
 "Axis Nifty AAA Bond Plus SDL APR 2026 50:50 ETF",0.14,0.0,0.0,0.0,0.14,0.0,0.0,0.0,0.0,0.0
 "Axis Nifty AAA Bond Plus SDL APR 2026 50:50 ETF FoF",0.22,0.0,0.0,0.01,0.23,0.07,0.0,0.0,0.01,0.08
 "Axis Nifty Bank ETF",0.18,0.0,0.0,0.01,0.19,0.0,0.0,0.0,0.0,0.0
-"Axis Nifty Bank Index Fund",0.97,0.0,0.0,-0.01,0.96,0.09,0.0,0.0,0.0,0.09
+"Axis Nifty Bank Index Fund",0.97,0.0,0.0,0.0,0.97,0.09,0.0,0.0,0.0,0.09
 "Axis Nifty Healthcare ETF",0.34,0.0,0.0,0.0,0.34,0.0,0.0,0.0,0.0,0.0
 "Axis Nifty India Consumption ETF",0.37,0.0,0.0,0.01,0.38,0.0,0.0,0.0,0.0,0.0
 "Axis Nifty IT ETF",0.22,0.0,0.0,0.01,0.23,0.0,0.0,0.0,0.0,0.0
@@ -843,10 +843,10 @@
 "JM Overnight Fund",0.15,0.0,0.0,0.0,0.15,0.08,0.0,0.0,0.0,0.08
 "JM Short Duration Fund",1.06,0.0,0.0,0.03,1.09,0.31,0.0,0.0,0.03,0.34
 "JM Small Cap Fund",2.22,0.0,0.05,0.04,2.31,0.42,0.0,0.05,0.04,0.51
-"JM Value Fund",2.04,0.0,0.05,0.09,2.18,0.74,0.0,0.05,0.09,0.88
+"JM Value Fund",2.03,0.0,0.05,0.09,2.17,0.73,0.0,0.05,0.09,0.87
 "Kotak All Weather Debt FoF",0.15,0.0,0.0,0.0,0.15,0.09,0.0,0.0,0.0,0.09
 "Kotak Balanced Advantage Fund",1.54,0.0,0.05,0.06,1.65,0.45,0.0,0.0,0.06,0.51
-"Kotak Banking and Financial Services Fund",2.06,0.0,0.05,0.1,2.21,0.59,0.0,0.0,0.1,0.69
+"Kotak Banking and Financial Services Fund",2.07,0.0,0.05,0.1,2.22,0.59,0.0,0.0,0.1,0.69
 "Kotak Banking and PSU Debt Fund",0.7,0.0,0.0,0.05,0.75,0.34,0.0,0.0,0.05,0.39
 "Kotak Bluechip Fund",1.62,0.0,0.05,0.08,1.75,0.52,0.0,0.0,0.08,0.6
 "Kotak Bond Fund",1.55,0.0,0.0,0.09,1.64,0.6,0.0,0.0,0.09,0.69
@@ -1206,7 +1206,7 @@
 "NJ ELSS Tax Saver Scheme",2.25,0.0,0.0,0.07,2.32,0.47,0.0,0.0,0.06,0.53
 "NJ Flexi Cap Fund",1.91,0.0,0.05,0.05,2.01,0.36,0.0,0.05,0.05,0.46
 "NJ Overnight Fund",0.15,0.0,0.0,0.0,0.15,0.05,0.0,0.0,0.0,0.05
-"Old Bridge Focused Equity Fund",2.15,0.0,0.05,0.17,2.37,1.1,0.0,0.05,0.17,1.32
+"Old Bridge Focused Equity Fund",2.14,0.0,0.05,0.17,2.36,1.09,0.0,0.05,0.17,1.31
 "Parag Parikh Arbitrage Fund",0.62,0.0,0.0,0.02,0.64,0.27,0.0,0.0,0.02,0.29
 "Parag Parikh Conservative Hybrid Fund",0.6,0.0,0.0,0.03,0.63,0.3,0.0,0.0,0.03,0.33
 "Parag Parikh Dynamic Asset Allocation Fund",0.6,0.0,0.0,0.02,0.62,0.3,0.0,0.0,0.02,0.32
