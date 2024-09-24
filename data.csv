@@ -1122,14 +1122,14 @@
 "Nippon India Asset Allocator FoF",1.15,0.0,0.05,0.04,1.24,0.24,0.0,0.05,0.04,0.33
 "Nippon India Balanced Advantage Fund",1.62,0.0,0.05,0.07,1.74,0.43,0.0,0.05,0.07,0.55
 "Nippon India Banking & Financial Services Fund",1.67,0.0,0.05,0.15,1.87,0.87,0.0,0.05,0.15,1.07
-"Nippon India Banking & PSU Debt Fund",0.74,0.0,0.0,0.04,0.78,0.34,0.0,0.0,0.04,0.38
+"Nippon India Banking & PSU Debt Fund",0.72,0.0,0.0,0.04,0.76,0.34,0.0,0.0,0.04,0.38
 "Nippon India Consumption Fund",1.91,0.0,0.05,0.09,2.05,0.55,0.0,0.05,0.09,0.69
 "Nippon India Corporate Bond Fund",0.66,0.0,0.0,0.04,0.7,0.31,0.0,0.0,0.04,0.35
 "Nippon India Credit Risk Fund (Number of Segregated Portfolios- 2)",1.29,0.0,0.05,0.1,1.44,0.54,0.0,0.05,0.1,0.69
 "Nippon India Dynamic Bond Fund",0.67,0.0,0.0,0.04,0.71,0.28,0.0,0.0,0.04,0.32
 "Nippon India ELSS Tax Saver Fund",1.54,0.0,0.0,0.14,1.68,0.87,0.0,0.0,0.14,1.01
 "Nippon India Equity Hybrid Fund (Number of Segregated Portfolios - 2)",1.75,0.0,0.05,0.16,1.96,0.93,0.0,0.05,0.16,1.14
-"Nippon India Equity Savings Fund (Number of Segregated Portfolios - 2)",1.54,0.0,0.05,0.1,1.69,0.59,0.0,0.05,0.1,0.74
+"Nippon India Equity Savings Fund (Number of Segregated Portfolios - 2)",1.56,0.0,0.05,0.1,1.71,0.59,0.0,0.05,0.1,0.74
 "Nippon India ETF BSE SENSEX",0.0,0.0,0.0,0.0,0.0,0.04,0.0,0.0,0.0,0.04
 "Nippon India ETF BSE SENSEX Next 50",0.0,0.0,0.0,0.0,0.0,0.23,0.0,0.0,0.0,0.23
 "Nippon India ETF Gold BeES",0.0,0.0,0.0,0.0,0.0,0.7,0.0,0.0,0.09,0.79
@@ -1162,9 +1162,9 @@
 "Nippon India Index Fund - BSE SENSEX Plan",0.48,0.0,0.0,0.0,0.48,0.2,0.0,0.0,0.0,0.2
 "Nippon India Index Fund - Nifty 50 Plan",0.49,0.0,0.05,0.02,0.56,0.13,0.0,0.05,0.02,0.2
 "Nippon India Innovation Fund",1.87,0.0,0.05,0.09,2.01,0.55,0.0,0.05,0.09,0.69
-"Nippon India Japan Equity Fund",2.24,0.0,0.05,0.16,2.45,0.99,0.0,0.05,0.16,1.2
+"Nippon India Japan Equity Fund",2.23,0.0,0.05,0.17,2.45,1.05,0.0,0.05,0.17,1.27
 "Nippon India Large Cap Fund",1.43,0.0,0.05,0.09,1.57,0.53,0.0,0.05,0.09,0.67
-"Nippon India Liquid Fund",0.34,0.0,0.0,0.0,0.34,0.2,0.0,0.0,0.0,0.2
+"Nippon India Liquid Fund",0.32,0.0,0.0,0.0,0.32,0.2,0.0,0.0,0.0,0.2
 "Nippon India Low Duration Fund",0.89,0.0,0.0,0.04,0.93,0.33,0.0,0.0,0.04,0.37
 "Nippon India Money Market Fund",0.36,0.0,0.0,0.02,0.38,0.23,0.0,0.0,0.02,0.25
 "Nippon India Multi Asset Allocation Fund",1.44,0.0,0.05,0.03,1.52,0.2,0.0,0.05,0.03,0.28
@@ -1172,7 +1172,7 @@
 "Nippon India Nifty 50 Value 20 Index Fund",0.76,0.0,0.0,0.0,0.76,0.25,0.0,0.0,0.0,0.25
 "Nippon India Nifty 500 Equal Weight Index Fund",0.95,0.0,0.0,0.0,0.95,0.35,0.0,0.0,0.0,0.35
 "Nippon India Nifty AAA CPSE Bond Plus SDL - APR 2027 Maturity 60:40 Index Fund",0.31,0.0,0.0,0.01,0.32,0.14,0.0,0.0,0.01,0.15
-"Nippon India Nifty AAA PSU Bond Plus SDL - SEP 2026 Maturity 50:50 Index Fund",0.38,0.0,0.0,0.01,0.39,0.19,0.0,0.0,0.01,0.2
+"Nippon India Nifty AAA PSU Bond Plus SDL - SEP 2026 Maturity 50:50 Index Fund",0.35,0.0,0.0,0.01,0.36,0.19,0.0,0.0,0.01,0.2
 "Nippon India Nifty Alpha Low Volatility30Indexfund",0.86,0.0,0.0,0.01,0.87,0.34,0.0,0.0,0.01,0.35
 "Nippon India Nifty Auto ETF",0.0,0.0,0.0,0.0,0.0,0.22,0.0,0.0,0.0,0.22
 "Nippon India Nifty Bank Index Fund",0.83,0.0,0.0,0.0,0.83,0.2,0.0,0.0,0.0,0.2
@@ -1198,12 +1198,12 @@
 "Nippon India Silver ETF",0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.06,0.56
 "Nippon India Silver ETF FoF",0.5,0.0,0.05,0.03,0.58,0.17,0.0,0.05,0.03,0.25
 "Nippon India Small Cap Fund",1.28,0.0,0.05,0.08,1.41,0.51,0.0,0.05,0.08,0.64
-"Nippon India Strategic Debt Fund (Number of Segregated Portfolios - 2)",0.93,0.0,0.05,0.06,1.04,0.38,0.0,0.05,0.06,0.49
+"Nippon India Strategic Debt Fund (Number of Segregated Portfolios - 2)",0.95,0.0,0.05,0.06,1.06,0.38,0.0,0.05,0.06,0.49
 "Nippon India Taiwan Equity Fund",2.25,0.0,0.05,0.13,2.43,0.86,0.0,0.05,0.13,1.04
 "Nippon India Ultra Short Duration Fund (Number of Segregated Portfolio -1)",1.09,0.0,0.0,0.04,1.13,0.34,0.0,0.0,0.04,0.38
 "Nippon India US Equity Opportunites Fund",2.18,0.0,0.05,0.18,2.41,1.07,0.0,0.05,0.18,1.3
 "Nippon India Value Fund",1.62,0.0,0.05,0.16,1.83,0.93,0.0,0.05,0.16,1.14
-"Nippon India Vision Fund",1.7,0.0,0.05,0.21,1.96,1.22,0.0,0.05,0.21,1.48
+"Nippon India Vision Fund",1.69,0.0,0.05,0.21,1.95,1.21,0.0,0.05,0.21,1.47
 "NJ Arbitrage Fund",0.97,0.0,0.0,0.03,1.0,0.24,0.0,0.0,0.03,0.27
 "NJ Balanced Advantage Fund",1.74,0.0,0.05,0.08,1.87,0.49,0.0,0.05,0.08,0.62
 "NJ ELSS Tax Saver Scheme",2.25,0.0,0.0,0.07,2.32,0.47,0.0,0.0,0.06,0.53
