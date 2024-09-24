@@ -255,7 +255,7 @@
 "Bank of India Arbitrage Fund",0.92,0.0,0.0,0.02,0.94,0.21,0.0,0.0,0.02,0.23
 "Bank of India Balanced Advantage Fund",2.22,0.0,0.05,0.2,2.47,1.17,0.0,0.05,0.19,1.41
 "Bank of India Bluechip Fund",2.25,0.0,0.05,0.17,2.47,1.04,0.0,0.05,0.17,1.26
-"Bank of India Business Cycle Fund",2.21,0.0,0.05,0.17,2.43,1.05,0.0,0.05,0.17,1.27
+"Bank of India Business Cycle Fund",2.17,0.0,0.05,0.16,2.38,1.01,0.0,0.05,0.16,1.22
 "Bank of India Conservative Hybrid Fund",2.0,0.0,0.05,0.18,2.23,1.05,0.0,0.05,0.18,1.28
 "Bank of India Conservative Hybrid Fund",2.0,0.0,0.05,0.18,2.23,1.05,0.0,0.05,0.18,1.28
 "Bank of India Credit Risk Fund",1.33,0.0,0.05,0.15,1.53,0.98,0.0,0.05,0.15,1.18
@@ -264,7 +264,7 @@
 "Bank of India Large & Mid Cap Equity Fund",2.25,0.0,0.05,0.19,2.49,1.12,0.0,0.05,0.18,1.35
 "Bank of India Large & Mid Cap Equity Fund",2.25,0.0,0.05,0.2,2.5,1.12,0.0,0.05,0.19,1.36
 "Bank of India Liquid Fund",0.13,0.0,0.0,0.0,0.13,0.1,0.0,0.0,0.0,0.1
-"Bank of India Manufacturing & Infrastructure Fund",2.24,0.0,0.05,0.12,2.41,0.77,0.0,0.05,0.12,0.94
+"Bank of India Manufacturing & Infrastructure Fund",2.24,0.0,0.05,0.12,2.41,0.76,0.0,0.05,0.12,0.93
 "Bank of India Mid & Small Cap Equity & Debt Fund",2.06,0.0,0.05,0.15,2.26,0.9,0.0,0.05,0.15,1.1
 "Bank of India Mid & Small Cap Equity & Debt Fund",2.07,0.0,0.05,0.15,2.27,0.91,0.0,0.05,0.15,1.11
 "Bank of India Multi Asset Allocation Fund",1.88,0.0,0.05,0.16,2.09,1.02,0.0,0.05,0.16,1.23
@@ -446,9 +446,9 @@
 "Edelweiss Government Securities Fund",1.08,0.0,0.0,0.06,1.14,0.41,0.0,0.0,0.06,0.47
 "Edelweiss Greater China Equity Off-shore Fund",1.43,0.0,0.05,0.08,1.56,0.51,0.0,0.05,0.08,0.64
 "Edelweiss Large & Mid Cap Fund",1.76,0.0,0.05,0.05,1.86,0.35,0.0,0.05,0.05,0.45
-"Edelweiss Large Cap Fund",2.02,0.0,0.05,0.09,2.16,0.53,0.0,0.05,0.09,0.67
+"Edelweiss Large Cap Fund",2.03,0.0,0.05,0.09,2.17,0.53,0.0,0.05,0.09,0.67
 "Edelweiss Liquid Fund",0.21,0.0,0.0,0.01,0.22,0.07,0.0,0.0,0.01,0.08
-"Edelweiss Mid Cap Fund",1.65,0.0,0.05,0.04,1.74,0.29,0.0,0.05,0.04,0.38
+"Edelweiss Mid Cap Fund",1.64,0.0,0.05,0.04,1.73,0.28,0.0,0.05,0.04,0.37
 "Edelweiss Money Market Fund",0.82,0.0,0.0,0.01,0.83,0.15,0.0,0.0,0.01,0.16
 "Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund",0.99,0.0,0.0,0.05,1.04,0.45,0.0,0.0,0.05,0.5
 "Edelweiss Multi Asset Allocation Fund",0.62,0.0,0.05,0.04,0.71,0.31,0.0,0.05,0.04,0.4
@@ -695,7 +695,7 @@
 "ICICI Prudential Income Optimizer Fund (FoF)",0.8,0.0,0.05,0.08,0.93,0.4,0.0,0.05,0.08,0.53
 "ICICI Prudential India Equity FoF",1.05,0.0,0.05,0.09,1.19,0.54,0.0,0.05,0.09,0.68
 "ICICI Prudential India Opportunities Fund",1.48,0.0,0.05,0.08,1.61,0.45,0.0,0.05,0.08,0.58
-"ICICI Prudential Infrastructure Fund",1.68,0.0,0.05,0.18,1.91,1.02,0.0,0.05,0.18,1.25
+"ICICI Prudential Infrastructure Fund",1.67,0.0,0.05,0.18,1.9,1.01,0.0,0.05,0.18,1.24
 "ICICI Prudential Innovation Fund",1.67,0.0,0.05,0.08,1.8,0.5,0.0,0.05,0.08,0.63
 "ICICI Prudential Large & Mid Cap Fund",1.54,0.0,0.05,0.11,1.7,0.65,0.0,0.05,0.11,0.81
 "ICICI Prudential Liquid Fund",0.29,0.0,0.0,0.0,0.29,0.2,0.0,0.0,0.0,0.2
@@ -980,7 +980,7 @@
 "Mahindra Manulife Large Cap Fund",2.21,0.0,0.05,0.08,2.34,0.53,0.0,0.05,0.08,0.66
 "Mahindra Manulife Liquid Fund",0.25,0.0,0.0,0.02,0.27,0.14,0.0,0.0,0.02,0.16
 "Mahindra Manulife Low Duration Fund",1.06,0.0,0.0,0.03,1.09,0.27,0.0,0.0,0.03,0.3
-"Mahindra Manulife Manufacturing Fund",2.09,0.0,0.05,0.07,2.21,0.47,0.0,0.05,0.07,0.59
+"Mahindra Manulife Manufacturing Fund",2.08,0.0,0.05,0.07,2.2,0.46,0.0,0.05,0.07,0.58
 "Mahindra Manulife Mid Cap Fund",1.78,0.0,0.05,0.05,1.88,0.34,0.0,0.05,0.05,0.44
 "Mahindra Manulife Multi Asset Allocation Fund",1.95,0.0,0.05,0.05,2.05,0.33,0.0,0.05,0.05,0.43
 "Mahindra Manulife Multi Cap Fund",1.73,0.0,0.05,0.05,1.83,0.31,0.0,0.05,0.05,0.41
