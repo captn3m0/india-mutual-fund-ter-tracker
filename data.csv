@@ -234,7 +234,7 @@
 "Bandhan GSF Investment Plan",1.07,0.0,0.0,0.07,1.14,0.45,0.0,0.0,0.07,0.52
 "Bandhan Hybrid Equity Fund",2.13,0.0,0.05,0.15,2.33,0.82,0.0,0.05,0.14,1.01
 "Bandhan Infrastructure Fund",1.91,0.0,0.05,0.11,2.07,0.65,0.0,0.05,0.11,0.81
-"Bandhan Innovation Fund",2.0,0.0,0.05,0.07,2.12,0.44,0.0,0.05,0.07,0.56
+"Bandhan Innovation Fund",2.0,0.0,0.05,0.07,2.12,0.43,0.0,0.05,0.07,0.55
 "Bandhan Large Cap Fund",1.93,0.0,0.0,0.13,2.06,0.79,0.0,0.0,0.12,0.91
 "Bandhan Liquid Fund",0.24,0.0,0.0,0.01,0.25,0.11,0.0,0.0,0.01,0.12
 "Bandhan Long Duration Fund",0.63,0.0,0.0,0.03,0.66,0.22,0.0,0.0,0.03,0.25
@@ -872,7 +872,7 @@
 "Kotak BSE PSU Index Fund",1.0,0.0,0.0,0.05,1.05,0.33,0.0,0.0,0.05,0.38
 "Kotak BSE SENSEX ETF",0.18,0.0,0.0,0.0,0.18,0.0,0.0,0.0,0.0,0.0
 "Kotak Business Cycle Fund",1.82,0.0,0.05,0.05,1.92,0.43,0.0,0.0,0.05,0.48
-"Kotak Consumption Fund",2.04,0.0,0.05,0.09,2.18,0.5,0.0,0.0,0.09,0.59
+"Kotak Consumption Fund",2.05,0.0,0.05,0.09,2.19,0.5,0.0,0.0,0.09,0.59
 "Kotak Corporate Bond Fund",0.63,0.0,0.0,0.04,0.67,0.3,0.0,0.0,0.04,0.34
 "Kotak Credit Risk Fund",1.55,0.0,0.05,0.11,1.71,0.68,0.0,0.0,0.11,0.79
 "Kotak CRISIL-IBX AAA Financial Services Index-SEP 2027 Fund",0.38,0.0,0.0,0.02,0.4,0.18,0.0,0.0,0.02,0.2
@@ -881,10 +881,10 @@
 "Kotak ELSS Tax Saver Fund",1.67,0.0,0.0,0.07,1.74,0.5,0.0,0.0,0.07,0.57
 "Kotak Emerging Equity Fund",1.33,0.0,0.05,0.04,1.42,0.32,0.0,0.0,0.04,0.36
 "Kotak Equity Arbitrage Fund",0.97,0.0,0.0,0.04,1.01,0.39,0.0,0.0,0.04,0.43
-"Kotak Equity Hybrid Fund",1.66,0.0,0.05,0.05,1.76,0.4,0.0,0.0,0.05,0.45
-"Kotak Equity Opportunities Fund",1.47,0.0,0.05,0.06,1.58,0.42,0.0,0.0,0.06,0.48
-"Kotak Equity Savings Fund",1.64,0.0,0.05,0.08,1.77,0.58,0.0,0.0,0.08,0.66
-"Kotak ESG Exclusionary Strategy Fund",2.05,0.0,0.05,0.1,2.2,0.68,0.0,0.0,0.1,0.78
+"Kotak Equity Hybrid Fund",1.67,0.0,0.05,0.05,1.77,0.4,0.0,0.0,0.05,0.45
+"Kotak Equity Opportunities Fund",1.48,0.0,0.05,0.06,1.59,0.42,0.0,0.0,0.06,0.48
+"Kotak Equity Savings Fund",1.65,0.0,0.05,0.08,1.78,0.58,0.0,0.0,0.08,0.66
+"Kotak ESG Exclusionary Strategy Fund",2.06,0.0,0.05,0.1,2.21,0.68,0.0,0.0,0.1,0.78
 "Kotak Flexicap Fund",1.32,0.0,0.05,0.08,1.45,0.51,0.0,0.0,0.08,0.59
 "Kotak Floating Rate Fund",0.6,0.0,0.0,0.03,0.63,0.22,0.0,0.0,0.03,0.25
 "Kotak Focused Equity Fund",1.76,0.0,0.05,0.06,1.87,0.44,0.0,0.0,0.06,0.5
@@ -920,6 +920,7 @@
 "Kotak Nifty Financial Services Ex-Bank Index Fund",0.71,0.0,0.0,0.03,0.74,0.2,0.0,0.0,0.03,0.23
 "Kotak Nifty G-SEC July 2033 Index Fund",0.38,0.0,0.0,0.01,0.39,0.13,0.0,0.0,0.01,0.14
 "Kotak Nifty India Consumption ETF",0.1,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0
+"Kotak Nifty India Tourism Index Fund",0.92,0.0,0.0,0.04,0.96,0.29,0.0,0.0,0.04,0.33
 "Kotak Nifty IT ETF",0.09,0.0,0.0,0.0,0.09,0.0,0.0,0.0,0.0,0.0
 "Kotak Nifty Midcap 50 ETF",0.05,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.0,0.0
 "Kotak Nifty Midcap 50 Index Fund",0.83,0.0,0.0,0.05,0.88,0.22,0.0,0.0,0.05,0.27
