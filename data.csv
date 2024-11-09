@@ -515,7 +515,7 @@
 "Franklin India Pension Plan",1.99,0.0,0.05,0.22,2.26,1.23,0.0,0.05,0.22,1.5
 "Franklin India Prima Fund",1.58,0.0,0.05,0.13,1.76,0.79,0.0,0.05,0.13,0.97
 "Franklin India Short-Term Income Plan (No. of Segregated Portfolios- 3)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-"Franklin India Smaller Companies Fund",1.57,0.0,0.05,0.12,1.74,0.73,0.0,0.05,0.12,0.9
+"Franklin India Smaller Companies Fund",1.57,0.0,0.05,0.12,1.74,0.74,0.0,0.05,0.12,0.91
 "Franklin India Technology Fund",1.91,0.0,0.05,0.14,2.1,0.87,0.0,0.05,0.13,1.05
 "Franklin India Ultra Short Duration Fund",0.73,0.0,0.0,0.03,0.76,0.23,0.0,0.0,0.03,0.26
 "Groww Aggressive Hybrid Fund",2.25,0.0,0.05,0.0,2.3,0.8,0.0,0.05,0.0,0.85
@@ -587,7 +587,7 @@
 "HDFC Income Fund",1.28,0.0,0.0,0.11,1.39,0.69,0.0,0.0,0.11,0.8
 "HDFC Index Fund - BSE SENSEX Plan",0.36,0.0,0.0,0.0,0.36,0.2,0.0,0.0,0.0,0.2
 "HDFC Index Fund-Nifty 50 Plan",0.36,0.0,0.0,0.0,0.36,0.2,0.0,0.0,0.0,0.2
-"HDFC Infrastructure Fund",1.85,0.0,0.05,0.16,2.06,0.88,0.0,0.05,0.16,1.09
+"HDFC Infrastructure Fund",1.84,0.0,0.05,0.16,2.05,0.87,0.0,0.05,0.16,1.08
 "HDFC Large and Mid Cap Fund",1.49,0.0,0.05,0.12,1.66,0.69,0.0,0.05,0.12,0.86
 "HDFC Liquid Fund",0.28,0.0,0.0,0.0,0.28,0.2,0.0,0.0,0.0,0.2
 "HDFC Long Duration Debt Fund",0.65,0.0,0.0,0.0,0.65,0.3,0.0,0.0,0.0,0.3
@@ -891,7 +891,7 @@
 "JM Liquid Fund",0.25,0.0,0.0,0.0,0.25,0.15,0.0,0.0,0.0,0.15
 "JM Low Duration Fund",0.7,0.0,0.0,0.02,0.72,0.29,0.0,0.0,0.02,0.31
 "JM Medium to Long Duration Fund",1.01,0.0,0.0,0.07,1.08,0.56,0.0,0.0,0.07,0.63
-"JM Midcap Fund",1.94,0.0,0.05,0.01,2.0,0.27,0.0,0.05,0.01,0.33
+"JM Midcap Fund",1.93,0.0,0.05,0.01,1.99,0.26,0.0,0.05,0.01,0.32
 "JM Overnight Fund",0.15,0.0,0.0,0.0,0.15,0.08,0.0,0.0,0.0,0.08
 "JM Short Duration Fund",1.05,0.0,0.0,0.03,1.08,0.33,0.0,0.0,0.03,0.36
 "JM Small Cap Fund",2.21,0.0,0.05,0.04,2.3,0.46,0.0,0.05,0.04,0.55
@@ -1320,7 +1320,7 @@
 "PGIM India Liquid Fund",0.21,0.0,0.0,0.01,0.22,0.11,0.0,0.0,0.01,0.12
 "PGIM India Midcap Opportunities Fund",1.6,0.0,0.05,0.05,1.7,0.36,0.0,0.05,0.05,0.46
 "PGIM India Money Market Fund",0.44,0.0,0.0,0.02,0.46,0.19,0.0,0.0,0.01,0.2
-"PGIM India Multi Cap Fund",2.25,0.0,0.05,0.1,2.4,0.59,0.0,0.05,0.09,0.73
+"PGIM India Multi Cap Fund",2.25,0.0,0.05,0.1,2.4,0.6,0.0,0.05,0.09,0.74
 "PGIM India Overnight Fund",0.15,0.0,0.0,0.0,0.15,0.1,0.0,0.0,0.0,0.1
 "PGIM India Retirement Fund",2.25,0.0,0.0,0.06,2.31,0.6,0.0,0.0,0.06,0.66
 "PGIM India Small Cap Fund",1.95,0.0,0.05,0.06,2.06,0.41,0.0,0.05,0.06,0.52
@@ -1643,7 +1643,7 @@
 "Union Midcap Fund",1.98,0.0,0.05,0.08,2.11,0.61,0.0,0.05,0.08,0.74
 "Union Money Market Fund",0.93,0.0,0.0,0.01,0.94,0.19,0.0,0.0,0.01,0.2
 "Union Multi Asset Allocation Fund",2.01,0.0,0.05,0.11,2.17,0.8,0.0,0.05,0.11,0.96
-"Union Multicap Fund",2.03,0.0,0.05,0.12,2.2,0.8,0.0,0.05,0.12,0.97
+"Union Multicap Fund",2.03,0.0,0.05,0.11,2.19,0.8,0.0,0.05,0.11,0.96
 "Union Overnight Fund",0.17,0.0,0.0,0.0,0.17,0.07,0.0,0.0,0.0,0.07
 "Union Retirement Fund",2.25,0.0,0.0,0.13,2.38,1.03,0.0,0.0,0.13,1.16
 "Union Small Cap Fund",1.94,0.0,0.05,0.12,2.11,0.81,0.0,0.05,0.12,0.98
@@ -1736,12 +1736,12 @@
 "WhiteOak Capital ELSS Tax Saver Fund",2.25,0.0,0.0,0.09,2.34,0.61,0.0,0.0,0.09,0.7
 "WhiteOak Capital ESG Best-In-Class Strategy Fund",2.25,0.0,0.05,0.04,2.34,0.4,0.0,0.05,0.04,0.49
 "WhiteOak Capital Flexi Cap Fund",1.75,0.0,0.05,0.04,1.84,0.31,0.0,0.05,0.04,0.4
-"WhiteOak Capital Large & Mid Cap Fund",1.96,0.0,0.05,0.04,2.05,0.29,0.0,0.05,0.04,0.38
+"WhiteOak Capital Large & Mid Cap Fund",1.96,0.0,0.05,0.04,2.05,0.28,0.0,0.05,0.04,0.37
 "WhiteOak Capital Large Cap Fund",2.2,0.0,0.05,0.08,2.33,0.52,0.0,0.05,0.08,0.65
 "WhiteOak Capital Liquid Fund",0.27,0.0,0.0,0.02,0.29,0.18,0.0,0.0,0.02,0.2
 "WhiteOak Capital Mid Cap Fund",1.84,0.0,0.05,0.03,1.92,0.29,0.0,0.05,0.03,0.37
-"WhiteOak Capital Multi Asset Allocation Fund",1.8,0.0,0.05,0.1,1.95,0.59,0.0,0.05,0.1,0.74
-"WhiteOak Capital Multi Cap Fund",1.99,0.0,0.05,0.05,2.09,0.34,0.0,0.05,0.05,0.44
+"WhiteOak Capital Multi Asset Allocation Fund",1.79,0.0,0.05,0.1,1.94,0.59,0.0,0.05,0.1,0.74
+"WhiteOak Capital Multi Cap Fund",1.98,0.0,0.05,0.05,2.08,0.34,0.0,0.05,0.05,0.44
 "WhiteOak Capital Pharma and Healthcare Fund",2.25,0.0,0.05,0.09,2.39,0.55,0.0,0.05,0.09,0.69
 "WhiteOak Capital Special Opportunities Fund",2.2,0.0,0.05,0.07,2.32,0.49,0.0,0.05,0.07,0.61
 "WhiteOak Capital Ultra Short Duration Fund",0.97,0.0,0.0,0.06,1.03,0.44,0.0,0.0,0.06,0.5
