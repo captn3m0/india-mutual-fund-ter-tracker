@@ -486,7 +486,7 @@
 "Edelweiss Nifty PSU Bond Plus SDL APR 2026 50:50 Index Fund",0.38,0.0,0.0,0.02,0.4,0.18,0.0,0.0,0.02,0.2
 "Edelweiss Nifty PSU Bond Plus SDL APR 2027 50:50 Index Fund",0.38,0.0,0.0,0.02,0.4,0.18,0.0,0.0,0.02,0.2
 "Edelweiss Nifty Smallcap 250 Index Fund",0.82,0.0,0.0,0.01,0.83,0.12,0.0,0.0,0.01,0.13
-"Edelweiss Nifty500 Multicap Momentum Quality 50 ETF",0.17,0.0,0.0,0.02,0.19,0.0,0.0,0.0,0.0,0.0
+"Edelweiss Nifty500 Multicap Momentum Quality 50 ETF",0.18,0.0,0.0,0.02,0.2,0.0,0.0,0.0,0.0,0.0
 "Edelweiss Nifty500 Multicap Momentum Quality 50 Index Fund",1.0,0.0,0.05,0.05,1.1,0.3,0.0,0.05,0.05,0.4
 "Edelweiss Overnight Fund",0.15,0.0,0.0,0.01,0.16,0.1,0.0,0.0,0.01,0.11
 "Edelweiss Recently Listed IPO Fund",2.06,0.0,0.05,0.14,2.25,0.81,0.0,0.05,0.14,1.0
@@ -505,7 +505,7 @@
 "Franklin India Debt Hybrid Fund",1.3,0.0,0.0,0.1,1.4,0.61,0.0,0.0,0.1,0.71
 "Franklin India Dynamic Asset Allocation Fund of Funds",1.89,0.0,0.05,0.07,2.01,0.98,0.0,0.05,0.07,1.1
 "Franklin India ELSS Tax Saver Fund",1.66,0.0,0.0,0.14,1.8,0.86,0.0,0.0,0.13,0.99
-"Franklin India Equity Advantage Fund",1.77,0.0,0.05,0.18,2.0,1.04,0.0,0.05,0.18,1.27
+"Franklin India Equity Advantage Fund",1.77,0.0,0.05,0.18,2.0,1.03,0.0,0.05,0.18,1.26
 "Franklin India Equity Hybrid Fund",1.89,0.0,0.05,0.14,2.08,0.81,0.0,0.05,0.14,1.0
 "Franklin India Equity Savings Fund",1.09,0.0,0.0,0.03,1.12,0.27,0.0,0.0,0.03,0.3
 "Franklin India Feeder - Franklin U. S. Opportunities Fund",1.4,0.0,0.05,0.08,1.53,0.48,0.0,0.05,0.08,0.61
@@ -521,10 +521,10 @@
 "Franklin India Multi - Asset Solution Fund of Funds",2.0,0.0,0.05,0.08,2.13,1.05,0.0,0.05,0.07,1.17
 "Franklin India Multi Cap Fund",1.73,0.0,0.05,0.03,1.81,0.2,0.0,0.05,0.03,0.28
 "Franklin India NSE Nifty 50 Index Fund",0.6,0.0,0.0,0.03,0.63,0.23,0.0,0.0,0.03,0.26
-"Franklin India Opportunities Fund",1.68,0.0,0.05,0.06,1.79,0.39,0.0,0.05,0.06,0.5
+"Franklin India Opportunities Fund",1.68,0.0,0.05,0.06,1.79,0.38,0.0,0.05,0.06,0.49
 "Franklin India Overnight Fund",0.14,0.0,0.0,0.01,0.15,0.09,0.0,0.0,0.01,0.1
 "Franklin India Pension Plan",1.99,0.0,0.05,0.22,2.26,1.23,0.0,0.05,0.22,1.5
-"Franklin India Prima Fund",1.58,0.0,0.05,0.13,1.76,0.78,0.0,0.05,0.13,0.96
+"Franklin India Prima Fund",1.57,0.0,0.05,0.13,1.75,0.78,0.0,0.05,0.13,0.96
 "Franklin India Short-Term Income Plan (No. of Segregated Portfolios- 3)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 "Franklin India Smaller Companies Fund",1.56,0.0,0.05,0.12,1.73,0.72,0.0,0.05,0.12,0.89
 "Franklin India Technology Fund",1.9,0.0,0.05,0.13,2.08,0.85,0.0,0.05,0.13,1.03
@@ -724,7 +724,7 @@
 "ICICI Prudential Bluechip Fund",1.27,0.0,0.05,0.11,1.43,0.69,0.0,0.05,0.11,0.85
 "ICICI Prudential Bond Fund",1.03,0.0,0.0,0.0,1.03,0.62,0.0,0.0,0.0,0.62
 "ICICI Prudential BSE 500 ETF",0.32,0.0,0.0,0.0,0.32,0.0,0.0,0.0,0.0,0.0
-"ICICI Prudential BSE 500 ETF FoF",0.58,0.0,0.0,0.01,0.59,0.12,0.0,0.0,0.01,0.13
+"ICICI Prudential BSE 500 ETF FoF",0.58,0.0,0.0,0.02,0.6,0.12,0.0,0.0,0.02,0.14
 "ICICI Prudential BSE Liquid Rate ETF",0.25,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.0,0.0
 "ICICI Prudential BSE Midcap Select ETF",0.15,0.0,0.0,0.0,0.15,0.0,0.0,0.0,0.0,0.0
 "ICICI Prudential BSE SENSEX ETF",0.03,0.0,0.0,0.0,0.03,0.0,0.0,0.0,0.0,0.0
@@ -738,7 +738,7 @@
 "ICICI Prudential Debt Management Fund (FoF)",0.6,0.0,0.0,0.06,0.66,0.35,0.0,0.0,0.06,0.41
 "ICICI Prudential Dividend Yield Equity Fund",1.72,0.0,0.05,0.08,1.85,0.44,0.0,0.05,0.08,0.57
 "ICICI Prudential ELSS Tax Saver Fund",1.57,0.0,0.0,0.15,1.72,0.93,0.0,0.0,0.15,1.08
-"ICICI Prudential Energy Opportunities Fund",1.62,0.0,0.05,0.04,1.71,0.34,0.0,0.05,0.04,0.43
+"ICICI Prudential Energy Opportunities Fund",1.61,0.0,0.05,0.05,1.71,0.33,0.0,0.05,0.05,0.43
 "ICICI Prudential Equity & Debt Fund",1.39,0.0,0.05,0.14,1.58,0.79,0.0,0.05,0.14,0.98
 "ICICI Prudential Equity - Arbitrage Fund",0.9,0.0,0.0,0.0,0.9,0.36,0.0,0.0,0.0,0.36
 "ICICI Prudential Equity Minimum Variance Fund",1.85,0.0,0.05,0.1,2.0,0.64,0.0,0.05,0.1,0.79
@@ -753,14 +753,14 @@
 "ICICI Prudential FMCG Fund",1.93,0.0,0.05,0.19,2.17,1.06,0.0,0.05,0.19,1.3
 "ICICI Prudential Focused Equity Fund",1.61,0.0,0.05,0.08,1.74,0.46,0.0,0.05,0.08,0.59
 "ICICI Prudential Gilt Fund",1.09,0.0,0.0,0.0,1.09,0.56,0.0,0.0,0.0,0.56
-"ICICI Prudential Global Advantage Fund (FoF)",1.21,0.0,0.05,0.08,1.34,0.46,0.0,0.05,0.08,0.59
+"ICICI Prudential Global Advantage Fund (FoF)",1.2,0.0,0.05,0.09,1.34,0.45,0.0,0.05,0.09,0.59
 "ICICI Prudential Global Stable Equity Fund (FoF)",1.32,0.0,0.05,0.14,1.51,0.86,0.0,0.05,0.14,1.05
 "ICICI Prudential Gold ETF",0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0
 "ICICI Prudential Housing Opportunities Fund",1.84,0.0,0.05,0.14,2.03,0.81,0.0,0.05,0.14,1.0
 "ICICI Prudential Income Optimizer Fund (FoF)",0.96,0.0,0.05,0.08,1.09,0.4,0.0,0.05,0.08,0.53
 "ICICI Prudential India Equity FoF",1.05,0.0,0.05,0.08,1.18,0.48,0.0,0.05,0.08,0.61
 "ICICI Prudential India Opportunities Fund",1.48,0.0,0.05,0.09,1.62,0.49,0.0,0.05,0.09,0.63
-"ICICI Prudential Infrastructure Fund",1.65,0.0,0.05,0.17,1.87,0.99,0.0,0.05,0.17,1.21
+"ICICI Prudential Infrastructure Fund",1.65,0.0,0.05,0.16,1.86,0.99,0.0,0.05,0.16,1.2
 "ICICI Prudential Innovation Fund",1.67,0.0,0.05,0.09,1.81,0.53,0.0,0.05,0.09,0.67
 "ICICI Prudential Large & Mid Cap Fund",1.53,0.0,0.05,0.11,1.69,0.64,0.0,0.05,0.11,0.8
 "ICICI Prudential Liquid Fund",0.29,0.0,0.0,0.0,0.29,0.2,0.0,0.0,0.0,0.2
@@ -769,7 +769,7 @@
 "ICICI Prudential Manufacturing Fund",1.66,0.0,0.05,0.09,1.8,0.57,0.0,0.05,0.09,0.71
 "ICICI Prudential Medium Term Bond Fund",1.19,0.0,0.05,0.11,1.35,0.58,0.0,0.05,0.11,0.74
 "ICICI Prudential Midcap Fund",1.67,0.0,0.05,0.15,1.87,0.85,0.0,0.05,0.15,1.05
-"ICICI Prudential MNC Fund",1.93,0.0,0.05,0.14,2.12,0.85,0.0,0.05,0.14,1.04
+"ICICI Prudential MNC Fund",1.93,0.0,0.05,0.15,2.13,0.85,0.0,0.05,0.15,1.05
 "ICICI Prudential Money Market Fund",0.32,0.0,0.0,0.0,0.32,0.21,0.0,0.0,0.0,0.21
 "ICICI Prudential Multi-Asset Fund",1.31,0.0,0.05,0.09,1.45,0.55,0.0,0.05,0.09,0.69
 "ICICI Prudential Multicap Fund",1.56,0.0,0.05,0.13,1.74,0.75,0.0,0.05,0.13,0.93
@@ -779,7 +779,7 @@
 "ICICI Prudential Nifty 100 Low Volatility 30 ETF",0.36,0.0,0.0,0.05,0.41,0.0,0.0,0.0,0.0,0.0
 "ICICI Prudential Nifty 100 Low Volatility 30 ETF FoF",0.52,0.0,0.0,0.02,0.54,0.12,0.0,0.0,0.02,0.14
 "ICICI Prudential Nifty 200 Momentum 30 ETF",0.3,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0
-"ICICI Prudential Nifty 200 Momentum 30 Index Fund",0.99,0.0,0.0,0.0,0.99,0.4,0.0,0.0,0.0,0.4
+"ICICI Prudential Nifty 200 Momentum 30 Index Fund",0.97,0.0,0.0,0.0,0.97,0.38,0.0,0.0,0.0,0.38
 "ICICI Prudential Nifty 200 Quality 30 ETF",0.3,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0
 "ICICI Prudential Nifty 5 Yr Benchmark G-SEC ETF",0.2,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0
 "ICICI Prudential Nifty 50 ETF",0.03,0.0,0.0,0.0,0.03,0.0,0.0,0.0,0.0,0.0
@@ -823,11 +823,11 @@
 "ICICI Prudential Passive Multi-Asset Fund of Funds",0.54,0.0,0.05,0.03,0.62,0.14,0.0,0.05,0.03,0.22
 "ICICI Prudential Passive Strategy Fund (FoF)",0.37,0.0,0.05,0.0,0.42,0.16,0.0,0.05,0.0,0.21
 "ICICI Prudential Pharma Healthcare and Diagnostics (P.H.D) Fund",1.71,0.0,0.05,0.16,1.92,0.88,0.0,0.05,0.16,1.09
-"ICICI Prudential PSU Equity Fund",1.87,0.0,0.05,0.09,2.01,0.58,0.0,0.05,0.09,0.72
-"ICICI Prudential Quant Fund",1.54,0.0,0.05,0.12,1.71,0.74,0.0,0.05,0.12,0.91
+"ICICI Prudential PSU Equity Fund",1.86,0.0,0.05,0.1,2.01,0.57,0.0,0.05,0.1,0.72
+"ICICI Prudential Quant Fund",1.54,0.0,0.05,0.14,1.73,0.74,0.0,0.05,0.14,0.93
 "ICICI Prudential Regular Gold Savings Fund (FoF)",0.34,0.0,0.05,0.0,0.39,0.04,0.0,0.05,0.0,0.09
-"ICICI Prudential Regular Savings Fund",1.48,0.0,0.05,0.13,1.66,0.75,0.0,0.05,0.13,0.93
-"ICICI Prudential Retirement Fund Hybrid Aggressive Plan",2.16,0.0,0.0,0.13,2.29,0.72,0.0,0.0,0.13,0.85
+"ICICI Prudential Regular Savings Fund",1.48,0.0,0.05,0.14,1.67,0.75,0.0,0.05,0.14,0.94
+"ICICI Prudential Retirement Fund Hybrid Aggressive Plan",2.16,0.0,0.0,0.12,2.28,0.72,0.0,0.0,0.12,0.84
 "ICICI Prudential Retirement Fund Hybrid Conservative Plan",1.99,0.0,0.0,0.15,2.14,0.89,0.0,0.0,0.15,1.04
 "ICICI Prudential Retirement Fund Pure Debt Plan",2.0,0.0,0.0,0.17,2.17,1.02,0.0,0.0,0.17,1.19
 "ICICI Prudential Retirement Fund Pure Equity Plan",2.03,0.0,0.0,0.1,2.13,0.61,0.0,0.0,0.1,0.71
@@ -835,9 +835,9 @@
 "ICICI Prudential Short Term Fund",1.02,0.0,0.0,0.0,1.02,0.45,0.0,0.0,0.0,0.45
 "ICICI Prudential Silver ETF",0.4,0.0,0.0,0.0,0.4,0.0,0.0,0.0,0.0,0.0
 "ICICI Prudential Silver ETF Fund of Fund",0.55,0.0,0.05,0.0,0.6,0.07,0.0,0.05,0.0,0.12
-"ICICI Prudential Smallcap Fund",1.63,0.0,0.05,0.1,1.78,0.6,0.0,0.05,0.1,0.75
+"ICICI Prudential Smallcap Fund",1.63,0.0,0.05,0.11,1.79,0.6,0.0,0.05,0.11,0.76
 "ICICI Prudential Strategic Metal and Energy Equity Fund of Fund",1.42,0.0,0.05,0.07,1.54,0.51,0.0,0.05,0.07,0.63
-"ICICI Prudential Technology Fund",1.56,0.0,0.05,0.13,1.74,0.79,0.0,0.05,0.13,0.97
+"ICICI Prudential Technology Fund",1.55,0.0,0.05,0.14,1.74,0.78,0.0,0.05,0.14,0.97
 "ICICI Prudential Thematic Advantage Fund (FoF)",1.46,0.0,0.05,0.08,1.59,0.41,0.0,0.05,0.08,0.54
 "ICICI Prudential Transportation and Logistics Fund",1.79,0.0,0.05,0.11,1.95,0.61,0.0,0.05,0.11,0.77
 "ICICI Prudential Ultra Short Term Fund",0.8,0.0,0.0,0.0,0.8,0.39,0.0,0.0,0.0,0.39
@@ -913,7 +913,7 @@
 "JM Midcap Fund",1.93,0.0,0.05,0.02,2.0,0.32,0.0,0.05,0.02,0.39
 "JM Overnight Fund",0.15,0.0,0.0,0.0,0.15,0.08,0.0,0.0,0.0,0.08
 "JM Short Duration Fund",1.05,0.0,0.0,0.03,1.08,0.33,0.0,0.0,0.03,0.36
-"JM Small Cap Fund",2.2,0.0,0.05,0.05,2.3,0.52,0.0,0.05,0.05,0.62
+"JM Small Cap Fund",2.19,0.0,0.05,0.05,2.29,0.51,0.0,0.05,0.05,0.61
 "JM Value Fund",2.03,0.0,0.05,0.11,2.19,0.81,0.0,0.05,0.11,0.97
 "Kotak Balanced Advantage Fund",1.54,0.0,0.05,0.07,1.66,0.47,0.0,0.0,0.07,0.54
 "Kotak Banking and Financial Services Fund",2.04,0.0,0.05,0.09,2.18,0.59,0.0,0.0,0.09,0.68
@@ -1148,7 +1148,7 @@
 "Motilal Oswal BSE Low Volatility Index Fund",1.0,0.0,0.0,0.03,1.03,0.4,0.0,0.0,0.03,0.43
 "Motilal Oswal BSE Quality ETF",0.27,0.0,0.0,0.03,0.3,0.0,0.0,0.0,0.0,0.0
 "Motilal Oswal BSE Quality Index Fund",1.0,0.0,0.0,0.03,1.03,0.35,0.0,0.0,0.03,0.38
-"Motilal Oswal Business Cycle Fund",1.95,0.0,0.05,0.04,2.04,0.36,0.0,0.05,0.04,0.45
+"Motilal Oswal Business Cycle Fund",1.94,0.0,0.05,0.04,2.03,0.35,0.0,0.05,0.04,0.44
 "Motilal Oswal Developed Market Ex US Etfs Fund of Funds",0.51,0.0,0.05,0.01,0.57,0.11,0.0,0.05,0.01,0.17
 "Motilal Oswal Digital India Fund",2.17,0.0,0.05,0.1,2.32,0.67,0.0,0.05,0.1,0.82
 "Motilal Oswal ELSS Tax Saver Fund",1.74,0.0,0.0,0.08,1.82,0.56,0.0,0.0,0.08,0.64
@@ -1569,7 +1569,7 @@
 "Sundaram Services Fund",1.75,0.0,0.05,0.1,1.9,0.6,0.0,0.05,0.1,0.75
 "Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund)",0.81,0.0,0.0,0.04,0.85,0.27,0.0,0.0,0.04,0.31
 "Sundaram Small Cap Fund",1.77,0.0,0.05,0.11,1.94,0.67,0.0,0.05,0.11,0.84
-"Sundaram Ultra Short Duration Fund (Formerly Known as Principal Ultra Short Term Fund)",1.44,0.0,0.0,0.03,1.48,0.2,0.0,0.0,0.03,0.23
+"Sundaram Ultra Short Duration Fund (Formerly Known as Principal Ultra Short Term Fund)",1.44,0.0,0.0,0.03,1.48,0.2,0.0,0.0,0.03,0.24
 "Tata Arbitrage Fund",1.05,0.0,0.0,0.03,1.08,0.27,0.0,0.0,0.03,0.3
 "Tata Balanced Advantage Fund",1.6,0.0,0.05,0.05,1.7,0.31,0.0,0.05,0.05,0.41
 "Tata Banking & Financial Services Fund",1.85,0.0,0.05,0.07,1.97,0.42,0.0,0.05,0.07,0.54
@@ -1774,7 +1774,7 @@
 "WhiteOak Capital Liquid Fund",0.27,0.0,0.0,0.02,0.29,0.18,0.0,0.0,0.02,0.2
 "WhiteOak Capital Mid Cap Fund",1.82,0.0,0.05,0.04,1.91,0.31,0.0,0.05,0.04,0.4
 "WhiteOak Capital Multi Asset Allocation Fund",1.75,0.0,0.05,0.09,1.89,0.53,0.0,0.05,0.09,0.67
-"WhiteOak Capital Multi Cap Fund",1.96,0.0,0.05,0.05,2.06,0.35,0.0,0.05,0.05,0.45
+"WhiteOak Capital Multi Cap Fund",1.96,0.0,0.05,0.05,2.06,0.34,0.0,0.05,0.05,0.44
 "WhiteOak Capital Pharma and Healthcare Fund",2.25,0.0,0.05,0.09,2.39,0.55,0.0,0.05,0.09,0.69
 "WhiteOak Capital Special Opportunities Fund",2.17,0.0,0.05,0.07,2.29,0.47,0.0,0.05,0.07,0.59
 "WhiteOak Capital Ultra Short Duration Fund",0.97,0.0,0.0,0.06,1.03,0.45,0.0,0.0,0.06,0.51
