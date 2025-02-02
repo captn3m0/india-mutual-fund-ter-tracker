@@ -1531,15 +1531,15 @@
 "SBI Silver ETF Fund of Fund",0.6,0.0,0.0,0.04,0.64,0.23,0.0,0.0,0.04,0.27
 "SBI Small Cap Fund",1.44,0.0,0.05,0.09,1.58,0.55,0.0,0.05,0.09,0.69
 "SBI Technology Opportunities Fund",1.73,0.0,0.05,0.11,1.89,0.68,0.0,0.05,0.11,0.84
-"Shriram Aggressive Hybrid Fund",2.25,0.0,0.05,0.1,2.4,0.7,0.0,0.05,0.1,0.85
-"Shriram Balanced Advantage Fund",2.25,0.0,0.05,0.08,2.38,0.57,0.0,0.05,0.08,0.7
-"Shriram ELSS Tax Saver Fund",2.25,0.0,0.0,0.09,2.34,0.75,0.0,0.0,0.09,0.84
-"Shriram Flexi Cap Fund",2.25,0.0,0.05,0.09,2.39,0.65,0.0,0.05,0.09,0.79
-"Shriram Liquid Fund",0.25,0.0,0.0,0.01,0.26,0.11,0.0,0.0,0.01,0.12
-"Shriram Multi Asset Allocation Fund",2.25,0.0,0.05,0.05,2.35,0.45,0.0,0.05,0.05,0.55
-"Shriram Multi Sector Rotation Fund",2.25,0.0,0.05,0.07,2.37,0.56,0.0,0.05,0.07,0.68
-"Shriram Nifty 1D Rate Liquid ETF",0.0,0.0,0.0,0.0,0.0,0.35,0.0,0.0,0.06,0.41
-"Shriram Overnight Fund",0.15,0.0,0.0,0.01,0.16,0.1,0.0,0.0,0.01,0.11
+"Shriram Aggressive Hybrid Fund",2.25,0.0,0.05,0.103,2.403,0.7,0.0,0.05,0.103,0.853
+"Shriram Balanced Advantage Fund",2.25,0.0,0.05,0.081,2.381,0.57,0.0,0.05,0.081,0.701
+"Shriram ELSS Tax Saver Fund",2.25,0.0,0.0,0.092,2.342,0.75,0.0,0.0,0.092,0.842
+"Shriram Flexi Cap Fund",2.25,0.0,0.05,0.086,2.386,0.65,0.0,0.05,0.086,0.786
+"Shriram Liquid Fund",0.25,0.0,0.0,0.009,0.259,0.11,0.0,0.0,0.009,0.119
+"Shriram Multi Asset Allocation Fund",2.25,0.0,0.05,0.052,2.352,0.45,0.0,0.05,0.052,0.552
+"Shriram Multi Sector Rotation Fund",2.25,0.0,0.05,0.072,2.372,0.56,0.0,0.05,0.072,0.682
+"Shriram Nifty 1D Rate Liquid ETF",0.0,0.0,0.0,0.0,0.0,0.35,0.0,0.0,0.058,0.408
+"Shriram Overnight Fund",0.15,0.0,0.0,0.009,0.159,0.1,0.0,0.0,0.009,0.109
 "Sundaram Aggressive Hybrid Fund (Formerly Known as Principal Hybrid Equity Fund)",1.69,0.0,0.05,0.12,1.86,0.65,0.0,0.05,0.12,0.81
 "Sundaram Arbitrage Fund(Formerly Known as Prinicpal Arbitrage Fund)",0.97,0.0,0.0,0.03,1.0,0.24,0.0,0.0,0.03,0.27
 "Sundaram Balanced Advantage Fund (Formerly Known as Principal Balanced Advantage Fund)",1.96,0.0,0.05,0.1,2.1,0.56,0.0,0.05,0.1,0.7
@@ -1621,7 +1621,7 @@
 "Tata Nifty Financial Services Index Fund",0.89,0.0,0.05,0.02,0.96,0.24,0.0,0.05,0.02,0.31
 "Tata Nifty G-SEC DEC 2026 Index Fund",0.43,0.0,0.0,0.02,0.45,0.12,0.0,0.0,0.02,0.14
 "Tata Nifty G-SEC DEC 2029 Index Fund",0.44,0.0,0.0,0.02,0.46,0.12,0.0,0.0,0.02,0.14
-"Tata Nifty India Digital ETF Fund of Fund",0.48,0.0,0.0,0.0,0.48,0.07,0.0,0.0,0.0,0.07
+"Tata Nifty India Digital ETF Fund of Fund",0.48,0.0,0.0,0.0,0.48,0.06,0.0,0.0,0.0,0.06
 "Tata Nifty India Digital Exchange Traded Fund",0.0,0.0,0.0,0.0,0.0,0.35,0.0,0.0,0.06,0.41
 "Tata Nifty India Tourism Index Fund",1.0,0.0,0.05,0.02,1.07,0.25,0.0,0.05,0.02,0.32
 "Tata Nifty Midcap 150 Momentum 50 Index Fund",1.0,0.0,0.0,0.02,1.02,0.38,0.0,0.0,0.02,0.4
