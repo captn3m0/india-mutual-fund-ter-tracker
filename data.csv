@@ -36,6 +36,7 @@
 "Aditya Birla Sun Life CRISIL-IBX AAA Nbfc-Hfc Index-DEC 2025 Fund",0.4,0.0,0.0,0.0,0.4,0.1,0.0,0.0,0.0,0.1
 "Aditya Birla Sun Life CRISIL-IBX AAA Nbfc-Hfc Index-SEP 2026 Fund",0.44,0.0,0.0,0.01,0.45,0.14,0.0,0.0,0.01,0.15
 "Aditya Birla Sun Life CRISIL-IBX Financial Services 3 to 6 Months Debt Index Fund",0.35,0.0,0.0,0.01,0.36,0.15,0.0,0.0,0.01,0.16
+"Aditya Birla Sun Life Debt Plus Arbitrage FoF",0.59,0.0,0.05,0.04,0.67,0.24,0.0,0.05,0.04,0.32
 "Aditya Birla Sun Life Digital India Fund",1.73,0.0,0.05,0.13,1.9,0.69,0.0,0.05,0.13,0.87
 "Aditya Birla Sun Life Dividend Yield Fund",1.98,0.0,0.05,0.21,2.24,1.19,0.0,0.05,0.21,1.45
 "Aditya Birla Sun Life Dynamic Bond Fund",1.14,0.0,0.0,0.09,1.23,0.55,0.0,0.0,0.09,0.64
@@ -45,7 +46,7 @@
 "Aditya Birla Sun Life Equity Savings Fund",0.99,0.0,0.05,0.08,1.12,0.49,0.0,0.05,0.08,0.62
 "Aditya Birla Sun Life ESG Integration Strategy Fund",2.21,0.0,0.05,0.19,2.46,1.2,0.0,0.05,0.19,1.45
 "Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan",1.15,0.0,0.0,0.06,1.2,0.37,0.0,0.0,0.06,0.42
-"Aditya Birla Sun Life Financial Planning Fund - Conservative Plan",0.88,0.0,0.05,0.07,1.0,0.46,0.0,0.05,0.07,0.58
+"Aditya Birla Sun Life Financial Planning Fund - Conservative Plan",0.87,0.0,0.05,0.07,0.99,0.45,0.0,0.05,0.07,0.57
 "Aditya Birla Sun Life Financial Planning Fund - Moderate Plan",1.05,0.0,0.05,0.08,1.18,0.49,0.0,0.05,0.08,0.62
 "Aditya Birla Sun Life Fixed Term Plan - Series Ti (1837 Days)",0.14,0.0,0.0,0.0,0.15,0.04,0.0,0.0,0.0,0.05
 "Aditya Birla Sun Life Fixed Term Plan - Series Tj (1838 Days)",0.14,0.0,0.0,0.0,0.15,0.04,0.0,0.0,0.0,0.05
@@ -63,7 +64,7 @@
 "Aditya Birla Sun Life Government Securities Fund",1.07,0.0,0.0,0.07,1.14,0.42,0.0,0.0,0.07,0.49
 "Aditya Birla Sun Life Income Fund",1.05,0.0,0.0,0.1,1.16,0.63,0.0,0.0,0.1,0.74
 "Aditya Birla Sun Life India Gennext Fund",1.71,0.0,0.05,0.13,1.89,0.68,0.0,0.05,0.13,0.86
-"Aditya Birla Sun Life Infrastructure Fund",2.08,0.0,0.05,0.22,2.35,1.22,0.0,0.05,0.22,1.49
+"Aditya Birla Sun Life Infrastructure Fund",2.07,0.0,0.05,0.22,2.35,1.21,0.0,0.05,0.22,1.49
 "Aditya Birla Sun Life International Equity Fund",2.22,0.0,0.05,0.27,2.54,1.75,0.0,0.05,0.27,2.07
 "Aditya Birla Sun Life Interval Income Fund - Quarterly Series I",0.14,0.0,0.0,0.0,0.15,0.04,0.0,0.0,0.0,0.05
 "Aditya Birla Sun Life Liquid Fund",0.31,0.0,0.0,0.03,0.34,0.19,0.0,0.0,0.03,0.21
@@ -76,7 +77,7 @@
 "Aditya Birla Sun Life Money Manager Fund",0.32,0.0,0.0,0.03,0.35,0.19,0.0,0.0,0.03,0.22
 "Aditya Birla Sun Life Multi - Index Fund of Funds",0.59,0.0,0.0,0.02,0.62,0.26,0.0,0.0,0.02,0.29
 "Aditya Birla Sun Life Multi Asset Allocation Fund",1.72,0.0,0.04,0.09,1.85,0.48,0.0,0.04,0.09,0.61
-"Aditya Birla Sun Life Multi-Cap Fund",1.71,0.0,0.05,0.12,1.88,0.67,0.0,0.05,0.12,0.84
+"Aditya Birla Sun Life Multi-Cap Fund",1.7,0.0,0.05,0.12,1.88,0.66,0.0,0.05,0.12,0.84
 "Aditya Birla Sun Life NASDAQ 100 FoF",0.6,0.0,0.0,0.02,0.62,0.24,0.0,0.0,0.02,0.26
 "Aditya Birla Sun Life Nifty 200 Momentum 30 ETF",0.3,0.0,0.0,0.02,0.32,0.0,0.0,0.0,0.0,0.0
 "Aditya Birla Sun Life Nifty 200 Quality 30 ETF",0.3,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0
@@ -97,10 +98,10 @@
 "Aditya Birla Sun Life Nifty SDL SEP 2027 Index Fund",0.48,0.0,0.0,0.02,0.5,0.18,0.0,0.0,0.02,0.2
 "Aditya Birla Sun Life Nifty Smallcap 50 Index Fund",0.98,0.0,0.0,0.03,1.01,0.43,0.0,0.0,0.03,0.46
 "Aditya Birla Sun Life Overnight Fund",0.16,0.0,0.0,0.0,0.16,0.05,0.0,0.0,0.0,0.05
-"Aditya Birla Sun Life Pharma and Healthcare Fund",2.16,0.0,0.05,0.16,2.38,0.88,0.0,0.05,0.16,1.1
+"Aditya Birla Sun Life Pharma and Healthcare Fund",2.16,0.0,0.05,0.16,2.37,0.88,0.0,0.05,0.16,1.09
 "Aditya Birla Sun Life PSU Equity Fund",1.73,0.0,0.05,0.02,1.8,0.47,0.0,0.05,0.02,0.54
 "Aditya Birla Sun Life Pure Value Fund",1.71,0.0,0.05,0.17,1.93,0.9,0.0,0.05,0.17,1.12
-"Aditya Birla Sun Life Quant Fund",1.88,0.0,0.05,0.08,2.01,0.43,0.0,0.05,0.08,0.56
+"Aditya Birla Sun Life Quant Fund",1.87,0.0,0.05,0.08,2.01,0.42,0.0,0.05,0.08,0.56
 "Aditya Birla Sun Life Regular Savings Fund",1.73,0.0,0.05,0.15,1.92,0.83,0.0,0.05,0.15,1.02
 "Aditya Birla Sun Life Retirement Fund-The 30s Plan",2.25,0.0,0.0,0.17,2.41,1.0,0.0,0.0,0.17,1.16
 "Aditya Birla Sun Life Retirement Fund-The 40s Plan",2.24,0.0,0.0,0.14,2.38,0.87,0.0,0.0,0.14,1.01
@@ -123,7 +124,7 @@
 "Axis Bluechip Fund",1.45,0.0,0.05,0.1,1.6,0.57,0.0,0.05,0.1,0.72
 "Axis BSE SENSEX ETF",0.04,0.0,0.0,0.0,0.04,0.0,0.0,0.0,0.0,0.0
 "Axis BSE SENSEX Index Fund",0.7,0.0,0.0,0.0,0.7,0.2,0.0,0.0,0.0,0.2
-"Axis Business Cycles Fund",1.89,0.0,0.05,0.11,2.05,0.58,0.0,0.05,0.1,0.73
+"Axis Business Cycles Fund",1.88,0.0,0.05,0.11,2.04,0.57,0.0,0.05,0.1,0.72
 "Axis Children's Fund",2.13,0.0,0.0,0.21,2.34,1.1,0.0,0.0,0.19,1.29
 "Axis Conservative Hybrid Fund",2.0,0.0,0.05,0.15,2.2,0.77,0.0,0.05,0.13,0.95
 "Axis Consumption Fund",1.76,0.0,0.05,0.06,1.87,0.37,0.0,0.05,0.06,0.48
@@ -138,15 +139,15 @@
 "Axis CRISIL-IBX AAA Bond Nbfc - JUN 2027 Index Fund",0.46,0.0,0.0,0.02,0.48,0.15,0.0,0.0,0.02,0.17
 "Axis CRISIL-IBX AAA Bond Nbfc-Hfc - JUN 2027 Index Fund",0.3,0.0,0.0,0.0,0.3,0.15,0.0,0.0,0.0,0.15
 "Axis Dynamic Bond Fund",0.6,0.0,0.0,0.04,0.64,0.29,0.0,0.0,0.04,0.33
-"Axis ELSS Tax Saver Fund",1.44,0.0,0.0,0.12,1.56,0.72,0.0,0.0,0.12,0.84
+"Axis ELSS Tax Saver Fund",1.44,0.0,0.0,0.11,1.55,0.72,0.0,0.0,0.11,0.83
 "Axis Equity Etfs FoF",0.64,0.0,0.05,0.01,0.7,0.08,0.0,0.05,0.01,0.14
-"Axis Equity Savings Fund",2.09,0.0,0.05,0.14,2.28,0.83,0.0,0.05,0.14,1.02
-"Axis ESG Integration Strategy Fund",2.02,0.0,0.05,0.18,2.25,1.12,0.0,0.05,0.18,1.35
+"Axis Equity Savings Fund",2.08,0.0,0.05,0.14,2.27,0.82,0.0,0.05,0.14,1.01
+"Axis ESG Integration Strategy Fund",2.01,0.0,0.05,0.18,2.24,1.11,0.0,0.05,0.18,1.34
 "Axis Fixed Term Plan - Series 112 (1143 Days)",0.35,0.0,0.0,0.01,0.36,0.1,0.0,0.0,0.01,0.11
 "Axis Fixed Term Plan - Series 113 (1228 Days)",0.35,0.0,0.0,0.01,0.36,0.1,0.0,0.0,0.01,0.11
 "Axis Flexi Cap Fund",1.59,0.0,0.05,0.1,1.74,0.59,0.0,0.05,0.1,0.74
 "Axis Floater Fund",0.51,0.0,0.0,0.02,0.53,0.18,0.0,0.0,0.01,0.19
-"Axis Focused Fund",1.59,0.0,0.05,0.12,1.76,0.67,0.0,0.05,0.12,0.84
+"Axis Focused Fund",1.59,0.0,0.05,0.11,1.75,0.67,0.0,0.05,0.11,0.83
 "Axis Gilt Fund",0.75,0.0,0.0,0.05,0.8,0.35,0.0,0.0,0.05,0.4
 "Axis Global Equity Alpha Fund of Fund",1.45,0.0,0.05,0.13,1.63,0.71,0.0,0.05,0.13,0.89
 "Axis Global Innovation Fund of Fund",1.45,0.0,0.05,0.12,1.62,0.69,0.0,0.05,0.12,0.86
@@ -163,7 +164,7 @@
 "Axis Momentum Fund",2.02,0.0,0.05,0.07,2.14,0.4,0.0,0.05,0.07,0.52
 "Axis Money Market Fund",0.3,0.0,0.0,0.02,0.32,0.14,0.0,0.0,0.02,0.16
 "Axis Multi Asset Allocation Fund",1.9,0.0,0.05,0.15,2.1,0.85,0.0,0.05,0.15,1.05
-"Axis Multicap Fund",1.67,0.0,0.05,0.11,1.83,0.61,0.0,0.05,0.11,0.77
+"Axis Multicap Fund",1.67,0.0,0.05,0.1,1.82,0.61,0.0,0.05,0.1,0.76
 "Axis NASDAQ 100 Fund of Fund",0.6,0.0,0.0,0.03,0.63,0.27,0.0,0.0,0.03,0.3
 "Axis Nifty 100 Index Fund",0.9,0.0,0.0,0.02,0.92,0.19,0.0,0.0,0.02,0.21
 "Axis Nifty 50 ETF",0.04,0.0,0.0,0.0,0.04,0.0,0.0,0.0,0.0,0.0
@@ -191,7 +192,7 @@
 "Axis Short Duration Fund",0.84,0.0,0.0,0.05,0.89,0.31,0.0,0.0,0.05,0.36
 "Axis Silver ETF",0.35,0.0,0.0,0.02,0.37,0.0,0.0,0.0,0.0,0.0
 "Axis Silver Fund of Fund",0.65,0.0,0.05,0.01,0.71,0.1,0.0,0.05,0.01,0.16
-"Axis Small Cap Fund",1.51,0.0,0.05,0.08,1.64,0.46,0.0,0.05,0.08,0.59
+"Axis Small Cap Fund",1.51,0.0,0.05,0.07,1.63,0.46,0.0,0.05,0.07,0.58
 "Axis Strategic Bond Fund",1.08,0.0,0.0,0.08,1.16,0.47,0.0,0.0,0.08,0.55
 "Axis Treasury Advantage Fund",0.61,0.0,0.0,0.05,0.66,0.3,0.0,0.0,0.05,0.35
 "Axis Ultra Short Duration Fund",1.12,0.0,0.0,0.05,1.17,0.31,0.0,0.0,0.05,0.36
@@ -369,7 +370,7 @@
 "Canara Robeco Corporate Bond Fund",0.98,0.0,0.0,0.05,1.03,0.39,0.0,0.0,0.04,0.43
 "Canara Robeco Dynamic Bond Fund",1.66,0.0,0.0,0.09,1.75,0.55,0.0,0.0,0.08,0.63
 "Canara Robeco ELSS Tax Saver",1.64,0.0,0.0,0.07,1.71,0.5,0.0,0.0,0.07,0.57
-"Canara Robeco Emerging Equities",1.51,0.0,0.05,0.08,1.64,0.47,0.0,0.05,0.08,0.6
+"Canara Robeco Emerging Equities",1.51,0.0,0.05,0.08,1.64,0.46,0.0,0.05,0.08,0.59
 "Canara Robeco Equity Hybrid Fund",1.61,0.0,0.05,0.08,1.74,0.48,0.0,0.05,0.08,0.61
 "Canara Robeco Flexi Cap Fund",1.59,0.0,0.05,0.07,1.71,0.45,0.0,0.05,0.07,0.57
 "Canara Robeco Focused Equity Fund",1.87,0.0,0.05,0.06,1.98,0.44,0.0,0.05,0.06,0.55
@@ -388,7 +389,7 @@
 "Canara Robeco Value Fund",2.03,0.0,0.05,0.08,2.16,0.55,0.0,0.05,0.08,0.68
 "CPSE ETF",0.0,0.0,0.0,0.0,0.0,0.07,0.0,0.0,0.0,0.07
 "DSP 10Y G-SEC Fund",0.47,0.0,0.0,0.04,0.51,0.27,0.0,0.0,0.04,0.31
-"DSP Aggressive Hybrid Fund",1.61,0.0,0.05,0.1,1.76,0.56,0.0,0.05,0.1,0.71
+"DSP Aggressive Hybrid Fund",1.6,0.0,0.05,0.1,1.75,0.55,0.0,0.05,0.1,0.7
 "DSP Arbitrage Fund",0.96,0.0,0.0,0.04,1.0,0.31,0.0,0.0,0.04,0.35
 "DSP Banking & Financial Services Fund",2.05,0.0,0.05,0.1,2.2,0.58,0.0,0.05,0.1,0.73
 "DSP Banking & PSU Debt Fund",0.68,0.0,0.0,0.04,0.72,0.28,0.0,0.0,0.04,0.32
@@ -405,7 +406,7 @@
 "DSP ELSS Tax Saver Fund",1.55,0.0,0.0,0.1,1.65,0.62,0.0,0.0,0.1,0.72
 "DSP Equity Opportunities Fund",1.57,0.0,0.05,0.09,1.71,0.55,0.0,0.05,0.09,0.69
 "DSP Equity Savings Fund",1.25,0.0,0.0,0.05,1.3,0.37,0.0,0.0,0.05,0.42
-"DSP Flexi Cap Fund",1.61,0.0,0.05,0.1,1.76,0.58,0.0,0.05,0.1,0.73
+"DSP Flexi Cap Fund",1.6,0.0,0.05,0.1,1.75,0.58,0.0,0.05,0.1,0.73
 "DSP Floater Fund",0.46,0.0,0.0,0.03,0.49,0.2,0.0,0.0,0.03,0.23
 "DSP Fmp Series - 264 - 60M - 17D",0.24,0.0,0.0,0.01,0.25,0.09,0.0,0.0,0.01,0.1
 "DSP Fmp Series - 267 - 1246 Days",0.19,0.0,0.0,0.01,0.2,0.08,0.0,0.0,0.01,0.09
@@ -418,14 +419,14 @@
 "DSP Global Innovation Fund of Fund",2.0,0.0,0.0,0.05,2.05,1.11,0.0,0.0,0.05,1.16
 "DSP Gold ETF",0.0,0.0,0.0,0.0,0.0,0.45,0.0,0.0,0.03,0.48
 "DSP Gold ETF Fund of Fund",0.99,0.0,0.0,0.01,1.0,0.64,0.0,0.0,0.01,0.65
-"DSP Healthcare Fund",1.8,0.0,0.05,0.08,1.93,0.5,0.0,0.05,0.08,0.63
+"DSP Healthcare Fund",1.81,0.0,0.05,0.08,1.94,0.51,0.0,0.05,0.08,0.64
 "DSP India T.I.G.E.R. Fund",1.73,0.0,0.05,0.11,1.89,0.66,0.0,0.05,0.11,0.82
 "DSP Liquidity Fund",0.19,0.0,0.0,0.01,0.2,0.09,0.0,0.0,0.01,0.1
 "DSP Low Duration Fund",0.53,0.0,0.0,0.04,0.57,0.26,0.0,0.0,0.04,0.3
 "DSP Midcap Fund",1.55,0.0,0.05,0.11,1.71,0.61,0.0,0.05,0.11,0.77
 "DSP Multi Asset Allocation Fund",1.55,0.0,0.04,0.03,1.62,0.28,0.0,0.04,0.03,0.35
 "DSP Multicap Fund",1.92,0.0,0.05,0.05,2.02,0.43,0.0,0.05,0.05,0.53
-"DSP Natural Resources and New Energy Fund",2.02,0.0,0.0,0.12,2.14,0.97,0.0,0.0,0.12,1.09
+"DSP Natural Resources and New Energy Fund",2.03,0.0,0.0,0.12,2.15,0.98,0.0,0.0,0.12,1.1
 "DSP Nifty 1D Rate Liquid ETF",0.0,0.0,0.0,0.0,0.0,0.26,0.0,0.0,0.04,0.3
 "DSP Nifty 50 Equal Weight ETF",0.0,0.0,0.0,0.0,0.0,0.17,0.0,0.0,0.03,0.2
 "DSP Nifty 50 Equal Weight Index Fund",0.88,0.0,0.0,0.04,0.92,0.35,0.0,0.0,0.04,0.39
@@ -433,7 +434,7 @@
 "DSP Nifty 50 Index Fund",0.31,0.0,0.0,0.02,0.33,0.16,0.0,0.0,0.02,0.18
 "DSP Nifty Bank ETF",0.0,0.0,0.0,0.0,0.0,0.14,0.0,0.0,0.02,0.16
 "DSP Nifty Bank Index Fund",0.85,0.0,0.0,0.0,0.85,0.2,0.0,0.0,0.0,0.2
-"DSP Nifty Healthcare ETF",0.0,0.0,0.0,0.0,0.0,0.17,0.0,0.0,0.02,0.19
+"DSP Nifty Healthcare ETF",0.0,0.0,0.0,0.0,0.0,0.18,0.0,0.0,0.02,0.2
 "DSP Nifty IT ETF",0.0,0.0,0.0,0.0,0.0,0.17,0.0,0.0,0.03,0.2
 "DSP Nifty Midcap 150 Quality 50 ETF",0.0,0.0,0.0,0.0,0.0,0.26,0.0,0.0,0.04,0.3
 "DSP Nifty Midcap 150 Quality 50 Index Fund",0.83,0.0,0.0,0.03,0.86,0.26,0.0,0.0,0.03,0.29
@@ -506,10 +507,10 @@
 "Edelweiss Nifty500 Multicap Momentum Quality 50 ETF",0.23,0.0,0.0,0.03,0.26,0.0,0.0,0.0,0.0,0.0
 "Edelweiss Nifty500 Multicap Momentum Quality 50 Index Fund",1.0,0.0,0.05,0.05,1.1,0.3,0.0,0.05,0.05,0.4
 "Edelweiss Overnight Fund",0.15,0.0,0.0,0.01,0.16,0.1,0.0,0.0,0.01,0.11
-"Edelweiss Recently Listed IPO Fund",2.15,0.0,0.05,0.15,2.35,0.89,0.0,0.05,0.15,1.09
+"Edelweiss Recently Listed IPO Fund",2.16,0.0,0.05,0.15,2.36,0.9,0.0,0.05,0.15,1.1
 "Edelweiss Silver ETF",0.55,0.0,0.0,0.04,0.59,0.0,0.0,0.0,0.0,0.0
-"Edelweiss Small Cap Fund",1.76,0.0,0.05,0.05,1.86,0.33,0.0,0.05,0.05,0.43
-"Edelweiss Technology Fund",2.2,0.0,0.05,0.08,2.33,0.46,0.0,0.05,0.08,0.59
+"Edelweiss Small Cap Fund",1.77,0.0,0.05,0.05,1.87,0.33,0.0,0.05,0.05,0.43
+"Edelweiss Technology Fund",2.2,0.0,0.05,0.08,2.33,0.47,0.0,0.05,0.08,0.6
 "Edelweiss US Technology Equity Fund of Fund",1.43,0.0,0.05,0.09,1.57,0.54,0.0,0.05,0.09,0.68
 "Edelweiss US Value Equity Offshore Fund",1.45,0.0,0.05,0.08,1.58,0.53,0.0,0.05,0.08,0.66
 "Franklin Asian Equity Fund",2.25,0.0,0.05,0.24,2.54,1.3,0.0,0.05,0.24,1.59
@@ -670,9 +671,9 @@
 "HDFC Short Term Debt Fund",0.69,0.0,0.0,0.05,0.74,0.35,0.0,0.0,0.05,0.4
 "HDFC Silver ETF",0.4,0.0,0.0,0.0,0.4,0.0,0.0,0.0,0.0,0.0
 "HDFC Silver ETF Fund of Fund",0.6,0.0,0.0,0.0,0.6,0.27,0.0,0.0,0.0,0.27
-"HDFC Small Cap Fund",1.46,0.0,0.05,0.09,1.6,0.68,0.0,0.05,0.09,0.82
+"HDFC Small Cap Fund",1.47,0.0,0.05,0.09,1.61,0.69,0.0,0.05,0.09,0.83
 "HDFC Technology Fund",1.99,0.0,0.05,0.09,2.13,0.82,0.0,0.05,0.09,0.96
-"HDFC Transportation and Logistics Fund",2.01,0.0,0.05,0.09,2.15,0.85,0.0,0.05,0.09,0.99
+"HDFC Transportation and Logistics Fund",2.02,0.0,0.05,0.09,2.16,0.86,0.0,0.05,0.09,1.0
 "HDFC Ultra Short Term Fund",0.65,0.0,0.0,0.05,0.7,0.32,0.0,0.0,0.05,0.37
 "Helios Balanced Advantage Fund",2.24,0.0,0.05,0.1,2.39,0.64,0.0,0.05,0.1,0.79
 "Helios Financial Services Fund",2.25,0.0,0.05,0.1,2.4,0.67,0.0,0.05,0.1,0.82
@@ -702,7 +703,7 @@
 "HSBC Global Equity Climate Change Fund of Fund",1.29,0.0,0.05,0.06,1.4,0.64,0.0,0.05,0.06,0.75
 "HSBC India Export Opportunities Fund",1.95,0.0,0.05,0.09,2.09,0.53,0.0,0.05,0.09,0.67
 "HSBC Infrastructure Fund",1.9,0.0,0.05,0.15,2.1,0.86,0.0,0.05,0.15,1.06
-"HSBC Large & Mid Cap Fund",1.78,0.0,0.05,0.12,1.95,0.71,0.0,0.05,0.12,0.88
+"HSBC Large & Mid Cap Fund",1.77,0.0,0.05,0.12,1.94,0.7,0.0,0.05,0.12,0.87
 "HSBC Large Cap Fund",1.93,0.0,0.05,0.17,2.15,1.0,0.0,0.05,0.17,1.22
 "HSBC Liquid Fund",0.22,0.0,0.0,0.0,0.22,0.12,0.0,0.0,0.0,0.12
 "HSBC Low Duration Fund",1.04,0.0,0.0,0.04,1.08,0.34,0.0,0.0,0.04,0.38
@@ -740,7 +741,7 @@
 "ICICI Prudential BSE SENSEX Index Fund",0.27,0.0,0.0,0.0,0.27,0.19,0.0,0.0,0.0,0.19
 "ICICI Prudential Business Cycle Fund",1.57,0.0,0.05,0.1,1.72,0.59,0.0,0.05,0.1,0.74
 "ICICI Prudential Child Care Fund (Gift Plan)",2.01,0.0,0.0,0.22,2.23,1.29,0.0,0.0,0.22,1.51
-"ICICI Prudential Commodities Fund",1.85,0.0,0.05,0.16,2.06,0.84,0.0,0.05,0.16,1.05
+"ICICI Prudential Commodities Fund",1.84,0.0,0.05,0.16,2.05,0.83,0.0,0.05,0.16,1.04
 "ICICI Prudential Constant Maturity Gilt Fund",0.39,0.0,0.0,0.0,0.39,0.23,0.0,0.0,0.0,0.23
 "ICICI Prudential Corporate Bond Fund",0.58,0.0,0.0,0.0,0.58,0.35,0.0,0.0,0.0,0.35
 "ICICI Prudential Credit Risk Fund",1.25,0.0,0.05,0.11,1.41,0.6,0.0,0.05,0.11,0.76
@@ -761,7 +762,7 @@
 "ICICI Prudential Flexicap Fund",1.55,0.0,0.05,0.12,1.72,0.64,0.0,0.05,0.12,0.81
 "ICICI Prudential Floating Interest Fund",1.18,0.0,0.0,0.0,1.18,0.55,0.0,0.0,0.0,0.55
 "ICICI Prudential FMCG Fund",1.93,0.0,0.05,0.19,2.17,1.06,0.0,0.05,0.19,1.3
-"ICICI Prudential Focused Equity Fund",1.62,0.0,0.05,0.09,1.76,0.51,0.0,0.05,0.09,0.65
+"ICICI Prudential Focused Equity Fund",1.61,0.0,0.05,0.09,1.75,0.5,0.0,0.05,0.09,0.64
 "ICICI Prudential Gilt Fund",1.09,0.0,0.0,0.0,1.09,0.56,0.0,0.0,0.0,0.56
 "ICICI Prudential Global Advantage Fund (FoF)",1.19,0.0,0.05,0.09,1.33,0.45,0.0,0.05,0.09,0.59
 "ICICI Prudential Global Stable Equity Fund (FoF)",1.31,0.0,0.05,0.13,1.49,0.82,0.0,0.05,0.13,1.0
@@ -849,7 +850,7 @@
 "ICICI Prudential Silver ETF Fund of Fund",0.55,0.0,0.05,0.0,0.6,0.07,0.0,0.05,0.0,0.12
 "ICICI Prudential Smallcap Fund",1.66,0.0,0.05,0.12,1.83,0.67,0.0,0.05,0.12,0.84
 "ICICI Prudential Strategic Metal and Energy Equity Fund of Fund",1.36,0.0,0.05,0.08,1.49,0.49,0.0,0.05,0.08,0.62
-"ICICI Prudential Technology Fund",1.58,0.0,0.05,0.15,1.78,0.85,0.0,0.05,0.15,1.05
+"ICICI Prudential Technology Fund",1.57,0.0,0.05,0.15,1.77,0.84,0.0,0.05,0.15,1.04
 "ICICI Prudential Thematic Advantage Fund (FoF)",1.41,0.0,0.05,0.06,1.52,0.32,0.0,0.05,0.06,0.43
 "ICICI Prudential Transportation and Logistics Fund",1.82,0.0,0.05,0.1,1.97,0.56,0.0,0.05,0.1,0.71
 "ICICI Prudential Ultra Short Term Fund",0.8,0.0,0.0,0.0,0.8,0.39,0.0,0.0,0.0,0.39
@@ -863,6 +864,7 @@
 "Invesco India Arbitrage Fund",1.06,0.0,0.0,0.0,1.06,0.39,0.0,0.0,0.0,0.39
 "Invesco India Balanced Advantage Fund",2.0,0.0,0.05,0.1,2.15,0.65,0.0,0.05,0.1,0.8
 "Invesco India Banking and PSU Fund",0.63,0.0,0.0,0.0,0.63,0.25,0.0,0.0,0.0,0.25
+"Invesco India Business Cycle Fund",2.25,0.0,0.05,0.08,2.38,0.52,0.0,0.05,0.08,0.65
 "Invesco India Contra Fund",1.55,0.0,0.05,0.07,1.67,0.47,0.0,0.05,0.07,0.59
 "Invesco India Corporate Bond Fund",0.65,0.0,0.0,0.03,0.68,0.25,0.0,0.0,0.03,0.28
 "Invesco India Credit Risk Fund",1.45,0.0,0.0,0.0,1.45,0.28,0.0,0.0,0.0,0.28
@@ -950,7 +952,7 @@
 "Kotak ELSS Tax Saver Fund",1.71,0.0,0.0,0.09,1.8,0.62,0.0,0.0,0.09,0.71
 "Kotak Emerging Equity Fund",1.37,0.0,0.05,0.05,1.47,0.4,0.0,0.0,0.05,0.45
 "Kotak Equity Arbitrage Fund",1.0,0.0,0.0,0.04,1.04,0.39,0.0,0.0,0.04,0.43
-"Kotak Equity Hybrid Fund",1.68,0.0,0.05,0.06,1.79,0.44,0.0,0.0,0.06,0.5
+"Kotak Equity Hybrid Fund",1.67,0.0,0.05,0.06,1.78,0.44,0.0,0.0,0.06,0.5
 "Kotak Equity Opportunities Fund",1.5,0.0,0.05,0.08,1.63,0.53,0.0,0.0,0.08,0.61
 "Kotak Equity Savings Fund",1.64,0.0,0.05,0.07,1.76,0.58,0.0,0.0,0.07,0.65
 "Kotak ESG Exclusionary Strategy Fund",2.14,0.0,0.05,0.11,2.3,0.8,0.0,0.0,0.11,0.91
@@ -962,7 +964,7 @@
 "Kotak Fmp Series 305",0.25,0.0,0.0,0.0,0.25,0.1,0.0,0.0,0.0,0.1
 "Kotak Fmp Series 308",0.51,0.0,0.0,0.0,0.51,0.19,0.0,0.0,0.0,0.19
 "Kotak Fmp Series 310",0.35,0.0,0.0,0.0,0.35,0.1,0.0,0.0,0.0,0.1
-"Kotak Focused Equity Fund",1.8,0.0,0.05,0.07,1.92,0.52,0.0,0.0,0.07,0.59
+"Kotak Focused Equity Fund",1.79,0.0,0.05,0.07,1.91,0.52,0.0,0.0,0.07,0.59
 "Kotak Gilt Fund",1.42,0.0,0.0,0.06,1.48,0.41,0.0,0.0,0.06,0.47
 "Kotak Global Emerging Market Fund",1.4,0.0,0.05,0.17,1.62,1.13,0.0,0.0,0.17,1.3
 "Kotak Global Innovation Fund of Fund",1.48,0.0,0.05,0.05,1.58,0.45,0.0,0.0,0.05,0.5
@@ -1017,7 +1019,7 @@
 "Kotak Nifty Smallcap 250 Index Fund",0.7,0.0,0.0,0.03,0.73,0.21,0.0,0.0,0.03,0.24
 "Kotak Nifty Smallcap 50 Index Fund",0.87,0.0,0.0,0.02,0.89,0.23,0.0,0.0,0.02,0.25
 "Kotak Overnight Fund",0.16,0.0,0.0,0.0,0.16,0.08,0.0,0.0,0.0,0.08
-"Kotak Pioneer Fund",1.8,0.0,0.05,0.05,1.9,0.46,0.0,0.0,0.05,0.51
+"Kotak Pioneer Fund",1.8,0.0,0.05,0.05,1.9,0.45,0.0,0.0,0.05,0.5
 "Kotak Quant Fund",1.25,0.0,0.05,0.16,1.46,1.0,0.0,0.0,0.16,1.16
 "Kotak Savings Fund",0.77,0.0,0.0,0.04,0.81,0.32,0.0,0.0,0.04,0.36
 "Kotak Silver ETF",0.45,0.0,0.0,0.0,0.45,0.0,0.0,0.0,0.0,0.0
@@ -1044,8 +1046,8 @@
 "LIC MF Gold ETF Fund of Fund",0.6,0.0,0.05,0.01,0.66,0.14,0.0,0.05,0.01,0.2
 "LIC MF Gold Exchange Traded Fund",0.4,0.0,0.0,0.01,0.41,0.0,0.0,0.0,0.0,0.0
 "LIC MF Healthcare Fund",2.25,0.0,0.05,0.15,2.45,1.02,0.0,0.05,0.15,1.22
-"LIC MF Infrastructure Fund",2.16,0.0,0.05,0.07,2.28,0.53,0.0,0.05,0.07,0.65
-"LIC MF Large & Mid Cap Fund",1.84,0.0,0.05,0.06,1.95,0.52,0.0,0.05,0.06,0.63
+"LIC MF Infrastructure Fund",2.16,0.0,0.05,0.07,2.28,0.52,0.0,0.05,0.07,0.64
+"LIC MF Large & Mid Cap Fund",1.83,0.0,0.05,0.06,1.94,0.52,0.0,0.05,0.06,0.63
 "LIC MF Large Cap Fund",1.99,0.0,0.05,0.11,2.15,0.88,0.0,0.05,0.11,1.04
 "LIC MF Liquid Fund",0.29,0.0,0.0,0.01,0.3,0.15,0.0,0.0,0.01,0.16
 "LIC MF Low Duration Fund",0.93,0.0,0.0,0.03,0.96,0.24,0.0,0.0,0.02,0.26
@@ -1053,7 +1055,7 @@
 "LIC MF Medium to Long Duration Fund",1.21,0.0,0.0,0.01,1.22,0.2,0.0,0.0,0.01,0.21
 "LIC MF Mid Cap Fund",2.25,0.0,0.05,0.18,2.48,1.1,0.0,0.05,0.18,1.33
 "LIC MF Money Market Fund",1.0,0.0,0.0,0.02,1.02,0.57,0.0,0.0,0.02,0.59
-"LIC MF Multi Asset Allocation Fund",2.2,0.0,0.05,0.06,2.31,0.45,0.0,0.05,0.06,0.56
+"LIC MF Multi Asset Allocation Fund",2.2,0.0,0.05,0.06,2.31,0.44,0.0,0.05,0.06,0.55
 "LIC MF Multi Cap Fund",2.0,0.0,0.05,0.05,2.1,0.49,0.0,0.05,0.05,0.59
 "LIC MF Nifty 100 ETF",0.25,0.0,0.0,0.03,0.28,0.0,0.0,0.0,0.0,0.0
 "LIC MF Nifty 50 ETF",0.06,0.0,0.0,0.0,0.06,0.0,0.0,0.0,0.0,0.0
@@ -1090,6 +1092,7 @@
 "Mahindra Manulife Short Duration Fund",1.24,0.0,0.0,0.02,1.26,0.27,0.0,0.0,0.02,0.29
 "Mahindra Manulife Small Cap Fund",1.79,0.0,0.05,0.03,1.87,0.35,0.0,0.05,0.03,0.43
 "Mahindra Manulife Ultra Short Duration Fund",0.68,0.0,0.0,0.01,0.69,0.26,0.0,0.0,0.01,0.27
+"Mahindra Manulife Value Fund",2.25,0.0,0.05,0.03,2.33,0.4,0.0,0.05,0.03,0.48
 "Mirae Asset Aggressive Hybrid Fund",1.63,0.0,0.05,0.05,1.73,0.3,0.0,0.05,0.05,0.4
 "Mirae Asset Arbitrage Fund",0.92,0.0,0.0,0.0,0.92,0.14,0.0,0.0,0.0,0.14
 "Mirae Asset Balanced Advantage Fund",1.93,0.0,0.05,0.08,2.06,0.46,0.0,0.05,0.08,0.59
@@ -1186,10 +1189,10 @@
 "Motilal Oswal Large and Midcap Fund",1.64,0.0,0.05,0.06,1.75,0.44,0.0,0.05,0.06,0.55
 "Motilal Oswal Large Cap Fund",1.92,0.0,0.05,0.09,2.06,0.59,0.0,0.05,0.09,0.73
 "Motilal Oswal Liquid Fund",0.35,0.0,0.0,0.02,0.37,0.2,0.0,0.0,0.02,0.22
-"Motilal Oswal Manufacturing Fund",2.19,0.0,0.05,0.11,2.35,0.8,0.0,0.05,0.11,0.96
+"Motilal Oswal Manufacturing Fund",2.18,0.0,0.05,0.11,2.34,0.79,0.0,0.05,0.11,0.95
 "Motilal Oswal Midcap Fund",1.49,0.0,0.05,0.07,1.61,0.56,0.0,0.05,0.07,0.68
 "Motilal Oswal Multi Asset Fund",1.87,0.0,0.05,0.11,2.03,0.72,0.0,0.05,0.11,0.88
-"Motilal Oswal Multi Cap Fund",1.79,0.0,0.05,0.05,1.89,0.34,0.0,0.05,0.05,0.44
+"Motilal Oswal Multi Cap Fund",1.79,0.0,0.05,0.04,1.88,0.34,0.0,0.05,0.04,0.43
 "Motilal Oswal NASDAQ 100 ETF",0.5,0.0,0.0,0.08,0.58,0.0,0.0,0.0,0.0,0.0
 "Motilal Oswal NASDAQ 100 Fund of Fund",0.5,0.0,0.05,0.03,0.58,0.16,0.0,0.05,0.03,0.24
 "Motilal Oswal NASDAQ Q50 ETF",0.4,0.0,0.0,0.07,0.47,0.0,0.0,0.0,0.0,0.0
@@ -1338,11 +1341,11 @@
 "Nippon India Strategic Debt Fund (Number of Segregated Portfolios - 2)",0.98,0.0,0.05,0.06,1.09,0.38,0.0,0.05,0.06,0.49
 "Nippon India Taiwan Equity Fund",2.25,0.0,0.05,0.14,2.44,0.87,0.0,0.05,0.14,1.06
 "Nippon India Ultra Short Duration Fund (Number of Segregated Portfolio -1)",1.05,0.0,0.0,0.04,1.09,0.34,0.0,0.0,0.04,0.38
-"Nippon India US Equity Opportunities Fund",2.16,0.0,0.05,0.18,2.39,1.03,0.0,0.05,0.18,1.26
+"Nippon India US Equity Opportunities Fund",2.17,0.0,0.05,0.18,2.4,1.04,0.0,0.05,0.18,1.27
 "Nippon India Value Fund",1.64,0.0,0.05,0.16,1.85,0.91,0.0,0.05,0.16,1.12
 "Nippon India Vision Fund",1.72,0.0,0.05,0.2,1.97,1.13,0.0,0.05,0.2,1.38
 "NJ Arbitrage Fund",0.97,0.0,0.0,0.03,1.0,0.24,0.0,0.0,0.03,0.27
-"NJ Balanced Advantage Fund",1.77,0.0,0.05,0.09,1.91,0.51,0.0,0.05,0.08,0.64
+"NJ Balanced Advantage Fund",1.77,0.0,0.05,0.09,1.91,0.52,0.0,0.05,0.08,0.65
 "NJ ELSS Tax Saver Scheme",2.25,0.0,0.0,0.06,2.31,0.48,0.0,0.0,0.06,0.54
 "NJ Flexi Cap Fund",1.92,0.0,0.05,0.09,2.06,0.58,0.0,0.05,0.09,0.72
 "NJ Overnight Fund",0.15,0.0,0.0,0.0,0.15,0.05,0.0,0.0,0.0,0.05
@@ -1353,7 +1356,7 @@
 "Parag Parikh ELSS Tax Saver Fund",1.64,0.0,0.0,0.09,1.73,0.54,0.0,0.0,0.09,0.63
 "Parag Parikh Flexi Cap Fund",1.2,0.0,0.05,0.08,1.33,0.5,0.0,0.05,0.08,0.63
 "Parag Parikh Liquid Fund",0.25,0.0,0.0,0.02,0.27,0.15,0.0,0.0,0.02,0.17
-"PGIM India Arbitrage Fund",1.06,0.0,0.0,0.04,1.1,0.34,0.0,0.0,0.03,0.37
+"PGIM India Arbitrage Fund",1.06,0.0,0.0,0.03,1.09,0.33,0.0,0.0,0.03,0.36
 "PGIM India Balanced Advantage Fund",2.09,0.0,0.05,0.07,2.21,0.36,0.0,0.05,0.06,0.47
 "PGIM India Corporate Bond Fund",0.97,0.0,0.0,0.04,1.01,0.26,0.0,0.0,0.02,0.28
 "PGIM India CRISIL IBX Gilt Index - APR 2028 Fund",0.4,0.0,0.0,0.01,0.41,0.25,0.0,0.0,0.01,0.26
@@ -1383,8 +1386,8 @@
 "Quant Business Cycle Fund",2.02,0.0,0.05,0.07,2.14,0.37,0.0,0.05,0.07,0.49
 "Quant Commodities Fund",2.25,0.0,0.05,0.16,2.46,0.87,0.0,0.05,0.16,1.08
 "Quant Consumption Fund",2.25,0.0,0.05,0.15,2.45,0.81,0.0,0.05,0.15,1.01
-"Quant Dynamic Asset Allocation Fund",2.02,0.0,0.05,0.1,2.17,0.53,0.0,0.05,0.1,0.68
-"Quant ELSS Tax Saver Fund",1.61,0.0,0.0,0.07,1.68,0.43,0.0,0.0,0.07,0.5
+"Quant Dynamic Asset Allocation Fund",2.03,0.0,0.05,0.1,2.18,0.53,0.0,0.05,0.1,0.68
+"Quant ELSS Tax Saver Fund",1.62,0.0,0.0,0.07,1.69,0.43,0.0,0.0,0.07,0.5
 "Quant ESG Equity Fund",2.25,0.0,0.05,0.14,2.44,0.75,0.0,0.05,0.14,0.94
 "Quant Flexi Cap Fund",1.68,0.0,0.05,0.09,1.82,0.47,0.0,0.05,0.09,0.61
 "Quant Focused Fund",2.07,0.0,0.05,0.1,2.22,0.52,0.0,0.05,0.1,0.67
@@ -1438,7 +1441,7 @@
 "SBI BSE SENSEX Index Fund",0.4,0.0,0.0,0.02,0.42,0.2,0.0,0.0,0.02,0.22
 "SBI BSE SENSEX Next 50 ETF",0.12,0.0,0.0,0.0,0.12,0.0,0.0,0.0,0.0,0.0
 "SBI Conservative Hybrid Fund",1.34,0.0,0.05,0.15,1.54,0.93,0.0,0.05,0.15,1.13
-"SBI Consumption Opportunities Fund",1.83,0.0,0.05,0.13,2.01,0.86,0.0,0.05,0.13,1.04
+"SBI Consumption Opportunities Fund",1.82,0.0,0.05,0.13,2.0,0.85,0.0,0.05,0.13,1.03
 "SBI Contra Fund",1.4,0.0,0.05,0.09,1.54,0.62,0.0,0.05,0.09,0.76
 "SBI Corporate Bond Fund",0.72,0.0,0.0,0.04,0.76,0.3,0.0,0.0,0.04,0.34
 "SBI CPSE Bond Plus SDL SEP 2026 50:50 Index Fund",0.32,0.0,0.0,0.02,0.34,0.19,0.0,0.0,0.02,0.21
@@ -1543,7 +1546,7 @@
 "SBI PSU Fund",1.75,0.0,0.05,0.11,1.91,0.8,0.0,0.05,0.11,0.96
 "SBI Quant Fund",1.78,0.0,0.05,0.1,1.93,0.59,0.0,0.05,0.1,0.74
 "SBI Retirement Benefit Fund - Aggressive Hybrid Plan",1.97,0.0,0.0,0.15,2.12,1.03,0.0,0.0,0.15,1.18
-"SBI Retirement Benefit Fund - Aggressive Plan",1.85,0.0,0.0,0.12,1.97,0.84,0.0,0.0,0.12,0.96
+"SBI Retirement Benefit Fund - Aggressive Plan",1.84,0.0,0.0,0.12,1.96,0.84,0.0,0.0,0.12,0.96
 "SBI Retirement Benefit Fund - Conservative Hybrid Plan",1.5,0.0,0.0,0.16,1.66,1.1,0.0,0.0,0.16,1.26
 "SBI Retirement Benefit Fund - Conservative Plan",1.25,0.0,0.0,0.13,1.38,0.79,0.0,0.0,0.13,0.92
 "SBI Savings Fund",0.66,0.0,0.0,0.03,0.69,0.22,0.0,0.0,0.03,0.25
@@ -1552,34 +1555,34 @@
 "SBI Silver ETF Fund of Fund",0.6,0.0,0.0,0.03,0.63,0.23,0.0,0.0,0.03,0.26
 "SBI Small Cap Fund",1.46,0.0,0.05,0.1,1.61,0.67,0.0,0.05,0.1,0.82
 "SBI Technology Opportunities Fund",1.74,0.0,0.05,0.12,1.91,0.79,0.0,0.05,0.12,0.96
-"Shriram Aggressive Hybrid Fund",2.25,0.0,0.05,0.103,2.403,0.7,0.0,0.05,0.103,0.853
-"Shriram Balanced Advantage Fund",2.25,0.0,0.05,0.081,2.381,0.57,0.0,0.05,0.081,0.701
-"Shriram ELSS Tax Saver Fund",2.25,0.0,0.0,0.092,2.342,0.75,0.0,0.0,0.092,0.842
-"Shriram Flexi Cap Fund",2.25,0.0,0.05,0.086,2.386,0.65,0.0,0.05,0.086,0.786
-"Shriram Liquid Fund",0.25,0.0,0.0,0.009,0.259,0.11,0.0,0.0,0.009,0.119
-"Shriram Multi Asset Allocation Fund",2.25,0.0,0.05,0.052,2.352,0.45,0.0,0.05,0.052,0.552
-"Shriram Multi Sector Rotation Fund",2.25,0.0,0.05,0.023,2.323,0.3,0.0,0.05,0.023,0.373
-"Shriram Nifty 1D Rate Liquid ETF",0.0,0.0,0.0,0.0,0.0,0.35,0.0,0.0,0.058,0.408
-"Shriram Overnight Fund",0.15,0.0,0.0,0.009,0.159,0.1,0.0,0.0,0.009,0.109
+"Shriram Aggressive Hybrid Fund",2.25,0.0,0.05,0.1,2.4,0.7,0.0,0.05,0.1,0.85
+"Shriram Balanced Advantage Fund",2.25,0.0,0.05,0.08,2.38,0.57,0.0,0.05,0.08,0.7
+"Shriram ELSS Tax Saver Fund",2.25,0.0,0.0,0.09,2.34,0.75,0.0,0.0,0.09,0.84
+"Shriram Flexi Cap Fund",2.25,0.0,0.05,0.09,2.39,0.65,0.0,0.05,0.09,0.79
+"Shriram Liquid Fund",0.25,0.0,0.0,0.01,0.26,0.11,0.0,0.0,0.01,0.12
+"Shriram Multi Asset Allocation Fund",2.25,0.0,0.05,0.05,2.35,0.45,0.0,0.05,0.05,0.55
+"Shriram Multi Sector Rotation Fund",2.25,0.0,0.05,0.02,2.32,0.3,0.0,0.05,0.02,0.37
+"Shriram Nifty 1D Rate Liquid ETF",0.0,0.0,0.0,0.0,0.0,0.35,0.0,0.0,0.06,0.41
+"Shriram Overnight Fund",0.15,0.0,0.0,0.01,0.16,0.1,0.0,0.0,0.01,0.11
 "Sundaram Aggressive Hybrid Fund (Formerly Known as Principal Hybrid Equity Fund)",1.68,0.0,0.05,0.12,1.85,0.64,0.0,0.05,0.12,0.8
 "Sundaram Arbitrage Fund(Formerly Known as Prinicpal Arbitrage Fund)",0.97,0.0,0.0,0.03,1.0,0.24,0.0,0.0,0.03,0.27
 "Sundaram Balanced Advantage Fund (Formerly Known as Principal Balanced Advantage Fund)",1.97,0.0,0.05,0.11,2.12,0.57,0.0,0.05,0.11,0.72
 "Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking & PSU Debt Fund)",0.39,0.0,0.0,0.03,0.42,0.24,0.0,0.0,0.03,0.27
-"Sundaram Business Cycle Fund",1.96,0.0,0.05,0.06,2.07,0.4,0.0,0.05,0.06,0.51
+"Sundaram Business Cycle Fund",1.96,0.0,0.05,0.06,2.07,0.4,0.0,0.05,0.06,0.5
 "Sundaram Conservative Hybrid Fund (Formerly Known as Sundaram Debt Oriented Hybrid Fund)",2.0,0.0,0.0,0.19,2.19,1.32,0.0,0.0,0.19,1.51
-"Sundaram Consumption Fund (Formerly Known as Sundaram Rural and Consumption Fund)",1.97,0.0,0.05,0.2,2.22,1.07,0.0,0.05,0.2,1.31
+"Sundaram Consumption Fund (Formerly Known as Sundaram Rural and Consumption Fund)",1.97,0.0,0.05,0.2,2.22,1.07,0.0,0.05,0.2,1.32
 "Sundaram Corporate Bond Fund",0.47,0.0,0.0,0.04,0.51,0.29,0.0,0.0,0.04,0.33
 "Sundaram Diversified Equity",1.98,0.0,0.0,0.26,2.24,1.49,0.0,0.0,0.26,1.75
-"Sundaram Dividend Yield Fund (Formerly Known as Principal Dividend Yield Fund)",2.14,0.0,0.05,0.17,2.36,1.02,0.0,0.05,0.17,1.24
+"Sundaram Dividend Yield Fund (Formerly Known as Principal Dividend Yield Fund)",2.13,0.0,0.05,0.17,2.36,1.01,0.0,0.05,0.17,1.24
 "Sundaram ELSS Tax Saver Fund",2.01,0.0,0.0,0.24,2.25,1.47,0.0,0.0,0.24,1.72
 "Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund)",2.06,0.0,0.05,0.11,2.22,0.61,0.0,0.05,0.11,0.77
-"Sundaram Financial Services Opportunities Fund",1.99,0.0,0.05,0.13,2.16,0.69,0.0,0.05,0.13,0.87
+"Sundaram Financial Services Opportunities Fund",1.99,0.0,0.05,0.13,2.17,0.69,0.0,0.05,0.13,0.87
 "Sundaram Flexicap Fund",1.92,0.0,0.05,0.12,2.09,0.63,0.0,0.05,0.12,0.8
 "Sundaram Focused Fund (Formerly Known as Principal Focused Multicap Fund)",2.03,0.0,0.05,0.2,2.28,1.15,0.0,0.05,0.2,1.4
 "Sundaram Global Brand Fund",2.06,0.0,0.05,0.02,2.13,1.11,0.0,0.05,0.02,1.18
 "Sundaram Global Brand Theme-Equity Active FoF",2.23,0.0,0.05,0.1,2.38,1.34,0.0,0.05,0.1,1.49
-"Sundaram Infrastructure Advantage Fund (Erstwhile Sundaram Capex Opportunities)",2.09,0.0,0.05,0.26,2.4,1.49,0.0,0.05,0.26,1.8
-"Sundaram Large and Midcap Fund",1.68,0.0,0.05,0.13,1.86,0.7,0.0,0.05,0.13,0.89
+"Sundaram Infrastructure Advantage Fund (Erstwhile Sundaram Capex Opportunities)",2.09,0.0,0.05,0.26,2.4,1.49,0.0,0.05,0.26,1.79
+"Sundaram Large and Midcap Fund",1.68,0.0,0.05,0.13,1.86,0.7,0.0,0.05,0.13,0.88
 "Sundaram Large Cap Fund ( Formerly Know as Sundaram Blue Chip Fund)",1.79,0.0,0.05,0.1,1.93,0.52,0.0,0.05,0.1,0.67
 "Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund)",0.39,0.0,0.0,0.01,0.4,0.12,0.0,0.0,0.01,0.13
 "Sundaram Long Term Micro Cap Tax Advantage Fund Series Iii",1.25,0.0,0.0,0.18,1.43,1.07,0.0,0.0,0.18,1.25
@@ -1600,7 +1603,7 @@
 "Sundaram Overnight Fund",0.13,0.0,0.0,0.01,0.13,0.06,0.0,0.0,0.01,0.07
 "Sundaram Services Fund",1.76,0.0,0.05,0.13,1.94,0.7,0.0,0.05,0.13,0.88
 "Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund)",1.1,0.0,0.0,0.04,1.14,0.27,0.0,0.0,0.04,0.31
-"Sundaram Small Cap Fund",1.81,0.0,0.05,0.14,2.0,0.76,0.0,0.05,0.14,0.96
+"Sundaram Small Cap Fund",1.81,0.0,0.05,0.14,2.0,0.77,0.0,0.05,0.14,0.96
 "Sundaram Ultra Short Duration Fund (Formerly Known as Principal Ultra Short Term Fund)",1.47,0.0,0.0,0.03,1.5,0.21,0.0,0.0,0.03,0.24
 "Tata Arbitrage Fund",1.04,0.0,0.0,0.04,1.08,0.26,0.0,0.0,0.04,0.3
 "Tata Balanced Advantage Fund",1.61,0.0,0.05,0.06,1.72,0.32,0.0,0.05,0.06,0.43
@@ -1621,7 +1624,7 @@
 "Tata Floating Rate Fund",0.7,0.0,0.0,0.03,0.73,0.3,0.0,0.0,0.03,0.33
 "Tata Focused Equity Fund",1.94,0.0,0.05,0.09,2.08,0.52,0.0,0.05,0.09,0.66
 "Tata Gilt Securities Fund",1.35,0.0,0.0,0.04,1.39,0.25,0.0,0.0,0.04,0.29
-"Tata Gold ETF Fund of Fund",0.69,0.0,0.0,0.0,0.69,0.16,0.0,0.0,0.0,0.16
+"Tata Gold ETF Fund of Fund",0.69,0.0,0.0,0.0,0.69,0.17,0.0,0.0,0.0,0.17
 "Tata Gold Exchange Traded Fund",0.0,0.0,0.0,0.0,0.0,0.36,0.0,0.0,0.06,0.42
 "Tata Housing Opportunities Fund",2.25,0.0,0.05,0.11,2.41,0.6,0.0,0.05,0.11,0.76
 "Tata Hybrid Equity Fund",1.75,0.0,0.05,0.15,1.95,0.82,0.0,0.05,0.15,1.02
@@ -1629,7 +1632,7 @@
 "Tata India Innovation Fund",1.95,0.0,0.05,0.06,2.06,0.4,0.0,0.05,0.06,0.51
 "Tata India Pharma & Healthcare Fund",2.03,0.0,0.05,0.11,2.19,0.58,0.0,0.05,0.11,0.74
 "Tata Infrastructure Fund",1.91,0.0,0.05,0.17,2.13,0.97,0.0,0.05,0.17,1.19
-"Tata Large & Mid Cap Fund",1.64,0.0,0.05,0.1,1.79,0.52,0.0,0.05,0.1,0.67
+"Tata Large & Mid Cap Fund",1.65,0.0,0.05,0.09,1.79,0.53,0.0,0.05,0.09,0.67
 "Tata Large Cap Fund",1.86,0.0,0.05,0.16,2.07,0.85,0.0,0.05,0.16,1.06
 "Tata Liquid Fund",0.3,0.0,0.0,0.02,0.32,0.19,0.0,0.0,0.02,0.21
 "Tata Mid Cap Growth Fund",1.76,0.0,0.05,0.09,1.9,0.55,0.0,0.05,0.09,0.69
@@ -1643,7 +1646,7 @@
 "Tata Nifty Financial Services Index Fund",0.89,0.0,0.05,0.02,0.96,0.24,0.0,0.05,0.02,0.31
 "Tata Nifty G-SEC DEC 2026 Index Fund",0.43,0.0,0.0,0.02,0.45,0.12,0.0,0.0,0.02,0.14
 "Tata Nifty G-SEC DEC 2029 Index Fund",0.44,0.0,0.0,0.02,0.46,0.12,0.0,0.0,0.02,0.14
-"Tata Nifty India Digital ETF Fund of Fund",0.48,0.0,0.0,0.0,0.48,0.06,0.0,0.0,0.0,0.06
+"Tata Nifty India Digital ETF Fund of Fund",0.48,0.0,0.0,0.0,0.48,0.07,0.0,0.0,0.0,0.07
 "Tata Nifty India Digital Exchange Traded Fund",0.0,0.0,0.0,0.0,0.0,0.35,0.0,0.0,0.06,0.41
 "Tata Nifty India Tourism Index Fund",1.0,0.0,0.05,0.02,1.07,0.25,0.0,0.05,0.02,0.32
 "Tata Nifty Midcap 150 Momentum 50 Index Fund",1.0,0.0,0.0,0.02,1.02,0.38,0.0,0.0,0.02,0.4
@@ -1656,10 +1659,10 @@
 "Tata Nifty500 Multicap Infrastructure 50:30:20 Index Fund",1.0,0.0,0.05,0.04,1.09,0.35,0.0,0.05,0.04,0.44
 "Tata Overnight Fund",0.18,0.0,0.0,0.0,0.18,0.06,0.0,0.0,0.0,0.06
 "Tata Quant Fund",2.24,0.0,0.05,0.13,2.42,0.73,0.0,0.05,0.13,0.91
-"Tata Resources & Energy Fund",2.09,0.0,0.05,0.08,2.22,0.51,0.0,0.05,0.08,0.64
+"Tata Resources & Energy Fund",2.09,0.0,0.05,0.08,2.22,0.5,0.0,0.05,0.08,0.63
 "Tata Retirement Savings Fund-Conservative Plan",1.99,0.0,0.05,0.14,2.18,0.78,0.0,0.05,0.14,0.97
 "Tata Retirement Savings Fund-Moderate Plan",1.92,0.0,0.05,0.09,2.06,0.51,0.0,0.05,0.09,0.65
-"Tata Retirement Savings Fund-Progressive Plan",1.93,0.0,0.05,0.08,2.06,0.46,0.0,0.05,0.08,0.59
+"Tata Retirement Savings Fund-Progressive Plan",1.93,0.0,0.05,0.08,2.06,0.47,0.0,0.05,0.08,0.6
 "Tata Short Term Bond Fund",1.15,0.0,0.0,0.05,1.2,0.32,0.0,0.0,0.05,0.37
 "Tata Silver ETF Fund of Fund",0.6,0.0,0.0,0.0,0.6,0.13,0.0,0.0,0.0,0.13
 "Tata Silver Exchange Traded Fund",0.0,0.0,0.0,0.0,0.0,0.43,0.0,0.0,0.07,0.5
@@ -1685,11 +1688,11 @@
 "TRUSTMF Money Market Fund",0.46,0.0,0.0,0.0,0.46,0.16,0.0,0.0,0.0,0.16
 "TRUSTMF Overnight Fund",0.12,0.0,0.0,0.0,0.12,0.07,0.0,0.0,0.0,0.07
 "TRUSTMF Short Duration Fund",0.72,0.0,0.0,0.01,0.73,0.22,0.0,0.0,0.01,0.23
-"TRUSTMF Small Cap Fund",2.17,0.0,0.05,0.05,2.27,0.41,0.0,0.05,0.05,0.51
+"TRUSTMF Small Cap Fund",2.18,0.0,0.05,0.05,2.28,0.41,0.0,0.05,0.05,0.51
 "Union Active Momentum Fund",2.25,0.0,0.05,0.15,2.45,0.98,0.0,0.05,0.15,1.18
 "Union Aggressive Hybrid Fund",2.22,0.0,0.05,0.14,2.41,0.76,0.0,0.05,0.14,0.95
 "Union Arbitrage Fund",0.96,0.0,0.0,0.03,0.99,0.39,0.0,0.0,0.03,0.42
-"Union Balanced Advantage Fund",1.99,0.0,0.05,0.15,2.19,0.78,0.0,0.05,0.15,0.98
+"Union Balanced Advantage Fund",1.99,0.0,0.05,0.14,2.18,0.78,0.0,0.05,0.14,0.97
 "Union Business Cycle Fund",2.24,0.0,0.05,0.11,2.4,0.58,0.0,0.05,0.11,0.74
 "Union Children's Fund",2.25,0.0,0.0,0.13,2.38,0.96,0.0,0.0,0.13,1.09
 "Union Corporate Bond Fund",0.65,0.0,0.0,0.06,0.71,0.35,0.0,0.0,0.06,0.41
@@ -1760,7 +1763,7 @@
 "UTI Fixed Term Income Fund - Series Xxxv-Ii (1223 Days)",0.47,0.0,0.0,0.0,0.47,0.1,0.0,0.0,0.0,0.1
 "UTI Fixed Term Income Fund - Series Xxxv-Iii (1176 Days)",0.46,0.0,0.0,0.0,0.46,0.1,0.0,0.0,0.0,0.1
 "UTI Fixed Term Income Fund Series Xxxvi - I (1574 Days)",0.5,0.0,0.0,0.0,0.5,0.1,0.0,0.0,0.0,0.1
-"UTI Focused Fund",1.86,0.0,0.05,0.1,2.01,0.56,0.0,0.05,0.1,0.71
+"UTI Focused Fund",1.85,0.0,0.05,0.1,2.0,0.55,0.0,0.05,0.1,0.7
 "UTI Gilt Fund with 10 Year Constant Duration",0.67,0.0,0.0,0.03,0.7,0.19,0.0,0.0,0.03,0.22
 "UTI Gold ETF Fund of Fund",0.56,0.0,0.0,0.0,0.56,0.19,0.0,0.0,0.0,0.19
 "UTI Innovation Fund",2.18,0.0,0.05,0.08,2.31,0.76,0.0,0.05,0.08,0.89
@@ -1811,16 +1814,16 @@
 "WhiteOak Capital Large & Mid Cap Fund",1.97,0.0,0.05,0.09,2.11,0.51,0.0,0.05,0.09,0.65
 "WhiteOak Capital Large Cap Fund",2.18,0.0,0.05,0.09,2.32,0.54,0.0,0.05,0.09,0.68
 "WhiteOak Capital Liquid Fund",0.28,0.0,0.0,0.02,0.3,0.18,0.0,0.0,0.02,0.2
-"WhiteOak Capital Mid Cap Fund",1.85,0.0,0.05,0.07,1.97,0.46,0.0,0.05,0.07,0.58
+"WhiteOak Capital Mid Cap Fund",1.84,0.0,0.05,0.07,1.96,0.46,0.0,0.05,0.07,0.58
 "WhiteOak Capital Multi Asset Allocation Fund",1.7,0.0,0.05,0.07,1.82,0.41,0.0,0.05,0.07,0.53
 "WhiteOak Capital Multi Cap Fund",1.97,0.0,0.05,0.08,2.1,0.5,0.0,0.05,0.08,0.63
 "WhiteOak Capital Pharma and Healthcare Fund",2.25,0.0,0.05,0.09,2.39,0.58,0.0,0.05,0.09,0.72
 "WhiteOak Capital Quality Equity Fund",2.25,0.0,0.05,0.05,2.35,0.49,0.0,0.05,0.05,0.59
 "WhiteOak Capital Special Opportunities Fund",2.18,0.0,0.05,0.1,2.33,0.56,0.0,0.05,0.1,0.71
 "WhiteOak Capital Ultra Short Duration Fund",0.97,0.0,0.0,0.06,1.03,0.42,0.0,0.0,0.06,0.48
-"Zerodha ELSS Tax Saver Nifty Largemidcap 250 Index Fund",0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.02,0.27
-"Zerodha Gold ETF",0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.02,0.32
-"Zerodha Gold ETF FoF",0.0,0.0,0.0,0.0,0.0,0.23,0.0,0.0,0.0,0.23
+"Zerodha ELSS Tax Saver Nifty Largemidcap 250 Index Fund",0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.03,0.28
+"Zerodha Gold ETF",0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.01,0.31
+"Zerodha Gold ETF FoF",0.0,0.0,0.0,0.0,0.0,0.23,0.0,0.0,0.01,0.24
 "Zerodha Nifty 100 ETF",0.0,0.0,0.0,0.0,0.0,0.22,0.0,0.0,0.04,0.26
 "Zerodha Nifty 1D Rate Liquid ETF",0.0,0.0,0.0,0.0,0.0,0.23,0.0,0.0,0.04,0.27
 "Zerodha Nifty Largemidcap 250 Index Fund",0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.02,0.27
