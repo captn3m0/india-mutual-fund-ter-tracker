@@ -9,7 +9,7 @@ dictdiffer==0.9.0
 exceptiongroup==1.2.2
 html-to-csv @ git+https://github.com/hanwentao/html2csv@fc27e30c90bc557ae812876d0d8c5514053128a5
 idna==3.10
-iniconfig==2.0.0
+iniconfig==2.1.0
 lxml==5.3.1
 Mastodon.py==2.0.0
 packaging==24.2
