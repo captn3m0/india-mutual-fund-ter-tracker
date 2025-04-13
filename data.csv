@@ -1388,7 +1388,7 @@
 "NJ ELSS Tax Saver Scheme",2.25,0.0,0.0,0.06,2.31,0.48,0.0,0.0,0.06,0.54
 "NJ Flexi Cap Fund",1.91,0.0,0.05,0.08,2.04,0.57,0.0,0.05,0.08,0.7
 "NJ Overnight Fund",0.15,0.0,0.0,0.0,0.15,0.05,0.0,0.0,0.0,0.05
-"Old Bridge Focused Equity Fund",1.98,0.0,0.05,0.15,2.18,0.93,0.0,0.05,0.15,1.13
+"Old Bridge Focused Equity Fund",1.98,0.0,0.05,0.14,2.17,0.93,0.0,0.05,0.14,1.12
 "Parag Parikh Arbitrage Fund",0.61,0.0,0.0,0.03,0.64,0.26,0.0,0.0,0.03,0.29
 "Parag Parikh Conservative Hybrid Fund",0.6,0.0,0.0,0.04,0.64,0.3,0.0,0.0,0.04,0.34
 "Parag Parikh Dynamic Asset Allocation Fund",0.59,0.0,0.0,0.04,0.63,0.29,0.0,0.0,0.04,0.33
@@ -1413,7 +1413,7 @@
 "PGIM India Large Cap Fund",2.23,0.0,0.05,0.12,2.4,0.7,0.0,0.05,0.12,0.87
 "PGIM India Liquid Fund",0.21,0.0,0.0,0.01,0.22,0.11,0.0,0.0,0.01,0.12
 "PGIM India Midcap Opportunities Fund",1.61,0.0,0.05,0.06,1.72,0.36,0.0,0.05,0.06,0.47
-"PGIM India Money Market Fund",0.44,0.0,0.0,0.02,0.46,0.18,0.0,0.0,0.01,0.19
+"PGIM India Money Market Fund",0.44,0.0,0.0,0.02,0.46,0.19,0.0,0.0,0.01,0.2
 "PGIM India Multi Cap Fund",2.25,0.0,0.05,0.08,2.38,0.51,0.0,0.05,0.07,0.63
 "PGIM India Overnight Fund",0.15,0.0,0.0,0.0,0.15,0.1,0.0,0.0,0.0,0.1
 "PGIM India Retirement Fund",2.25,0.0,0.0,0.07,2.32,0.62,0.0,0.0,0.07,0.69
@@ -1689,7 +1689,7 @@
 "Tata Nifty Financial Services Index Fund",0.9,0.0,0.05,0.02,0.97,0.25,0.0,0.05,0.02,0.32
 "Tata Nifty G-SEC DEC 2026 Index Fund",0.43,0.0,0.0,0.02,0.45,0.12,0.0,0.0,0.02,0.14
 "Tata Nifty G-SEC DEC 2029 Index Fund",0.44,0.0,0.0,0.02,0.46,0.12,0.0,0.0,0.02,0.14
-"Tata Nifty India Digital ETF Fund of Fund",0.48,0.0,0.0,0.0,0.48,0.07,0.0,0.0,0.0,0.07
+"Tata Nifty India Digital ETF Fund of Fund",0.48,0.0,0.0,0.0,0.48,0.06,0.0,0.0,0.0,0.06
 "Tata Nifty India Digital Exchange Traded Fund",0.0,0.0,0.0,0.0,0.0,0.35,0.0,0.0,0.06,0.41
 "Tata Nifty India Tourism Index Fund",1.0,0.0,0.05,0.0,1.05,0.25,0.0,0.05,0.0,0.3
 "Tata Nifty Midcap 150 Momentum 50 Index Fund",1.0,0.0,0.0,0.02,1.02,0.38,0.0,0.0,0.02,0.4
@@ -1699,7 +1699,7 @@
 "Tata Nifty SDL Plus AAA PSU Bond DEC 2027 60 40 Index Fund",0.45,0.0,0.0,0.02,0.47,0.2,0.0,0.0,0.02,0.22
 "Tata Nifty200 Alpha 30 Index Fund",1.0,0.0,0.05,0.02,1.07,0.25,0.0,0.05,0.02,0.32
 "Tata Nifty500 Multicap India Manufacturing 50:30:20 Index Fund",1.0,0.0,0.05,0.05,1.1,0.37,0.0,0.05,0.05,0.47
-"Tata Nifty500 Multicap Infrastructure 50:30:20 Index Fund",1.0,0.0,0.05,0.0,1.05,0.34,0.0,0.05,0.0,0.39
+"Tata Nifty500 Multicap Infrastructure 50:30:20 Index Fund",1.0,0.0,0.05,0.0,1.05,0.35,0.0,0.05,0.0,0.4
 "Tata Overnight Fund",0.18,0.0,0.0,0.0,0.18,0.06,0.0,0.0,0.0,0.06
 "Tata Quant Fund",2.24,0.0,0.05,0.13,2.42,0.73,0.0,0.05,0.13,0.91
 "Tata Resources & Energy Fund",2.05,0.0,0.05,0.08,2.18,0.47,0.0,0.05,0.08,0.6
@@ -1708,7 +1708,7 @@
 "Tata Retirement Savings Fund-Progressive Plan",1.92,0.0,0.05,0.08,2.05,0.46,0.0,0.05,0.08,0.59
 "Tata Short Term Bond Fund",1.15,0.0,0.0,0.05,1.2,0.32,0.0,0.0,0.05,0.37
 "Tata Silver ETF Fund of Fund",0.6,0.0,0.0,0.0,0.6,0.13,0.0,0.0,0.0,0.13
-"Tata Silver Exchange Traded Fund",0.0,0.0,0.0,0.0,0.0,0.45,0.0,0.0,0.0,0.45
+"Tata Silver Exchange Traded Fund",0.0,0.0,0.0,0.0,0.0,0.44,0.0,0.0,0.0,0.44
 "Tata Small Cap Fund",1.6,0.0,0.05,0.0,1.65,0.25,0.0,0.05,0.0,0.3
 "Tata Treasury Advantage Fund",0.56,0.0,0.0,0.03,0.59,0.22,0.0,0.0,0.03,0.25
 "Tata Ultra Short Term Fund",1.12,0.0,0.0,0.0,1.12,0.26,0.0,0.0,0.0,0.26
