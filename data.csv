@@ -519,7 +519,7 @@
 "Edelweiss Nifty500 Multicap Momentum Quality 50 ETF",0.27,0.0,0.0,0.04,0.31,0.0,0.0,0.0,0.0,0.0
 "Edelweiss Nifty500 Multicap Momentum Quality 50 Index Fund",0.92,0.0,0.05,0.05,1.02,0.27,0.0,0.05,0.05,0.37
 "Edelweiss Overnight Fund",0.15,0.0,0.0,0.01,0.16,0.1,0.0,0.0,0.01,0.11
-"Edelweiss Recently Listed IPO Fund",2.12,0.0,0.05,0.14,2.31,0.84,0.0,0.05,0.14,1.03
+"Edelweiss Recently Listed IPO Fund",2.12,0.0,0.05,0.14,2.31,0.85,0.0,0.05,0.14,1.04
 "Edelweiss Silver ETF",0.6,0.0,0.0,0.05,0.65,0.0,0.0,0.0,0.0,0.0
 "Edelweiss Small Cap Fund",1.73,0.0,0.05,0.05,1.83,0.33,0.0,0.05,0.05,0.43
 "Edelweiss Technology Fund",2.2,0.0,0.05,0.08,2.33,0.5,0.0,0.05,0.08,0.63
@@ -913,7 +913,7 @@
 "Invesco India Low Duration Fund",0.6,0.0,0.0,0.0,0.6,0.32,0.0,0.0,0.0,0.32
 "Invesco India Manufacturing Fund",2.16,0.0,0.05,0.09,2.3,0.58,0.0,0.05,0.09,0.72
 "Invesco India Medium Duration Fund",1.1,0.0,0.0,0.05,1.15,0.35,0.0,0.0,0.05,0.4
-"Invesco India Midcap Fund",1.68,0.0,0.05,0.08,1.81,0.52,0.0,0.05,0.08,0.65
+"Invesco India Midcap Fund",1.69,0.0,0.05,0.08,1.82,0.52,0.0,0.05,0.08,0.65
 "Invesco India Money Market Fund",0.46,0.0,0.0,0.02,0.48,0.2,0.0,0.0,0.02,0.22
 "Invesco India Multi Asset Allocation Fund",1.77,0.0,0.05,0.05,1.87,0.35,0.0,0.05,0.05,0.45
 "Invesco India Multicap Fund",1.76,0.0,0.05,0.09,1.9,0.57,0.0,0.05,0.08,0.7
@@ -1386,7 +1386,7 @@
 "Nippon India Ultra Short Duration Fund (Number of Segregated Portfolio -1)",1.07,0.0,0.0,0.04,1.11,0.34,0.0,0.0,0.04,0.38
 "Nippon India US Equity Opportunities Fund",2.18,0.0,0.05,0.18,2.41,1.06,0.0,0.05,0.18,1.29
 "Nippon India Value Fund",1.63,0.0,0.05,0.15,1.83,0.89,0.0,0.05,0.15,1.09
-"Nippon India Vision Fund",1.69,0.0,0.05,0.19,1.93,1.1,0.0,0.05,0.19,1.34
+"Nippon India Vision Fund",1.7,0.0,0.05,0.19,1.94,1.1,0.0,0.05,0.19,1.34
 "NJ Arbitrage Fund",0.97,0.0,0.0,0.03,1.0,0.23,0.0,0.0,0.03,0.26
 "NJ Balanced Advantage Fund",1.76,0.0,0.05,0.08,1.89,0.49,0.0,0.05,0.08,0.62
 "NJ ELSS Tax Saver Scheme",2.25,0.0,0.0,0.06,2.31,0.48,0.0,0.0,0.06,0.54
@@ -1671,7 +1671,7 @@
 "Tata Floating Rate Fund",0.7,0.0,0.0,0.03,0.73,0.3,0.0,0.0,0.03,0.33
 "Tata Focused Equity Fund",1.93,0.0,0.05,0.09,2.07,0.5,0.0,0.05,0.09,0.64
 "Tata Gilt Securities Fund",1.35,0.0,0.0,0.04,1.39,0.25,0.0,0.0,0.04,0.29
-"Tata Gold ETF Fund of Fund",0.64,0.0,0.05,0.0,0.69,0.11,0.0,0.05,0.0,0.16
+"Tata Gold ETF Fund of Fund",0.64,0.0,0.05,0.0,0.69,0.12,0.0,0.05,0.0,0.17
 "Tata Gold Exchange Traded Fund",0.0,0.0,0.0,0.0,0.0,0.36,0.0,0.0,0.0,0.36
 "Tata Housing Opportunities Fund",2.25,0.0,0.05,0.1,2.4,0.6,0.0,0.05,0.1,0.75
 "Tata Hybrid Equity Fund",1.74,0.0,0.05,0.15,1.94,0.81,0.0,0.05,0.15,1.01
@@ -1695,11 +1695,11 @@
 "Tata Nifty G-SEC DEC 2029 Index Fund",0.44,0.0,0.0,0.02,0.46,0.12,0.0,0.0,0.02,0.14
 "Tata Nifty India Digital ETF Fund of Fund",0.43,0.0,0.05,0.0,0.48,0.01,0.0,0.05,0.0,0.06
 "Tata Nifty India Digital Exchange Traded Fund",0.0,0.0,0.0,0.0,0.0,0.35,0.0,0.0,0.06,0.41
-"Tata Nifty India Tourism Index Fund",1.0,0.0,0.05,0.0,1.05,0.25,0.0,0.05,0.0,0.3
+"Tata Nifty India Tourism Index Fund",1.0,0.0,0.05,0.0,1.05,0.24,0.0,0.05,0.0,0.29
 "Tata Nifty Midcap 150 Momentum 50 Index Fund",1.0,0.0,0.0,0.02,1.02,0.38,0.0,0.0,0.02,0.4
 "Tata Nifty Midsmall Healthcare Index Fund",1.0,0.0,0.05,0.05,1.1,0.37,0.0,0.05,0.05,0.47
 "Tata Nifty Private Bank Exchange Traded Fund",0.0,0.0,0.0,0.0,0.0,0.12,0.0,0.0,0.02,0.14
-"Tata Nifty Realty Index Fund",1.0,0.0,0.05,0.0,1.05,0.32,0.0,0.05,0.0,0.37
+"Tata Nifty Realty Index Fund",1.0,0.0,0.05,0.0,1.05,0.33,0.0,0.05,0.0,0.38
 "Tata Nifty SDL Plus AAA PSU Bond DEC 2027 60 40 Index Fund",0.45,0.0,0.0,0.02,0.47,0.2,0.0,0.0,0.02,0.22
 "Tata Nifty200 Alpha 30 Index Fund",1.0,0.0,0.05,0.02,1.07,0.25,0.0,0.05,0.02,0.32
 "Tata Nifty500 Multicap India Manufacturing 50:30:20 Index Fund",1.0,0.0,0.05,0.05,1.1,0.37,0.0,0.05,0.05,0.47
