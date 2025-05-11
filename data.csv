@@ -828,7 +828,7 @@
 "ICICI Prudential Nifty Bank ETF",0.15,0.0,0.0,0.0,0.15,0.0,0.0,0.0,0.0,0.0
 "ICICI Prudential Nifty Bank Index Fund",0.76,0.0,0.0,0.0,0.76,0.15,0.0,0.0,0.0,0.15
 "ICICI Prudential Nifty Commodities ETF",0.3,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0
-"ICICI Prudential Nifty Ev & New Age Automotive ETF",0.39,0.0,0.0,0.05,0.44,0.0,0.0,0.0,0.0,0.0
+"ICICI Prudential Nifty Ev & New Age Automotive ETF",0.39,0.0,0.0,0.04,0.43,0.0,0.0,0.0,0.0,0.0
 "ICICI Prudential Nifty Ev & New Age Automotive ETF FoF",0.6,0.0,0.0,0.01,0.61,0.1,0.0,0.0,0.01,0.11
 "ICICI Prudential Nifty Financial Services Ex-Bank ETF",0.2,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0
 "ICICI Prudential Nifty FMCG ETF",0.2,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0
@@ -1098,7 +1098,7 @@
 "LIC MF Nifty Next 50 Index Fund",0.88,0.0,0.0,0.02,0.9,0.3,0.0,0.0,0.02,0.32
 "LIC MF Overnight Fund",0.15,0.0,0.0,0.0,0.15,0.07,0.0,0.0,0.0,0.07
 "LIC MF Short Duration Fund",1.29,0.0,0.0,0.03,1.32,0.33,0.0,0.0,0.03,0.36
-"LIC MF Small Cap Fund",2.24,0.0,0.05,0.12,2.41,0.79,0.0,0.05,0.12,0.96
+"LIC MF Small Cap Fund",2.25,0.0,0.05,0.12,2.42,0.79,0.0,0.05,0.12,0.96
 "LIC MF Ultra Short Duration Fund",0.93,0.0,0.0,0.02,0.95,0.23,0.0,0.0,0.02,0.25
 "LIC MF Unit Linked Insurance Scheme (ULIS)",2.25,0.0,0.0,0.12,2.37,1.18,0.0,0.0,0.11,1.29
 "LIC MF Value Fund",2.25,0.0,0.05,0.11,2.41,0.8,0.0,0.05,0.11,0.96
@@ -1216,7 +1216,7 @@
 "Motilal Oswal BSE Financials Ex Bank 30 Index Fund",0.99,0.0,0.0,0.05,1.04,0.38,0.0,0.0,0.05,0.43
 "Motilal Oswal BSE Healthcare ETF",0.21,0.0,0.0,0.03,0.24,0.0,0.0,0.0,0.0,0.0
 "Motilal Oswal BSE Low Volatility ETF",0.32,0.0,0.0,0.05,0.37,0.0,0.0,0.0,0.0,0.0
-"Motilal Oswal BSE Low Volatility Index Fund",1.0,0.0,0.0,0.05,1.05,0.28,0.0,0.0,0.04,0.32
+"Motilal Oswal BSE Low Volatility Index Fund",1.0,0.0,0.0,0.05,1.05,0.28,0.0,0.0,0.05,0.33
 "Motilal Oswal BSE Quality ETF",0.27,0.0,0.0,0.04,0.31,0.0,0.0,0.0,0.0,0.0
 "Motilal Oswal BSE Quality Index Fund",1.0,0.0,0.0,0.05,1.05,0.33,0.0,0.0,0.05,0.38
 "Motilal Oswal Business Cycle Fund",1.92,0.0,0.05,0.08,2.05,0.48,0.0,0.05,0.08,0.61
@@ -1709,7 +1709,7 @@
 "Tata Nifty SDL Plus AAA PSU Bond DEC 2027 60 40 Index Fund",0.44,0.0,0.0,0.02,0.46,0.2,0.0,0.0,0.02,0.22
 "Tata Nifty200 Alpha 30 Index Fund",1.0,0.0,0.05,0.05,1.1,0.38,0.0,0.05,0.05,0.48
 "Tata Nifty500 Multicap India Manufacturing 50:30:20 Index Fund",1.0,0.0,0.05,0.06,1.11,0.39,0.0,0.05,0.06,0.5
-"Tata Nifty500 Multicap Infrastructure 50:30:20 Index Fund",1.0,0.0,0.05,0.0,1.05,0.37,0.0,0.05,0.0,0.42
+"Tata Nifty500 Multicap Infrastructure 50:30:20 Index Fund",1.0,0.0,0.05,0.0,1.05,0.36,0.0,0.05,0.0,0.41
 "Tata Overnight Fund",0.18,0.0,0.0,0.0,0.18,0.05,0.0,0.0,0.0,0.05
 "Tata Resources & Energy Fund",2.04,0.0,0.05,0.07,2.16,0.45,0.0,0.05,0.07,0.57
 "Tata Retirement Savings Fund-Conservative Plan",1.99,0.0,0.05,0.15,2.19,0.82,0.0,0.05,0.15,1.02
@@ -1717,7 +1717,7 @@
 "Tata Retirement Savings Fund-Progressive Plan",1.9,0.0,0.05,0.08,2.03,0.44,0.0,0.05,0.08,0.57
 "Tata Short Term Bond Fund",1.14,0.0,0.0,0.05,1.19,0.31,0.0,0.0,0.05,0.36
 "Tata Silver ETF Fund of Fund",0.55,0.0,0.05,0.01,0.61,0.12,0.0,0.05,0.01,0.18
-"Tata Silver Exchange Traded Fund",0.0,0.0,0.0,0.0,0.0,0.45,0.0,0.0,0.0,0.45
+"Tata Silver Exchange Traded Fund",0.0,0.0,0.0,0.0,0.0,0.44,0.0,0.0,0.0,0.44
 "Tata Small Cap Fund",1.61,0.0,0.05,0.05,1.71,0.27,0.0,0.05,0.05,0.37
 "Tata Treasury Advantage Fund",0.55,0.0,0.0,0.03,0.58,0.22,0.0,0.0,0.03,0.25
 "Tata Ultra Short Term Fund",1.12,0.0,0.0,0.0,1.12,0.26,0.0,0.0,0.0,0.26
