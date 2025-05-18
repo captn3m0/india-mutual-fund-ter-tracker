@@ -487,7 +487,7 @@
 "Edelweiss Balanced Advantage Fund",1.57,0.0,0.05,0.06,1.68,0.41,0.0,0.05,0.06,0.52
 "Edelweiss Banking and PSU Debt Fund",0.64,0.0,0.0,0.05,0.69,0.34,0.0,0.0,0.05,0.39
 "Edelweiss BSE Capital Markets & Insurance ETF",0.22,0.0,0.0,0.03,0.25,0.0,0.0,0.0,0.0,0.0
-"Edelweiss BSE Internet Economy Index Fund",1.0,0.0,0.05,0.04,1.09,0.26,0.0,0.05,0.04,0.35
+"Edelweiss BSE Internet Economy Index Fund",0.99,0.0,0.05,0.05,1.09,0.27,0.0,0.05,0.04,0.36
 "Edelweiss Business Cycle Fund",1.92,0.0,0.05,0.05,2.02,0.32,0.0,0.05,0.05,0.42
 "Edelweiss Consumption Fund",2.24,0.0,0.05,0.09,2.38,0.52,0.0,0.05,0.09,0.66
 "Edelweiss CRISIL IBX 50:50 Gilt Plus SDL April 2037 Index Fund",0.43,0.0,0.0,0.03,0.46,0.17,0.0,0.0,0.03,0.2
@@ -1227,7 +1227,7 @@
 "Motilal Oswal BSE Healthcare ETF",0.21,0.0,0.0,0.03,0.24,0.0,0.0,0.0,0.0,0.0
 "Motilal Oswal BSE India Infrastructure ETF",0.31,0.0,0.0,0.0,0.31,0.0,0.0,0.0,0.0,0.0
 "Motilal Oswal BSE Low Volatility ETF",0.32,0.0,0.0,0.05,0.37,0.0,0.0,0.0,0.0,0.0
-"Motilal Oswal BSE Low Volatility Index Fund",1.0,0.0,0.0,0.05,1.05,0.28,0.0,0.0,0.04,0.32
+"Motilal Oswal BSE Low Volatility Index Fund",1.0,0.0,0.0,0.05,1.05,0.28,0.0,0.0,0.05,0.33
 "Motilal Oswal BSE Quality ETF",0.27,0.0,0.0,0.04,0.31,0.0,0.0,0.0,0.0,0.0
 "Motilal Oswal BSE Quality Index Fund",1.0,0.0,0.0,0.05,1.05,0.33,0.0,0.0,0.05,0.38
 "Motilal Oswal Business Cycle Fund",1.92,0.0,0.05,0.08,2.05,0.47,0.0,0.05,0.08,0.6
@@ -1274,7 +1274,7 @@
 "Motilal Oswal Nifty Next 50 ETF",0.08,0.0,0.0,0.0,0.08,0.0,0.0,0.0,0.0,0.0
 "Motilal Oswal Nifty Next 50 Index Fund",1.0,0.0,0.0,0.04,1.04,0.28,0.0,0.0,0.04,0.32
 "Motilal Oswal Nifty Realty ETF",0.35,0.0,0.0,0.06,0.41,0.0,0.0,0.0,0.0,0.0
-"Motilal Oswal Nifty Smallcap 250 ETF",0.27,0.0,0.0,0.05,0.32,0.0,0.0,0.0,0.0,0.0
+"Motilal Oswal Nifty Smallcap 250 ETF",0.27,0.0,0.0,0.04,0.31,0.0,0.0,0.0,0.0,0.0
 "Motilal Oswal Nifty Smallcap 250 Index Fund",1.0,0.0,0.0,0.04,1.04,0.29,0.0,0.0,0.04,0.33
 "Motilal Oswal Quant Fund",0.8,0.0,0.05,0.12,0.97,0.7,0.0,0.05,0.12,0.87
 "Motilal Oswal S&P 500 Index Fund",1.0,0.0,0.05,0.08,1.13,0.45,0.0,0.05,0.08,0.58
@@ -1728,7 +1728,7 @@
 "Tata Retirement Savings Fund-Moderate Plan",1.88,0.0,0.05,0.09,2.02,0.48,0.0,0.05,0.09,0.62
 "Tata Retirement Savings Fund-Progressive Plan",1.89,0.0,0.05,0.08,2.02,0.43,0.0,0.05,0.08,0.56
 "Tata Short Term Bond Fund",1.14,0.0,0.0,0.05,1.19,0.31,0.0,0.0,0.05,0.36
-"Tata Silver ETF Fund of Fund",0.55,0.0,0.05,0.01,0.61,0.11,0.0,0.05,0.01,0.17
+"Tata Silver ETF Fund of Fund",0.55,0.0,0.05,0.01,0.61,0.12,0.0,0.05,0.01,0.18
 "Tata Silver Exchange Traded Fund",0.0,0.0,0.0,0.0,0.0,0.45,0.0,0.0,0.0,0.45
 "Tata Small Cap Fund",1.6,0.0,0.05,0.04,1.69,0.26,0.0,0.05,0.04,0.35
 "Tata Treasury Advantage Fund",0.55,0.0,0.0,0.03,0.58,0.22,0.0,0.0,0.03,0.25
