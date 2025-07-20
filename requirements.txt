@@ -1,6 +1,6 @@
 beautifulsoup4==4.13.4
 blurhash==1.1.4
-certifi==2025.7.9
+certifi==2025.7.14
 charset-normalizer==3.4.2
 click==8.1.8
 csv-diff==1.2
