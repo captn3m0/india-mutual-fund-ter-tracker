@@ -21,7 +21,7 @@ jobs:
       with:
         format: YYYYDDD.k
         timezone: Asia/Kolkata
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v5
       with:
         ref: ${{ github.head_ref }}
     - uses: actions/setup-python@v5
