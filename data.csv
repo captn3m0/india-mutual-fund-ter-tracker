@@ -208,6 +208,7 @@
 "Axis Strategic Bond Fund",1.23,0.0,0.0,0.1,1.33,0.62,0.0,0.0,0.1,0.72
 "Axis Treasury Advantage Fund",0.62,0.0,0.0,0.05,0.67,0.3,0.0,0.0,0.05,0.35
 "Axis Ultra Short Duration Fund",1.15,0.0,0.0,0.05,1.2,0.33,0.0,0.0,0.05,0.38
+"Axis US Specific Equity Passive FoF",0.6,0.0,0.0,0.03,0.63,0.25,0.0,0.0,0.03,0.28
 "Axis US Specific Treasury Dynamic Debt Passive FoF",0.14,0.0,0.0,0.0,0.14,0.09,0.0,0.0,0.0,0.09
 "Axis US Treasury Dynamic Bond ETF Fund of Fund",0.14,0.0,0.0,0.0,0.14,0.09,0.0,0.0,0.0,0.09
 "Axis Value Fund",2.06,0.0,0.05,0.11,2.22,0.66,0.0,0.05,0.11,0.82
@@ -270,6 +271,7 @@
 "Bandhan Focused Fund",1.91,0.0,0.05,0.12,2.08,0.64,0.0,0.05,0.11,0.8
 "Bandhan GSF - Constant Maturity Plan",0.35,0.0,0.0,0.01,0.36,0.13,0.0,0.0,0.01,0.14
 "Bandhan GSF Investment Plan",1.07,0.0,0.0,0.07,1.14,0.45,0.0,0.0,0.07,0.52
+"Bandhan Income Plus Arbitrage Active FoF",0.29,0.0,0.0,0.0,0.29,0.04,0.0,0.0,0.0,0.04
 "Bandhan Income Plus Arbitrage Fund of Funds",0.29,0.0,0.0,0.0,0.29,0.04,0.0,0.0,0.0,0.04
 "Bandhan Infrastructure Fund",1.93,0.0,0.05,0.12,2.1,0.68,0.0,0.05,0.12,0.85
 "Bandhan Innovation Fund",1.93,0.0,0.05,0.07,2.05,0.41,0.0,0.05,0.07,0.53
@@ -307,7 +309,9 @@
 "Bandhan Ultra Short Duration Fund",0.43,0.0,0.0,0.03,0.46,0.24,0.0,0.0,0.03,0.27
 "Bandhan Ultra Short Term Fund",0.43,0.0,0.0,0.03,0.46,0.24,0.0,0.0,0.03,0.27
 "Bandhan US Equity Fund of Fund",1.47,0.0,0.05,0.09,1.61,0.51,0.0,0.05,0.09,0.65
+"Bandhan US Specific Equity Active FoF",1.47,0.0,0.05,0.09,1.61,0.51,0.0,0.05,0.09,0.65
 "Bandhan US Treasury Bond 0-1 Year Fund of Fund",0.12,0.0,0.05,0.01,0.18,0.06,0.0,0.05,0.01,0.12
+"Bandhan US Treasury Bond 0-1 Year Specific Debt Passive FoF",0.12,0.0,0.05,0.01,0.18,0.06,0.0,0.05,0.01,0.12
 "Bandhan Value Fund",1.61,0.0,0.05,0.09,1.75,0.55,0.0,0.05,0.09,0.69
 "Bank of India Arbitrage Fund",0.89,0.0,0.0,0.06,0.95,0.38,0.0,0.0,0.05,0.43
 "Bank of India Balanced Advantage Fund",2.25,0.0,0.05,0.17,2.47,0.91,0.0,0.05,0.16,1.12
@@ -522,7 +526,7 @@
 "Edelweiss Gold ETF",0.43,0.0,0.0,0.02,0.45,0.0,0.0,0.0,0.0,0.0
 "Edelweiss Government Securities Fund",1.09,0.0,0.0,0.07,1.16,0.44,0.0,0.0,0.07,0.51
 "Edelweiss Greater China Equity Off-shore Fund",1.49,0.0,0.05,0.1,1.64,0.6,0.0,0.05,0.1,0.75
-"Edelweiss Income Plus Arbitrage Active Fund of Funds",0.34,0.0,0.0,0.0,0.34,0.04,0.0,0.0,0.0,0.04
+"Edelweiss Income Plus Arbitrage Active Fund of Funds",0.33,0.0,0.0,0.0,0.33,0.04,0.0,0.0,0.0,0.04
 "Edelweiss Large & Mid Cap Fund",1.75,0.0,0.05,0.05,1.85,0.34,0.0,0.05,0.05,0.44
 "Edelweiss Large Cap Fund",1.99,0.0,0.05,0.08,2.12,0.48,0.0,0.05,0.08,0.61
 "Edelweiss Liquid Fund",0.13,0.0,0.0,0.0,0.13,0.05,0.0,0.0,0.0,0.05
@@ -873,7 +877,7 @@
 "ICICI Prudential Nifty Bank ETF",0.15,0.0,0.0,0.0,0.15,0.0,0.0,0.0,0.0,0.0
 "ICICI Prudential Nifty Bank Index Fund",0.76,0.0,0.0,0.0,0.76,0.15,0.0,0.0,0.0,0.15
 "ICICI Prudential Nifty Commodities ETF",0.3,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0
-"ICICI Prudential Nifty Ev & New Age Automotive ETF",0.39,0.0,0.0,0.04,0.43,0.0,0.0,0.0,0.0,0.0
+"ICICI Prudential Nifty Ev & New Age Automotive ETF",0.39,0.0,0.0,0.05,0.44,0.0,0.0,0.0,0.0,0.0
 "ICICI Prudential Nifty Ev & New Age Automotive ETF FoF",0.6,0.0,0.0,0.0,0.6,0.1,0.0,0.0,0.0,0.1
 "ICICI Prudential Nifty Financial Services Ex-Bank ETF",0.2,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0
 "ICICI Prudential Nifty FMCG ETF",0.2,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0
@@ -1780,7 +1784,7 @@
 "Tata India Consumer Fund",1.84,0.0,0.05,0.09,1.98,0.58,0.0,0.05,0.09,0.72
 "Tata India Innovation Fund",1.93,0.0,0.05,0.06,2.04,0.43,0.0,0.05,0.06,0.54
 "Tata India Pharma & Healthcare Fund",1.98,0.0,0.05,0.07,2.1,0.5,0.0,0.05,0.07,0.62
-"Tata Infrastructure Fund",1.88,0.0,0.05,0.16,2.09,0.94,0.0,0.05,0.15,1.14
+"Tata Infrastructure Fund",1.88,0.0,0.05,0.16,2.09,0.94,0.0,0.05,0.16,1.15
 "Tata Large & Mid Cap Fund",1.63,0.0,0.05,0.08,1.76,0.51,0.0,0.05,0.08,0.64
 "Tata Large Cap Fund",1.83,0.0,0.05,0.13,2.01,0.81,0.0,0.05,0.13,0.99
 "Tata Liquid Fund",0.29,0.0,0.0,0.02,0.31,0.18,0.0,0.0,0.02,0.2
