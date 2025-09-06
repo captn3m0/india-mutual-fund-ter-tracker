@@ -50,7 +50,7 @@
 "Aditya Birla Sun Life Dynamic Asset Allocation Omni FoF",1.07,0.0,0.0,0.04,1.11,0.29,0.0,0.0,0.04,0.33
 "Aditya Birla Sun Life Dynamic Bond Fund - No. of Segregated Portfolio - 1",1.14,0.0,0.0,0.09,1.23,0.55,0.0,0.0,0.09,0.64
 "Aditya Birla Sun Life ELSS Tax Saver Fund",1.55,0.0,0.0,0.14,1.69,0.83,0.0,0.0,0.14,0.97
-"Aditya Birla Sun Life Equity Hybrid '95 Fund",1.65,0.0,0.05,0.16,1.85,0.88,0.0,0.05,0.16,1.09
+"Aditya Birla Sun Life Equity Hybrid '95 Fund",1.65,0.0,0.05,0.16,1.85,0.89,0.0,0.05,0.16,1.09
 "Aditya Birla Sun Life Equity Savings Fund",0.93,0.0,0.04,0.07,1.04,0.43,0.0,0.04,0.07,0.54
 "Aditya Birla Sun Life ESG Integration Strategy Fund",2.2,0.0,0.05,0.2,2.45,1.19,0.0,0.05,0.2,1.44
 "Aditya Birla Sun Life Financial Planning Fund - Aggressive Plan",1.08,0.0,0.0,0.04,1.12,0.3,0.0,0.0,0.04,0.34
@@ -531,7 +531,7 @@
 "Edelweiss Gold ETF",0.61,0.0,0.0,0.05,0.66,0.0,0.0,0.0,0.0,0.0
 "Edelweiss Government Securities Fund",1.09,0.0,0.0,0.07,1.16,0.44,0.0,0.0,0.07,0.51
 "Edelweiss Greater China Equity Off-shore Fund",1.49,0.0,0.05,0.1,1.64,0.6,0.0,0.05,0.1,0.75
-"Edelweiss Income Plus Arbitrage Active Fund of Funds",0.34,0.0,0.0,0.0,0.34,0.03,0.0,0.0,0.0,0.03
+"Edelweiss Income Plus Arbitrage Active Fund of Funds",0.34,0.0,0.0,0.0,0.34,0.04,0.0,0.0,0.0,0.04
 "Edelweiss Large & Mid Cap Fund",1.74,0.0,0.05,0.05,1.84,0.33,0.0,0.05,0.05,0.43
 "Edelweiss Large Cap Fund",1.98,0.0,0.05,0.08,2.11,0.47,0.0,0.05,0.08,0.6
 "Edelweiss Liquid Fund",0.13,0.0,0.0,0.0,0.13,0.05,0.0,0.0,0.0,0.05
@@ -540,6 +540,7 @@
 "Edelweiss Money Market Fund",0.81,0.0,0.0,0.02,0.83,0.14,0.0,0.0,0.02,0.16
 "Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund",1.0,0.0,0.0,0.06,1.06,0.46,0.0,0.0,0.06,0.52
 "Edelweiss Multi Asset Allocation Fund",0.65,0.0,0.05,0.04,0.74,0.31,0.0,0.05,0.04,0.4
+"Edelweiss Multi Asset Omni Fund of Fund",1.42,0.0,0.05,0.0,1.47,0.0,0.0,0.05,0.0,0.05
 "Edelweiss Multi Cap Fund",1.81,0.0,0.05,0.05,1.91,0.31,0.0,0.05,0.05,0.41
 "Edelweiss Nifty 100 Quality 30 Index Fund",1.0,0.0,0.0,0.04,1.04,0.28,0.0,0.0,0.04,0.32
 "Edelweiss Nifty 50 Index Fund",0.5,0.0,0.0,0.0,0.5,0.05,0.0,0.0,0.0,0.05
@@ -586,14 +587,14 @@
 "Franklin India Medium to Long Duration Fund",0.82,0.0,0.0,0.03,0.85,0.3,0.0,0.0,0.03,0.33
 "Franklin India Mid Cap Fund",1.58,0.0,0.05,0.13,1.76,0.77,0.0,0.05,0.13,0.95
 "Franklin India Money Market Fund",0.29,0.0,0.0,0.01,0.3,0.13,0.0,0.0,0.01,0.14
-"Franklin India Multi Asset Allocation Fund",1.89,0.0,0.05,0.02,1.96,0.18,0.0,0.05,0.02,0.25
+"Franklin India Multi Asset Allocation Fund",1.88,0.0,0.05,0.02,1.95,0.18,0.0,0.05,0.02,0.25
 "Franklin India Multi Cap Fund",1.72,0.0,0.05,0.04,1.81,0.28,0.0,0.05,0.04,0.37
 "Franklin India NSE Nifty 50 Index Fund",0.6,0.0,0.0,0.03,0.63,0.22,0.0,0.0,0.03,0.25
 "Franklin India Opportunities Fund",1.64,0.0,0.05,0.06,1.75,0.41,0.0,0.05,0.06,0.52
 "Franklin India Overnight Fund",0.11,0.0,0.0,0.0,0.11,0.07,0.0,0.0,0.0,0.07
 "Franklin India Retirement Fund",1.99,0.0,0.05,0.22,2.26,1.19,0.0,0.05,0.21,1.45
 "Franklin India Small Cap Fund",1.57,0.0,0.05,0.12,1.74,0.73,0.0,0.05,0.12,0.9
-"Franklin India Technology Fund",1.91,0.0,0.05,0.14,2.1,0.87,0.0,0.05,0.13,1.05
+"Franklin India Technology Fund",1.92,0.0,0.05,0.14,2.11,0.87,0.0,0.05,0.13,1.05
 "Franklin India Ultra Short Duration Fund",0.7,0.0,0.0,0.03,0.73,0.25,0.0,0.0,0.03,0.28
 "Franklin U. S. Opportunities Equity Active Fund of Funds",1.4,0.0,0.05,0.08,1.53,0.45,0.0,0.05,0.08,0.58
 "Groww Aggressive Hybrid Fund",2.25,0.0,0.05,0.08,2.38,1.25,0.0,0.05,0.08,1.38
@@ -874,7 +875,7 @@
 "ICICI Prudential Nifty Bank ETF",0.15,0.0,0.0,0.0,0.15,0.0,0.0,0.0,0.0,0.0
 "ICICI Prudential Nifty Bank Index Fund",0.76,0.0,0.0,0.0,0.76,0.15,0.0,0.0,0.0,0.15
 "ICICI Prudential Nifty Commodities ETF",0.3,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0
-"ICICI Prudential Nifty Ev & New Age Automotive ETF",0.39,0.0,0.0,0.05,0.44,0.0,0.0,0.0,0.0,0.0
+"ICICI Prudential Nifty Ev & New Age Automotive ETF",0.39,0.0,0.0,0.04,0.43,0.0,0.0,0.0,0.0,0.0
 "ICICI Prudential Nifty Ev & New Age Automotive ETF FoF",0.6,0.0,0.0,0.0,0.6,0.1,0.0,0.0,0.0,0.1
 "ICICI Prudential Nifty Financial Services Ex-Bank ETF",0.2,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0
 "ICICI Prudential Nifty FMCG ETF",0.2,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0
@@ -1185,7 +1186,7 @@
 "Mahindra Manulife Flexi Cap Fund",1.95,0.0,0.05,0.05,2.05,0.33,0.0,0.05,0.05,0.43
 "Mahindra Manulife Focused Fund",1.89,0.0,0.05,0.05,1.99,0.31,0.0,0.05,0.05,0.41
 "Mahindra Manulife Large & Mid Cap Fund",1.83,0.0,0.05,0.06,1.94,0.37,0.0,0.05,0.06,0.48
-"Mahindra Manulife Large Cap Fund",2.18,0.0,0.05,0.08,2.31,0.51,0.0,0.05,0.08,0.64
+"Mahindra Manulife Large Cap Fund",2.17,0.0,0.05,0.08,2.3,0.51,0.0,0.05,0.08,0.64
 "Mahindra Manulife Liquid Fund",0.24,0.0,0.0,0.02,0.26,0.13,0.0,0.0,0.02,0.15
 "Mahindra Manulife Low Duration Fund",1.06,0.0,0.0,0.03,1.09,0.27,0.0,0.0,0.03,0.3
 "Mahindra Manulife Manufacturing Fund",2.13,0.0,0.05,0.09,2.27,0.57,0.0,0.05,0.09,0.71
@@ -1301,7 +1302,7 @@
 "Motilal Oswal Developed Market Ex US Etfs Overseas Equity Passive FoF",0.49,0.0,0.05,0.01,0.55,0.05,0.0,0.05,0.01,0.11
 "Motilal Oswal Digital India Fund",2.09,0.0,0.05,0.11,2.25,0.63,0.0,0.05,0.11,0.79
 "Motilal Oswal ELSS Tax Saver Fund",1.74,0.0,0.0,0.08,1.82,0.56,0.0,0.0,0.08,0.64
-"Motilal Oswal Flexi Cap Fund",1.54,0.0,0.05,0.12,1.71,0.68,0.0,0.05,0.12,0.85
+"Motilal Oswal Flexi Cap Fund",1.54,0.0,0.05,0.12,1.71,0.67,0.0,0.05,0.12,0.84
 "Motilal Oswal Focused Fund",1.95,0.0,0.05,0.14,2.14,0.82,0.0,0.05,0.14,1.01
 "Motilal Oswal Gold and Silver Etfs Fund of Funds",0.49,0.0,0.0,0.0,0.49,0.14,0.0,0.0,0.0,0.14
 "Motilal Oswal Gold ETF",0.5,0.0,0.0,0.06,0.56,0.0,0.0,0.0,0.0,0.0
@@ -1575,7 +1576,7 @@
 "Samco Overnight Fund",0.33,0.0,0.0,0.0,0.33,0.13,0.0,0.0,0.0,0.13
 "Samco Special Opportunities Fund",2.25,0.0,0.05,0.11,2.41,0.7,0.0,0.05,0.11,0.86
 "SBI Arbitrage Opportunities Fund",0.85,0.0,0.0,0.06,0.91,0.35,0.0,0.0,0.06,0.41
-"SBI Automotive Opportunities Fund",1.71,0.0,0.05,0.11,1.87,0.67,0.0,0.05,0.11,0.83
+"SBI Automotive Opportunities Fund",1.71,0.0,0.05,0.12,1.88,0.67,0.0,0.05,0.12,0.84
 "SBI Balanced Advantage Fund",1.41,0.0,0.05,0.1,1.56,0.57,0.0,0.05,0.1,0.72
 "SBI Banking & Financial Services Fund",1.63,0.0,0.05,0.11,1.79,0.61,0.0,0.05,0.11,0.77
 "SBI Banking & PSU Fund",0.74,0.0,0.0,0.05,0.79,0.34,0.0,0.0,0.05,0.39
@@ -1642,7 +1643,7 @@
 "SBI Healthcare Opportunities Fund",1.75,0.0,0.05,0.13,1.93,0.73,0.0,0.05,0.13,0.91
 "SBI Income Plus Arbitrage Active FoF",0.29,0.0,0.0,0.01,0.3,0.09,0.0,0.0,0.01,0.1
 "SBI Infrastructure Fund",1.71,0.0,0.05,0.14,1.9,0.81,0.0,0.05,0.14,1.0
-"SBI Innovative Opportunities Fund",1.65,0.0,0.05,0.08,1.78,0.5,0.0,0.05,0.08,0.63
+"SBI Innovative Opportunities Fund",1.65,0.0,0.05,0.09,1.79,0.5,0.0,0.05,0.09,0.64
 "SBI Large & Midcap Fund",1.43,0.0,0.05,0.1,1.58,0.6,0.0,0.05,0.1,0.75
 "SBI Large Cap Fund",1.32,0.0,0.05,0.11,1.48,0.64,0.0,0.05,0.11,0.8
 "SBI Liquid Fund",0.28,0.0,0.0,0.03,0.31,0.18,0.0,0.0,0.03,0.21
@@ -1721,7 +1722,7 @@
 "Sundaram Dividend Yield Fund (Formerly Known as Principal Dividend Yield Fund)",2.1,0.0,0.05,0.15,2.3,0.88,0.0,0.05,0.15,1.08
 "Sundaram ELSS Tax Saver Fund",1.98,0.0,0.0,0.24,2.22,1.47,0.0,0.0,0.24,1.71
 "Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund)",2.02,0.0,0.05,0.07,2.14,0.48,0.0,0.05,0.07,0.6
-"Sundaram Financial Services Opportunities Fund",1.96,0.0,0.05,0.1,2.11,0.64,0.0,0.05,0.1,0.79
+"Sundaram Financial Services Opportunities Fund",1.96,0.0,0.05,0.1,2.11,0.63,0.0,0.05,0.1,0.79
 "Sundaram Flexicap Fund",1.89,0.0,0.05,0.08,2.02,0.5,0.0,0.05,0.08,0.63
 "Sundaram Focused Fund (Formerly Known as Principal Focused Multicap Fund)",2.04,0.0,0.05,0.18,2.27,1.07,0.0,0.05,0.18,1.3
 "Sundaram Global Brand Theme-Equity Active FoF",2.23,0.0,0.05,0.1,2.38,1.34,0.0,0.05,0.1,1.49
@@ -1772,7 +1773,7 @@
 "Tata Gold ETF Fund of Fund",0.64,0.0,0.05,0.02,0.71,0.17,0.0,0.05,0.02,0.24
 "Tata Gold Exchange Traded Fund",0.0,0.0,0.0,0.0,0.0,0.36,0.0,0.0,0.02,0.38
 "Tata Housing Opportunities Fund",2.23,0.0,0.05,0.09,2.37,0.58,0.0,0.05,0.09,0.72
-"Tata Income Plus Arbitrage Active FoF",0.55,0.0,0.05,0.0,0.6,0.02,0.0,0.05,0.0,0.07
+"Tata Income Plus Arbitrage Active FoF",0.55,0.0,0.05,0.0,0.6,0.01,0.0,0.05,0.0,0.06
 "Tata India Consumer Fund",1.83,0.0,0.05,0.09,1.97,0.57,0.0,0.05,0.09,0.71
 "Tata India Innovation Fund",1.92,0.0,0.05,0.06,2.03,0.42,0.0,0.05,0.06,0.53
 "Tata India Pharma & Healthcare Fund",1.98,0.0,0.05,0.07,2.1,0.5,0.0,0.05,0.07,0.62
