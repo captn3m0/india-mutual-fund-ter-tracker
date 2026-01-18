@@ -542,7 +542,7 @@
 "Edelweiss Gold ETF",0.44,0.0,0.0,0.03,0.47,0.0,0.0,0.0,0.0,0.0
 "Edelweiss Government Securities Fund",1.09,0.0,0.0,0.07,1.16,0.44,0.0,0.0,0.07,0.51
 "Edelweiss Greater China Equity Off-shore Fund",1.49,0.0,0.05,0.11,1.65,0.63,0.0,0.05,0.11,0.79
-"Edelweiss Income Plus Arbitrage Active Fund of Funds",0.34,0.0,0.0,0.0,0.34,0.03,0.0,0.0,0.0,0.03
+"Edelweiss Income Plus Arbitrage Active Fund of Funds",0.34,0.0,0.0,0.0,0.34,0.04,0.0,0.0,0.0,0.04
 "Edelweiss Large & Mid Cap Fund",1.74,0.0,0.05,0.05,1.84,0.32,0.0,0.05,0.05,0.42
 "Edelweiss Large Cap Fund",1.96,0.0,0.05,0.08,2.09,0.48,0.0,0.05,0.08,0.61
 "Edelweiss Liquid Fund",0.18,0.0,0.0,0.01,0.19,0.09,0.0,0.0,0.01,0.1
@@ -904,7 +904,7 @@
 "ICICI Prudential Nifty Bank ETF",0.15,0.0,0.0,0.0,0.15,0.0,0.0,0.0,0.0,0.0
 "ICICI Prudential Nifty Bank Index Fund",0.76,0.0,0.0,0.0,0.76,0.15,0.0,0.0,0.0,0.15
 "ICICI Prudential Nifty Commodities ETF",0.3,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0
-"ICICI Prudential Nifty Ev & New Age Automotive ETF",0.39,0.0,0.0,0.05,0.44,0.0,0.0,0.0,0.0,0.0
+"ICICI Prudential Nifty Ev & New Age Automotive ETF",0.39,0.0,0.0,0.04,0.43,0.0,0.0,0.0,0.0,0.0
 "ICICI Prudential Nifty Ev & New Age Automotive ETF FoF",0.6,0.0,0.0,0.0,0.6,0.3,0.0,0.0,0.0,0.3
 "ICICI Prudential Nifty Financial Services Ex-Bank ETF",0.2,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0
 "ICICI Prudential Nifty FMCG ETF",0.2,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0
@@ -1231,7 +1231,7 @@
 "Mahindra Manulife Short Duration Fund",1.27,0.0,0.0,0.03,1.3,0.37,0.0,0.0,0.03,0.4
 "Mahindra Manulife Small Cap Fund",1.75,0.0,0.05,0.05,1.85,0.34,0.0,0.05,0.05,0.44
 "Mahindra Manulife Ultra Short Duration Fund",0.68,0.0,0.0,0.02,0.7,0.26,0.0,0.0,0.02,0.28
-"Mahindra Manulife Value Fund",2.19,0.0,0.05,0.06,2.3,0.4,0.0,0.05,0.06,0.51
+"Mahindra Manulife Value Fund",2.19,0.0,0.05,0.06,2.3,0.41,0.0,0.05,0.06,0.52
 "Mahindramanulife Banking & Financial Services Fund",2.25,0.0,0.05,0.06,2.36,0.44,0.0,0.05,0.06,0.55
 "Mirae Asset Aggressive Hybrid Fund",1.62,0.0,0.05,0.05,1.72,0.29,0.0,0.05,0.05,0.39
 "Mirae Asset Arbitrage Fund",0.92,0.0,0.0,0.01,0.93,0.14,0.0,0.0,0.01,0.15
@@ -1797,14 +1797,14 @@
 "Sundaram Money Market Fund",0.3,0.0,0.0,0.02,0.32,0.16,0.0,0.0,0.02,0.18
 "Sundaram Multi Asset Allocation Fund",1.71,0.0,0.05,0.05,1.81,0.3,0.0,0.05,0.05,0.4
 "Sundaram Multi Cap Fund (Formerly Known as Principal Multi Cap Growth Fund)",1.81,0.0,0.05,0.12,1.98,0.71,0.0,0.05,0.12,0.88
-"Sundaram Multi-Factor Fund",2.06,0.0,0.05,0.08,2.18,0.46,0.0,0.05,0.08,0.58
+"Sundaram Multi-Factor Fund",2.06,0.0,0.05,0.08,2.19,0.46,0.0,0.05,0.08,0.58
 "Sundaram Nifty 100 Equal Weight Fund (Formerly Known as Principal Nifty 100 Equal Weight Fund)",1.0,0.0,0.0,0.08,1.08,0.44,0.0,0.0,0.08,0.52
 "Sundaram Overnight Fund",0.16,0.0,0.0,0.01,0.17,0.06,0.0,0.0,0.01,0.07
 "Sundaram Services Fund",1.72,0.0,0.05,0.09,1.86,0.53,0.0,0.05,0.09,0.67
 "Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund)",0.68,0.0,0.0,0.04,0.72,0.27,0.0,0.0,0.04,0.31
 "Sundaram Small Cap Fund",1.78,0.0,0.05,0.11,1.94,0.67,0.0,0.05,0.11,0.83
 "Sundaram Ultra Short Duration Fund (Formerly Known as Principal Ultra Short Term Fund)",1.39,0.0,0.0,0.03,1.42,0.2,0.0,0.0,0.03,0.23
-"Sundaram Value Fund",1.97,0.0,0.05,0.23,2.25,1.38,0.0,0.05,0.23,1.65
+"Sundaram Value Fund",1.97,0.0,0.05,0.23,2.25,1.38,0.0,0.05,0.23,1.66
 "Tata Aggressive Hybrid Fund",1.74,0.0,0.05,0.13,1.92,0.79,0.0,0.05,0.13,0.97
 "Tata Arbitrage Fund",1.05,0.0,0.0,0.03,1.08,0.28,0.0,0.0,0.03,0.31
 "Tata Balanced Advantage Fund",1.61,0.0,0.05,0.07,1.73,0.39,0.0,0.05,0.07,0.51
