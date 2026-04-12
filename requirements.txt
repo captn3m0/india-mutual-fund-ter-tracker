@@ -11,7 +11,7 @@ html-to-csv @ git+https://github.com/hanwentao/html2csv@fc27e30c90bc557ae812876d
 idna==3.11
 iniconfig==2.1.0
 lxml==6.0.4
-Mastodon.py==2.1.4
+Mastodon.py==2.2.1
 packaging==26.0
 pluggy==1.6.0
 pytest==9.0.3
