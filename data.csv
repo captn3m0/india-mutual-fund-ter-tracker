@@ -58,7 +58,7 @@
 "ABSL/C/D/FTP/21/06/0095","Aditya Birla Sun Life Fixed Term Plan - Series Tj (1838 Days)",0.13,0.0,0.0,0.02,0.15,0.04,0.0,0.0,0.0,0.04
 "ABSL/C/D/FTP/21/08/0099","Aditya Birla Sun Life Fixed Term Plan - Series Tq (1879 Days)",0.13,0.0,0.0,0.02,0.15,0.04,0.0,0.0,0.0,0.04
 "ABSL/C/D/FTP/22/10/0130","Aditya Birla Sun Life Fixed Term Plan - Series Ub (1224 Days)",0.13,0.0,0.0,0.02,0.15,0.05,0.0,0.0,0.0,0.05
-"ABSL/C/D /FTP/23/02/0144","Aditya Birla Sun Life Fixed Term Plan - Series Uj (1110 Days)",0.13,0.0,0.01,0.02,0.16,0.04,0.0,0.01,0.01,0.06
+"ABSL/C/D /FTP/23/02/0144","Aditya Birla Sun Life Fixed Term Plan - Series Uj (1110 Days)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 "ABSL/O/E/FCF/98/08/0008","Aditya Birla Sun Life Flexi Cap Fund",1.38,0.0,0.0,0.23,1.61,0.73,0.0,0.0,0.13,0.86
 "ABSL/O/D/FLF/03/05/0021","Aditya Birla Sun Life Floating Rate Fund",0.36,0.0,0.0,0.06,0.42,0.21,0.0,0.0,0.03,0.24
 "ABSL/O/E/FOC/05/05/0025","Aditya Birla Sun Life Focused Fund",1.53,0.0,0.0,0.26,1.79,0.77,0.0,0.0,0.14,0.91
@@ -354,7 +354,7 @@
 "BBNP/O/H/ARB/16/08/0015","Baroda BNP Paribas Arbitrage Fund",0.92,0.0,0.0,0.16,1.08,0.27,0.0,0.0,0.04,0.31
 "BBNP/O/H/BAF/18/07/0020","Baroda BNP Paribas Balanced Advantage Fund",1.61,0.0,0.0,0.29,1.9,0.64,0.0,0.0,0.11,0.75
 "BBNP/O/E/SEC/11/12/0012","Baroda BNP Paribas Banking and Financial Services Fund",2.1,0.0,0.0,0.37,2.47,0.68,0.0,0.0,0.12,0.8
-"BBNP/O/E/THE/25/05/0052","Baroda BNP Paribas Business Conglomerates Fund",2.05,0.0,0.0,0.36,2.41,0.7,0.0,0.0,0.12,0.82
+"BBNP/O/E/THE/25/05/0052","Baroda BNP Paribas Business Conglomerates Fund",2.05,0.0,0.0,0.37,2.42,0.7,0.0,0.0,0.12,0.82
 "BBNP/O/E/THE/21/07/0028","Baroda BNP Paribas Business Cycle Fund",2.08,0.0,0.0,0.37,2.45,0.83,0.0,0.0,0.15,0.98
 "BBNP/O/S/CHI/24/09/0046","Baroda BNP Paribas Children's Fund",2.1,0.0,0.0,0.37,2.47,0.92,0.0,0.0,0.16,1.08
 "BBNP/O/H/CHF/04/07/0004","Baroda BNP Paribas Conservative Hybrid Fund",1.75,0.0,0.0,0.31,2.06,0.47,0.0,0.0,0.08,0.55
@@ -447,7 +447,7 @@
 "DSPM/O/E/SEC/23/08/0067","DSP Banking & Financial Services Fund",1.78,0.02,0.0,0.32,2.12,0.52,0.02,0.0,0.13,0.67
 "DSPM/O/D/BPF/13/08/0025","DSP Banking & PSU Debt Fund",0.51,0.0,0.0,0.08,0.59,0.28,0.0,0.0,0.05,0.33
 "DSPM/O/D/MDF/97/03/0002","DSP Bond Fund",0.66,0.0,0.0,0.11,0.77,0.34,0.0,0.0,0.06,0.4
-"DSPM/O/O/DET/24/02/0073","DSP BSE Liquid Rate ETF",0.0,0.0,0.0,0.0,0.0,0.26,0.0,0.01,0.05,0.32
+"DSPM/O/O/DET/24/02/0073","DSP BSE Liquid Rate ETF",0.0,0.0,0.0,0.0,0.0,0.26,0.0,0.0,0.04,0.3
 "DSPM/O/O/EET/23/02/0063","DSP BSE SENSEX ETF",0.0,0.0,0.0,0.0,0.0,0.06,0.0,0.0,0.01,0.07
 "DSPM/O/O/EET/24/10/0078","DSP BSE SENSEX Next 30 ETF",0.0,0.0,0.0,0.0,0.0,0.13,0.0,0.0,0.02,0.15
 "DSPM/O/O/EIN/24/10/0079","DSP BSE SENSEX Next 30 Index Fund",0.79,0.03,0.0,0.25,1.07,0.21,0.03,0.0,0.16,0.4
@@ -484,7 +484,7 @@
 "DSPM/O/O/FOD/25/12/0095","DSP Multi Asset Omni Fund of Funds",1.12,0.05,0.02,0.23,1.42,0.43,0.05,0.02,0.12,0.62
 "DSPM/O/E/MCF/23/07/0071","DSP Multicap Fund",1.7,0.0,0.0,0.27,1.97,0.47,0.0,0.0,0.08,0.55
 "DSPM/O/E/SEC/08/02/0019","DSP Natural Resources and New Energy Fund",1.74,0.0,0.0,0.25,1.99,0.75,0.0,0.0,0.11,0.86
-"DSPM/O/O/OET/17/08/0032","DSP Nifty 1D Rate Liquid ETF",0.0,0.0,0.0,0.0,0.0,0.26,0.0,0.01,0.05,0.32
+"DSPM/O/O/OET/17/08/0032","DSP Nifty 1D Rate Liquid ETF",0.0,0.0,0.0,0.0,0.0,0.26,0.0,0.0,0.05,0.31
 "DSPM/O/O/OET/21/06/0045","DSP Nifty 50 Equal Weight ETF",0.0,0.0,0.0,0.0,0.0,0.17,0.04,0.01,0.58,0.8
 "DSPM/O/O/EIN/17/07/0031","DSP Nifty 50 Equal Weight Index Fund",0.82,0.0,0.0,0.19,1.01,0.35,0.0,0.0,0.12,0.47
 "DSPM/O/O/OET/21/06/0047","DSP Nifty 50 ETF",0.0,0.0,0.0,0.0,0.0,0.06,0.0,0.0,0.01,0.07
@@ -544,7 +544,7 @@
 "EDEL/O/O/DIN/22/09/0046","Edelweiss CRISIL IBX 50:50 Gilt Plus SDL SEP 2028 Index Fund",0.38,0.0,0.0,0.07,0.45,0.17,0.0,0.0,0.03,0.2
 "EDEL/O/O/DIN/23/01/0052","Edelweiss CRISIL IBX 50:50 Gilt Plus SDL Short Duration Index Fund",0.48,0.0,0.0,0.08,0.56,0.17,0.0,0.0,0.03,0.2
 "EDEL/O/D/DIN/25/01/0067","Edelweiss CRISIL IBX AAA Bond Nbfc Hfc JUN 2027 Index Fund",0.26,0.0,0.0,0.04,0.3,0.11,0.0,0.0,0.02,0.13
-"EDEL/O/O/DIN/24/11/0064","Edelweiss CRISIL IBX AAA Financial Services Bond - JAN 2028 Index Fund",0.3,0.0,0.0,0.05,0.35,0.14,0.0,0.0,0.02,0.16
+"EDEL/O/O/DIN/24/11/0064","Edelweiss CRISIL IBX AAA Financial Services Bond - JAN 2028 Index Fund",0.31,0.0,0.0,0.05,0.36,0.14,0.0,0.0,0.02,0.16
 "EDEL/O/E/ELS/08/12/0005","Edelweiss ELSS Tax Saver Fund",2.1,0.0,0.0,0.33,2.43,0.7,0.0,0.0,0.12,0.82
 "EDEL/O/O/FOO/13/12/0015","Edelweiss Emerging Markets Opportunities Equity Offshore Fund",1.18,0.0,0.0,0.2,1.38,0.48,0.0,0.0,0.08,0.56
 "EDEL/O/H/ESF/14/09/0017","Edelweiss Equity Savings Fund",1.28,0.0,0.0,0.22,1.5,0.47,0.0,0.0,0.08,0.55
@@ -628,62 +628,62 @@
 "FTMF/O/E/THE/98/08/0008","Franklin India Technology Fund",1.8,0.0,0.0,0.3,2.1,0.96,0.0,0.0,0.17,1.13
 "FTMF/O/D/USD/24/07/0048","Franklin India Ultra Short Duration Fund",0.61,0.0,0.0,0.09,0.7,0.24,0.0,0.0,0.04,0.28
 "FTMF/O/O/FOO/11/08/0029","Franklin U. S. Opportunities Equity Active Fund of Funds",1.25,0.0,0.0,0.22,1.47,0.5,0.0,0.0,0.09,0.59
-"INDB/O/H/AHF/18/05/0008","Groww Aggressive Hybrid Fund",2.1,0.05,0.01,0.45,2.61,1.15,0.05,0.01,0.31,1.52
-"GROW/O/E/SEC/23/11/0012","Groww Banking & Financial Services Fund",2.1,0.15,0.01,0.61,2.87,0.46,0.15,0.01,0.39,1.01
+"INDB/O/H/AHF/18/05/0008","Groww Aggressive Hybrid Fund",2.1,0.05,0.01,0.44,2.6,1.15,0.05,0.01,0.3,1.51
+"GROW/O/E/SEC/23/11/0012","Groww Banking & Financial Services Fund",2.1,0.14,0.01,0.59,2.83,0.46,0.14,0.01,0.37,0.97
 "GROW/O/O/EET/25/11/0055","Groww BSE Hospitals ETF",0.0,0.0,0.0,0.0,0.0,0.45,0.0,0.0,0.08,0.53
-"GROW/O/O/FOD/25/11/0056","Groww BSE Hospitals ETF FoF",0.45,0.04,0.01,0.14,0.64,0.12,0.04,0.01,0.09,0.26
+"GROW/O/O/FOD/25/11/0056","Groww BSE Hospitals ETF FoF",0.45,0.04,0.01,0.13,0.63,0.12,0.04,0.01,0.08,0.25
 "GROW/O/O/EET/25/06/0037","Groww BSE Power ETF",0.0,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.07,0.47
 "GROW/O/O/FOD/25/06/0038","Groww BSE Power ETF FoF",0.5,0.02,0.0,0.09,0.61,0.14,0.02,0.0,0.05,0.21
 "INDB/O/D/DBF/18/05/0007","Groww Dynamic Term Fund",1.25,0.01,0.01,0.19,1.46,0.38,0.01,0.01,0.06,0.46
 "INDB/O/E/ELS/17/08/0006","Groww ELSS Tax Saver Fund",2.1,0.01,0.0,0.34,2.45,0.76,0.01,0.0,0.15,0.92
 "GROW/O/D /GIL/25/03/0029","Groww Gilt Fund",1.46,0.0,0.03,0.22,1.71,0.46,0.0,0.03,0.08,0.57
-"GROW/O/O/GET/24/09/0020","Groww Gold ETF",0.0,0.0,0.0,0.0,0.0,0.6,0.0,0.0,0.11,0.71
-"GROW/O/O/FOD/24/09/0021","Groww Gold ETF FoF",0.3,0.01,0.0,0.05,0.36,0.1,0.01,0.0,0.03,0.14
-"INDB/O/E/LCF/11/11/0002","Groww Large Cap Fund",2.1,0.12,0.01,0.55,2.78,0.91,0.12,0.01,0.39,1.43
+"GROW/O/O/GET/24/09/0020","Groww Gold ETF",0.0,0.0,0.0,0.0,0.0,0.6,0.0,0.0,0.08,0.68
+"GROW/O/O/FOD/24/09/0021","Groww Gold ETF FoF",0.3,0.01,0.0,0.06,0.37,0.1,0.01,0.0,0.03,0.14
+"INDB/O/E/LCF/11/11/0002","Groww Large Cap Fund",2.1,0.11,0.01,0.53,2.75,0.91,0.11,0.01,0.37,1.4
 "INDB/O/D/LIF/11/10/0001","Groww Liquid Fund",0.18,0.01,0.01,0.02,0.22,0.09,0.01,0.01,0.01,0.12
 "GROW/O/D /MMF/25/09/0048","Groww Money Market Fund",0.74,0.0,0.03,0.11,0.88,0.18,0.0,0.03,0.03,0.24
-"GROW/O/E /MAA/25/07/0041","Groww Multi Asset Allocation Fund",2.05,0.05,0.0,0.39,2.5,0.46,0.05,0.0,0.18,0.7
+"GROW/O/E /MAA/25/07/0041","Groww Multi Asset Allocation Fund",2.05,0.05,0.0,0.38,2.49,0.46,0.05,0.0,0.17,0.69
 "GROW/O/O/FOD/25/09/0050","Groww Multi Asset Omni FoF",1.11,0.0,0.0,0.16,1.27,0.15,0.0,0.0,0.03,0.18
-"GROW/O/E /MCF/24/09/0022","Groww Multicap Fund",2.1,0.11,0.01,0.52,2.74,0.48,0.11,0.01,0.3,0.9
+"GROW/O/E /MCF/24/09/0022","Groww Multicap Fund",2.1,0.1,0.01,0.5,2.71,0.48,0.1,0.01,0.28,0.87
 "GROW/O/O/DET/24/09/0018","Groww Nifty 1D Rate Liquid ETF",0.0,0.0,0.0,0.0,0.0,0.29,0.0,0.03,0.05,0.37
 "GROW/O/O/EET/24/10/0025","Groww Nifty 200 ETF",0.0,0.0,0.0,0.0,0.0,0.35,0.0,0.0,0.07,0.42
 "GROW/O/O/FOD/24/10/0026","Groww Nifty 200 ETF FoF",0.55,0.01,0.0,0.09,0.65,0.12,0.01,0.0,0.03,0.16
 "GROW/O/O/EET/25/06/0035","Groww Nifty 50 ETF",0.0,0.0,0.0,0.0,0.0,0.16,0.0,0.0,0.04,0.2
-"GROW/O/O/EIN/25/06/0036","Groww Nifty 50 Index Fund",0.9,0.01,0.0,0.28,1.2,0.3,0.01,0.0,0.2,0.52
-"GROW/O/O/EET/25/02/0032","Groww Nifty 500 Low Volatility 50 ETF",0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.05,0.35
+"GROW/O/O/EIN/25/06/0036","Groww Nifty 50 Index Fund",0.9,0.01,0.0,0.27,1.19,0.3,0.01,0.0,0.19,0.51
+"GROW/O/O/EET/25/02/0032","Groww Nifty 500 Low Volatility 50 ETF",0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.3
 "GROW/O/O/EET/24/10/0027","Groww Nifty 500 Momentum 50 ETF",0.0,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.07,0.47
 "GROW/O/O/FOD/24/10/0028","Groww Nifty 500 Momentum 50 ETF FoF",0.5,0.01,0.0,0.08,0.59,0.12,0.01,0.0,0.03,0.16
 "GROW/O/O/EET/25/07/0042","Groww Nifty Capital Markets ETF",0.0,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.07,0.47
-"GROW/O/O/FOD/25/07/0043","Groww Nifty Capital Markets ETF FoF",0.5,0.01,0.0,0.08,0.6,0.12,0.01,0.0,0.03,0.17
+"GROW/O/O/FOD/25/07/0043","Groww Nifty Capital Markets ETF FoF",0.5,0.01,0.0,0.08,0.59,0.12,0.01,0.0,0.03,0.16
 "GROW/O/O/EET/25/07/0052","Groww Nifty Chemicals ETF",0.0,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.07,0.47
 "GROW/O/O/EET/24/07/0015","Groww Nifty Ev & New Age Automotive ETF",0.0,0.0,0.0,0.0,0.0,0.52,0.0,0.0,0.09,0.61
 "GROW/O/O/FOD/24/07/0016","Groww Nifty Ev & New Age Automotive ETF FoF",0.38,0.01,0.0,0.07,0.46,0.12,0.01,0.0,0.03,0.16
 "GROW/O/O/EET/24/08/0017","Groww Nifty India Defence ETF",0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.1,0.6
 "GROW/O/O/FOD/24/08/0019","Groww Nifty India Defence ETF FoF",0.4,0.02,0.01,0.09,0.51,0.1,0.02,0.01,0.05,0.17
 "GROW/O/O/EET/25/05/0033","Groww Nifty India Internet ETF",0.0,0.0,0.0,0.0,0.0,0.35,0.0,0.0,0.06,0.41
-"GROW/O/O/FOD/25/05/0034","Groww Nifty India Internet ETF FoF",0.55,0.03,0.01,0.14,0.74,0.16,0.03,0.01,0.09,0.3
+"GROW/O/O/FOD/25/05/0034","Groww Nifty India Internet ETF FoF",0.55,0.03,0.01,0.14,0.73,0.16,0.03,0.01,0.09,0.29
 "GROW/O/O/EET/24/12/0024","Groww Nifty India Railways PSU ETF",0.0,0.0,0.0,0.0,0.0,0.45,0.0,0.0,0.08,0.53
-"GROW/O/O/EIN/24/12/0023","Groww Nifty India Railways PSU Index Fund",0.9,0.01,0.0,0.26,1.17,0.5,0.01,0.0,0.21,0.72
+"GROW/O/O/EIN/24/12/0023","Groww Nifty India Railways PSU Index Fund",0.9,0.01,0.0,0.25,1.16,0.5,0.01,0.0,0.2,0.71
 "GROW/O/O/EET/25/07/0049","Groww Nifty Metal ETF",0.0,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.07,0.47
 "GROW/O/O/EET/25/07/0046","Groww Nifty Midcap 150 ETF",0.0,0.0,0.0,0.0,0.0,0.21,0.0,0.0,0.04,0.25
-"GROW/O/O/EIN/25/07/0047","Groww Nifty Midcap 150 Index Fund",0.9,0.01,0.0,0.24,1.15,0.34,0.01,0.0,0.16,0.51
+"GROW/O/O/EIN/25/07/0047","Groww Nifty Midcap 150 Index Fund",0.9,0.01,0.0,0.23,1.14,0.34,0.01,0.0,0.15,0.5
 "GROW/O/O/EET/25/07/0039","Groww Nifty Next 50 ETF",0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.05,0.35
-"GROW/O/O/EIN/25/07/0040","Groww Nifty Next 50 Index Fund",0.9,0.01,0.0,0.25,1.17,0.3,0.01,0.0,0.17,0.49
-"GROW/O/O/EIN/24/04/0014","Groww Nifty Non-Cyclical Consumer Index Fund",0.9,0.0,0.0,0.18,1.09,0.5,0.0,0.0,0.13,0.64
+"GROW/O/O/EIN/25/07/0040","Groww Nifty Next 50 Index Fund",0.9,0.01,0.0,0.24,1.15,0.3,0.01,0.0,0.16,0.47
+"GROW/O/O/EIN/24/04/0014","Groww Nifty Non-Cyclical Consumer Index Fund",0.9,0.0,0.0,0.18,1.08,0.5,0.0,0.0,0.13,0.63
 "GROW/O/O/EET/25/07/0053","Groww Nifty Pse ETF",0.0,0.0,0.0,0.0,0.0,0.45,0.0,0.0,0.08,0.53
-"GROW/O/O/FOD/25/07/0054","Groww Nifty Pse ETF FoF",0.45,0.0,0.0,0.07,0.53,0.2,0.0,0.0,0.04,0.25
+"GROW/O/O/FOD/25/07/0054","Groww Nifty Pse ETF FoF",0.45,0.0,0.0,0.07,0.52,0.2,0.0,0.0,0.04,0.24
 "GROW/O/O/EET/26/02/0057","Groww Nifty PSU Bank ETF",0.0,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.07,0.47
-"GROW/O/O/EIN/26/02/0058","Groww Nifty PSU Bank Index Fund",0.85,0.04,0.01,0.41,1.3,0.34,0.04,0.01,0.34,0.72
+"GROW/O/O/EIN/26/02/0058","Groww Nifty PSU Bank Index Fund",0.85,0.03,0.01,0.38,1.27,0.35,0.03,0.01,0.31,0.7
 "GROW/O/O/EET/25/07/0044","Groww Nifty Realty ETF",0.0,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.07,0.47
 "GROW/O/O/EET/25/08/0045","Groww Nifty Smallcap 250 ETF",0.0,0.0,0.0,0.0,0.0,0.3,0.01,0.0,0.1,0.41
-"GROW/O/O/EIN/24/01/0013","Groww Nifty Smallcap 250 Index Fund",0.9,0.01,0.0,0.26,1.17,0.45,0.01,0.0,0.2,0.66
-"GROW/O/O/EIN/23/09/0011","Groww Nifty Total Market Index Fund",0.9,0.01,0.0,0.23,1.14,0.53,0.01,0.0,0.18,0.72
-"INDB/O/D/ONF/18/12/0010","Groww Overnight Fund",0.2,0.0,0.05,0.03,0.28,0.1,0.0,0.05,0.01,0.16
-"INDB/O/D/SDF/13/07/0003","Groww Short Term Fund",0.93,0.07,0.01,0.13,1.15,0.26,0.07,0.01,0.04,0.39
+"GROW/O/O/EIN/24/01/0013","Groww Nifty Smallcap 250 Index Fund",0.9,0.01,0.0,0.25,1.16,0.45,0.01,0.0,0.19,0.65
+"GROW/O/O/EIN/23/09/0011","Groww Nifty Total Market Index Fund",0.9,0.01,0.0,0.22,1.13,0.53,0.01,0.0,0.17,0.71
+"INDB/O/D/ONF/18/12/0010","Groww Overnight Fund",0.2,0.0,0.04,0.03,0.27,0.1,0.0,0.04,0.01,0.15
+"INDB/O/D/SDF/13/07/0003","Groww Short Term Fund",0.93,0.07,0.01,0.13,1.14,0.26,0.07,0.01,0.04,0.38
 "GROW/O/O/OET/25/04/0030","Groww Silver ETF",0.0,0.0,0.0,0.0,0.0,0.45,0.0,0.0,0.08,0.53
 "GROW/O/O/FOD/25/04/0031","Groww Silver ETF FoF",0.45,0.0,0.0,0.07,0.52,0.15,0.0,0.0,0.03,0.18
-"GROW/O/E /SCF/25/10/0051","Groww Small Cap Fund",2.1,0.22,0.01,0.75,3.09,0.53,0.22,0.01,0.54,1.31
-"INDB/O/E/VAF/15/08/0005","Groww Value Fund",2.1,0.12,0.01,0.56,2.78,0.84,0.12,0.01,0.39,1.35
+"GROW/O/E /SCF/25/10/0051","Groww Small Cap Fund",2.1,0.2,0.01,0.71,3.02,0.53,0.2,0.01,0.5,1.24
+"INDB/O/E/VAF/15/08/0005","Groww Value Fund",2.1,0.11,0.01,0.54,2.75,0.84,0.11,0.01,0.37,1.32
 "HDFC/O/H/ARB/07/08/0017","HDFC Arbitrage Fund",0.56,0.0,0.0,0.1,0.66,0.34,0.0,0.0,0.06,0.4
 "HDFC/O/H/BAF/18/03/0043","HDFC Balanced Advantage Fund",1.09,0.0,0.0,0.18,1.27,0.58,0.0,0.0,0.1,0.68
 "HDFC/O/E/SEC/21/02/0076","HDFC Banking & Financial Services Fund",1.62,0.0,0.0,0.25,1.87,0.64,0.0,0.0,0.11,0.75
@@ -697,7 +697,7 @@
 "HDFC/C/D/FTP/23/02/0125","HDFC Charity Fund For Cancer Cure",0.03,0.0,0.0,0.01,0.04,0.03,0.0,0.0,0.0,0.03
 "HDFC/O/S/CHI/01/01/0007","HDFC Children's Fund",1.5,0.0,0.0,0.24,1.74,0.78,0.0,0.0,0.14,0.92
 "HDFC/O/E/THE/23/04/0124","HDFC Consumption Fund",1.94,0.0,0.0,0.28,2.22,0.87,0.0,0.0,0.16,1.03
-"HDFC/O/D/CBF/18/03/0040","HDFC Corporate Bond Fund",0.53,0.0,0.01,0.1,0.64,0.31,0.0,0.01,0.06,0.38
+"HDFC/O/D/CBF/18/03/0040","HDFC Corporate Bond Fund",0.53,0.0,0.0,0.1,0.63,0.31,0.0,0.0,0.06,0.37
 "HDFC/O/D/CRF/18/03/0042","HDFC Credit Risk Debt Fund",1.31,0.0,0.0,0.23,1.54,0.86,0.0,0.0,0.15,1.01
 "HDFC/O/O/DIN/25/03/0140","HDFC CRISIL-IBX Financial Services 3-6 Months Debt Index Fund",0.22,0.0,0.0,0.04,0.26,0.07,0.0,0.0,0.01,0.08
 "HDFC/O/O/DIN/26/02/0147","HDFC CRISIL-IBX Financial Services 9-12 Months Debt Index Fund",0.27,0.0,0.0,0.05,0.32,0.1,0.0,0.0,0.02,0.12
@@ -705,12 +705,12 @@
 "HDFC/O/O/FOO/21/08/0079","HDFC Developed World Overseas Equity Passive FoF",0.54,0.0,0.0,0.09,0.63,0.17,0.0,0.0,0.03,0.2
 "HDFC/O/O/FOD/25/07/0142","HDFC Diversified Equity All Cap Active FoF",1.14,0.0,0.0,0.14,1.28,0.26,0.0,0.0,0.03,0.29
 "HDFC/O/E/DYF/20/08/0075","HDFC Dividend Yield Fund",1.58,0.0,0.0,0.24,1.82,0.63,0.0,0.0,0.11,0.74
-"HDFC/O/D/DBF/18/03/0031","HDFC Dynamic Debt Fund",1.21,0.0,0.01,0.21,1.43,0.63,0.0,0.01,0.11,0.75
+"HDFC/O/D/DBF/18/03/0031","HDFC Dynamic Debt Fund",1.21,0.0,0.0,0.21,1.42,0.63,0.0,0.0,0.11,0.74
 "HDFC/O/E/ELS/95/12/0003","HDFC ELSS Tax Saver",1.44,0.0,0.0,0.24,1.68,0.93,0.0,0.0,0.17,1.1
 "HDFC/O/H/ESF/04/07/0013","HDFC Equity Savings Fund",1.58,0.0,0.0,0.27,1.85,0.76,0.0,0.0,0.14,0.9
 "HDFC/O/E/FCF/94/12/0002","HDFC Flexi Cap Fund",1.09,0.0,0.0,0.18,1.27,0.52,0.0,0.0,0.09,0.61
 "HDFC/O/D/FLF/18/03/0038","HDFC Floating Rate Debt Fund",0.46,0.0,0.0,0.08,0.54,0.23,0.0,0.0,0.04,0.27
-"HDFC/C/D/FTP/22/09/0108","HDFC Fmp 1204D December 2022",0.34,0.0,0.01,0.06,0.41,0.13,0.0,0.01,0.02,0.16
+"HDFC/C/D/FTP/22/09/0108","HDFC Fmp 1204D December 2022",0.34,0.0,0.0,0.06,0.4,0.13,0.0,0.0,0.02,0.15
 "HDFC/C/D/FTP/22/09/0119","HDFC Fmp 1269D March 2023",0.34,0.0,0.0,0.06,0.4,0.12,0.0,0.0,0.02,0.14
 "HDFC/C/D/FTP/22/02/0101","HDFC Fmp 1359D September 2022",0.31,0.0,0.0,0.05,0.36,0.1,0.0,0.0,0.02,0.12
 "HDFC/C/D/FTP/22/02/0091","HDFC Fmp 1406D August 2022",0.29,0.0,0.0,0.04,0.33,0.06,0.0,0.0,0.01,0.07
@@ -718,7 +718,7 @@
 "HDFC/C/D/FTP/22/02/0085","HDFC Fmp 1876D March 2022",0.17,0.0,0.0,0.03,0.2,0.04,0.0,0.0,0.01,0.05
 "HDFC/C/D/FTP/22/09/0115","HDFC Fmp 2638D February 2023",0.36,0.0,0.0,0.04,0.4,0.13,0.0,0.0,0.02,0.15
 "HDFC/O/E/FOC/04/06/0012","HDFC Focused Fund",1.37,0.0,0.0,0.23,1.6,0.5,0.0,0.0,0.09,0.59
-"HDFC/O/D/GIL/01/06/0008","HDFC Gilt Fund",0.79,0.0,0.01,0.14,0.94,0.41,0.0,0.01,0.07,0.49
+"HDFC/O/D/GIL/01/06/0008","HDFC Gilt Fund",0.79,0.0,0.0,0.14,0.93,0.41,0.0,0.0,0.07,0.48
 "HDFC/O/O/GET/10/06/0019","HDFC Gold ETF",0.5,0.0,0.0,0.09,0.59,0.0,0.0,0.0,0.0,0.0
 "HDFC/O/O/FOD/11/09/0020","HDFC Gold ETF Fund of Fund",0.4,0.0,0.0,0.07,0.47,0.13,0.0,0.0,0.02,0.15
 "HDFC/O/E/THE/17/09/0029","HDFC Housing Opportunities Fund",1.87,0.0,0.0,0.31,2.18,0.97,0.0,0.0,0.17,1.14
@@ -746,7 +746,7 @@
 "HDFC/O/O /OET/21/12/0087","HDFC Nifty 100 ETF",0.25,0.0,0.0,0.05,0.3,0.0,0.0,0.0,0.0,0.0
 "HDFC/O/O/OET/21/12/0087","HDFC Nifty 100 ETF",0.25,0.0,0.0,0.05,0.3,0.0,0.0,0.0,0.0,0.0
 "HDFC/O/O/EIN/21/12/0081","HDFC Nifty 100 Index Fund",0.64,0.0,0.0,0.11,0.75,0.25,0.0,0.0,0.04,0.29
-"HDFC/O/O/DET/23/04/0127","HDFC Nifty 1D Rate Liquid ETF",0.3,0.0,0.01,0.05,0.36,0.0,0.0,0.0,0.0,0.0
+"HDFC/O/O/DET/23/04/0127","HDFC Nifty 1D Rate Liquid ETF",0.3,0.0,0.0,0.05,0.35,0.0,0.0,0.0,0.0,0.0
 "HDFC/O/O/EET/15/11/0027","HDFC Nifty 50 ETF",0.04,0.0,0.0,0.01,0.05,0.0,0.0,0.0,0.0,0.0
 "HDFC/O/O/EIN/02/06/0010","HDFC Nifty 50 Index Fund",0.35,0.0,0.0,0.06,0.41,0.2,0.0,0.0,0.04,0.24
 "HDFC/O/E/EET/20/03/0074","HDFC Nifty Bank ETF",0.14,0.0,0.0,0.03,0.17,0.0,0.0,0.0,0.0,0.0
@@ -771,7 +771,7 @@
 "HDFC/O/O/EET/23/10/0130","HDFC Nifty PSU Bank ETF",0.3,0.0,0.0,0.05,0.35,0.0,0.0,0.0,0.0,0.0
 "HDFC/O/O/EIN/24/02/0132","HDFC Nifty Realty Index Fund",0.74,0.0,0.0,0.11,0.85,0.32,0.0,0.0,0.05,0.37
 "HDFC/O/D/DIN/22/10/0107","HDFC Nifty SDL OCT 2026 Index Fund",0.3,0.0,0.0,0.05,0.35,0.17,0.0,0.0,0.03,0.2
-"HDFC/O/D/DIN/23/02/0118","HDFC Nifty SDL Plus G-SEC JUN 2027 40:60 Index Fund",0.3,0.0,0.01,0.05,0.36,0.18,0.0,0.01,0.03,0.22
+"HDFC/O/D/DIN/23/02/0118","HDFC Nifty SDL Plus G-SEC JUN 2027 40:60 Index Fund",0.3,0.0,0.0,0.05,0.35,0.18,0.0,0.0,0.03,0.21
 "HDFC/O/O/EET/22/10/0113","HDFC Nifty Smallcap 250 ETF",0.21,0.0,0.0,0.04,0.25,0.0,0.0,0.0,0.0,0.0
 "HDFC/O/O/EIN/22/10/0122","HDFC Nifty Smallcap 250 Index Fund",0.64,0.0,0.0,0.1,0.74,0.24,0.0,0.0,0.04,0.28
 "HDFC/O/O/EIN/25/02/0139","HDFC Nifty Top 20 Equal Weight Index Fund",0.69,0.0,0.0,0.1,0.79,0.22,0.0,0.0,0.03,0.25
@@ -785,7 +785,7 @@
 "HDFC/O/O/EIN/21/07/0077","HDFC Nifty50 Equal Weight Index Fund",0.74,0.0,0.0,0.12,0.86,0.34,0.0,0.0,0.06,0.4
 "HDFC/O/O/OET/21/12/0094","HDFC Nifty50 Value 20 ETF",0.17,0.0,0.0,0.03,0.2,0.0,0.0,0.0,0.0,0.0
 "HDFC/O/O/EIN/24/06/0135","HDFC Nifty500 Multicap 50:25:25 Index Fund",0.66,0.0,0.0,0.1,0.76,0.23,0.0,0.0,0.03,0.26
-"HDFC/O/D/ONF/18/03/0036","HDFC Overnight Fund",0.19,0.0,0.04,0.03,0.26,0.1,0.0,0.04,0.02,0.16
+"HDFC/O/D/ONF/18/03/0036","HDFC Overnight Fund",0.19,0.0,0.0,0.03,0.22,0.1,0.0,0.0,0.02,0.12
 "HDFC/O/E/SEC/23/03/0129","HDFC Pharma and Healthcare Fund",1.76,0.0,0.0,0.25,2.01,0.75,0.0,0.0,0.13,0.88
 "HDFC/O/S/RET/15/08/0024","HDFC Retirement Savings Fund - Equity Plan",1.55,0.0,0.0,0.23,1.78,0.69,0.0,0.0,0.12,0.81
 "HDFC/O/S/RET/15/08/0026","HDFC Retirement Savings Fund - Hybrid-Debt Plan",1.85,0.0,0.0,0.29,2.14,0.9,0.0,0.0,0.16,1.06
@@ -831,7 +831,7 @@
 "HSBC/O/E/FOC/20/03/0025","HSBC Focused Fund",1.8,0.0,0.0,0.32,2.12,0.8,0.0,0.0,0.14,0.94
 "LTMF/O/D/GIL/00/03/0004","HSBC Gilt Fund",1.34,0.0,0.0,0.24,1.58,0.41,0.0,0.0,0.07,0.48
 "HSBC/O/O/FOO/07/08/0012","HSBC Global Emerging Markets Fund",1.22,0.0,0.0,0.22,1.44,0.43,0.0,0.0,0.07,0.5
-"HSBC/O/O/GET/26/02/0041","HSBC Gold ETF",0.0,0.0,0.0,0.0,0.0,0.43,0.0,0.0,0.08,0.51
+"HSBC/O/O/GET/26/02/0041","HSBC Gold ETF",0.0,0.0,0.0,0.0,0.0,0.42,0.0,0.0,0.08,0.5
 "HSBC/O/O/FOD/26/03/0042","HSBC Gold ETF Fund of Fund",0.4,0.0,0.0,0.07,0.47,0.04,0.0,0.0,0.01,0.05
 "HSBC/O/O/FOD/13/12/0015","HSBC Income Plus Arbitrage Active FoF (Erstwhile HSBC Managed Solution India - Conservative Plan)",0.43,0.0,0.0,0.08,0.51,0.18,0.0,0.0,0.03,0.21
 "HSBC/O/E/THE/24/07/0038","HSBC India Export Opportunities Fund",1.88,0.0,0.0,0.33,2.21,0.73,0.0,0.0,0.13,0.86
@@ -1003,7 +1003,7 @@
 "INVM/O/O/FOO/13/11/0023","Invesco India - Invesco Pan European Equity Fund of Fund",0.73,0.0,0.0,0.12,0.85,0.43,0.0,0.0,0.07,0.5
 "INVM/O/H/AHF/18/04/0027","Invesco India Aggressive Hybrid Fund",1.98,0.0,0.0,0.33,2.31,0.68,0.0,0.0,0.12,0.8
 "INVM/O/H/ARB/06/12/0005","Invesco India Arbitrage Fund",0.91,0.0,0.0,0.16,1.07,0.34,0.0,0.0,0.06,0.4
-"INVM/O/H/DAA/07/06/0009","Invesco India Balanced Advantage Fund",1.8,0.0,0.0,0.28,2.08,0.69,0.0,0.0,0.12,0.81
+"INVM/O/H/DAA/07/06/0009","Invesco India Balanced Advantage Fund",1.79,0.0,0.0,0.28,2.07,0.69,0.0,0.0,0.12,0.81
 "INVM/O/D/BPF/12/09/0022","Invesco India Banking and PSU Fund",0.54,0.0,0.0,0.09,0.63,0.22,0.0,0.0,0.04,0.26
 "INVM/O/E/THE/24/10/0048","Invesco India Business Cycle Fund",1.94,0.0,0.0,0.3,2.24,0.6,0.0,0.0,0.11,0.71
 "INVM/O/E/THE/25/08/0051","Invesco India Consumption Fund",2.09,0.0,0.0,0.31,2.4,0.72,0.0,0.0,0.13,0.85
@@ -1843,7 +1843,7 @@
 "SUND/C/E/ELS/17/02/0031","Sundaram Long Term Micro Cap Tax Advantage Fund Series Vi",1.0,0.0,0.0,0.17,1.17,0.78,0.0,0.0,0.14,0.92
 "SUND/C/E/ELS/17/02/0030","Sundaram Long Term Micro Cap Tax Advantage Series V",1.0,0.0,0.0,0.17,1.17,0.81,0.0,0.0,0.14,0.95
 "SUND/C/E/ELS/17/12/0036","Sundaram Long Term Tax Advantage Fund Series Iii",1.0,0.0,0.0,0.18,1.18,0.8,0.0,0.0,0.14,0.94
-"SUND/C/E/ELS/17/12/0037","Sundaram Long Term Tax Advantage Fund Series Iv",1.0,0.0,0.0,0.18,1.18,0.83,0.0,0.0,0.15,0.98
+"SUND/C/E/ELS/17/12/0037","Sundaram Long Term Tax Advantage Fund Series Iv",1.0,0.0,0.0,0.18,1.18,0.82,0.0,0.0,0.15,0.97
 "SUND/O/D/LOW/04/08/0011","Sundaram Low Duration Fund (Formerly Known as Principal Low Duration Fund)",0.99,0.0,0.0,0.15,1.14,0.34,0.0,0.0,0.06,0.4
 "SUND/O/D/MDF/97/08/0002","Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund)",1.6,0.0,0.0,0.26,1.86,0.99,0.0,0.0,0.18,1.17
 "SUND/O/E/MIF/02/06/0010","Sundaram Mid Cap Fund",1.45,0.0,0.0,0.24,1.69,0.75,0.0,0.0,0.13,0.88
@@ -2099,7 +2099,7 @@
 "ZERO/O/O/FOD/24/09/0008","Zerodha Gold ETF FoF",0.0,0.0,0.0,0.0,0.0,0.23,0.01,0.02,0.04,0.3
 "ZERO/O/O/FOD/25/07/0011","Zerodha Multi Asset Passive FoF",0.0,0.0,0.0,0.0,0.0,0.18,0.01,0.03,0.03,0.25
 "ZERO/O/O/EET/24/04/0005","Zerodha Nifty 100 ETF",0.0,0.0,0.0,0.0,0.0,0.22,0.0,0.0,0.04,0.26
-"ZERO/O/O/DET/23/12/0003","Zerodha Nifty 1D Rate Liquid ETF",0.0,0.0,0.0,0.0,0.0,0.23,0.0,0.01,0.04,0.28
+"ZERO/O/O/DET/23/12/0003","Zerodha Nifty 1D Rate Liquid ETF",0.0,0.0,0.0,0.0,0.0,0.23,0.0,0.0,0.04,0.27
 "ZERO/O/O/EET/25/08/0016","Zerodha Nifty 50 ETF",0.0,0.0,0.0,0.0,0.0,0.05,0.0,0.0,0.01,0.06
 "ZERO/O/O/EIN/25/08/0014","Zerodha Nifty 50 Index Fund",0.0,0.0,0.0,0.0,0.0,0.1,0.03,0.28,0.02,0.43
 "ZERO/O/O/DET/25/07/0012","Zerodha Nifty 8-13 Yr G-SEC ETF",0.0,0.0,0.0,0.0,0.0,0.06,0.0,0.0,0.01,0.07
