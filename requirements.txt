@@ -12,7 +12,7 @@ idna==3.11
 iniconfig==2.1.0
 lxml==6.1.0
 Mastodon.py==2.2.1
-packaging==26.1
+packaging==26.2
 pluggy==1.6.0
 pytest==9.0.3
 python-dateutil==2.9.0.post0
