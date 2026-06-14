@@ -1027,10 +1027,10 @@
 "INVM/O/D/MMF/09/06/0016","Invesco India Money Market Fund",0.36,0.01,0.0,0.06,0.43,0.13,0.01,0.0,0.02,0.16
 "INVM/O/H/MAA/24/09/0047","Invesco India Multi Asset Allocation Fund",1.45,0.02,0.0,0.23,1.7,0.38,0.02,0.0,0.08,0.48
 "INVM/O/E/MCF/07/09/0012","Invesco India Multicap Fund",1.63,0.05,0.0,0.37,2.05,0.62,0.05,0.0,0.21,0.88
-"INVM/O/O/OET/11/05/0020","Invesco India Nifty 50 Exchange Traded Fund",0.08,0.0,0.0,0.02,0.1,0.0,0.0,0.0,0.0,0.0
+"INVM/O/O/OET/11/05/0020","Invesco India Nifty 50 Exchange Traded Fund",0.09,0.0,0.0,0.02,0.11,0.0,0.0,0.0,0.0,0.0
 "INVM/O/O/EIN/26/04/0053","Invesco India Nifty Bank Index Fund",0.66,0.18,0.06,2.38,3.28,0.14,0.18,0.06,2.29,2.67
-"INVM/O/O/DIN/23/03/0043","Invesco India Nifty G-SEC JUL 2027 Index Fund",0.25,0.0,0.0,0.04,0.29,0.13,0.0,0.0,0.02,0.15
-"INVM/O/O/DIN/23/03/0044","Invesco India Nifty G-SEC SEP 2032 Index Fund",0.25,0.0,0.0,0.04,0.29,0.12,0.0,0.0,0.02,0.14
+"INVM/O/O/DIN/23/03/0043","Invesco India Nifty G-SEC JUL 2027 Index Fund",0.24,0.0,0.0,0.04,0.28,0.13,0.0,0.0,0.02,0.15
+"INVM/O/O/DIN/23/03/0044","Invesco India Nifty G-SEC SEP 2032 Index Fund",0.25,0.0,0.0,0.04,0.29,0.13,0.0,0.0,0.02,0.15
 "INVM/O/D/ONF/19/12/0032","Invesco India Overnight Fund",0.1,0.0,0.02,0.02,0.14,0.05,0.0,0.02,0.01,0.08
 "INVM/O/E/THE/09/09/0017","Invesco India PSU Equity Fund",1.82,0.01,0.0,0.33,2.16,0.78,0.01,0.0,0.17,0.96
 "INVM/O/D/SDF/07/03/0007","Invesco India Short Duration Fund",0.89,0.03,0.0,0.15,1.07,0.3,0.03,0.0,0.06,0.39
@@ -1124,7 +1124,7 @@
 "KOTM/O/E/FOC/18/12/0055","Kotak Focused Fund",1.63,0.0214,0.0023,0.37,2.0237,0.49,0.0214,0.0023,0.17,0.6837
 "KOTM/O/D/GIL/98/12/0002","Kotak Gilt Fund",1.25,0.0008,0.0024,0.23,1.4832,0.4,0.0008,0.0024,0.07,0.4732
 "KOTM/O/O/FOO/07/07/0020","Kotak Global Emerging Market Overseas Equity Omni FoF",1.24,0.0,0.0002,0.22,1.4602,0.65,0.0,0.0002,0.12,0.7702
-"KOTM/O/O/FOO/21/05/0064","Kotak Global Innovation Overseas Equity Omni FoF",1.29,0.0,0.0001,0.23,1.5201,0.38,0.0,0.0001,0.08,0.4601
+"KOTM/O/O/FOO/21/05/0064","Kotak Global Innovation Overseas Equity Omni FoF",1.3,0.0,0.0001,0.23,1.5301,0.39,0.0,0.0001,0.08,0.4701
 "KOTM/O/O/GET/07/05/0019","Kotak Gold ETF",0.52,0.0,0.0,0.0,0.52,0.0,0.0,0.0,0.0,0.0
 "KOTM/O/O/FOD/11/02/0029","Kotak Gold Fund",0.38,0.0,0.0002,0.07,0.4502,0.09,0.0,0.0002,0.02,0.1102
 "KOTM/O/O/FOD/25/07/0154","Kotak Gold Silver Passive FoF",0.45,0.0018,0.0012,0.08,0.533,0.16,0.0018,0.0012,0.03,0.193
@@ -1192,7 +1192,7 @@
 "KOTM/O/O/OIN/25/08/0159","Kotak Nifty200 Value 30 Index Fund",0.44,0.0987,0.0258,0.99,1.5545,0.18,0.0987,0.0258,0.94,1.2445
 "KOTM/O/O/OIN/25/08/0156","Kotak Nifty500 Momentum 50 Index Fund",0.44,0.017,0.0048,0.25,0.7118,0.16,0.017,0.0048,0.2,0.3818
 "KOTM/O/D/ONF/18/12/0054","Kotak Overnight Fund",0.16,0.0038,0.0128,0.02,0.1966,0.06,0.0038,0.0128,0.01,0.0866
-"KOTM/O/E/THE/19/09/0057","Kotak Pioneer Fund",1.57,0.0165,0.0013,0.32,1.9078,0.45,0.0165,0.0013,0.12,0.5878
+"KOTM/O/E/THE/19/09/0057","Kotak Pioneer Fund",1.58,0.0165,0.0013,0.32,1.9178,0.45,0.0165,0.0013,0.12,0.5878
 "KOTM/O/O/FOO/26/02/0163","Kotak Quality Overseas Equity Omni FoF",1.06,0.0,0.0005,0.06,1.1205,0.4,0.0,0.0005,0.06,0.4605
 "KOTM/O/E/THE/23/04/0107","Kotak Quant Fund",1.55,0.0367,0.0075,0.52,2.1142,1.0,0.0367,0.0075,0.44,1.4842
 "KOTM/O/E/THE/25/10/0157","Kotak Rural Opportunities Fund",2.02,0.0153,0.0016,0.41,2.4469,0.64,0.0153,0.0016,0.16,0.8169
@@ -1610,7 +1610,7 @@
 "PGIM/O/E/LCF/02/12/0003","PGIM India Large Cap Fund",2.09,0.05,0.0,0.47,2.61,0.77,0.05,0.0,0.23,1.05
 "PGIM/O/D/LIF/02/12/0001","PGIM India Liquid Fund",0.19,0.0,0.0,0.03,0.22,0.1,0.0,0.0,0.01,0.11
 "PGIM/O/E/MIF/13/08/0014","PGIM India Midcap Fund",1.49,0.08,0.0,0.41,1.98,0.48,0.08,0.0,0.23,0.79
-"PGIM/O/D/MMF/19/12/0021","PGIM India Money Market Fund",0.33,0.01,0.0,0.06,0.4,0.12,0.01,0.0,0.02,0.15
+"PGIM/O/D/MMF/19/12/0021","PGIM India Money Market Fund",0.33,0.01,0.0,0.06,0.4,0.13,0.01,0.0,0.02,0.16
 "PGIM/O/H/MAA/25/08/0030","PGIM India Multi Asset Allocation Fund",2.0,0.04,0.01,0.5,2.55,0.53,0.04,0.01,0.23,0.81
 "PGIM/O/E/MCF/24/07/0028","PGIM India Multi Cap Fund",2.1,0.01,0.0,0.4,2.51,0.65,0.01,0.0,0.14,0.8
 "PGIM/O/D/ONF/19/02/0020","PGIM India Overnight Fund",0.16,0.0,0.03,0.04,0.23,0.14,0.0,0.03,0.03,0.2
@@ -1974,7 +1974,7 @@
 "UNIN/O/D/LOW/25/05/0032","Union Low Duration Fund",0.82,0.01,0.0,0.15,0.98,0.21,0.01,0.0,0.04,0.26
 "UNIN/O/E/MIF/19/12/0016","Union Midcap Fund",1.78,0.07,0.0,0.45,2.3,0.68,0.07,0.0,0.29,1.04
 "UNIN/O/D/MMF/21/06/0018","Union Money Market Fund",0.68,0.01,0.01,0.12,0.82,0.14,0.01,0.01,0.03,0.19
-"UNIN/O/H /MAA/24/07/0026","Union Multi Asset Allocation Fund",1.85,0.06,0.01,0.46,2.38,0.9,0.06,0.01,0.31,1.28
+"UNIN/O/H /MAA/24/07/0026","Union Multi Asset Allocation Fund",1.85,0.06,0.01,0.46,2.38,0.91,0.06,0.01,0.31,1.29
 "UNIN/O/E/MCF/22/07/0021","Union Multicap Fund",1.83,0.12,0.01,0.57,2.53,0.85,0.12,0.01,0.42,1.4
 "UNIN/O/D/ONF/19/02/0012","Union Overnight Fund",0.15,0.0,0.06,0.03,0.24,0.06,0.0,0.06,0.02,0.14
 "UNIN/O/S/RET/22/05/0020","Union Retirement Fund",2.1,0.06,0.0,0.49,2.65,0.98,0.06,0.0,0.31,1.35
