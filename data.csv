@@ -216,7 +216,7 @@
 "AXIS/O/O/OET/22/07/0065","Axis Silver ETF",0.36,0.0,0.0,0.06,0.42,0.0,0.0,0.0,0.0,0.0
 "AXIS/O/O/FOD/22/07/0064","Axis Silver Fund of Fund",0.54,0.01,0.0,0.08,0.63,0.07,0.01,0.0,0.01,0.09
 "AXIS/O/E/SCF/13/09/0016","Axis Small Cap Fund",1.35,0.03,0.0,0.29,1.67,0.55,0.03,0.0,0.16,0.74
-"AXIS/O/D/MDF/11/09/0012","Axis Strategic Bond Fund",1.12,0.0,0.0,0.2,1.32,0.6,0.0,0.0,0.11,0.71
+"AXIS/O/D/MDF/11/09/0012","Axis Strategic Bond Fund",1.13,0.0,0.0,0.2,1.33,0.61,0.0,0.0,0.11,0.72
 "AXIS/O/D/LOW/09/09/0001","Axis Treasury Advantage Fund",0.59,0.02,0.0,0.1,0.71,0.29,0.02,0.0,0.05,0.36
 "AXIS/O/D/USD/18/08/0029","Axis Ultra Short Duration Fund",1.06,0.01,0.0,0.15,1.22,0.33,0.01,0.0,0.06,0.4
 "AXIS/O/O/FOO/23/11/0081","Axis US Specific Treasury Dynamic Debt Passive FoF",0.13,0.0,0.0,0.02,0.15,0.08,0.0,0.0,0.01,0.09
@@ -637,7 +637,7 @@
 "INDB/O/E/ELS/17/08/0006","Groww ELSS Tax Saver Fund",2.09,0.17,0.01,0.64,2.91,0.79,0.17,0.01,0.47,1.44
 "GROW/O/D /GIL/25/03/0029","Groww Gilt Fund",1.44,0.0,0.02,0.21,1.67,0.46,0.0,0.02,0.08,0.56
 "GROW/O/O/GET/24/09/0020","Groww Gold ETF",0.0,0.0,0.0,0.0,0.0,0.6,0.0,0.0,0.11,0.71
-"GROW/O/O/FOD/24/09/0021","Groww Gold ETF FoF",0.3,0.01,0.0,0.06,0.37,0.1,0.01,0.0,0.03,0.14
+"GROW/O/O/FOD/24/09/0021","Groww Gold ETF FoF",0.3,0.01,0.0,0.05,0.36,0.1,0.01,0.0,0.03,0.14
 "INDB/O/E/LCF/11/11/0002","Groww Large Cap Fund",2.09,0.1,0.01,0.51,2.71,0.94,0.1,0.01,0.36,1.41
 "INDB/O/D/LIF/11/10/0001","Groww Liquid Fund",0.18,0.0,0.01,0.02,0.21,0.09,0.0,0.01,0.01,0.11
 "GROW/O/D /MMF/25/09/0048","Groww Money Market Fund",0.74,0.0,0.02,0.1,0.86,0.2,0.0,0.02,0.03,0.25
@@ -1032,7 +1032,7 @@
 "INVM/O/E/MCF/07/09/0012","Invesco India Multicap Fund",1.62,0.05,0.0,0.37,2.04,0.62,0.05,0.0,0.21,0.88
 "INVM/O/O/OET/11/05/0020","Invesco India Nifty 50 Exchange Traded Fund",0.09,0.0,0.0,0.02,0.11,0.0,0.0,0.0,0.0,0.0
 "INVM/O/O/EIN/26/04/0053","Invesco India Nifty Bank Index Fund",0.66,0.18,0.06,2.38,3.28,0.15,0.18,0.06,2.29,2.68
-"INVM/O/O/DIN/23/03/0043","Invesco India Nifty G-SEC JUL 2027 Index Fund",0.24,0.0,0.0,0.04,0.28,0.12,0.0,0.0,0.02,0.14
+"INVM/O/O/DIN/23/03/0043","Invesco India Nifty G-SEC JUL 2027 Index Fund",0.25,0.0,0.0,0.04,0.29,0.12,0.0,0.0,0.02,0.14
 "INVM/O/O/DIN/23/03/0044","Invesco India Nifty G-SEC SEP 2032 Index Fund",0.25,0.0,0.0,0.04,0.29,0.12,0.0,0.0,0.02,0.14
 "INVM/O/D/ONF/19/12/0032","Invesco India Overnight Fund",0.1,0.0,0.02,0.02,0.14,0.05,0.0,0.02,0.01,0.08
 "INVM/O/E/THE/09/09/0017","Invesco India PSU Equity Fund",1.82,0.01,0.0,0.33,2.16,0.79,0.01,0.0,0.17,0.97
@@ -1294,7 +1294,7 @@
 "MIRA/O/O/EET/23/08/0056","Mirae Asset BSE SENSEX ETF",0.04,0.0,0.0,0.01,0.05,0.0,0.0,0.0,0.0,0.0
 "MIRA/O/D/CBF/21/01/0025","Mirae Asset Corporate Bond Fund",0.58,0.01,0.0,0.1,0.69,0.23,0.01,0.0,0.04,0.28
 "MIRA/O/O/DIN/22/09/0042","Mirae Asset CRISIL IBX Gilt Index - April 2033 Index Fund",0.39,0.0,0.0,0.07,0.46,0.15,0.0,0.0,0.03,0.18
-"MIRA/O/O/DIN/25/05/0083","Mirae Asset CRISIL-IBX Financial Services 9-12 Months Debt Index Fund",0.24,0.01,0.0,0.04,0.29,0.07,0.01,0.0,0.01,0.09
+"MIRA/O/O/DIN/25/05/0083","Mirae Asset CRISIL-IBX Financial Services 9-12 Months Debt Index Fund",0.24,0.01,0.0,0.05,0.3,0.07,0.01,0.0,0.01,0.09
 "MIRA/O/O/FOD/20/08/0021","Mirae Asset Diversified Equity Allocator Passive FoF",0.08,0.0,0.0,0.02,0.1,0.04,0.0,0.0,0.01,0.05
 "MIRA/O/D/DBF/17/01/0008","Mirae Asset Dynamic Bond Fund",0.87,0.0,0.0,0.15,1.02,0.14,0.0,0.0,0.02,0.16
 "MIRA/O/E/ELS/15/10/0007","Mirae Asset ELSS Tax Saver Fund",1.37,0.12,0.01,0.5,2.0,0.56,0.12,0.01,0.35,1.04
