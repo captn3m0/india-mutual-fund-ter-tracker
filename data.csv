@@ -422,7 +422,7 @@
 "CANA/O/E/LCF/10/03/0014","Canara Robeco Large Cap Fund",1.43,0.03,0.0,0.29,1.75,0.45,0.03,0.0,0.13,0.61
 "CANA/O/D/LIF/02/01/0005","Canara Robeco Liquid Fund",0.15,0.0,0.0,0.02,0.17,0.07,0.0,0.0,0.01,0.08
 "CANA/O/E/THE/23/12/0025","Canara Robeco Manufacturing Fund",1.79,0.05,0.0,0.39,2.23,0.68,0.05,0.0,0.23,0.96
-"CANA/O/E/MIF/21/12/0023","Canara Robeco Mid Cap Fund",1.6,0.1,0.01,0.45,2.16,0.49,0.1,0.01,0.27,0.87
+"CANA/O/E/MIF/21/12/0023","Canara Robeco Mid Cap Fund",1.6,0.1,0.01,0.45,2.16,0.49,0.1,0.01,0.28,0.88
 "CANA/O/H/MAA/25/02/0027","Canara Robeco Multi Asset Allocation Fund",1.8,0.08,0.01,0.47,2.36,0.56,0.08,0.01,0.28,0.93
 "CANA/O/E/MCF/23/02/0024","Canara Robeco Multi Cap Fund",1.58,0.05,0.0,0.36,1.99,0.42,0.05,0.0,0.17,0.64
 "CANA/O/D/ONF/19/06/0019","Canara Robeco Overnight Fund",0.09,0.0,0.0,0.01,0.1,0.07,0.0,0.0,0.01,0.08
@@ -546,7 +546,7 @@
 "EDEL/O/O/DIN/22/09/0046","Edelweiss CRISIL IBX 50:50 Gilt Plus SDL SEP 2028 Index Fund",0.38,0.0,0.0,0.07,0.45,0.17,0.0,0.0,0.03,0.2
 "EDEL/O/O/DIN/23/01/0052","Edelweiss CRISIL IBX 50:50 Gilt Plus SDL Short Duration Index Fund",0.5,0.0,0.0,0.08,0.58,0.17,0.0,0.0,0.03,0.2
 "EDEL/O/D/DIN/25/01/0067","Edelweiss CRISIL IBX AAA Bond Nbfc Hfc JUN 2027 Index Fund",0.27,0.0,0.0,0.05,0.32,0.11,0.0,0.0,0.02,0.13
-"EDEL/O/O/DIN/24/11/0064","Edelweiss CRISIL IBX AAA Financial Services Bond - JAN 2028 Index Fund",0.3,0.0,0.0,0.05,0.35,0.14,0.0,0.0,0.02,0.16
+"EDEL/O/O/DIN/24/11/0064","Edelweiss CRISIL IBX AAA Financial Services Bond - JAN 2028 Index Fund",0.31,0.0,0.0,0.05,0.36,0.14,0.0,0.0,0.02,0.16
 "EDEL/O/E/ELS/08/12/0005","Edelweiss ELSS Tax Saver Fund",2.1,0.04,0.0,0.4,2.54,0.69,0.04,0.0,0.19,0.92
 "EDEL/O/O/FOO/13/12/0015","Edelweiss Emerging Markets Opportunities Equity Offshore Fund",1.18,0.0,0.0,0.2,1.38,0.48,0.0,0.0,0.08,0.56
 "EDEL/O/H/ESF/14/09/0017","Edelweiss Equity Savings Fund",1.4,0.08,0.02,0.65,2.15,0.54,0.08,0.02,0.51,1.15
@@ -642,7 +642,7 @@
 "INDB/O/E/ELS/17/08/0006","Groww ELSS Tax Saver Fund",2.09,0.15,0.01,0.6,2.85,0.79,0.15,0.01,0.43,1.38
 "GROW/O/D /GIL/25/03/0029","Groww Gilt Fund",1.44,0.0,0.03,0.21,1.68,0.46,0.0,0.03,0.08,0.57
 "GROW/O/O/GET/24/09/0020","Groww Gold ETF",0.0,0.0,0.0,0.0,0.0,0.6,0.0,0.0,0.11,0.71
-"GROW/O/O/FOD/24/09/0021","Groww Gold ETF FoF",0.3,0.01,0.0,0.05,0.36,0.1,0.01,0.0,0.03,0.14
+"GROW/O/O/FOD/24/09/0021","Groww Gold ETF FoF",0.3,0.01,0.0,0.06,0.37,0.1,0.01,0.0,0.03,0.14
 "INDB/O/E/LCF/11/11/0002","Groww Large Cap Fund",2.09,0.09,0.01,0.51,2.7,0.94,0.09,0.01,0.36,1.4
 "INDB/O/D/LIF/11/10/0001","Groww Liquid Fund",0.18,0.0,0.01,0.02,0.21,0.09,0.0,0.01,0.01,0.11
 "GROW/O/D /MMF/25/09/0048","Groww Money Market Fund",0.74,0.0,0.02,0.1,0.86,0.2,0.0,0.02,0.03,0.25
@@ -1039,9 +1039,9 @@
 "INVM/O/H/MAA/24/09/0047","Invesco India Multi Asset Allocation Fund",1.42,0.02,0.0,0.24,1.68,0.4,0.02,0.0,0.1,0.52
 "INVM/O/E/MCF/07/09/0012","Invesco India Multicap Fund",1.62,0.06,0.0,0.39,2.07,0.62,0.06,0.0,0.23,0.91
 "INVM/O/O/OET/11/05/0020","Invesco India Nifty 50 Exchange Traded Fund",0.09,0.0,0.0,0.02,0.11,0.0,0.0,0.0,0.0,0.0
-"INVM/O/O/EIN/26/04/0053","Invesco India Nifty Bank Index Fund",0.66,0.05,0.02,0.68,1.41,0.14,0.05,0.02,0.59,0.8
+"INVM/O/O/EIN/26/04/0053","Invesco India Nifty Bank Index Fund",0.66,0.05,0.02,0.68,1.41,0.15,0.05,0.02,0.59,0.81
 "INVM/O/O/DIN/23/03/0043","Invesco India Nifty G-SEC JUL 2027 Index Fund",0.25,0.0,0.0,0.04,0.29,0.13,0.0,0.0,0.02,0.15
-"INVM/O/O/DIN/23/03/0044","Invesco India Nifty G-SEC SEP 2032 Index Fund",0.24,0.0,0.0,0.04,0.28,0.12,0.0,0.0,0.02,0.14
+"INVM/O/O/DIN/23/03/0044","Invesco India Nifty G-SEC SEP 2032 Index Fund",0.24,0.0,0.0,0.04,0.28,0.13,0.0,0.0,0.02,0.15
 "INVM/O/D/ONF/19/12/0032","Invesco India Overnight Fund",0.1,0.0,0.02,0.02,0.14,0.05,0.0,0.02,0.01,0.08
 "INVM/O/E/THE/09/09/0017","Invesco India PSU Equity Fund",1.82,0.11,0.01,0.51,2.45,0.79,0.11,0.01,0.34,1.25
 "INVM/O/D/SDF/07/03/0007","Invesco India Short Duration Fund",0.89,0.04,0.0,0.15,1.08,0.3,0.04,0.0,0.06,0.4
