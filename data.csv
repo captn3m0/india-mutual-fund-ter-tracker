@@ -549,7 +549,7 @@
 "EDEL/O/O/DIN/22/09/0046","Edelweiss CRISIL IBX 50:50 Gilt Plus SDL SEP 2028 Index Fund",0.38,0.0,0.0,0.07,0.45,0.17,0.0,0.0,0.03,0.2
 "EDEL/O/O/DIN/23/01/0052","Edelweiss CRISIL IBX 50:50 Gilt Plus SDL Short Duration Index Fund",0.5,0.0,0.0,0.08,0.58,0.17,0.0,0.0,0.03,0.2
 "EDEL/O/D/DIN/25/01/0067","Edelweiss CRISIL IBX AAA Bond Nbfc Hfc JUN 2027 Index Fund",0.27,0.0,0.0,0.05,0.32,0.11,0.0,0.0,0.02,0.13
-"EDEL/O/O/DIN/24/11/0064","Edelweiss CRISIL IBX AAA Financial Services Bond - JAN 2028 Index Fund",0.3,0.0,0.0,0.05,0.35,0.14,0.0,0.0,0.02,0.16
+"EDEL/O/O/DIN/24/11/0064","Edelweiss CRISIL IBX AAA Financial Services Bond - JAN 2028 Index Fund",0.31,0.0,0.0,0.05,0.36,0.14,0.0,0.0,0.02,0.16
 "EDEL/O/E/ELS/08/12/0005","Edelweiss ELSS Tax Saver Fund",2.1,0.04,0.0,0.4,2.54,0.69,0.04,0.0,0.19,0.92
 "EDEL/O/O/FOO/13/12/0015","Edelweiss Emerging Markets Opportunities Equity Offshore Fund",1.18,0.0,0.0,0.2,1.38,0.48,0.0,0.0,0.08,0.56
 "EDEL/O/H/ESF/14/09/0017","Edelweiss Equity Savings Fund",1.4,0.08,0.02,0.65,2.15,0.54,0.08,0.02,0.51,1.15
@@ -1015,7 +1015,7 @@
 "INVM/O/H/ARB/06/12/0005","Invesco India Arbitrage Fund",0.91,0.15,0.07,1.84,2.97,0.34,0.15,0.07,1.75,2.31
 "INVM/O/H/DAA/07/06/0009","Invesco India Balanced Advantage Fund",1.8,0.09,0.01,0.49,2.39,0.71,0.09,0.01,0.33,1.14
 "INVM/O/D/BPF/12/09/0022","Invesco India Banking and PSU Fund",0.54,0.0,0.0,0.09,0.63,0.22,0.0,0.0,0.04,0.26
-"INVM/O/O/EIN/26/03/0052","Invesco India BSE SENSEX Index Fund",0.58,0.05,0.02,0.7,1.35,0.15,0.05,0.02,0.63,0.85
+"INVM/O/O/EIN/26/03/0052","Invesco India BSE SENSEX Index Fund",0.58,0.05,0.02,0.7,1.35,0.16,0.05,0.02,0.63,0.86
 "INVM/O/E/THE/24/10/0048","Invesco India Business Cycle Fund",1.84,0.05,0.0,0.39,2.28,0.55,0.05,0.0,0.2,0.8
 "INVM/O/E/THE/25/08/0051","Invesco India Consumption Fund",2.07,0.09,0.0,0.48,2.64,0.73,0.09,0.0,0.3,1.12
 "INVM/O/E/COF/06/11/0003","Invesco India Contra Fund",1.41,0.07,0.0,0.38,1.86,0.48,0.07,0.0,0.22,0.77
@@ -1045,7 +1045,7 @@
 "INVM/O/O/OET/11/05/0020","Invesco India Nifty 50 Exchange Traded Fund",0.09,0.0,0.0,0.02,0.11,0.0,0.0,0.0,0.0,0.0
 "INVM/O/O/EIN/26/04/0053","Invesco India Nifty Bank Index Fund",0.66,0.05,0.02,0.68,1.41,0.14,0.05,0.02,0.59,0.8
 "INVM/O/O/DIN/23/03/0043","Invesco India Nifty G-SEC JUL 2027 Index Fund",0.24,0.0,0.0,0.04,0.28,0.13,0.0,0.0,0.02,0.15
-"INVM/O/O/DIN/23/03/0044","Invesco India Nifty G-SEC SEP 2032 Index Fund",0.25,0.0,0.0,0.04,0.29,0.13,0.0,0.0,0.02,0.15
+"INVM/O/O/DIN/23/03/0044","Invesco India Nifty G-SEC SEP 2032 Index Fund",0.25,0.0,0.0,0.04,0.29,0.12,0.0,0.0,0.02,0.14
 "INVM/O/D/ONF/19/12/0032","Invesco India Overnight Fund",0.1,0.0,0.02,0.02,0.14,0.05,0.0,0.02,0.01,0.08
 "INVM/O/E/THE/09/09/0017","Invesco India PSU Equity Fund",1.82,0.11,0.01,0.51,2.45,0.79,0.11,0.01,0.34,1.25
 "INVM/O/D/SDF/07/03/0007","Invesco India Short Duration Fund",0.89,0.04,0.0,0.15,1.08,0.3,0.04,0.0,0.06,0.4
@@ -1856,7 +1856,7 @@
 "SUND/C/E/ELS/17/02/0031","Sundaram Long Term Micro Cap Tax Advantage Fund Series Vi",1.0,0.01,0.0,0.19,1.2,0.78,0.01,0.0,0.16,0.95
 "SUND/C/E/ELS/17/02/0030","Sundaram Long Term Micro Cap Tax Advantage Series V",1.0,0.01,0.0,0.19,1.2,0.81,0.01,0.0,0.16,0.98
 "SUND/C/E/ELS/17/12/0036","Sundaram Long Term Tax Advantage Fund Series Iii",1.0,0.01,0.0,0.21,1.22,0.8,0.01,0.0,0.17,0.98
-"SUND/C/E/ELS/17/12/0037","Sundaram Long Term Tax Advantage Fund Series Iv",1.0,0.01,0.0,0.21,1.22,0.82,0.01,0.0,0.18,1.01
+"SUND/C/E/ELS/17/12/0037","Sundaram Long Term Tax Advantage Fund Series Iv",1.0,0.01,0.0,0.21,1.22,0.83,0.01,0.0,0.18,1.02
 "SUND/O/D/LOW/04/08/0011","Sundaram Low Duration Fund (Formerly Known as Principal Low Duration Fund)",0.99,0.0,0.0,0.15,1.14,0.34,0.0,0.0,0.06,0.4
 "SUND/O/D/MDF/97/08/0002","Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund)",1.63,0.0,0.0,0.27,1.9,0.99,0.0,0.0,0.18,1.17
 "SUND/O/E/MIF/02/06/0010","Sundaram Mid Cap Fund",1.45,0.05,0.0,0.36,1.86,0.75,0.05,0.0,0.25,1.05
@@ -1875,7 +1875,7 @@
 "TATA/O/H/ARB/18/06/0030","Tata Arbitrage Fund",0.91,0.16,0.06,1.25,2.38,0.26,0.16,0.06,1.22,1.7
 "TATA/O/H/BAF/18/07/0031","Tata Balanced Advantage Fund",1.5,0.02,0.01,0.33,1.86,0.46,0.02,0.01,0.17,0.66
 "TATA/O/E/SEC/15/10/0024","Tata Banking & Financial Services Fund",1.65,0.11,0.01,0.49,2.26,0.47,0.11,0.01,0.34,0.93
-"TATA/O/O/OIN/25/11/0079","Tata BSE Multicap Consumption 50:30:20 Index Fund",0.9,0.03,0.01,0.3,1.24,0.23,0.03,0.01,0.24,0.51
+"TATA/O/O/OIN/25/11/0079","Tata BSE Multicap Consumption 50:30:20 Index Fund",0.9,0.03,0.01,0.3,1.24,0.24,0.03,0.01,0.24,0.52
 "TATA/O/O/OIN/25/02/0075","Tata BSE Quality Index Fund",0.9,0.01,0.0,0.16,1.07,0.3,0.01,0.0,0.1,0.41
 "TATA/O/O/OIN/24/11/0073","Tata BSE Select Business Groups Index Fund",0.9,0.01,0.0,0.16,1.07,0.25,0.01,0.0,0.15,0.41
 "TATA/O/O/EIN/02/11/0015","Tata BSE SENSEX Index Fund",0.51,0.0,0.0,0.07,0.58,0.27,0.0,0.0,0.06,0.33
