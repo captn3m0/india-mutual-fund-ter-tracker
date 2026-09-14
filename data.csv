@@ -551,7 +551,7 @@
 "EDEL/O/O/DIN/22/09/0046","Edelweiss CRISIL IBX 50:50 Gilt Plus SDL SEP 2028 Index Fund",0.38,0.0,0.0,0.07,0.45,0.17,0.0,0.0,0.03,0.2
 "EDEL/O/O/DIN/23/01/0052","Edelweiss CRISIL IBX 50:50 Gilt Plus SDL Short Duration Index Fund",0.5,0.0,0.0,0.07,0.57,0.17,0.0,0.0,0.03,0.2
 "EDEL/O/D/DIN/25/01/0067","Edelweiss CRISIL IBX AAA Bond Nbfc Hfc JUN 2027 Index Fund",0.27,0.0,0.0,0.05,0.32,0.11,0.0,0.0,0.02,0.13
-"EDEL/O/O/DIN/24/11/0064","Edelweiss CRISIL IBX AAA Financial Services Bond - JAN 2028 Index Fund",0.31,0.0,0.0,0.05,0.36,0.14,0.0,0.0,0.02,0.16
+"EDEL/O/O/DIN/24/11/0064","Edelweiss CRISIL IBX AAA Financial Services Bond - JAN 2028 Index Fund",0.3,0.0,0.0,0.05,0.35,0.14,0.0,0.0,0.02,0.16
 "EDEL/O/E/ELS/08/12/0005","Edelweiss ELSS Tax Saver Fund",2.1,0.04,0.0,0.43,2.57,0.69,0.04,0.0,0.2,0.93
 "EDEL/O/O/FOO/13/12/0015","Edelweiss Emerging Markets Opportunities Equity Offshore Fund",1.18,0.0,0.0,0.21,1.39,0.48,0.0,0.0,0.08,0.56
 "EDEL/O/H/ESF/14/09/0017","Edelweiss Equity Savings Fund",1.4,0.08,0.02,0.65,2.15,0.54,0.08,0.02,0.5,1.14
@@ -650,7 +650,7 @@
 "INDB/O/E/ELS/17/08/0006","Groww ELSS Tax Saver Fund",2.08,0.17,0.01,0.64,2.9,0.83,0.17,0.01,0.49,1.5
 "GROW/O/D /GIL/25/03/0029","Groww Gilt Fund",1.44,0.0,0.03,0.21,1.68,0.46,0.0,0.03,0.08,0.57
 "GROW/O/O/GET/24/09/0020","Groww Gold ETF",0.0,0.0,0.0,0.0,0.0,0.6,0.0,0.0,0.11,0.71
-"GROW/O/O/FOD/24/09/0021","Groww Gold ETF FoF",0.3,0.01,0.0,0.05,0.36,0.1,0.01,0.0,0.03,0.14
+"GROW/O/O/FOD/24/09/0021","Groww Gold ETF FoF",0.3,0.01,0.0,0.06,0.37,0.1,0.01,0.0,0.03,0.14
 "INDB/O/E/LCF/11/11/0002","Groww Large Cap Fund",2.09,0.1,0.01,0.51,2.71,1.18,0.1,0.01,0.4,1.69
 "INDB/O/D/LIF/11/10/0001","Groww Liquid Fund",0.18,0.0,0.01,0.02,0.21,0.09,0.0,0.01,0.01,0.11
 "GROW/O/D /MMF/25/09/0048","Groww Money Market Fund",0.74,0.0,0.02,0.1,0.86,0.2,0.0,0.02,0.03,0.25
@@ -886,7 +886,7 @@
 "ICIC/O/O/EIN/17/06/0056","ICICI Prudential BSE SENSEX Index Fund",0.26,0.0,0.0,0.07,0.33,0.17,0.0,0.0,0.05,0.22
 "ICIC/O/E/THE/19/12/0118","ICICI Prudential Business Cycle Fund",1.43,0.04,0.0,0.36,1.83,0.72,0.04,0.0,0.25,1.01
 "ICIC/O/S/CHI/01/06/0015","ICICI Prudential Children's Fund",1.83,0.2,0.02,0.98,3.03,1.2,0.2,0.02,0.9,2.32
-"ICIC/O/E/SEC/19/07/0111","ICICI Prudential Commodities Fund",1.62,0.01,0.0,0.33,1.96,0.83,0.01,0.0,0.2,1.04
+"ICIC/O/E/SEC/19/07/0111","ICICI Prudential Commodities Fund",1.63,0.01,0.0,0.33,1.97,0.83,0.01,0.0,0.2,1.04
 "ICIC/O/E/THE/25/04/0200","ICICI Prudential Conglomerate Fund",2.01,0.02,0.0,0.39,2.42,1.09,0.02,0.0,0.27,1.38
 "ICIC/O/H/CHF/10/10/0039","ICICI Prudential Conservative Hybrid Fund",1.43,0.01,0.0,0.29,1.73,0.84,0.01,0.0,0.19,1.04
 "ICIC/O/D/CBF/09/06/0034","ICICI Prudential Corporate Bond Fund",0.51,0.0,0.0,0.09,0.6,0.32,0.0,0.0,0.05,0.37
@@ -1005,7 +1005,7 @@
 "ICIC/O/O/FOD/21/12/0138","ICICI Prudential Silver ETF FoF",0.56,0.0,0.0,0.1,0.66,0.17,0.0,0.0,0.03,0.2
 "ICIC/O/E/SCF/07/06/0031","ICICI Prudential Small Cap Fund",1.5,0.08,0.01,0.51,2.1,0.7,0.08,0.01,0.39,1.18
 "ICIC/O/O/FOO/21/11/0133","ICICI Prudential Strategic Metal and Energy Equity Fund of Fund",0.85,0.0,0.0,0.13,0.98,0.19,0.0,0.0,0.03,0.22
-"ICIC/O/E/SEC/00/01/0014","ICICI Prudential Technology Fund",1.47,0.03,0.0,0.37,1.87,0.9,0.03,0.0,0.28,1.21
+"ICIC/O/E/SEC/00/01/0014","ICICI Prudential Technology Fund",1.46,0.03,0.0,0.37,1.86,0.89,0.03,0.0,0.28,1.2
 "ICIC/O/E/THE/22/09/0155","ICICI Prudential Transportation and Logistics Fund",1.63,0.04,0.0,0.41,2.08,0.92,0.04,0.0,0.31,1.27
 "ICIC/O/D/USD/09/06/0035","ICICI Prudential Ultra Short Term Fund",0.68,0.0,0.0,0.12,0.8,0.34,0.0,0.0,0.06,0.4
 "ICIC/O/D/LOW/98/05/0005","ICICI Prudential Ultra Short to Short Term Fund",0.45,0.0,0.0,0.08,0.53,0.36,0.0,0.0,0.06,0.42
@@ -1046,11 +1046,11 @@
 "INVM/O/D/MMF/09/06/0016","Invesco India Money Market Fund",0.36,0.01,0.0,0.06,0.43,0.13,0.01,0.0,0.02,0.16
 "INVM/O/H/MAA/24/09/0047","Invesco India Multi Asset Allocation Fund",1.41,0.02,0.0,0.24,1.67,0.41,0.02,0.0,0.1,0.53
 "INVM/O/E/MCF/07/09/0012","Invesco India Multi Cap Fund",1.62,0.07,0.0,0.39,2.08,0.62,0.07,0.0,0.24,0.93
-"INVM/O/O/OET/11/05/0020","Invesco India Nifty 50 Exchange Traded Fund",0.09,0.0,0.0,0.02,0.11,0.0,0.0,0.0,0.0,0.0
+"INVM/O/O/OET/11/05/0020","Invesco India Nifty 50 Exchange Traded Fund",0.08,0.0,0.0,0.02,0.1,0.0,0.0,0.0,0.0,0.0
 "INVM/O/O/EET/26/06/0056","Invesco India Nifty Bank ETF",0.11,0.27,0.08,2.82,3.28,0.0,0.0,0.0,0.0,0.0
-"INVM/O/O/EIN/26/04/0053","Invesco India Nifty Bank Index Fund",0.66,0.04,0.01,0.57,1.28,0.15,0.04,0.01,0.48,0.68
+"INVM/O/O/EIN/26/04/0053","Invesco India Nifty Bank Index Fund",0.66,0.04,0.01,0.57,1.28,0.14,0.04,0.01,0.48,0.67
 "INVM/O/O/DIN/23/03/0043","Invesco India Nifty G-SEC JUL 2027 Index Fund",0.24,0.0,0.0,0.04,0.28,0.13,0.0,0.0,0.02,0.15
-"INVM/O/O/DIN/23/03/0044","Invesco India Nifty G-SEC SEP 2032 Index Fund",0.24,0.0,0.0,0.04,0.28,0.12,0.0,0.0,0.02,0.14
+"INVM/O/O/DIN/23/03/0044","Invesco India Nifty G-SEC SEP 2032 Index Fund",0.24,0.0,0.0,0.04,0.28,0.13,0.0,0.0,0.02,0.15
 "INVM/O/D/ONF/19/12/0032","Invesco India Overnight Fund",0.1,0.0,0.02,0.02,0.14,0.05,0.0,0.02,0.01,0.08
 "INVM/O/E/SEC/26/02/0054","Invesco India Pharma and Healthcare Fund",2.1,0.0,0.0,0.37,2.47,0.5,0.0,0.0,0.09,0.59
 "INVM/O/E/THE/09/09/0017","Invesco India PSU Equity Fund",1.83,0.1,0.01,0.49,2.43,0.81,0.1,0.01,0.33,1.25
@@ -1342,7 +1342,7 @@
 "MIRA/O/D/LON/24/10/0074","Mirae Asset Long Term Fund",0.62,0.0,0.0,0.11,0.73,0.17,0.0,0.0,0.03,0.2
 "MIRA/O/E/MIF/19/05/0015","Mirae Asset Midcap Fund",1.41,0.11,0.01,0.49,2.02,0.5,0.11,0.01,0.32,0.94
 "MIRA/O/D/MMF/21/06/0029","Mirae Asset Money Market Fund",0.35,0.01,0.0,0.06,0.42,0.09,0.01,0.0,0.01,0.11
-"MIRA/O/H/MAA/23/12/0059","Mirae Asset Multi Asset Allocation Fund",1.62,0.05,0.01,0.46,2.14,0.34,0.05,0.01,0.23,0.63
+"MIRA/O/H/MAA/23/12/0059","Mirae Asset Multi Asset Allocation Fund",1.62,0.05,0.01,0.46,2.14,0.35,0.05,0.01,0.23,0.64
 "MIRA/O/O/FOD/25/06/0086","Mirae Asset Multi Factor Passive FoF",0.5,0.03,0.01,0.11,0.65,0.02,0.03,0.01,0.02,0.08
 "MIRA/O/E/MCF/23/01/0052","Mirae Asset Multicap Fund",1.58,0.12,0.01,0.54,2.25,0.39,0.12,0.01,0.33,0.85
 "MIRA/O/O/EET/20/08/0022","Mirae Asset Nifty 100 ESG Sector Leaders ETF",0.35,0.0,0.0,0.11,0.46,0.0,0.0,0.0,0.0,0.0
@@ -1609,7 +1609,7 @@
 "NIMF/O/E/THE/21/10/0118","Nippon India Taiwan Equity Fund",1.89,0.07,0.0,0.39,2.35,0.77,0.07,0.0,0.23,1.07
 "NIMF/O/D/USD/00/12/0006","Nippon India Ultra Short Term Fund",0.89,0.01,0.0,0.16,1.06,0.28,0.01,0.0,0.05,0.34
 "NIMF/O/D/LOW/06/10/0029","Nippon India Ultra Short to Short Term Fund",0.83,0.01,0.0,0.15,0.99,0.32,0.01,0.0,0.06,0.39
-"NIMF/O/E/THE/15/01/0056","Nippon India US Equity Opportunities Fund",2.0,0.03,0.0,0.35,2.38,1.08,0.03,0.0,0.19,1.3
+"NIMF/O/E/THE/15/01/0056","Nippon India US Equity Opportunities Fund",1.99,0.03,0.0,0.35,2.37,1.08,0.03,0.0,0.19,1.3
 "NIMF/O/E/VAF/04/11/0023","Nippon India Value Fund",1.52,0.07,0.0,0.41,2.0,0.89,0.07,0.0,0.31,1.27
 "NIMF/O/E/LMF/95/08/0002","Nippon India Vision Large & Mid Cap Fund",1.53,0.13,0.01,0.54,2.21,0.9,0.13,0.01,0.45,1.49
 "NJMF/O/H/ARB/22/02/0003","NJ Arbitrage Fund",0.75,0.11,0.04,0.76,1.66,0.25,0.11,0.04,0.67,1.07
@@ -1870,7 +1870,7 @@
 "SUND/C/E/ELS/17/02/0031","Sundaram Long Term Micro Cap Tax Advantage Fund Series Vi",1.0,0.02,0.0,0.21,1.23,0.78,0.02,0.0,0.18,0.98
 "SUND/C/E/ELS/17/02/0030","Sundaram Long Term Micro Cap Tax Advantage Series V",1.0,0.02,0.0,0.21,1.23,0.81,0.02,0.0,0.18,1.01
 "SUND/C/E/ELS/17/12/0036","Sundaram Long Term Tax Advantage Fund Series Iii",1.0,0.02,0.0,0.22,1.24,0.8,0.02,0.0,0.19,1.01
-"SUND/C/E/ELS/17/12/0037","Sundaram Long Term Tax Advantage Fund Series Iv",1.0,0.02,0.0,0.21,1.23,0.82,0.02,0.0,0.18,1.02
+"SUND/C/E/ELS/17/12/0037","Sundaram Long Term Tax Advantage Fund Series Iv",1.0,0.02,0.0,0.21,1.23,0.83,0.02,0.0,0.18,1.03
 "SUND/O/D/MDF/97/08/0002","Sundaram Medium Term Fund (Formerly Known as Sundaram Medium Duration Fund)",1.63,0.0,0.0,0.27,1.9,0.99,0.0,0.0,0.17,1.16
 "SUND/O/E/MIF/02/06/0010","Sundaram Mid Cap Fund",1.45,0.05,0.0,0.36,1.86,0.75,0.05,0.0,0.25,1.05
 "SUND/O/D/MMF/18/07/0048","Sundaram Money Market Fund",0.32,0.01,0.0,0.05,0.38,0.16,0.01,0.0,0.02,0.19
@@ -1889,8 +1889,8 @@
 "TATA/O/H/ARB/18/06/0030","Tata Arbitrage Fund",0.91,0.15,0.05,1.18,2.29,0.26,0.15,0.05,1.15,1.61
 "TATA/O/H/BAF/18/07/0031","Tata Balanced Advantage Fund",1.51,0.02,0.01,0.33,1.87,0.49,0.02,0.01,0.18,0.7
 "TATA/O/E/SEC/15/10/0024","Tata Banking & Financial Services Fund",1.65,0.1,0.01,0.46,2.22,0.49,0.1,0.01,0.32,0.92
-"TATA/O/O/OIN/25/11/0079","Tata BSE Multicap Consumption 50:30:20 Index Fund",0.9,0.03,0.01,0.28,1.22,0.23,0.03,0.01,0.22,0.49
-"TATA/O/O/OIN/25/02/0075","Tata BSE Quality Index Fund",0.9,0.01,0.0,0.16,1.07,0.3,0.01,0.0,0.1,0.41
+"TATA/O/O/OIN/25/11/0079","Tata BSE Multicap Consumption 50:30:20 Index Fund",0.9,0.03,0.01,0.28,1.22,0.24,0.03,0.01,0.22,0.5
+"TATA/O/O/OIN/25/02/0075","Tata BSE Quality Index Fund",0.9,0.01,0.0,0.16,1.07,0.29,0.01,0.0,0.1,0.4
 "TATA/O/O/OIN/24/11/0073","Tata BSE Select Business Groups Index Fund",0.9,0.01,0.0,0.15,1.06,0.25,0.01,0.0,0.14,0.4
 "TATA/O/O/EIN/02/11/0015","Tata BSE SENSEX Index Fund",0.51,0.0,0.0,0.07,0.58,0.27,0.0,0.0,0.06,0.33
 "TATA/O/E/THE/21/06/0045","Tata Business Cycle Fund",1.7,0.06,0.0,0.41,2.17,0.61,0.06,0.0,0.24,0.91
@@ -2118,7 +2118,7 @@
 "WHIT/O/E/LCF/22/06/0007","WhiteOak Capital Large Cap Fund",1.86,0.05,0.01,0.56,2.48,0.54,0.05,0.01,0.32,0.92
 "WHIT/O/D/LIF/18/11/0001","WhiteOak Capital Liquid Fund",0.2,0.0,0.0,0.03,0.23,0.1,0.0,0.0,0.02,0.12
 "WHIT/O/E/MIF/22/05/0005","WhiteOak Capital Mid Cap Fund",1.53,0.08,0.02,0.62,2.25,0.42,0.08,0.02,0.42,0.94
-"WHIT/O/H/MAA/23/02/0010","WhiteOak Capital Multi Asset Allocation Fund",1.25,0.04,0.01,0.37,1.67,0.38,0.04,0.01,0.21,0.64
+"WHIT/O/H/MAA/23/02/0010","WhiteOak Capital Multi Asset Allocation Fund",1.26,0.04,0.01,0.37,1.68,0.38,0.04,0.01,0.21,0.64
 "WHIT/O/E/MCF/23/08/0011","WhiteOak Capital Multi Cap Fund",1.62,0.06,0.01,0.53,2.22,0.49,0.06,0.01,0.33,0.89
 "WHIT/O/E/SEC/23/12/0015","WhiteOak Capital Pharma and Healthcare Fund",1.95,0.13,0.01,0.67,2.76,0.53,0.13,0.01,0.42,1.09
 "WHIT/O/E/THE/24/11/0020","WhiteOak Capital Quality Equity Fund",2.07,0.05,0.01,0.55,2.68,0.67,0.05,0.01,0.3,1.03
