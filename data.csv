@@ -551,7 +551,7 @@
 "EDEL/O/O/DIN/22/09/0046","Edelweiss CRISIL IBX 50:50 Gilt Plus SDL SEP 2028 Index Fund",0.38,0.0,0.0,0.07,0.45,0.17,0.0,0.0,0.03,0.2
 "EDEL/O/O/DIN/23/01/0052","Edelweiss CRISIL IBX 50:50 Gilt Plus SDL Short Duration Index Fund",0.5,0.0,0.0,0.07,0.57,0.17,0.0,0.0,0.03,0.2
 "EDEL/O/D/DIN/25/01/0067","Edelweiss CRISIL IBX AAA Bond Nbfc Hfc JUN 2027 Index Fund",0.27,0.0,0.0,0.05,0.32,0.11,0.0,0.0,0.02,0.13
-"EDEL/O/O/DIN/24/11/0064","Edelweiss CRISIL IBX AAA Financial Services Bond - JAN 2028 Index Fund",0.31,0.0,0.0,0.05,0.36,0.14,0.0,0.0,0.02,0.16
+"EDEL/O/O/DIN/24/11/0064","Edelweiss CRISIL IBX AAA Financial Services Bond - JAN 2028 Index Fund",0.3,0.0,0.0,0.05,0.35,0.14,0.0,0.0,0.02,0.16
 "EDEL/O/E/ELS/08/12/0005","Edelweiss ELSS Tax Saver Fund",2.1,0.04,0.0,0.43,2.57,0.69,0.04,0.0,0.2,0.93
 "EDEL/O/O/FOO/13/12/0015","Edelweiss Emerging Markets Opportunities Equity Offshore Fund",1.18,0.0,0.0,0.21,1.39,0.48,0.0,0.0,0.08,0.56
 "EDEL/O/H/ESF/14/09/0017","Edelweiss Equity Savings Fund",1.4,0.08,0.02,0.65,2.15,0.54,0.08,0.02,0.5,1.14
@@ -1050,11 +1050,11 @@
 "INVM/O/D/MMF/09/06/0016","Invesco India Money Market Fund",0.36,0.01,0.0,0.06,0.43,0.13,0.01,0.0,0.02,0.16
 "INVM/O/H/MAA/24/09/0047","Invesco India Multi Asset Allocation Fund",1.42,0.02,0.0,0.24,1.68,0.42,0.02,0.0,0.1,0.54
 "INVM/O/E/MCF/07/09/0012","Invesco India Multi Cap Fund",1.62,0.07,0.0,0.4,2.09,0.62,0.07,0.0,0.24,0.93
-"INVM/O/O/OET/11/05/0020","Invesco India Nifty 50 Exchange Traded Fund",0.08,0.0,0.0,0.02,0.1,0.0,0.0,0.0,0.0,0.0
+"INVM/O/O/OET/11/05/0020","Invesco India Nifty 50 Exchange Traded Fund",0.09,0.0,0.0,0.02,0.11,0.0,0.0,0.0,0.0,0.0
 "INVM/O/O/EET/26/06/0056","Invesco India Nifty Bank ETF",0.11,0.27,0.08,2.82,3.28,0.0,0.0,0.0,0.0,0.0
-"INVM/O/O/EIN/26/04/0053","Invesco India Nifty Bank Index Fund",0.66,0.04,0.01,0.57,1.28,0.15,0.04,0.01,0.48,0.68
-"INVM/O/O/DIN/23/03/0043","Invesco India Nifty G-SEC JUL 2027 Index Fund",0.24,0.0,0.0,0.04,0.28,0.12,0.0,0.0,0.02,0.14
-"INVM/O/O/DIN/23/03/0044","Invesco India Nifty G-SEC SEP 2032 Index Fund",0.25,0.0,0.0,0.04,0.29,0.12,0.0,0.0,0.02,0.14
+"INVM/O/O/EIN/26/04/0053","Invesco India Nifty Bank Index Fund",0.66,0.04,0.01,0.57,1.28,0.14,0.04,0.01,0.48,0.67
+"INVM/O/O/DIN/23/03/0043","Invesco India Nifty G-SEC JUL 2027 Index Fund",0.25,0.0,0.0,0.04,0.29,0.12,0.0,0.0,0.02,0.14
+"INVM/O/O/DIN/23/03/0044","Invesco India Nifty G-SEC SEP 2032 Index Fund",0.25,0.0,0.0,0.04,0.29,0.13,0.0,0.0,0.02,0.15
 "INVM/O/D/ONF/19/12/0032","Invesco India Overnight Fund",0.1,0.0,0.02,0.02,0.14,0.05,0.0,0.02,0.01,0.08
 "INVM/O/E/SEC/26/02/0054","Invesco India Pharma and Healthcare Fund",2.1,0.0,0.0,0.37,2.47,0.5,0.0,0.0,0.09,0.59
 "INVM/O/E/THE/09/09/0017","Invesco India PSU Equity Fund",1.83,0.1,0.01,0.49,2.43,0.81,0.1,0.01,0.33,1.25
@@ -1232,7 +1232,7 @@
 "KOTM/O/E/SEC/24/01/0119","Kotak Technology Fund",2.1,0.024,0.0023,0.44,2.5663,0.88,0.024,0.0023,0.21,1.1163
 "KOTM/O/E/THE/24/06/0133","Kotak Transportation & Logistics Fund",2.08,0.0199,0.0034,0.47,2.5733,0.8,0.0199,0.0034,0.23,1.0533
 "KOTM/O/D/USD/04/07/0013","Kotak Ultra Short Term Fund",0.7,0.001,0.0005,0.12,0.8215,0.31,0.001,0.0005,0.05,0.3615
-"KOTM/O/D/LOW/08/03/0024","Kotak Ultra Short to Short Term Fund",0.99,0.002,0.0004,0.18,1.1724,0.35,0.002,0.0004,0.06,0.4124
+"KOTM/O/D/LOW/08/03/0024","Kotak Ultra Short to Short Term Fund",1.0,0.002,0.0004,0.18,1.1824,0.35,0.002,0.0004,0.06,0.4124
 "KOTM/O/O/FOO/20/12/0061","Kotak US Specific Equity Passive FoF",0.6,0.002,0.0,0.12,0.722,0.29,0.002,0.0,0.05,0.342
 "LICM/O/H/AHF/91/01/0001","LIC MF Aggressive Hybrid Fund",2.08,0.13,0.01,0.58,2.8,1.13,0.13,0.01,0.47,1.74
 "LICM/O/H/ARB/18/08/0022","LIC MF Arbitrage Fund",0.74,0.09,0.03,0.81,1.67,0.24,0.09,0.03,0.73,1.09
@@ -1876,7 +1876,7 @@
 "SUND/C/E/ELS/17/02/0031","Sundaram Long Term Micro Cap Tax Advantage Fund Series Vi",1.0,0.02,0.0,0.21,1.23,0.78,0.02,0.0,0.18,0.98
 "SUND/C/E/ELS/17/02/0030","Sundaram Long Term Micro Cap Tax Advantage Series V",1.0,0.02,0.0,0.21,1.23,0.81,0.02,0.0,0.18,1.01
 "SUND/C/E/ELS/17/12/0036","Sundaram Long Term Tax Advantage Fund Series Iii",1.0,0.02,0.0,0.22,1.24,0.8,0.02,0.0,0.19,1.01
-"SUND/C/E/ELS/17/12/0037","Sundaram Long Term Tax Advantage Fund Series Iv",1.0,0.02,0.0,0.21,1.23,0.83,0.02,0.0,0.18,1.03
+"SUND/C/E/ELS/17/12/0037","Sundaram Long Term Tax Advantage Fund Series Iv",1.0,0.02,0.0,0.21,1.23,0.82,0.02,0.0,0.18,1.02
 "SUND/O/D/MDF/97/08/0002","Sundaram Medium Term Fund (Formerly Known as Sundaram Medium Duration Fund)",1.63,0.0,0.0,0.27,1.9,0.99,0.0,0.0,0.17,1.16
 "SUND/O/E/MIF/02/06/0010","Sundaram Mid Cap Fund",1.45,0.05,0.0,0.36,1.86,0.75,0.05,0.0,0.25,1.05
 "SUND/O/D/MMF/18/07/0048","Sundaram Money Market Fund",0.32,0.01,0.0,0.05,0.38,0.16,0.01,0.0,0.02,0.19
