@@ -101,7 +101,7 @@
 "ABSL/O/O/OIN/20/03/0090","Aditya Birla Sun Life Nifty Smallcap 50 Index Fund",0.88,0.01,0.0,0.22,1.11,0.41,0.01,0.0,0.15,0.57
 "ABSL/O/D/ONF/18/10/0074","Aditya Birla Sun Life Overnight Fund",0.17,0.0,0.01,0.03,0.21,0.07,0.0,0.01,0.01,0.09
 "ABSL/O/E/SEC/18/05/0054","Aditya Birla Sun Life Pharma and Healthcare Fund",1.89,0.03,0.0,0.36,2.28,0.82,0.03,0.0,0.2,1.05
-"ABSL/O/E/SEC/19/06/0086","Aditya Birla Sun Life PSU Equity Fund",1.57,0.01,0.0,0.3,1.88,0.6,0.01,0.0,0.15,0.76
+"ABSL/O/E/SEC/19/06/0086","Aditya Birla Sun Life PSU Equity Fund",1.57,0.01,0.0,0.3,1.88,0.61,0.01,0.0,0.15,0.77
 "ABSL/O/E/THE/24/01/0158","Aditya Birla Sun Life Quant Fund",1.77,0.13,0.01,0.61,2.52,0.65,0.13,0.01,0.46,1.25
 "ABSL/O/S/RET/18/09/0069","Aditya Birla Sun Life Retirement Fund-The 30s Plan",2.1,0.07,0.0,0.47,2.64,0.97,0.07,0.0,0.31,1.35
 "ABSL/O/S/RET/18/09/0070","Aditya Birla Sun Life Retirement Fund-The 40s Plan",2.09,0.0,0.0,0.33,2.42,1.0,0.0,0.0,0.18,1.18
@@ -651,7 +651,7 @@
 "INDB/O/E/ELS/17/08/0006","Groww ELSS Tax Saver Fund",2.08,0.17,0.01,0.64,2.9,0.83,0.17,0.01,0.49,1.5
 "GROW/O/D /GIL/25/03/0029","Groww Gilt Fund",1.44,0.0,0.03,0.21,1.68,0.46,0.0,0.03,0.08,0.57
 "GROW/O/O/GET/24/09/0020","Groww Gold ETF",0.0,0.0,0.0,0.0,0.0,0.6,0.0,0.0,0.11,0.71
-"GROW/O/O/FOD/24/09/0021","Groww Gold ETF FoF",0.3,0.01,0.0,0.06,0.37,0.1,0.01,0.0,0.03,0.14
+"GROW/O/O/FOD/24/09/0021","Groww Gold ETF FoF",0.3,0.01,0.0,0.05,0.36,0.1,0.01,0.0,0.03,0.14
 "INDB/O/E/LCF/11/11/0002","Groww Large Cap Fund",2.09,0.1,0.01,0.51,2.71,1.18,0.1,0.01,0.4,1.69
 "INDB/O/D/LIF/11/10/0001","Groww Liquid Fund",0.18,0.0,0.01,0.02,0.21,0.09,0.0,0.01,0.01,0.11
 "GROW/O/D /MMF/25/09/0048","Groww Money Market Fund",0.74,0.0,0.02,0.1,0.86,0.2,0.0,0.02,0.03,0.25
@@ -1055,7 +1055,7 @@
 "INVM/O/O/OET/11/05/0020","Invesco India Nifty 50 Exchange Traded Fund",0.08,0.0,0.0,0.02,0.1,0.0,0.0,0.0,0.0,0.0
 "INVM/O/O/EET/26/06/0056","Invesco India Nifty Bank ETF",0.11,0.27,0.08,2.82,3.28,0.0,0.0,0.0,0.0,0.0
 "INVM/O/O/EIN/26/04/0053","Invesco India Nifty Bank Index Fund",0.66,0.04,0.01,0.57,1.28,0.15,0.04,0.01,0.48,0.68
-"INVM/O/O/DIN/23/03/0043","Invesco India Nifty G-SEC JUL 2027 Index Fund",0.25,0.0,0.0,0.04,0.29,0.13,0.0,0.0,0.02,0.15
+"INVM/O/O/DIN/23/03/0043","Invesco India Nifty G-SEC JUL 2027 Index Fund",0.25,0.0,0.0,0.04,0.29,0.12,0.0,0.0,0.02,0.14
 "INVM/O/O/DIN/23/03/0044","Invesco India Nifty G-SEC SEP 2032 Index Fund",0.24,0.0,0.0,0.04,0.28,0.13,0.0,0.0,0.02,0.15
 "INVM/O/D/ONF/19/12/0032","Invesco India Overnight Fund",0.1,0.0,0.02,0.02,0.14,0.05,0.0,0.02,0.01,0.08
 "INVM/O/E/SEC/26/02/0054","Invesco India Pharma and Healthcare Fund",2.1,0.0,0.0,0.37,2.47,0.5,0.0,0.0,0.09,0.59
@@ -1900,7 +1900,7 @@
 "TATA/O/H/BAF/18/07/0031","Tata Balanced Advantage Fund",1.51,0.02,0.01,0.33,1.87,0.49,0.02,0.01,0.18,0.7
 "TATA/O/E/SEC/15/10/0024","Tata Banking & Financial Services Fund",1.66,0.1,0.01,0.46,2.23,0.5,0.1,0.01,0.32,0.93
 "TATA/O/O/OIN/25/11/0079","Tata BSE Multicap Consumption 50:30:20 Index Fund",0.9,0.03,0.01,0.28,1.22,0.24,0.03,0.01,0.22,0.5
-"TATA/O/O/OIN/25/02/0075","Tata BSE Quality Index Fund",0.9,0.01,0.0,0.15,1.06,0.29,0.01,0.0,0.1,0.4
+"TATA/O/O/OIN/25/02/0075","Tata BSE Quality Index Fund",0.9,0.01,0.0,0.15,1.06,0.3,0.01,0.0,0.1,0.41
 "TATA/O/O/OIN/24/11/0073","Tata BSE Select Business Groups Index Fund",0.9,0.01,0.0,0.15,1.06,0.25,0.01,0.0,0.14,0.4
 "TATA/O/O/EIN/02/11/0015","Tata BSE SENSEX Index Fund",0.51,0.0,0.0,0.07,0.58,0.27,0.0,0.0,0.06,0.33
 "TATA/O/E/THE/21/06/0045","Tata Business Cycle Fund",1.7,0.06,0.0,0.41,2.17,0.61,0.06,0.0,0.24,0.91
