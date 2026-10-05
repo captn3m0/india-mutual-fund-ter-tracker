@@ -14,6 +14,8 @@ jobs:
     name: Update data
     runs-on: ubuntu-latest
     steps:
+    - name: Record start time
+      run: echo "RUN_START=$(date +%s)" >> "$GITHUB_ENV"
     - name: Get current date
       uses: josStorer/get-current-time@6826799222c9d913068c04cb99e67f34dbf3caae # v2.1.3
       id: current-time
@@ -24,6 +26,7 @@ jobs:
     - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
       with:
         ref: ${{ github.head_ref }}
+        fetch-depth: 0
     - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
       with:
         python-version: '3.10'
@@ -85,3 +88,27 @@ jobs:
       env:
           MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
           MASTODON_API_BASE_URL: ${{ secrets.MASTODON_API_BASE_URL }}
+    - name: Push metrics
+      if: ${{ !cancelled() && github.event_name == 'schedule' }}
+      env:
+        JOB_STATUS: ${{ job.status }}
+        CHANGELOG: ${{ steps.generate.outputs.changelog }}
+        GRAFANA_INFLUX_URL: ${{ vars.GRAFANA_INFLUX_URL }}
+        GRAFANA_INFLUX_USER: ${{ vars.GRAFANA_INFLUX_USER }}
+        GRAFANA_INFLUX_TOKEN: ${{ secrets.GRAFANA_INFLUX_TOKEN }}
+      run: |
+        repo="${GITHUB_REPOSITORY#*/}"
+        read -r schemes ter_avg <<< "$(python3 -c 'import csv; r = list(csv.reader(open("data.csv")))[1:]; print(len(r), round(sum(float(x[-1]) for x in r) / max(len(r), 1), 4))' 2>/dev/null || echo 0 0)"
+        ter_changes=$(grep -c '^- "' <<< "$CHANGELOG" || true)
+        rows_changed=$(git diff --numstat "$GITHUB_SHA" HEAD -- data.csv 2>/dev/null | cut -f1)
+        last_change=$(git log -1 --format=%ct -- data.csv 2>/dev/null || true)
+        {
+          # TER dataset size, changes this run, scraper success and days since data.csv last changed
+          [ -n "$last_change" ] && echo "mf_ter,repo=$repo schemes=${schemes:-0},direct_ter_avg=${ter_avg:-0},ter_changes=${ter_changes:-0},rows_changed=${rows_changed:-0},fetch_ok=$([ -f /tmp/data.csv ] && [ data.csv -nt /tmp/data.csv ] && echo 1 || echo 0),last_change_age_days=$(( ($(date +%s) - last_change) / 86400 ))"
+          echo "scrape_run,repo=$repo success=$([ "$JOB_STATUS" = success ] && echo 1 || echo 0),duration_seconds=$(( $(date +%s) - RUN_START )),changed=$([ "$(git rev-parse HEAD)" != "$GITHUB_SHA" ] && echo 1 || echo 0)"
+        } > "$RUNNER_TEMP/metrics.txt"
+        cat "$RUNNER_TEMP/metrics.txt"
+        [ -n "$GRAFANA_INFLUX_TOKEN" ] || exit 0
+        curl -fsS --max-time 10 -u "$GRAFANA_INFLUX_USER:$GRAFANA_INFLUX_TOKEN" \
+          --data-binary "@$RUNNER_TEMP/metrics.txt" "$GRAFANA_INFLUX_URL/api/v1/push/influx/write" \
+          || echo "::warning::Could not push metrics"
