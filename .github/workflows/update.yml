@@ -15,16 +15,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Get current date
-      uses: josStorer/get-current-time@v2
+      uses: josStorer/get-current-time@6826799222c9d913068c04cb99e67f34dbf3caae # v2.1.3
       id: current-time
       # See README.md for explanation
       with:
         format: YYYYDDD.k
         timezone: Asia/Kolkata
-    - uses: actions/checkout@v7
+    - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
       with:
         ref: ${{ github.head_ref }}
-    - uses: actions/setup-python@v7
+    - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
       with:
         python-version: '3.10'
         cache: 'pip'
@@ -39,7 +39,7 @@ jobs:
         echo "changelog<<__EOL__" > "$GITHUB_OUTPUT"
         python -m src /tmp/data.csv | tee -a "$GITHUB_OUTPUT"
         echo "__EOL__" >> "$GITHUB_OUTPUT"
-    - uses: stefanzweifel/git-auto-commit-action@v7
+    - uses: stefanzweifel/git-auto-commit-action@4a55954c782fc1ea30b9056cd3e7a2b40ca8887d # v7.2.0
       name: Commit Updates
       id: commit
       with:
