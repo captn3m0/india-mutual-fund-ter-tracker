@@ -20,5 +20,5 @@ python-magic==0.4.27
 requests==2.34.2
 six==1.17.0
 soupsieve==2.10
-tomli==2.4.1
+tomli==2.5.0
 urllib3==2.8.0
