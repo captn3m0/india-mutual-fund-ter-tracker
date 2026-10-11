@@ -1056,8 +1056,8 @@
 "INVM/O/O/EET/26/06/0056","Invesco India Nifty Bank ETF",0.11,0.11,0.03,1.19,1.44,0.0,0.0,0.0,0.0,0.0
 "INVM/O/O/EIN/26/04/0053","Invesco India Nifty Bank Index Fund",0.66,0.05,0.01,0.55,1.27,0.15,0.05,0.01,0.46,0.67
 "INVM/O/O/EIN/26/07/0058","Invesco India Nifty Chemical Index Fund",0.9,0.0,0.0,0.16,1.06,0.25,0.0,0.0,0.04,0.29
-"INVM/O/O/DIN/23/03/0043","Invesco India Nifty G-SEC JUL 2027 Index Fund",0.24,0.0,0.0,0.04,0.28,0.13,0.0,0.0,0.02,0.15
-"INVM/O/O/DIN/23/03/0044","Invesco India Nifty G-SEC SEP 2032 Index Fund",0.25,0.0,0.0,0.04,0.29,0.13,0.0,0.0,0.02,0.15
+"INVM/O/O/DIN/23/03/0043","Invesco India Nifty G-SEC JUL 2027 Index Fund",0.24,0.0,0.0,0.04,0.28,0.12,0.0,0.0,0.02,0.14
+"INVM/O/O/DIN/23/03/0044","Invesco India Nifty G-SEC SEP 2032 Index Fund",0.25,0.0,0.0,0.04,0.29,0.12,0.0,0.0,0.02,0.14
 "INVM/O/O/EIN/26/07/0057","Invesco India Nifty India Defence Index Fund",0.9,0.0,0.0,0.16,1.06,0.25,0.0,0.0,0.04,0.29
 "INVM/O/D/ONF/19/12/0032","Invesco India Overnight Fund",0.1,0.0,0.03,0.02,0.15,0.05,0.0,0.03,0.01,0.09
 "INVM/O/E/SEC/26/02/0054","Invesco India Pharma and Healthcare Fund",2.1,0.86,0.05,2.18,5.19,0.5,0.86,0.05,1.89,3.3
@@ -1905,7 +1905,7 @@
 "TATA/O/H/BAF/18/07/0031","Tata Balanced Advantage Fund",1.52,0.02,0.0,0.32,1.86,0.49,0.02,0.0,0.17,0.68
 "TATA/O/E/SEC/15/10/0024","Tata Banking & Financial Services Fund",1.66,0.1,0.01,0.46,2.23,0.5,0.1,0.01,0.32,0.93
 "TATA/O/O/OIN/25/11/0079","Tata BSE Multicap Consumption 50:30:20 Index Fund",0.9,0.03,0.01,0.28,1.22,0.24,0.03,0.01,0.22,0.5
-"TATA/O/O/OIN/25/02/0075","Tata BSE Quality Index Fund",0.9,0.02,0.0,0.27,1.19,0.3,0.02,0.0,0.21,0.53
+"TATA/O/O/OIN/25/02/0075","Tata BSE Quality Index Fund",0.9,0.02,0.0,0.27,1.19,0.29,0.02,0.0,0.21,0.52
 "TATA/O/O/OIN/24/11/0073","Tata BSE Select Business Groups Index Fund",0.9,0.01,0.0,0.14,1.05,0.25,0.01,0.0,0.13,0.39
 "TATA/O/O/EIN/02/11/0015","Tata BSE SENSEX Index Fund",0.51,0.0,0.0,0.07,0.58,0.27,0.0,0.0,0.06,0.33
 "TATA/O/E/THE/21/06/0045","Tata Business Cycle Fund",1.71,0.06,0.0,0.41,2.18,0.62,0.06,0.0,0.23,0.91
