@@ -1,8 +1,0 @@
-{
-  "data": [
-    {"NSDLSchemeCode": "HDFC/O/E/FCF/94/12/0002", "Scheme_Name": "HDFC FLEXI CAP FUND", "SchemeType_Desc": "Open Ended", "SchemeCat_Desc": "Equity Scheme - Flexi Cap Fund", "TER_Year": "2026-2027", "TER_Date": "2026-05-20T00:00:00.000Z", "R_BER": "1.0900", "R_BrokerageCost": "0.0200", "R_TransactionCost": "0.0000", "R_StatutoryLevies": "0.1800", "R_TER": "1.3500", "D_BER": "0.5300", "D_BrokerageCost": "0.0200", "D_TransactionCost": "0.0000", "D_StatutoryLevies": "0.2100", "D_TER": "0.7600", "MF_ID": 9, "Month": "05-2026"},
-    {"NSDLSchemeCode": "HDFC/O/E/FCF/94/12/0002", "Scheme_Name": "HDFC FLEXI CAP FUND", "SchemeType_Desc": "Open Ended", "SchemeCat_Desc": "Equity Scheme - Flexi Cap Fund", "TER_Year": "2026-2027", "TER_Date": "2026-05-02T00:00:00.000Z", "R_BER": "1.1000", "R_BrokerageCost": "0.0200", "R_TransactionCost": "0.0000", "R_StatutoryLevies": "0.1800", "R_TER": "1.3600", "D_BER": "0.5400", "D_BrokerageCost": "0.0200", "D_TransactionCost": "0.0000", "D_StatutoryLevies": "0.2100", "D_TER": "0.7700", "MF_ID": 9, "Month": "05-2026"},
-    {"NSDLSchemeCode": "PPFAS/O/E/FCF/13/04/0001", "Scheme_Name": "Parag Parikh Flexi Cap Fund", "SchemeType_Desc": "Open Ended", "SchemeCat_Desc": "Equity Scheme - Flexi Cap Fund", "TER_Year": "2026-2027", "TER_Date": "2026-05-01T00:00:00.000Z", "R_BER": "1.2000", "R_BrokerageCost": "0.0100", "R_TransactionCost": null, "R_StatutoryLevies": "0.2200", "R_TER": "1.4300", "D_BER": "0.5000", "D_BrokerageCost": "0.0100", "D_TransactionCost": null, "D_StatutoryLevies": "0.0900", "D_TER": "0.6000", "MF_ID": 64, "Month": "05-2026"}
-  ],
-  "meta": {"page": 1, "pageSize": 5000, "total": 3, "pageCount": 1}
-}

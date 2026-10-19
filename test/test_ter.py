@@ -1,21 +1,38 @@
-from datetime import date
-from src import parse_ter, canonical_name, generate_diff, write_csv, check_row_count
+from datetime import date, datetime
+from src import parse_ter, read_ter_rows, canonical_name, generate_diff, write_csv, check_row_count
 from src.feed import parse_log
 import io
-import json
+import openpyxl
 import pytest
 
 
 class TestTer:
 
     def test_parser(self):
-        with open("test/ter.json") as f:
-            rows = parse_ter(json.load(f)["data"])
-        assert len(rows) == 2
-        hdfc = rows["HDFC FLEXI CAP FUND"]
-        assert hdfc[0] == date(2026, 5, 20)
-        assert hdfc[2:] == [1.09, 0.02, 0.0, 0.18, 1.35, 0.53, 0.02, 0.0, 0.21, 0.76]
-        assert rows["Parag Parikh Flexi Cap Fund"][-3] == 0.0
+        with open("test/ter.xlsx", "rb") as f:
+            rows = parse_ter(read_ter_rows(f.read()))
+        assert len(rows) == 3
+        fund = rows["360 One Balanced Hybrid Fund"]
+        assert fund[0] == date(2026, 10, 18)
+        assert fund[2:] == [1.78, 0.03, 0.0, 0.38, 2.19, 0.49, 0.03, 0.0, 0.15, 0.67]
+        assert rows["360 One Quant Fund"][-1] == 1.11
+
+    def test_parser_merges_case_variants(self):
+        values = [0.0] * 10
+        rows = parse_ter([
+            ["TATA GILT FUND", datetime(2026, 9, 30)] + values[:-1] + [0.3],
+            ["Tata Gilt Fund", datetime(2026, 10, 1)] + values[:-1] + [0.25],
+        ])
+        assert list(rows) == ["Tata Gilt Fund"]
+        assert rows["Tata Gilt Fund"][-1] == 0.25
+
+    def test_missing_columns(self):
+        book = openpyxl.Workbook()
+        book.active.append(["Scheme Name", "TER Date", "Direct Plan - GST (%)"])
+        out = io.BytesIO()
+        book.save(out)
+        with pytest.raises(ValueError, match="Columns missing"):
+            list(read_ter_rows(out.getvalue()))
 
     def test_generate_diff(self, tmp_path):
         old, new = tmp_path / "old.csv", tmp_path / "new.csv"

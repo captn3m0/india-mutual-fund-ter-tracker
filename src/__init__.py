@@ -1,8 +1,10 @@
-from datetime import date, timedelta
+from datetime import date, datetime, timedelta
 from typing import List, Dict, Any
 import functools
 import re
 from csv_diff import load_csv, compare
+import io
+import openpyxl
 import requests
 import sys
 import time
@@ -96,24 +98,22 @@ CASE_EXCEPTIONS = [
 ]
 
 API_URL = "https://www.amfiindia.com/api/populate-te-rdata-revised"
-PAGE_SIZE = 5000
 MAX_ATTEMPTS = 6
 MAX_ROW_DROP = 0.1
 
-# AMFI JSON fields mapped to the column headers used on the AMFI website
-FIELDS = {
-    "BER": "Base Expense Ratio (BER) (%)",
-    "BrokerageCost": "Brokerage cost (%)",
-    "TransactionCost": "Transaction Cost incurred for the purpose of execution of trade (%)",
-    "StatutoryLevies": "Statutory Levies (including GST) (%)",
-    "TER": "Total TER (%)",
-}
-PLANS = {"R": "Regular Plan", "D": "Direct Plan"}
-
-FINAL_HEADERS = ["Scheme Name"] + [
-    f"{plan} - {header}" for plan in PLANS.values() for header in FIELDS.values()
+# Column headers used in the AMFI TER export since April 2026
+FIELDS = [
+    "Base Expense Ratio (BER) (%)",
+    "Brokerage cost (%)",
+    "Transaction Cost incurred for the purpose of execution of trade (%)",
+    "Statutory Levies (including GST) (%)",
+    "Total TER (%)",
 ]
+PLANS = ["Regular Plan", "Direct Plan"]
+
+FINAL_HEADERS = ["Scheme Name"] + [f"{plan} - {field}" for plan in PLANS for field in FIELDS]
 TOTAL_TER_HEADER = FINAL_HEADERS[-1]
+EXPORT_HEADERS = ["Scheme Name", "TER Date"] + FINAL_HEADERS[1:]
 
 """
 Prints Diff between TER CSV files
@@ -137,70 +137,73 @@ def generate_diff(old_file, new_file, outf=sys.stdout):
 
 
 """
-Parses TER records from the AMFI JSON API
-to a dictionary. The dict contains:
-[Date, Scheme Name(str)] followed by:
-- 5 float values for the Regular plan pricing breakdown
-- 5 float values for the Direct plan pricing breakdown
-
-AMFI publishes one record per scheme per date,
-so only the most recent record is kept.
-The keys of the dict are the scheme name.
+Reads the TER rows from an AMFI Excel export.
+Yields [Scheme Name, TER Date] followed by
+- 5 values for the Regular plan pricing breakdown
+- 5 values for the Direct plan pricing breakdown
+The sheet ends with disclaimer rows, which are skipped.
 """
 
 
-def parse_ter(records) -> Dict[str, List[Any]]:
+def read_ter_rows(xlsx):
+    book = openpyxl.load_workbook(io.BytesIO(xlsx), read_only=True, data_only=True)
+    rows = book.worksheets[0].iter_rows(values_only=True)
+    header = [str(h or "").strip() for h in next(rows, ())]
+    missing = [h for h in EXPORT_HEADERS if h not in header]
+    if missing:
+        raise ValueError(f"Columns missing from AMFI export: {missing}")
+    columns = [header.index(h) for h in EXPORT_HEADERS]
+    for row in rows:
+        if len(row) >= len(header) and isinstance(row[columns[1]], datetime):
+            yield [row[i] for i in columns]
+
+
+"""
+Parses TER rows to a dict keyed by canonical name.
+The dict contains: [Date, Scheme Name(str)] followed
+by the 10 float values. AMFI publishes one row per
+scheme per date, so only the most recent row is kept.
+"""
+
+
+def parse_ter(rows) -> Dict[str, List[Any]]:
     ret_d = {}
-    for record in records:
-        scheme_name = record["Scheme_Name"].strip()
-        scheme_date = date.fromisoformat(record["TER_Date"][:10])
-        values = [
-            float(record[f"{prefix}_{field}"] or 0)
-            for prefix in PLANS
-            for field in FIELDS
-        ]
+    for scheme_name, scheme_date, *values in rows:
+        scheme_name = canonical_name(str(scheme_name).strip())
+        scheme_date = scheme_date.date()
         if scheme_name in ret_d and scheme_date < ret_d[scheme_name][0]:
             continue
-        ret_d[scheme_name] = [scheme_date, scheme_name] + values
+        ret_d[scheme_name] = [scheme_date, scheme_name] + [float(v or 0) for v in values]
     return ret_d
 
 
 """
-Fetches a single page of TER records from AMFI.
-AMFI rate-limits by returning invalid JSON with
-a 200 status, so those responses are retried.
+Downloads the Excel export of a month's TER data.
+AMFI sometimes returns an error page with a 200
+status, so anything that is not a workbook is retried.
 """
 
 
-def fetch_ter_page(session, month, page):
+def fetch_ter_xlsx(session, month):
     params = {
         "MF_ID": "All",
         "Month": month.strftime("%m-%Y"),
         "strCat": "-1",
         "strType": "-1",
-        "page": page,
-        "pageSize": PAGE_SIZE,
+        "excel": "true",
     }
     for attempt in range(MAX_ATTEMPTS):
         try:
-            response = session.get(API_URL, params=params, timeout=120)
+            response = session.get(API_URL, params=params, timeout=300)
             response.raise_for_status()
-            return response.json()
+            if not response.content.startswith(b"PK"):
+                raise ValueError("response is not an Excel workbook")
+            return response.content
         except (requests.RequestException, ValueError) as e:
             if attempt == MAX_ATTEMPTS - 1:
                 raise
-            print(f"Retrying {month:%m-%Y} page {page}: {e}", file=sys.stderr)
+            print(f"Retrying {month:%m-%Y}: {e}", file=sys.stderr)
             time.sleep(2**attempt)
-
-
-def fetch_ter_records(session, month):
-    records, page, page_count = [], 1, 1
-    while page <= page_count:
-        payload = fetch_ter_page(session, month, page)
-        records += payload.get("data") or []
-        page_count = (payload.get("meta") or {}).get("pageCount") or 1
-        page += 1
-    return records
 
 
 # This parses the TER based on the provided date
@@ -211,11 +214,12 @@ def fetch_ter_records(session, month):
 def fetch_combined_ter(session, date):
     prev_month = date.replace(day=1) - timedelta(days=1)
     ter = parse_ter(
-        fetch_ter_records(session, prev_month) + fetch_ter_records(session, date)
+        list(read_ter_rows(fetch_ter_xlsx(session, prev_month)))
+        + list(read_ter_rows(fetch_ter_xlsx(session, date)))
     )
     if not ter:
         raise ValueError("No TER records returned by AMFI")
-    return [[canonical_name(row[1])] + row[2:] for row in ter.values()]
+    return [row[1:] for row in ter.values()]
 
 
 def get_ters(session):

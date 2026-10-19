@@ -4,9 +4,11 @@ click==8.5.0
 csv-diff==1.2
 decorator==5.3.1
 dictdiffer==0.10.0
+et-xmlfile==2.0.0
 idna==3.20
 iniconfig==2.3.1
 Mastodon.py==2.3.3
+openpyxl==3.1.5
 packaging==26.3
 pluggy==1.7.0
 pygments==2.21.0
