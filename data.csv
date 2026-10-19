@@ -327,7 +327,7 @@
 "BNDN/O/D/OIN/23/02/0061","Bandhan US Treasury Bond 0-1 Year Specific Debt Passive FoF",0.13,0.0,0.0,0.02,0.15,0.08,0.0,0.0,0.01,0.09
 "BNDN/O/E/VAF/08/01/0016","Bandhan Value Fund",1.51,0.07,0.0,0.41,1.99,0.62,0.07,0.0,0.26,0.95
 "BOIA/O/H/BHF/16/04/0010","Bank of India Aggressive Hybrid Fund",1.73,0.07,0.0,0.44,2.24,0.56,0.07,0.0,0.23,0.86
-"BOIA/O/H/ARB/18/05/0012","Bank of India Arbitrage Fund",0.88,0.39,0.16,1.39,2.82,0.3,0.39,0.16,1.29,2.14
+"BOIA/O/H/ARB/18/05/0012","Bank of India Arbitrage Fund",0.88,0.39,0.16,1.39,2.82,0.29,0.39,0.16,1.29,2.13
 "BOIA/O/H/BAF/14/01/0008","Bank of India Balanced Advantage Fund",2.1,0.05,0.03,0.49,2.67,1.01,0.05,0.03,0.3,1.39
 "BOIA/O/E/SEC/25/11/0024","Bank of India Banking & Financial Services Fund",2.1,0.1,0.01,0.56,2.77,1.17,0.1,0.01,0.4,1.68
 "BOIA/O/E/THE/24/07/0020","Bank of India Business Cycle Fund",2.1,0.06,0.0,0.49,2.65,1.01,0.06,0.0,0.3,1.37
@@ -658,7 +658,7 @@
 "GROW/O/D /MMF/25/09/0048","Groww Money Market Fund",0.74,0.0,0.02,0.1,0.86,0.2,0.0,0.02,0.03,0.25
 "GROW/O/E /MAA/25/07/0041","Groww Multi Asset Allocation Fund",2.02,0.11,0.01,0.52,2.66,0.55,0.11,0.01,0.34,1.01
 "GROW/O/O/FOD/25/09/0050","Groww Multi Asset Omni FoF",1.11,0.0,0.0,0.13,1.24,0.19,0.0,0.0,0.03,0.22
-"GROW/O/E /MCF/24/09/0022","Groww Multicap Fund",1.77,0.21,0.01,0.69,2.68,0.32,0.21,0.01,0.48,1.02
+"GROW/O/E /MCF/24/09/0022","Groww Multicap Fund",1.78,0.21,0.01,0.69,2.69,0.33,0.21,0.01,0.48,1.03
 "GROW/O/O/DET/24/09/0018","Groww Nifty 1D Rate Liquid ETF",0.0,0.0,0.0,0.0,0.0,0.29,0.0,0.04,0.05,0.38
 "GROW/O/O/EET/24/10/0025","Groww Nifty 200 ETF",0.0,0.0,0.0,0.0,0.0,0.35,0.0,0.0,0.08,0.43
 "GROW/O/O/FOD/24/10/0026","Groww Nifty 200 ETF FoF",0.55,0.02,0.0,0.09,0.66,0.12,0.02,0.0,0.03,0.17
@@ -697,7 +697,7 @@
 "GROW/O/O/EET/26/05/0062","Groww Nifty Smallcap 250 Momentum Quality 100 ETF",0.0,0.0,0.0,0.0,0.0,0.47,0.06,0.02,0.68,1.23
 "GROW/O/O/EIN/26/05/0063","Groww Nifty Smallcap 250 Momentum Quality 100 Index Fund",0.9,0.09,0.02,0.94,1.95,0.4,0.09,0.02,0.87,1.38
 "GROW/O/O/EIN/23/09/0011","Groww Nifty Total Market Index Fund",0.9,0.0,0.0,0.19,1.09,0.53,0.0,0.0,0.13,0.66
-"INDB/O/D/ONF/18/12/0010","Groww Overnight Fund",0.2,0.0,0.06,0.03,0.29,0.1,0.0,0.06,0.01,0.17
+"INDB/O/D/ONF/18/12/0010","Groww Overnight Fund",0.19,0.0,0.06,0.03,0.28,0.09,0.0,0.06,0.01,0.16
 "INDB/O/D/SDF/13/07/0003","Groww Short Term Fund",0.9,0.01,0.02,0.13,1.06,0.25,0.01,0.02,0.04,0.32
 "GROW/O/O/OET/25/04/0030","Groww Silver ETF",0.0,0.0,0.0,0.0,0.0,0.45,0.0,0.0,0.08,0.53
 "GROW/O/O/FOD/25/04/0031","Groww Silver ETF FoF",0.45,0.0,0.0,0.07,0.52,0.15,0.0,0.0,0.03,0.18
@@ -729,7 +729,7 @@
 "HDFC/O/E/DYF/20/08/0075","HDFC Dividend Yield Fund",1.59,0.01,0.0,0.31,1.91,0.71,0.01,0.0,0.15,0.87
 "HDFC/O/D/DBF/18/03/0031","HDFC Dynamic Term Fund",1.18,0.01,0.0,0.21,1.4,0.63,0.01,0.0,0.11,0.75
 "HDFC/O/E/ELS/95/12/0003","HDFC ELSS - Tax Saver Fund",1.45,0.01,0.0,0.3,1.76,0.97,0.01,0.0,0.22,1.2
-"HDFC/O/H/ESF/04/07/0013","HDFC Equity Savings Fund",1.59,0.04,0.03,0.54,2.2,0.83,0.04,0.03,0.4,1.3
+"HDFC/O/H/ESF/04/07/0013","HDFC Equity Savings Fund",1.58,0.04,0.03,0.54,2.19,0.82,0.04,0.03,0.4,1.29
 "HDFC/O/E/FCF/94/12/0002","HDFC Flexi Cap Fund",1.08,0.02,0.0,0.26,1.36,0.57,0.02,0.0,0.16,0.75
 "HDFC/O/D/FLF/18/03/0038","HDFC Floating Interest Rates Fund",0.43,0.0,0.0,0.07,0.5,0.23,0.0,0.0,0.04,0.27
 "HDFC/C/D/FTP/22/09/0119","HDFC Fmp 1269D March 2023",0.34,0.0,0.0,0.06,0.4,0.12,0.0,0.0,0.02,0.14
@@ -1524,15 +1524,15 @@
 "NAVI/O/O/EIN/24/10/0026","Navi Nifty Smallcap250 Momentum Quality 100 Index Fund",0.9,0.04,0.01,0.48,1.43,0.35,0.04,0.01,0.38,0.78
 "NAVI/O/O /FOO/21/12/0013","Navi Total Stock Market US Specific Equity Passive FoF",0.06,0.0,0.0,0.01,0.07,0.06,0.0,0.0,0.01,0.07
 "NIMF/O/E/THE/24/09/0154","Nippon India Active Momentum Fund",1.44,0.18,0.01,0.65,2.28,0.6,0.18,0.01,0.5,1.29
-"NIMF/O/H/AHF/04/11/0024","Nippon India Aggressive Hybrid Fund (Existing Number of Segregated Portfolios - 2)",1.63,0.02,0.0,0.31,1.96,0.91,0.02,0.0,0.19,1.12
+"NIMF/O/H/AHF/04/11/0024","Nippon India Aggressive Hybrid Fund (Existing Number of Segregated Portfolios - 2)",1.64,0.02,0.0,0.31,1.97,0.91,0.02,0.0,0.19,1.12
 "NIMF/O/H/ARB/10/03/0043","Nippon India Arbitrage Fund",0.9,0.13,0.04,0.97,2.04,0.31,0.13,0.04,0.87,1.35
 "NIMF/O/H/DAA/04/04/0017","Nippon India Balanced Advantage Fund",1.51,0.06,0.01,0.41,1.99,0.56,0.06,0.01,0.26,0.89
-"NIMF/O/E/SEC/03/04/0011","Nippon India Banking & Financial Services Fund",1.54,0.04,0.0,0.35,1.93,0.82,0.04,0.0,0.24,1.1
+"NIMF/O/E/SEC/03/04/0011","Nippon India Banking & Financial Services Fund",1.54,0.04,0.0,0.35,1.93,0.83,0.04,0.0,0.24,1.11
 "NIMF/O/D/BPF/15/03/0057","Nippon India Banking and PSU Debt Fund",0.66,0.0,0.0,0.12,0.78,0.33,0.0,0.0,0.06,0.39
 "NIMF/O/O/EET/25/02/0157","Nippon India BSE SENSEX Next 30 ETF",0.0,0.0,0.0,0.0,0.0,0.13,0.0,0.0,0.07,0.2
 "NIMF/O/O/EIN/25/02/0158","Nippon India BSE SENSEX Next 30 Index Fund",0.44,0.03,0.01,0.27,0.75,0.17,0.03,0.01,0.22,0.43
 "NIMF/O/H/CHF/03/08/0013","Nippon India Conservative Hybrid Fund (Existing Number of Segregated Portfolios - 1)",1.53,0.01,0.0,0.26,1.8,0.85,0.01,0.0,0.15,1.01
-"NIMF/O/E/THE/04/04/0016","Nippon India Consumption Fund",1.73,0.06,0.0,0.4,2.19,0.61,0.06,0.0,0.23,0.9
+"NIMF/O/E/THE/04/04/0016","Nippon India Consumption Fund",1.74,0.06,0.0,0.4,2.2,0.61,0.06,0.0,0.23,0.9
 "NIMF/O/D/CBF/00/08/0004","Nippon India Corporate Bond Fund",0.63,0.01,0.0,0.11,0.75,0.31,0.01,0.0,0.05,0.37
 "NIMF/O/D/CRF/04/11/0022","Nippon India Credit Risk Fund (Existing Number of Segregated Portfolios - 1)",1.17,0.01,0.0,0.21,1.39,0.51,0.01,0.0,0.09,0.61
 "NIMF/O/O/DIN/24/09/0151","Nippon India CRISIL - IBX AAA Financial Services - DEC 2026 Index Fund",0.3,0.0,0.0,0.05,0.35,0.13,0.0,0.0,0.02,0.15
@@ -1568,7 +1568,7 @@
 "NIMF/C/D/FTP/23/01/0139","Nippon India Fixed Maturity Plan - Xlv - Series 5",0.32,0.0,0.0,0.06,0.38,0.09,0.0,0.0,0.01,0.1
 "NIMF/O/E/FCF/21/06/0115","Nippon India Flexi Cap Fund",1.51,0.03,0.0,0.29,1.83,0.47,0.03,0.0,0.15,0.65
 "NIMF/O/D/FLF/04/08/0021","Nippon India Floating Interest Rates Fund",0.55,0.0,0.0,0.1,0.65,0.3,0.0,0.0,0.05,0.35
-"NIMF/O/E/FOC/18/04/0064","Nippon India Focused Fund",1.52,0.09,0.01,0.45,2.07,0.95,0.09,0.01,0.36,1.41
+"NIMF/O/E/FOC/18/04/0064","Nippon India Focused Fund",1.52,0.09,0.01,0.45,2.07,0.96,0.09,0.01,0.36,1.42
 "NIMF/O/D/GIL/03/05/0012","Nippon India Gilt Fund",1.02,0.0,0.01,0.18,1.21,0.43,0.0,0.01,0.08,0.52
 "NIMF/O/O/FOD/11/01/0045","Nippon India Gold Savings Fund",0.21,0.0,0.0,0.04,0.25,0.05,0.0,0.0,0.01,0.06
 "NIMF/O/E/MIF/95/08/0001","Nippon India Growth Mid Cap Fund",1.24,0.03,0.0,0.28,1.55,0.59,0.03,0.0,0.17,0.79
@@ -1576,7 +1576,7 @@
 "NIMF/O/H/FOD/26/07/0168","Nippon India Income Plus Arbitrage Omni Fund of Fund",0.55,0.0,0.0,0.16,0.71,0.05,0.0,0.0,0.07,0.12
 "NIMF/O/O/EIN/10/03/0041","Nippon India Index Fund - BSE SENSEX Plan",0.42,0.0,0.0,0.09,0.51,0.17,0.0,0.0,0.04,0.21
 "NIMF/O/O/EIN/10/03/0040","Nippon India Index Fund - Nifty 50 Plan",0.35,0.01,0.0,0.13,0.49,0.06,0.01,0.0,0.08,0.15
-"NIMF/O/E/THE/23/02/0140","Nippon India Innovation Fund",1.68,0.06,0.0,0.36,2.1,0.6,0.06,0.0,0.23,0.89
+"NIMF/O/E/THE/23/02/0140","Nippon India Innovation Fund",1.68,0.06,0.0,0.36,2.1,0.61,0.06,0.0,0.23,0.9
 "NIMF/I/D/XXX/07/02/0035","Nippon India Interval Fund-Quarterly Interval Fund Serie-Ii",0.14,0.0,0.0,0.03,0.17,0.1,0.0,0.0,0.03,0.13
 "NIMF/O/E/THE/14/06/0051","Nippon India Japan Equity Fund",2.08,0.09,0.0,0.33,2.5,1.09,0.09,0.0,0.19,1.37
 "NIMF/O/E/LCF/06/01/0028","Nippon India Large Cap Fund",1.23,0.05,0.0,0.33,1.61,0.58,0.05,0.0,0.22,0.85
@@ -1588,7 +1588,7 @@
 "NIMF/O/O/FOD/20/01/0105","Nippon India Multi - Asset Omni FoF",0.97,0.0,0.0,0.18,1.15,0.14,0.0,0.0,0.03,0.17
 "NIMF/O/H/MAA/20/01/0106","Nippon India Multi Asset Allocation Fund",1.14,0.04,0.0,0.26,1.44,0.3,0.04,0.0,0.14,0.48
 "NIMF/O/E/MCF/05/01/0025","Nippon India Multi Cap Fund",1.22,0.06,0.0,0.33,1.61,0.59,0.06,0.0,0.23,0.88
-"NIMF/O/O/DET/25/06/0161","Nippon India Nifty 1D Rate Liquid ETF- Growth",0.0,0.0,0.0,0.0,0.0,0.42,0.0,0.01,0.08,0.51
+"NIMF/O/O/DET/25/06/0161","Nippon India Nifty 1D Rate Liquid ETF- Growth",0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.01,0.04,0.25
 "NIMF/O/O/EIN/20/03/0110","Nippon India Nifty 50 Value 20 Index Fund",0.66,0.03,0.01,0.35,1.05,0.21,0.03,0.01,0.27,0.52
 "NIMF/O/O/EIN/24/07/0148","Nippon India Nifty 500 Equal Weight Index Fund",0.79,0.03,0.0,0.31,1.13,0.3,0.03,0.0,0.22,0.55
 "NIMF/O/O/EIN/25/02/0155","Nippon India Nifty 500 Low Volatility 50 Index Fund",0.81,0.03,0.01,0.38,1.23,0.3,0.03,0.01,0.29,0.63
@@ -1616,7 +1616,7 @@
 "NIMF/O/D/LON/18/05/0065","Nippon India Nivesh Lakshya Long Term Fund",0.55,0.0,0.0,0.1,0.65,0.28,0.0,0.0,0.05,0.33
 "NIMF/O/D/ONF/18/11/0094","Nippon India Overnight Fund",0.14,0.0,0.02,0.03,0.19,0.07,0.0,0.02,0.01,0.1
 "NIMF/O/E/SEC/04/02/0014","Nippon India Pharma Fund",1.52,0.02,0.0,0.31,1.85,0.79,0.02,0.0,0.18,0.99
-"NIMF/O/E/SEC/04/03/0015","Nippon India Power & Infra Fund",1.53,0.05,0.0,0.37,1.95,0.8,0.05,0.0,0.25,1.1
+"NIMF/O/E/SEC/04/03/0015","Nippon India Power & Infra Fund",1.53,0.05,0.0,0.37,1.95,0.81,0.05,0.0,0.25,1.11
 "NIMF/O/E/THE/04/07/0020","Nippon India Quant Fund",0.82,0.09,0.01,0.35,1.27,0.45,0.09,0.01,0.29,0.84
 "NIMF/O/S/RET/14/07/0053","Nippon India Retirement Fund- Income Generation Scheme",1.79,0.0,0.0,0.32,2.11,0.83,0.0,0.0,0.15,0.98
 "NIMF/O/S/RET/14/07/0052","Nippon India Retirement Fund- Wealth Creation Scheme",1.68,0.08,0.0,0.47,2.23,0.86,0.08,0.0,0.32,1.26
@@ -1624,10 +1624,10 @@
 "NIMF/O/O/OET/21/12/0121","Nippon India Silver ETF",0.0,0.0,0.0,0.0,0.0,0.49,0.0,0.0,0.09,0.58
 "NIMF/O/O/FOD/21/12/0120","Nippon India Silver ETF FoF",0.41,0.0,0.0,0.08,0.49,0.18,0.0,0.0,0.04,0.22
 "NIMF/O/E/SCF/10/07/0044","Nippon India Small Cap Fund",1.13,0.02,0.0,0.24,1.39,0.52,0.02,0.0,0.14,0.68
-"NIMF/O/E/THE/21/10/0118","Nippon India Taiwan Equity Fund",1.9,0.06,0.0,0.38,2.34,0.79,0.06,0.0,0.22,1.07
+"NIMF/O/E/THE/21/10/0118","Nippon India Taiwan Equity Fund",1.91,0.06,0.0,0.38,2.35,0.79,0.06,0.0,0.22,1.07
 "NIMF/O/D/USD/00/12/0006","Nippon India Ultra Short Term Fund",0.89,0.0,0.0,0.16,1.05,0.28,0.0,0.0,0.05,0.33
 "NIMF/O/D/LOW/06/10/0029","Nippon India Ultra Short to Short Term Fund",0.83,0.01,0.0,0.15,0.99,0.32,0.01,0.0,0.06,0.39
-"NIMF/O/E/THE/15/01/0056","Nippon India US Equity Opportunities Fund",1.99,0.03,0.0,0.35,2.37,1.08,0.03,0.0,0.19,1.3
+"NIMF/O/E/THE/15/01/0056","Nippon India US Equity Opportunities Fund",2.0,0.03,0.0,0.35,2.38,1.08,0.03,0.0,0.19,1.3
 "NIMF/O/E/VAF/04/11/0023","Nippon India Value Fund",1.52,0.06,0.0,0.4,1.98,0.9,0.06,0.0,0.3,1.26
 "NIMF/O/E/LMF/95/08/0002","Nippon India Vision Large & Mid Cap Fund",1.54,0.13,0.01,0.54,2.22,0.91,0.13,0.01,0.45,1.5
 "NJMF/O/H/ARB/22/02/0003","NJ Arbitrage Fund",0.75,0.1,0.04,0.75,1.64,0.25,0.1,0.04,0.66,1.05
@@ -2048,8 +2048,8 @@
 "UTIM/O/E/FCF/92/05/0002","UTI - Flexi Cap Fund.",1.39,0.02,0.0,0.27,1.68,0.93,0.02,0.0,0.21,1.16
 "UTIM/O/D/GIL/02/01/0014","UTI - Gilt Fund",0.72,0.01,0.01,0.11,0.85,0.38,0.01,0.01,0.07,0.47
 "UTIM/O/O/GET/07/01/0027","UTI - Gold Exchange Traded Fund",0.5,0.0,0.0,0.09,0.59,0.0,0.0,0.0,0.0,0.0
-"UTIM/O/E/SEC/99/05/0009","UTI - Healthcare Fund",1.83,0.03,0.0,0.36,2.22,1.05,0.03,0.0,0.26,1.34
-"UTIM/O/E/THE/07/05/0033","UTI - India Consumer Fund",2.04,0.02,0.0,0.36,2.42,1.39,0.02,0.0,0.29,1.7
+"UTIM/O/E/SEC/99/05/0009","UTI - Healthcare Fund",1.84,0.03,0.0,0.36,2.23,1.06,0.03,0.0,0.26,1.35
+"UTIM/O/E/THE/07/05/0033","UTI - India Consumer Fund",2.05,0.02,0.0,0.36,2.43,1.4,0.02,0.0,0.29,1.71
 "UTIM/O/E/THE/04/01/0021","UTI - Infrastructure Fund",1.76,0.04,0.0,0.38,2.18,1.59,0.04,0.0,0.37,2.0
 "UTIM/O/E/LCF/86/10/0001","UTI - Large Cap Fund",1.48,0.05,0.0,0.33,1.86,0.87,0.05,0.0,0.27,1.19
 "UTIM/O/D/LIF/03/06/0016","UTI - Liquid Fund",0.21,0.0,0.0,0.04,0.25,0.13,0.0,0.0,0.02,0.15
