@@ -367,7 +367,7 @@
 "BBNP/O/E/THE/24/09/0047","Baroda BNP Paribas Energy Opportunities Fund",2.05,0.06,0.0,0.49,2.6,1.16,0.06,0.0,0.34,1.56
 "BBNP/O/H/ESF/19/02/0022","Baroda BNP Paribas Equity Savings Fund",2.1,0.07,0.02,0.65,2.84,1.14,0.07,0.02,0.48,1.71
 "BBNP/O/E/THE/26/01/0053","Baroda BNP Paribas ESG Best-In-Class Strategy Fund",2.06,0.08,0.01,0.54,2.69,0.75,0.08,0.01,0.31,1.15
-"BNPP/O/E/FCF/22/05/0029","Baroda BNP Paribas Flexi Cap Fund",1.85,0.09,0.01,0.49,2.44,0.86,0.09,0.01,0.33,1.29
+"BNPP/O/E/FCF/22/05/0029","Baroda BNP Paribas Flexi Cap Fund",1.85,0.09,0.01,0.5,2.45,0.86,0.09,0.01,0.33,1.29
 "BBNP/O/E/FOC/17/06/0017","Baroda BNP Paribas Focused Fund",2.05,0.18,0.01,0.71,2.95,0.54,0.18,0.01,0.45,1.18
 "BBNP/O/D/GIL/02/01/0002","Baroda BNP Paribas Gilt Fund",0.36,0.01,0.01,0.06,0.44,0.13,0.01,0.01,0.02,0.17
 "BBNP/O/O/GET/23/09/0037","Baroda BNP Paribas Gold ETF",0.5,0.0,0.0,0.09,0.59,0.0,0.0,0.0,0.0,0.0
@@ -375,15 +375,15 @@
 "BBNP/O/E/THE/24/12/0050","Baroda BNP Paribas Health and Wellness Fund",2.09,0.08,0.0,0.53,2.7,1.04,0.08,0.0,0.35,1.47
 "BBNP/O/H/FOD/25/04/0049","Baroda BNP Paribas Income Plus Arbitrage Active Fund of Funds",0.19,0.0,0.0,0.04,0.23,0.05,0.0,0.0,0.01,0.06
 "BBNP/O/E/THE/18/04/0018","Baroda BNP Paribas India Consumption Fund",1.82,0.08,0.0,0.47,2.37,0.61,0.08,0.0,0.27,0.96
-"BBNP/O/E/THE/23/12/0039","Baroda BNP Paribas Innovation Fund",1.95,0.08,0.0,0.48,2.51,0.89,0.08,0.0,0.32,1.29
-"BBNP/O/E/LMF/19/11/0025","Baroda BNP Paribas Large and Mid Cap Fund",1.77,0.08,0.0,0.45,2.3,0.72,0.08,0.0,0.29,1.09
+"BBNP/O/E/THE/23/12/0039","Baroda BNP Paribas Innovation Fund",1.95,0.08,0.0,0.49,2.52,0.89,0.08,0.0,0.31,1.28
+"BBNP/O/E/LMF/19/11/0025","Baroda BNP Paribas Large and Mid Cap Fund",1.77,0.08,0.0,0.45,2.3,0.72,0.08,0.0,0.28,1.08
 "BBNP/O/E/LCF/04/07/0006","Baroda BNP Paribas Large Cap Fund",1.7,0.02,0.0,0.35,2.07,0.69,0.02,0.0,0.17,0.88
 "BBNP/O/D/LIF/02/01/0001","Baroda BNP Paribas Liquid Fund",0.14,0.0,0.0,0.02,0.16,0.07,0.0,0.0,0.01,0.08
 "BBNP/O/E/THE/24/03/0041","Baroda BNP Paribas Manufacturing Fund",1.97,0.04,0.0,0.43,2.44,1.01,0.04,0.0,0.26,1.31
 "BBNP/O/E/MIF/06/01/0009","Baroda BNP Paribas Mid Cap Fund",1.7,0.07,0.0,0.44,2.21,0.49,0.07,0.0,0.22,0.78
 "BBNP/O/D/MMF/19/03/0023","Baroda BNP Paribas Money Market Fund",0.33,0.01,0.0,0.06,0.4,0.14,0.01,0.0,0.02,0.17
 "BBNP/O/H/FOD/25/04/0048","Baroda BNP Paribas Multi Asset Active Fund of Funds",0.93,0.0,0.0,0.17,1.1,0.23,0.0,0.0,0.04,0.27
-"BBNP/O/E/MAA/22/09/0030","Baroda BNP Paribas Multi Asset Fund",1.73,0.01,0.0,0.32,2.06,0.75,0.01,0.0,0.16,0.92
+"BBNP/O/E/MAA/22/09/0030","Baroda BNP Paribas Multi Asset Fund",1.71,0.01,0.0,0.32,2.04,0.73,0.01,0.0,0.15,0.89
 "BBNP/O/E/MCF/03/02/0003","Baroda BNP Paribas Multi Cap Fund",1.65,0.1,0.01,0.48,2.24,0.75,0.1,0.01,0.33,1.19
 "BBNP/O/O/EIN/23/10/0038","Baroda BNP Paribas Nifty 50 Index Fund",0.48,0.03,0.0,0.27,0.78,0.22,0.03,0.0,0.23,0.48
 "BBNP/O/O/EET/23/12/0042","Baroda BNP Paribas Nifty Bank ETF",0.32,0.02,0.0,0.18,0.52,0.0,0.0,0.0,0.0,0.0
@@ -560,7 +560,7 @@
 "EDEL/O/O/FOO/13/11/0014","Edelweiss Europe Dynamic Equity Offshore Fund",1.17,0.0,0.0,0.2,1.37,0.58,0.0,0.0,0.1,0.68
 "EDEL/O/E/SEC/25/11/0078","Edelweiss Financial Services Fund",2.1,0.04,0.0,0.43,2.57,0.71,0.04,0.0,0.21,0.96
 "EDEL/O/E/FCF/14/10/0018","Edelweiss Flexi Cap Fund",1.63,0.06,0.01,0.44,2.14,0.45,0.06,0.01,0.24,0.76
-"EDEL/O/E/FOC/21/12/0042","Edelweiss Focused Fund",1.94,0.02,0.0,0.38,2.34,0.66,0.02,0.0,0.16,0.84
+"EDEL/O/E/FOC/21/12/0042","Edelweiss Focused Fund",1.94,0.02,0.0,0.38,2.34,0.67,0.02,0.0,0.16,0.85
 "EDEL/O/D/GIL/13/08/0012","Edelweiss Gilt Fund",0.96,0.0,0.02,0.17,1.15,0.42,0.0,0.02,0.07,0.51
 "EDEL/O/O/FOD/22/06/0043","Edelweiss Gold and Silver ETF FoF",0.47,0.0,0.0,0.09,0.56,0.16,0.0,0.0,0.04,0.2
 "EDEL/O/O/OET/23/10/0056","Edelweiss Gold ETF",0.42,0.0,0.0,0.08,0.5,0.0,0.0,0.0,0.0,0.0
@@ -595,7 +595,7 @@
 "EDEL/O/O/EET/24/09/0063","Edelweiss Nifty500 Multicap Momentum Quality 50 ETF",0.31,0.04,0.01,0.37,0.73,0.0,0.0,0.0,0.0,0.0
 "EDEL/O/O/EIN/24/09/0062","Edelweiss Nifty500 Multicap Momentum Quality 50 Index Fund",0.9,0.02,0.01,0.44,1.37,0.33,0.02,0.01,0.34,0.7
 "EDEL/O/D/ONF/19/03/0024","Edelweiss Overnight Fund",0.1,0.0,0.04,0.02,0.16,0.06,0.0,0.04,0.01,0.11
-"EDEL/O/E/OES/17/12/0021","Edelweiss Recently Listed IPO Fund",1.85,0.11,0.01,0.58,2.55,0.8,0.11,0.01,0.4,1.32
+"EDEL/O/E/OES/17/12/0021","Edelweiss Recently Listed IPO Fund",1.86,0.11,0.01,0.59,2.57,0.8,0.11,0.01,0.4,1.32
 "EDEL/O/O/OET/23/10/0057","Edelweiss Silver ETF",0.42,0.0,0.0,0.08,0.5,0.0,0.0,0.0,0.0,0.0
 "EDEL/O/O/FOD/25/11/0077","Edelweiss Silver ETF Fund of Fund",0.48,0.0,0.0,0.07,0.55,0.09,0.0,0.0,0.02,0.11
 "EDEL/O/E/SCF/18/08/0022","Edelweiss Small Cap Fund",1.55,0.04,0.0,0.37,1.96,0.43,0.04,0.0,0.17,0.64
@@ -1026,11 +1026,11 @@
 "INVM/O/O/FOO/13/11/0023","Invesco India - Invesco Pan European Equity Fund of Fund",0.72,0.0,0.0,0.12,0.84,0.43,0.0,0.0,0.07,0.5
 "INVM/O/H/AHF/18/04/0027","Invesco India Aggressive Hybrid Fund",1.99,0.03,0.0,0.39,2.41,0.69,0.03,0.0,0.18,0.9
 "INVM/O/H/ARB/06/12/0005","Invesco India Arbitrage Fund",0.91,0.15,0.07,1.74,2.87,0.34,0.15,0.07,1.64,2.2
-"INVM/O/H/DAA/07/06/0009","Invesco India Balanced Advantage Fund",1.83,0.09,0.01,0.48,2.41,0.75,0.09,0.01,0.33,1.18
+"INVM/O/H/DAA/07/06/0009","Invesco India Balanced Advantage Fund",1.84,0.09,0.01,0.49,2.43,0.76,0.09,0.01,0.33,1.19
 "INVM/O/D/BPF/12/09/0022","Invesco India Banking and PSU Debt Fund",0.54,0.0,0.0,0.09,0.63,0.22,0.0,0.0,0.04,0.26
 "INVM/O/O/EET/26/06/0055","Invesco India BSE SENSEX ETF",0.05,0.16,0.04,1.5,1.75,0.0,0.0,0.0,0.0,0.0
 "INVM/O/O/EIN/26/03/0052","Invesco India BSE SENSEX Index Fund",0.58,0.06,0.01,0.61,1.26,0.16,0.06,0.01,0.54,0.77
-"INVM/O/E/THE/24/10/0048","Invesco India Business Cycle Fund",1.83,0.05,0.0,0.39,2.27,0.57,0.05,0.0,0.21,0.83
+"INVM/O/E/THE/24/10/0048","Invesco India Business Cycle Fund",1.84,0.05,0.0,0.39,2.28,0.58,0.05,0.0,0.21,0.84
 "INVM/O/E/THE/25/08/0051","Invesco India Consumption Fund",2.07,0.09,0.01,0.49,2.66,0.75,0.09,0.01,0.32,1.17
 "INVM/O/E/COF/06/11/0003","Invesco India Contra Fund",1.42,0.06,0.0,0.37,1.85,0.49,0.06,0.0,0.21,0.76
 "INVM/O/D/CBF/07/07/0010","Invesco India Corporate Bond Fund",0.58,0.01,0.0,0.1,0.69,0.24,0.01,0.0,0.04,0.29
@@ -1038,8 +1038,8 @@
 "INVM/O/E/ELS/06/11/0002","Invesco India ELSS Tax Saver Fund",1.7,0.1,0.01,0.48,2.29,0.75,0.1,0.01,0.33,1.19
 "INVM/O/H/ESF/18/12/0031","Invesco India Equity Savings Fund",2.06,0.17,0.02,0.72,2.97,0.79,0.17,0.02,0.53,1.51
 "INVM/O/E/THE/21/02/0035","Invesco India ESG Integration Strategy Fund",2.09,0.04,0.0,0.43,2.56,0.98,0.04,0.0,0.26,1.28
-"INVM/O/E/SEC/07/11/0014","Invesco India Financial Services Fund",1.77,0.04,0.0,0.36,2.17,0.7,0.04,0.0,0.21,0.95
-"INVM/O/E/FCF/21/09/0037","Invesco India Flexi Cap Fund",1.58,0.09,0.0,0.42,2.09,0.52,0.09,0.0,0.26,0.87
+"INVM/O/E/SEC/07/11/0014","Invesco India Financial Services Fund",1.78,0.04,0.0,0.36,2.18,0.71,0.04,0.0,0.21,0.96
+"INVM/O/E/FCF/21/09/0037","Invesco India Flexi Cap Fund",1.59,0.09,0.0,0.42,2.1,0.53,0.09,0.0,0.26,0.88
 "INVM/O/E/FOC/20/07/0033","Invesco India Focused Fund",1.56,0.04,0.0,0.34,1.94,0.49,0.04,0.0,0.16,0.69
 "INVM/O/D/GIL/07/09/0013","Invesco India Gilt Fund",1.06,0.0,0.02,0.17,1.25,0.39,0.0,0.02,0.07,0.48
 "INVM/O/O/FOD/11/06/0021","Invesco India Gold ETF Fund of Fund",0.47,0.01,0.0,0.08,0.56,0.09,0.01,0.0,0.02,0.12
@@ -1047,7 +1047,7 @@
 "INVM/O/O/FOD/25/06/0050","Invesco India Income Plus Arbitrage Active Fund of Fund",0.37,0.0,0.0,0.06,0.43,0.03,0.0,0.0,0.01,0.04
 "INVM/O/E/THE/07/08/0011","Invesco India Infrastructure Fund",1.82,0.09,0.0,0.47,2.38,0.78,0.09,0.0,0.31,1.18
 "INVM/O/E/LMF/07/04/0008","Invesco India Large & Mid Cap Fund",1.47,0.05,0.0,0.34,1.86,0.54,0.05,0.0,0.19,0.78
-"INVM/O/E/LCF/09/06/0015","Invesco India Large Cap Fund",1.76,0.04,0.0,0.37,2.17,0.66,0.04,0.0,0.2,0.9
+"INVM/O/E/LCF/09/06/0015","Invesco India Large Cap Fund",1.77,0.04,0.0,0.37,2.18,0.66,0.04,0.0,0.2,0.9
 "INVM/O/D/LIF/06/10/0001","Invesco India Liquid Fund",0.19,0.0,0.0,0.03,0.22,0.13,0.0,0.0,0.02,0.15
 "INVM/O/E/THE/24/06/0045","Invesco India Manufacturing Fund",2.04,0.08,0.0,0.45,2.57,0.78,0.08,0.0,0.29,1.15
 "INVM/O/D/MDF/21/05/0036","Invesco India Medium Term Fund",0.99,0.0,0.0,0.15,1.14,0.27,0.0,0.0,0.05,0.32
@@ -1059,8 +1059,8 @@
 "INVM/O/O/EET/26/06/0056","Invesco India Nifty Bank ETF",0.11,0.11,0.03,1.19,1.44,0.0,0.0,0.0,0.0,0.0
 "INVM/O/O/EIN/26/04/0053","Invesco India Nifty Bank Index Fund",0.66,0.05,0.01,0.55,1.27,0.15,0.05,0.01,0.46,0.67
 "INVM/O/O/EIN/26/07/0058","Invesco India Nifty Chemical Index Fund",0.9,0.0,0.0,0.16,1.06,0.25,0.0,0.0,0.04,0.29
-"INVM/O/O/DIN/23/03/0043","Invesco India Nifty G-SEC JUL 2027 Index Fund",0.25,0.0,0.0,0.04,0.29,0.12,0.0,0.0,0.02,0.14
-"INVM/O/O/DIN/23/03/0044","Invesco India Nifty G-SEC SEP 2032 Index Fund",0.24,0.0,0.0,0.04,0.28,0.13,0.0,0.0,0.02,0.15
+"INVM/O/O/DIN/23/03/0043","Invesco India Nifty G-SEC JUL 2027 Index Fund",0.25,0.0,0.0,0.04,0.29,0.13,0.0,0.0,0.02,0.15
+"INVM/O/O/DIN/23/03/0044","Invesco India Nifty G-SEC SEP 2032 Index Fund",0.24,0.0,0.0,0.04,0.28,0.12,0.0,0.0,0.02,0.14
 "INVM/O/O/EIN/26/07/0057","Invesco India Nifty India Defence Index Fund",0.9,0.0,0.0,0.16,1.06,0.25,0.0,0.0,0.04,0.29
 "INVM/O/D/ONF/19/12/0032","Invesco India Overnight Fund",0.1,0.0,0.03,0.02,0.15,0.05,0.0,0.03,0.01,0.09
 "INVM/O/E/SEC/26/02/0054","Invesco India Pharma and Healthcare Fund",2.1,0.86,0.05,2.18,5.19,0.5,0.86,0.05,1.89,3.3
