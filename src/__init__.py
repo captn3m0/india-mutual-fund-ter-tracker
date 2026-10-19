@@ -145,14 +145,14 @@ The sheet ends with disclaimer rows, which are skipped.
 """
 
 
-def read_ter_rows(xlsx):
+def read_ter_rows(xlsx, headers=EXPORT_HEADERS):
     book = openpyxl.load_workbook(io.BytesIO(xlsx), read_only=True, data_only=True)
     rows = book.worksheets[0].iter_rows(values_only=True)
     header = [str(h or "").strip() for h in next(rows, ())]
-    missing = [h for h in EXPORT_HEADERS if h not in header]
+    missing = [h for h in headers if h not in header]
     if missing:
         raise ValueError(f"Columns missing from AMFI export: {missing}")
-    columns = [header.index(h) for h in EXPORT_HEADERS]
+    columns = [header.index(h) for h in headers]
     for row in rows:
         if len(row) >= len(header) and isinstance(row[columns[1]], datetime):
             yield [row[i] for i in columns]
@@ -248,7 +248,7 @@ def check_row_count(old_file, data, max_drop=MAX_ROW_DROP):
         )
 
 
-def write_csv(filename, data):
+def write_csv(filename, data, headers=FINAL_HEADERS):
     with open(filename, "w", newline="", encoding="utf-8") as csvfile:
         spamwriter = csv.writer(
             csvfile,
@@ -257,7 +257,7 @@ def write_csv(filename, data):
             quoting=csv.QUOTE_NONNUMERIC,
             lineterminator="\n",
         )
-        spamwriter.writerow(FINAL_HEADERS)
+        spamwriter.writerow(headers)
         for row in data:
             spamwriter.writerow(row)
 
