@@ -1,13 +1,11 @@
-from datetime import date, datetime, timedelta
+from datetime import date, timedelta
 from typing import List, Dict, Any
 import functools
 import re
 from csv_diff import load_csv, compare
-import http.client
-import html2csv
+import requests
 import sys
 import time
-import gzip
 import csv
 
 """
@@ -97,25 +95,24 @@ CASE_EXCEPTIONS = [
     "Children's",
 ]
 
-EXPECTED_HEADERS = [
-    "Scheme Name",
-    "Scheme Type",
-    "Scheme Category",
-    "TER Date",
-    "Regular Plan - Base TER (%)",
-    "Regular Plan - Additional expense as per Regulation 52(6A)(b) (%)",
-    "Regular Plan - Additional expense as per Regulation 52(6A)(c) (%)",
-    "Regular Plan - GST (%)",
-    "Regular Plan - Total TER (%)",
-    "Direct Plan - Base TER (%)",
-    "Direct Plan - Additional expense as per Regulation 52(6A)(b) (%)",
-    "Direct Plan - Additional expense as per Regulation 52(6A)(c) (%)",
-    "Direct Plan - GST (%)",
-    "Direct Plan - Total TER (%)",
-]
+API_URL = "https://www.amfiindia.com/api/populate-te-rdata-revised"
+PAGE_SIZE = 5000
+MAX_ATTEMPTS = 6
 
-# We can look at using Type/Category later
-FINAL_HEADERS = [EXPECTED_HEADERS[0]] + EXPECTED_HEADERS[4:]
+# AMFI JSON fields mapped to the column headers used on the AMFI website
+FIELDS = {
+    "BER": "Base Expense Ratio (BER) (%)",
+    "BrokerageCost": "Brokerage cost (%)",
+    "TransactionCost": "Transaction Cost incurred for the purpose of execution of trade (%)",
+    "StatutoryLevies": "Statutory Levies (including GST) (%)",
+    "TER": "Total TER (%)",
+}
+PLANS = {"R": "Regular Plan", "D": "Direct Plan"}
+
+FINAL_HEADERS = ["Scheme Name"] + [
+    f"{plan} - {header}" for plan in PLANS.values() for header in FIELDS.values()
+]
+TOTAL_TER_HEADER = FINAL_HEADERS[-1]
 
 """
 Prints Diff between TER CSV files
@@ -125,106 +122,106 @@ identifier.
 
 
 def generate_diff(old_file, new_file, outf=sys.stdout):
-    diff = compare(
-        load_csv(open(old_file), key="Scheme Name"),
-        load_csv(open(new_file), key="Scheme Name"),
-    )
+    with open(old_file) as old, open(new_file) as new:
+        diff = compare(
+            load_csv(old, key="Scheme Name"),
+            load_csv(new, key="Scheme Name"),
+        )
 
-    total_ter_header = EXPECTED_HEADERS[-1]
     for row in diff["changed"]:
-        if total_ter_header in row["changes"]:
-            old = row["changes"][total_ter_header][0]
-            new = row["changes"][total_ter_header][1]
-            if new <= old:
-                print(
-                    f"- \"{row['key']}\" lowered its TER from {old} to {new}", file=outf
-                )
-            else:
-                print(
-                    f"- \"{row['key']}\" increased its TER from {old} to {new}",
-                    file=outf,
-                )
+        if TOTAL_TER_HEADER in row["changes"]:
+            old, new = row["changes"][TOTAL_TER_HEADER]
+            verb = "lowered" if float(new) <= float(old) else "increased"
+            print(f"- \"{row['key']}\" {verb} its TER from {old} to {new}", file=outf)
 
 
 """
-Uses HTML response from the AMFI
-website to parse the TER data from the
-table to a dictionary. The dict contains:
-[Datetime, Scheme Name(str)] followed by:
+Parses TER records from the AMFI JSON API
+to a dictionary. The dict contains:
+[Date, Scheme Name(str)] followed by:
 - 5 float values for the Regular plan pricing breakdown
 - 5 float values for the Direct plan pricing breakdown
 
+AMFI publishes one record per scheme per date,
+so only the most recent record is kept.
 The keys of the dict are the scheme name.
 """
 
 
-def parse_ter(html) -> Dict[str, List[Any]]:
+def parse_ter(records) -> Dict[str, List[Any]]:
     ret_d = {}
-    convertor = html2csv.Converter()
-    tables = convertor.convert_to_list(html)
-    if len(tables) == 0 or len(tables[0]) == 0:
-        raise BaseException("No tables found")
-    if tables[0][0] != EXPECTED_HEADERS:
-        raise BaseException("Headers don't match")
-    for row in tables[0][1:]:
-        scheme_name = row[0]
-        scheme_date = datetime.strptime(row[3], "%d-%b-%Y").date()
-        data = [scheme_date, scheme_name] + [float(ter) for ter in row[4:]]
-        if scheme_name in ret_d and scheme_date >= ret_d[scheme_name][0]:
-            ret_d[scheme_name] = data
-        else:
-            ret_d[scheme_name] = data
+    for record in records:
+        scheme_name = record["Scheme_Name"].strip()
+        scheme_date = date.fromisoformat(record["TER_Date"][:10])
+        values = [
+            float(record[f"{prefix}_{field}"] or 0)
+            for prefix in PLANS
+            for field in FIELDS
+        ]
+        if scheme_name in ret_d and scheme_date < ret_d[scheme_name][0]:
+            continue
+        ret_d[scheme_name] = [scheme_date, scheme_name] + values
     return ret_d
 
 
 """
-Makes a HTTP request to the AMFI website
-to fetch the TER on a given date
-Only uses the month and year as needed from the date
-Returns the complete HTML response
+Fetches a single page of TER records from AMFI.
+AMFI rate-limits by returning invalid JSON with
+a 200 status, so those responses are retried.
 """
 
 
-def fetch_ter_html(conn, date):
-    # Month and Year
-    d = date.strftime("%-m-%Y")
-    payload = f"MonthTER={d}&MF_ID=-1&NAV_ID=1&SchemeCat_Desc=-1"
-    headers = {
-        "Content-Type": "application/x-www-form-urlencoded",
-        "Accept-Encoding": "gzip",
+def fetch_ter_page(session, month, page):
+    params = {
+        "MF_ID": "All",
+        "Month": month.strftime("%m-%Y"),
+        "strCat": "-1",
+        "strType": "-1",
+        "page": page,
+        "pageSize": PAGE_SIZE,
     }
-    conn.request("POST", "/modules/LoadTERData", payload, headers)
-    return gzip.decompress(conn.getresponse().read()).decode("utf-8")
+    for attempt in range(MAX_ATTEMPTS):
+        try:
+            response = session.get(API_URL, params=params, timeout=120)
+            response.raise_for_status()
+            return response.json()
+        except (requests.RequestException, ValueError) as e:
+            if attempt == MAX_ATTEMPTS - 1:
+                raise
+            print(f"Retrying {month:%m-%Y} page {page}: {e}", file=sys.stderr)
+            time.sleep(2**attempt)
+
+
+def fetch_ter_records(session, month):
+    records, page, page_count = [], 1, 1
+    while page <= page_count:
+        payload = fetch_ter_page(session, month, page)
+        records += payload.get("data") or []
+        page_count = (payload.get("meta") or {}).get("pageCount") or 1
+        page += 1
+    return records
 
 
 # This parses the TER based on the provided date
-# as well as the last date of the previous month
-# This is because the TER is only published
-# on the date it is changed, and in case of no
-# changes on a given date, the last known
-# value would be found in the previous month
-# so we fetch the previous month
-# and update it with the latest values
-def fetch_combined_ter(conn, date):
-    d1 = date.replace(day=1)  # First date of current month
-    prev_month = d1 - timedelta(days=1)  # Last date of previous month
-    ter = parse_ter(fetch_ter_html(conn, prev_month))
-
-    # Get TER for present month and update
-    new_ter = parse_ter(fetch_ter_html(conn, date))
-    ter.update(new_ter)
-
+# as well as the previous month. This is because
+# the TER is only published on the date it is changed,
+# so the last known value for schemes without changes
+# this month would be found in the previous month
+def fetch_combined_ter(session, date):
+    prev_month = date.replace(day=1) - timedelta(days=1)
+    ter = parse_ter(
+        fetch_ter_records(session, prev_month) + fetch_ter_records(session, date)
+    )
+    if not ter:
+        raise ValueError("No TER records returned by AMFI")
     return [[canonical_name(row[1])] + row[2:] for row in ter.values()]
 
 
-def get_ters(conn):
+def get_ters(session):
     # the timedelta is to account for the delay in publishing.
     # so we always check the TER for yesterday
-    # Since the website only allows Y-M (no day)
-    # This is important on the first of the month, where
-    # no data is available, except on the last date of previous month
     d = date.today() - timedelta(days=1)
-    return fetch_combined_ter(conn, d)
+    return fetch_combined_ter(session, d)
 
 
 def write_csv(filename, data):

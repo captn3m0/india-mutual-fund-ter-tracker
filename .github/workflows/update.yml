@@ -13,6 +13,10 @@ jobs:
   update:
     name: Update data
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        # Explicit bash enables pipefail, so scraper failures fail the job
+        shell: bash
     steps:
     - name: Record start time
       run: echo "RUN_START=$(date +%s)" >> "$GITHUB_ENV"
@@ -27,6 +31,7 @@ jobs:
       with:
         ref: ${{ github.head_ref }}
         fetch-depth: 0
+        persist-credentials: true # zizmor: ignore[artipacked] needed to push data updates
     - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
       with:
         python-version: '3.14'
@@ -57,35 +62,31 @@ jobs:
           ${{steps.generate.outputs.changelog}}
         commit_author: 'github-actions[bot] <github-actions[bot]@users.noreply.github.com>'
         file_pattern: '*.csv'
-        tagging_message: 'v1.${{ steps.current-time.outputs.formattedTime }}'
-    # We use heredoc (<<) in bash to avoid quoting issues (some schemes have both single and double quotes)
-    # and pass the release notes as stdin instead
-    # and use --notes-file - to use stdin as notes-file instead.
+        tagging_message: 'v2.${{ steps.current-time.outputs.formattedTime }}'
+    # Scheme names can contain quotes, so the changelog is passed via env, never interpolated
     - name: Create GitHub Release (TER Changes)
       run: |
-        gh release create 'v1.${{ steps.current-time.outputs.formattedTime }}' --latest --notes-file - data.csv <<EOF
-        Total Expense Ratio Changes (Direct Plans):
-
-        ${{steps.generate.outputs.changelog}}
-        EOF
+        printf 'Total Expense Ratio Changes (Direct Plans):\n\n%s\n' "$CHANGELOG" |
+          gh release create "v2.$VERSION" --latest --notes-file - data.csv
       # Run this if changes were detected, and changelog was not empty
       if: steps.commit.outputs.changes_detected == 'true' && contains(steps.generate.outputs.changelog, 'TER')
       env:
         GH_TOKEN: ${{ github.token }}
+        VERSION: ${{ steps.current-time.outputs.formattedTime }}
+        CHANGELOG: ${{ steps.generate.outputs.changelog }}
     - name: Create GitHub Release (No TER Changes)
       run: |
-        gh release create 'v1.${{ steps.current-time.outputs.formattedTime }}' --latest --notes 'No TER changes in any Direct Plans' data.csv
+        gh release create "v2.$VERSION" --latest --notes 'No TER changes in any Direct Plans' data.csv
       # Run this if changes were detected, and changelog was empty.
       if: steps.commit.outputs.changes_detected == 'true' && ( ! contains(steps.generate.outputs.changelog, 'TER') )
       env:
         GH_TOKEN: ${{ github.token }}
+        VERSION: ${{ steps.current-time.outputs.formattedTime }}
     - name: Post to Mastodon
-      run: |
-        python src/toot.py <<EOF
-        ${{steps.generate.outputs.changelog}}
-        EOF
+      run: python src/toot.py <<< "$CHANGELOG"
       if: steps.commit.outputs.changes_detected == 'true' && contains(steps.generate.outputs.changelog, 'TER')
       env:
+          CHANGELOG: ${{ steps.generate.outputs.changelog }}
           MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
           MASTODON_API_BASE_URL: ${{ secrets.MASTODON_API_BASE_URL }}
     - name: Push metrics
