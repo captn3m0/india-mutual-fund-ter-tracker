@@ -37,7 +37,8 @@ export -f edit
 status=0
 ls "$tmp/notes" | sed 's/\.md$//' | xargs -P "$jobs" -I{} bash -c 'edit "$1"' _ {} || status=$?
 
-if [ "$(gh api 'repos/{owner}/{repo}/releases/latest' --jq .tag_name)" != "$latest" ]; then
+now=$(gh api 'repos/{owner}/{repo}/releases/latest' --jq .tag_name)
+if [ "$now" != "$latest" ] && [ -e "$tmp/notes/$now.md" ]; then
   gh release edit "$latest" --latest >/dev/null
 fi
 exit "$status"
