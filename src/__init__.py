@@ -98,6 +98,7 @@ CASE_EXCEPTIONS = [
 API_URL = "https://www.amfiindia.com/api/populate-te-rdata-revised"
 PAGE_SIZE = 5000
 MAX_ATTEMPTS = 6
+MAX_ROW_DROP = 0.1
 
 # AMFI JSON fields mapped to the column headers used on the AMFI website
 FIELDS = {
@@ -222,6 +223,25 @@ def get_ters(session):
     # so we always check the TER for yesterday
     d = date.today() - timedelta(days=1)
     return fetch_combined_ter(session, d)
+
+
+"""
+Raises if the new dataset has lost more than
+MAX_ROW_DROP of the rows in the existing CSV, which
+usually means AMFI returned partial data.
+"""
+
+
+def check_row_count(old_file, data, max_drop=MAX_ROW_DROP):
+    try:
+        with open(old_file, newline="", encoding="utf-8") as f:
+            old_count = sum(1 for _ in csv.reader(f)) - 1
+    except FileNotFoundError:
+        return
+    if len(data) < old_count * (1 - max_drop):
+        raise ValueError(
+            f"Row count dropped from {old_count} to {len(data)}, more than {max_drop:.0%}"
+        )
 
 
 def write_csv(filename, data):

@@ -1,5 +1,5 @@
 import requests
-from . import get_ters, write_csv, generate_diff
+from . import get_ters, write_csv, generate_diff, check_row_count
 import sys
 
 FILENAME = "data.csv"
@@ -10,6 +10,7 @@ session.headers["User-Agent"] = (
 
 data = get_ters(session)
 data = sorted(data, key=lambda row: row[0].lower())
+check_row_count(FILENAME, data)
 write_csv(FILENAME, data)
 # Pass a second argument for the old file version
 # to generate a diff to stdout

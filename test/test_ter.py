@@ -1,8 +1,9 @@
 from datetime import date
-from src import parse_ter, canonical_name, generate_diff, write_csv
+from src import parse_ter, canonical_name, generate_diff, write_csv, check_row_count
 from src.feed import parse_log
 import io
 import json
+import pytest
 
 
 class TestTer:
@@ -24,6 +25,14 @@ class TestTer:
         out = io.StringIO()
         generate_diff(old, new, out)
         assert out.getvalue() == '- "A Fund" lowered its TER from 0.6 to 0.5\n'
+
+    def test_check_row_count(self, tmp_path):
+        old = tmp_path / "old.csv"
+        write_csv(old, [[f"Fund {i}"] + [0.0] * 10 for i in range(10)])
+        check_row_count(old, [[]] * 9)
+        check_row_count(tmp_path / "missing.csv", [])
+        with pytest.raises(ValueError, match="dropped from 10 to 8"):
+            check_row_count(old, [[]] * 8)
 
     def test_scheme_name(self):
         assert canonical_name("BANDHAN Multi Cap Fund") == "Bandhan Multi Cap Fund"
