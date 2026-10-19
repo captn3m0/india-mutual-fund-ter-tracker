@@ -59,8 +59,10 @@ def load_month(session, cache_dir, month):
             f.write(fetch_ter_xlsx(session, month))
         os.rename(path + ".tmp", path)
     with open(path, "rb") as f:
-        headers = ["Scheme Name", "TER Date"] + headers_for(month)[1:]
-        return list(read_ter_rows(f.read(), headers))
+        if month >= V2_START:
+            return list(read_ter_rows(f.read()))
+        headers = ["Scheme Name", "TER Date"] + V1_HEADERS[1:]
+        return [[None] + row for row in read_ter_rows(f.read(), headers)]
 
 
 """
@@ -74,8 +76,9 @@ def snapshots(months, start, end):
     day = start
     while day <= end:
         window = [m for m in (prev_month_start(day), month_start(day)) if (m >= V2_START) == (day >= V2_START)]
-        rows = [r for m in window for r in months[m] if r[1].date() <= day]
-        yield day, [row[1:] for row in parse_ter(rows).values()]
+        rows = [r for m in window for r in months[m] if r[2].date() <= day]
+        data = sorted((row[1:] for row in parse_ter(rows).values()), key=lambda row: (row[1].lower(), row[0] or ""))
+        yield day, data if day >= V2_START else [row[1:] for row in data]
         day += timedelta(days=1)
 
 
@@ -113,7 +116,7 @@ def main(cache_dir, start, end):
     for day, data in snapshots(months, start, end):
         with open(FILENAME, encoding="utf-8") as f:
             old = f.read()
-        write_csv(FILENAME, sorted(data, key=lambda row: row[0].lower()), headers_for(day))
+        write_csv(FILENAME, data, headers_for(day))
         with open(FILENAME, encoding="utf-8") as f:
             if f.read() == old:
                 continue

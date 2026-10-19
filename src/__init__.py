@@ -111,34 +111,39 @@ FIELDS = [
 ]
 PLANS = ["Regular Plan", "Direct Plan"]
 
-FINAL_HEADERS = ["Scheme Name"] + [f"{plan} - {field}" for plan in PLANS for field in FIELDS]
+CODE_HEADER = "NSDL Scheme Code"
+FINAL_HEADERS = [CODE_HEADER, "Scheme Name"] + [f"{plan} - {field}" for plan in PLANS for field in FIELDS]
 TOTAL_TER_HEADER = FINAL_HEADERS[-1]
-EXPORT_HEADERS = ["Scheme Name", "TER Date"] + FINAL_HEADERS[1:]
+EXPORT_HEADERS = [CODE_HEADER, "Scheme Name", "TER Date"] + FINAL_HEADERS[2:]
 
 """
 Prints Diff between TER CSV files
 using only the Direct Plans total pricing as change
-identifier.
+identifier. Rows are matched by NSDL Scheme Code when
+both files have it (v2), and by Scheme Name otherwise.
 """
 
 
 def generate_diff(old_file, new_file, outf=sys.stdout):
     with open(old_file) as old, open(new_file) as new:
-        diff = compare(
-            load_csv(old, key="Scheme Name"),
-            load_csv(new, key="Scheme Name"),
-        )
+        headers = [next(csv.reader(f), []) for f in (old, new)]
+        key = CODE_HEADER if all(CODE_HEADER in h for h in headers) else "Scheme Name"
+        old.seek(0)
+        new.seek(0)
+        old_rows, new_rows = load_csv(old, key=key), load_csv(new, key=key)
+    diff = compare(old_rows, new_rows)
 
     for row in diff["changed"]:
         if TOTAL_TER_HEADER in row["changes"]:
+            name = new_rows[row["key"]]["Scheme Name"]
             old, new = row["changes"][TOTAL_TER_HEADER]
             verb = "lowered" if float(new) <= float(old) else "increased"
-            print(f"- \"{row['key']}\" {verb} its TER from {old} to {new}", file=outf)
+            print(f"- \"{name}\" {verb} its TER from {old} to {new}", file=outf)
 
 
 """
 Reads the TER rows from an AMFI Excel export.
-Yields [Scheme Name, TER Date] followed by
+Yields [NSDL Scheme Code, Scheme Name, TER Date] followed by
 - 5 values for the Regular plan pricing breakdown
 - 5 values for the Direct plan pricing breakdown
 The sheet ends with disclaimer rows, which are skipped.
@@ -154,26 +159,37 @@ def read_ter_rows(xlsx, headers=EXPORT_HEADERS):
         raise ValueError(f"Columns missing from AMFI export: {missing}")
     columns = [header.index(h) for h in headers]
     for row in rows:
-        if len(row) >= len(header) and isinstance(row[columns[1]], datetime):
+        if len(row) >= len(header) and isinstance(row[columns[headers.index("TER Date")]], datetime):
             yield [row[i] for i in columns]
 
 
 """
-Parses TER rows to a dict keyed by canonical name.
-The dict contains: [Date, Scheme Name(str)] followed
+Parses TER rows to a dict keyed by NSDL Scheme Code,
+or by canonical name for rows without a code (v1).
+The dict contains: [Date, Code, Scheme Name] followed
 by the 10 float values. AMFI publishes one row per
 scheme per date, so only the most recent row is kept.
+AMFI has reused a code for different schemes on the
+same date, so those ties keep the first name.
 """
 
 
 def parse_ter(rows) -> Dict[str, List[Any]]:
-    ret_d = {}
-    for scheme_name, scheme_date, *values in rows:
+    ret_d, collisions = {}, set()
+    for code, scheme_name, scheme_date, *values in rows:
+        code = str(code).strip() if code else None
         scheme_name = canonical_name(str(scheme_name).strip())
         scheme_date = scheme_date.date()
-        if scheme_name in ret_d and scheme_date < ret_d[scheme_name][0]:
-            continue
-        ret_d[scheme_name] = [scheme_date, scheme_name] + [float(v or 0) for v in values]
+        key = code or scheme_name
+        if key in ret_d:
+            last_date, _, last_name = ret_d[key][:3]
+            if scheme_date == last_date and scheme_name != last_name:
+                collisions.add(key)
+            if scheme_date < last_date or (scheme_date == last_date and scheme_name > last_name):
+                continue
+        ret_d[key] = [scheme_date, code, scheme_name] + [float(v or 0) for v in values]
+    for key in sorted(collisions):
+        print(f"Warning: {key} is used by several schemes, kept {ret_d[key][2]}", file=sys.stderr)
     return ret_d
 
 

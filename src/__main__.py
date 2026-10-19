@@ -9,7 +9,7 @@ session.headers["User-Agent"] = (
 )
 
 data = get_ters(session)
-data = sorted(data, key=lambda row: row[0].lower())
+data = sorted(data, key=lambda row: (row[1].lower(), row[0]))
 check_row_count(FILENAME, data)
 write_csv(FILENAME, data)
 # Pass a second argument for the old file version

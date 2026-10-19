@@ -5,7 +5,7 @@ Tracks expense ratio changes for Indian Mutual Funds.
 Watch the repository for any releases to get notified of any changes.
 
 - `data.csv` holds the data. The Field headers are the same as https://www.amfiindia.com/ter-of-mf-schemes, with the exception of the TER Date field, which is dropped.
-- Since v2, columns follow SEBI's revised TER breakup (BER, brokerage, transaction cost, statutory levies). v1 used the older 52(6A) breakup.
+- Since v2, rows are keyed by NSDL Scheme Code and columns follow SEBI's revised TER breakup (BER, brokerage, transaction cost, statutory levies). v1 was keyed by scheme name and used the older 52(6A) breakup.
 - You can directly access the latest version at <https://raw.githubusercontent.com/captn3m0/india-mutual-fund-ter-tracker/main/data.csv>.
 - You can view the data online on GitHub at https://github.com/captn3m0/india-mutual-fund-ter-tracker/blob/main/data.csv
 
