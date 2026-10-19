@@ -50,9 +50,9 @@ jobs:
       id: generate
       run: |
         cp data.csv /tmp/data.csv
-        echo "changelog<<__EOL__" > "$GITHUB_OUTPUT"
-        python -m src /tmp/data.csv | tee -a "$GITHUB_OUTPUT"
-        echo "__EOL__" >> "$GITHUB_OUTPUT"
+        python -m src /tmp/data.csv | tee /tmp/changelog.txt
+        eol=$(openssl rand -hex 16)
+        { echo "changelog<<$eol"; cat /tmp/changelog.txt; echo "$eol"; } >> "$GITHUB_OUTPUT"
     - uses: stefanzweifel/git-auto-commit-action@4a55954c782fc1ea30b9056cd3e7a2b40ca8887d # v7.2.0
       name: Commit Updates
       id: commit
