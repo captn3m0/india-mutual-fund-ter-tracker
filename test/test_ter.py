@@ -1,5 +1,6 @@
 from datetime import date
 from src import parse_ter, canonical_name, generate_diff, write_csv
+from src.feed import parse_log
 import io
 import json
 
@@ -31,3 +32,22 @@ class TestTer:
         assert canonical_name("DSP NIFTY 1D RATE LIQUID ETF") == "DSP Nifty 1D Rate Liquid ETF"
         assert canonical_name("Dsp Nifty 1d Rate Liquid Etf") == "DSP Nifty 1D Rate Liquid ETF"
         assert canonical_name("LIC MF Children'S Gift Fund") == "LIC MF Children's Gift Fund"
+
+
+class TestFeed:
+
+    def test_parse_log(self):
+        log = (
+            "abc\x002026-10-19T10:35:00+05:30\x00tag: v2.2026292.10\x00Update Total Expense Ratios\n\n"
+            "Changes in TER (Direct Plans):\n\n"
+            '- "Fund \\"A\\"" lowered its TER from 0.6 to 0.5\n'
+            '- "Fund B" increased its TER from 1.0 to 1.25\n\x1e\n'
+            "def\x002026-10-19T09:35:00+05:30\x00\x00Update Total Expense Ratios\n\x1e\n"
+        )
+        entries = list(parse_log(log))
+        assert len(entries) == 1
+        assert entries[0]["url"].endswith("/releases/tag/v2.2026292.10")
+        assert entries[0]["changes"] == [
+            {"scheme": 'Fund \\"A\\"', "old": "0.6", "new": "0.5", "direction": "lowered"},
+            {"scheme": "Fund B", "old": "1.0", "new": "1.25", "direction": "increased"},
+        ]

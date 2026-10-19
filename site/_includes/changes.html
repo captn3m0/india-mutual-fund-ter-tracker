@@ -1,0 +1,6 @@
+<ul>
+{%- for c in include.entry.changes %}
+<li><strong>{{ c.scheme | xml_escape }}</strong>: <span class="{{ c.direction }}">{{ c.old }}% → {{ c.new }}%</span> ({{ c.direction }})</li>
+{%- endfor %}
+</ul>
+<p><a href="{{ include.entry.url }}">{% if include.entry.tag %}Release {{ include.entry.tag }}{% else %}Commit{% endif %}</a></p>

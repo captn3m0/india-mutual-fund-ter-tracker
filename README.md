@@ -27,7 +27,8 @@ You can follow these changes over:
 
 1. Email by [Watching this repository for releases](http://web.archive.org/web/20181128151103/https://help.github.com/articles/watching-and-unwatching-releases-for-a-repository/).
 2. RSS by subscribing to the [@tertracker@tatooine.club](https://tatooine.club/@tertracker.rss) RSS feed.
-3. Fediverse by following [@tertracker@tatooine.club](https://tatooine.club/@tertracker) using your favorite app (Mastodon etc).
+3. RSS/Atom/JSON Feed published at <https://captn3m0.github.io/india-mutual-fund-ter-tracker/>, listing only the changed TERs.
+4. Fediverse by following [@tertracker@tatooine.club](https://tatooine.club/@tertracker) using your favorite app (Mastodon etc).
 
 Note that the changelog only includes changes made to TER for Direct plans. Regular
 plan TER changes are tracked, but not announced.

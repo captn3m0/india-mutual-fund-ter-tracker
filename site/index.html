@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<h2>Feeds</h2>
+<p>Each feed item lists only the Direct Plan TERs that changed in that update.</p>
+<ul>
+  <li><a href="{{ '/feed.xml' | relative_url }}">RSS 2.0</a></li>
+  <li><a href="{{ '/atom.xml' | relative_url }}">Atom</a></li>
+  <li><a href="{{ '/feed.json' | relative_url }}">JSON Feed</a></li>
+</ul>
+<p>The full dataset is <a href="https://github.com/{{ site.repository }}/blob/main/data.csv">data.csv</a>.
+You can also watch the <a href="https://github.com/{{ site.repository }}/releases">GitHub releases</a>.</p>
+
+<h2>Recent changes</h2>
+{% for entry in site.data.changes limit: site.index_limit %}
+<h3 id="{{ entry.id }}"><time datetime="{{ entry.date | date_to_xmlschema }}">{{ entry.date | date: "%-d %b %Y, %H:%M %Z" }}</time></h3>
+{% include changes.html entry=entry %}
+{% else %}
+<p>No changes recorded yet.</p>
+{% endfor %}
