@@ -4,7 +4,7 @@ author: Nemo
 lang: en
 timezone: Asia/Kolkata
 # url and baseurl are overridden by the Pages workflow
-url: "https://captn3m0.github.io"
+url: "https://captnemo.in"
 baseurl: "/india-mutual-fund-ter-tracker"
 repository: captn3m0/india-mutual-fund-ter-tracker
 feed_limit: 50
