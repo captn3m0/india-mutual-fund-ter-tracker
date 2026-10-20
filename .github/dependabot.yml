@@ -13,8 +13,7 @@ updates:
       interval: weekly
       timezone: Asia/Calcutta
   - package-ecosystem: "bundler"
-    vendor: true
-    directory: "/"
+    directory: "/site"
     schedule:
       interval: "weekly"
   - package-ecosystem: "gitsubmodule"

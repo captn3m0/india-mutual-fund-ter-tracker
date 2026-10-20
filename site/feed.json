@@ -1,0 +1,25 @@
+---
+layout: null
+---
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": {{ site.title | jsonify }},
+  "description": {{ site.description | jsonify }},
+  "home_page_url": {{ '/' | absolute_url | jsonify }},
+  "feed_url": {{ page.url | absolute_url | jsonify }},
+  "language": {{ site.lang | jsonify }},
+  "authors": [{"name": {{ site.author | jsonify }}}],
+  "items": [
+    {%- for entry in site.data.changes limit: site.feed_limit %}
+    {%- capture title %}{% include title.html entry=entry %}{% endcapture %}
+    {%- capture body %}{% include changes.html entry=entry %}{% endcapture %}
+    {
+      "id": {{ entry.id | jsonify }},
+      "url": {{ entry.url | jsonify }},
+      "title": {{ title | jsonify }},
+      "content_html": {{ body | strip | jsonify }},
+      "date_published": {{ entry.date | date_to_xmlschema | jsonify }}
+    }{% unless forloop.last %},{% endunless %}
+    {%- endfor %}
+  ]
+}

@@ -1,0 +1,7 @@
+{%- assign n = include.entry.changes | size -%}
+{%- if n == 1 -%}
+{%- assign c = include.entry.changes[0] -%}
+{{ c.scheme }} {{ c.direction }} its TER from {{ c.old }}% to {{ c.new }}%
+{%- else -%}
+{{ n }} TER changes on {{ include.entry.date | date: "%-d %b %Y" }}
+{%- endif -%}

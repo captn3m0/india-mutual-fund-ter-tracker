@@ -7,26 +7,40 @@ on:
     branches:
       - main
   workflow_dispatch:
-permissions:
-  contents: write
+permissions: {}
+env:
+  # Set to 'true' to announce TER changes on Mastodon
+  POST_TO_MASTODON: 'false'
 jobs:
   update:
     name: Update data
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    outputs:
+      changed: ${{ steps.commit.outputs.changes_detected }}
+    defaults:
+      run:
+        # Explicit bash enables pipefail, so scraper failures fail the job
+        shell: bash
     steps:
+    - name: Record start time
+      run: echo "RUN_START=$(date +%s)" >> "$GITHUB_ENV"
     - name: Get current date
-      uses: josStorer/get-current-time@v2
+      uses: josStorer/get-current-time@6826799222c9d913068c04cb99e67f34dbf3caae # v2.1.3
       id: current-time
       # See README.md for explanation
       with:
         format: YYYYDDD.k
         timezone: Asia/Kolkata
-    - uses: actions/checkout@v7
+    - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
       with:
         ref: ${{ github.head_ref }}
-    - uses: actions/setup-python@v7
+        fetch-depth: 0
+        persist-credentials: true # zizmor: ignore[artipacked] needed to push data updates
+    - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
       with:
-        python-version: '3.10'
+        python-version: '3.14'
         cache: 'pip'
     - run: pip install -r requirements.txt
     - name: Run Tests
@@ -36,10 +50,10 @@ jobs:
       id: generate
       run: |
         cp data.csv /tmp/data.csv
-        echo "changelog<<__EOL__" > "$GITHUB_OUTPUT"
-        python -m src /tmp/data.csv | tee -a "$GITHUB_OUTPUT"
-        echo "__EOL__" >> "$GITHUB_OUTPUT"
-    - uses: stefanzweifel/git-auto-commit-action@v7
+        python -m src /tmp/data.csv | tee /tmp/changelog.txt
+        eol=$(openssl rand -hex 16)
+        { echo "changelog<<$eol"; cat /tmp/changelog.txt; echo "$eol"; } >> "$GITHUB_OUTPUT"
+    - uses: stefanzweifel/git-auto-commit-action@4a55954c782fc1ea30b9056cd3e7a2b40ca8887d # v7.2.0
       name: Commit Updates
       id: commit
       with:
@@ -54,34 +68,109 @@ jobs:
           ${{steps.generate.outputs.changelog}}
         commit_author: 'github-actions[bot] <github-actions[bot]@users.noreply.github.com>'
         file_pattern: '*.csv'
-        tagging_message: 'v1.${{ steps.current-time.outputs.formattedTime }}'
-    # We use heredoc (<<) in bash to avoid quoting issues (some schemes have both single and double quotes)
-    # and pass the release notes as stdin instead
-    # and use --notes-file - to use stdin as notes-file instead.
+        tagging_message: 'v2.${{ steps.current-time.outputs.formattedTime }}'
+    # Scheme names can contain quotes, so the changelog is passed via env, never interpolated
     - name: Create GitHub Release (TER Changes)
       run: |
-        gh release create 'v1.${{ steps.current-time.outputs.formattedTime }}' --latest --notes-file - data.csv <<EOF
-        Total Expense Ratio Changes (Direct Plans):
-
-        ${{steps.generate.outputs.changelog}}
-        EOF
+        printf '# %s\nTotal Expense Ratio Changes (Direct Plans):\n\n%s\n' "$(TZ=Asia/Kolkata date +%F)" "$CHANGELOG" |
+          gh release create "v2.$VERSION" --latest --notes-file - data.csv
       # Run this if changes were detected, and changelog was not empty
       if: steps.commit.outputs.changes_detected == 'true' && contains(steps.generate.outputs.changelog, 'TER')
       env:
         GH_TOKEN: ${{ github.token }}
+        VERSION: ${{ steps.current-time.outputs.formattedTime }}
+        CHANGELOG: ${{ steps.generate.outputs.changelog }}
     - name: Create GitHub Release (No TER Changes)
       run: |
-        gh release create 'v1.${{ steps.current-time.outputs.formattedTime }}' --latest --notes 'No TER changes in any Direct Plans' data.csv
+        printf '# %s\nNo TER changes in any Direct Plans\n' "$(TZ=Asia/Kolkata date +%F)" |
+          gh release create "v2.$VERSION" --latest --notes-file - data.csv
       # Run this if changes were detected, and changelog was empty.
       if: steps.commit.outputs.changes_detected == 'true' && ( ! contains(steps.generate.outputs.changelog, 'TER') )
       env:
         GH_TOKEN: ${{ github.token }}
+        VERSION: ${{ steps.current-time.outputs.formattedTime }}
     - name: Post to Mastodon
-      run: |
-        python src/toot.py <<EOF
-        ${{steps.generate.outputs.changelog}}
-        EOF
-      if: steps.commit.outputs.changes_detected == 'true' && contains(steps.generate.outputs.changelog, 'TER')
+      run: python src/toot.py <<< "$CHANGELOG"
+      if: env.POST_TO_MASTODON == 'true' && steps.commit.outputs.changes_detected == 'true' && contains(steps.generate.outputs.changelog, 'TER')
       env:
+          CHANGELOG: ${{ steps.generate.outputs.changelog }}
           MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
           MASTODON_API_BASE_URL: ${{ secrets.MASTODON_API_BASE_URL }}
+    - name: Push metrics
+      if: ${{ !cancelled() && github.event_name == 'schedule' }}
+      env:
+        JOB_STATUS: ${{ job.status }}
+        CHANGELOG: ${{ steps.generate.outputs.changelog }}
+        GRAFANA_INFLUX_URL: ${{ vars.GRAFANA_INFLUX_URL }}
+        GRAFANA_INFLUX_USER: ${{ vars.GRAFANA_INFLUX_USER }}
+        GRAFANA_INFLUX_TOKEN: ${{ secrets.GRAFANA_INFLUX_TOKEN }}
+      run: |
+        repo="${GITHUB_REPOSITORY#*/}"
+        read -r schemes ter_avg <<< "$(python3 -c 'import csv; r = list(csv.reader(open("data.csv")))[1:]; print(len(r), round(sum(float(x[-1]) for x in r) / max(len(r), 1), 4))' 2>/dev/null || echo 0 0)"
+        ter_changes=$(grep -c '^- "' <<< "$CHANGELOG" || true)
+        rows_changed=$(git diff --numstat "$GITHUB_SHA" HEAD -- data.csv 2>/dev/null | cut -f1)
+        last_change=$(git log -1 --format=%ct -- data.csv 2>/dev/null || true)
+        {
+          # TER dataset size, changes this run, scraper success and days since data.csv last changed
+          [ -n "$last_change" ] && echo "mf_ter,repo=$repo schemes=${schemes:-0},direct_ter_avg=${ter_avg:-0},ter_changes=${ter_changes:-0},rows_changed=${rows_changed:-0},fetch_ok=$([ -f /tmp/data.csv ] && [ data.csv -nt /tmp/data.csv ] && echo 1 || echo 0),last_change_age_days=$(( ($(date +%s) - last_change) / 86400 ))"
+          echo "scrape_run,repo=$repo success=$([ "$JOB_STATUS" = success ] && echo 1 || echo 0),duration_seconds=$(( $(date +%s) - RUN_START )),changed=$([ "$(git rev-parse HEAD)" != "$GITHUB_SHA" ] && echo 1 || echo 0)"
+        } > "$RUNNER_TEMP/metrics.txt"
+        cat "$RUNNER_TEMP/metrics.txt"
+        [ -n "$GRAFANA_INFLUX_TOKEN" ] || exit 0
+        curl -fsS --max-time 10 -u "$GRAFANA_INFLUX_USER:$GRAFANA_INFLUX_TOKEN" \
+          --data-binary "@$RUNNER_TEMP/metrics.txt" "$GRAFANA_INFLUX_URL/api/v1/push/influx/write" \
+          || echo "::warning::Could not push metrics"
+  pages-build:
+    name: Build feeds
+    needs: update
+    if: needs.update.outputs.changed == 'true' || github.event_name != 'schedule'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    defaults:
+      run:
+        shell: bash
+        working-directory: site
+    steps:
+    - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      with:
+        # Checkout the branch head to include the data commit from the update job
+        ref: ${{ github.ref }}
+        fetch-depth: 0
+        persist-credentials: false
+    - uses: ruby/setup-ruby@651ff0d62c5c79bed6d53ec518387aae20e72c1a # v1.329.0
+      with:
+        ruby-version: '3.4'
+        bundler-cache: true
+        working-directory: site
+    - uses: actions/configure-pages@45bfe0192ca1faeb007ade9deae92b16b8254a0d # v6.0.0
+      id: pages
+    - name: Generate changes data
+      run: python3 ../src/feed.py _data/changes.json
+    - name: Build site
+      env:
+        JEKYLL_ENV: production
+        PAGES_ORIGIN: ${{ steps.pages.outputs.origin }}
+        PAGES_BASE_PATH: ${{ steps.pages.outputs.base_path }}
+      run: |
+        printf 'url: "%s"\nbaseurl: "%s"\n' "$PAGES_ORIGIN" "$PAGES_BASE_PATH" > _pages.yml
+        bundle exec jekyll build --config _config.yml,_pages.yml
+    - uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5.0.0
+      with:
+        path: site/_site
+  pages-deploy:
+    name: Deploy feeds
+    needs: pages-build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    concurrency:
+      group: pages
+      cancel-in-progress: false
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+    - uses: actions/deploy-pages@368f82528645a54fb793d4d04e342629a3f51346 # v5.0.1
+      id: deployment

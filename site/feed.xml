@@ -1,0 +1,28 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>{{ site.title | xml_escape }}</title>
+  <link>{{ '/' | absolute_url }}</link>
+  <description>{{ site.description | xml_escape }}</description>
+  <language>{{ site.lang }}</language>
+  <atom:link href="{{ page.url | absolute_url }}" rel="self" type="application/rss+xml"/>
+  {%- assign latest = site.data.changes | first %}
+  {%- if latest %}
+  <lastBuildDate>{{ latest.date | date_to_rfc822 }}</lastBuildDate>
+  {%- endif %}
+  {%- for entry in site.data.changes limit: site.feed_limit %}
+  <item>
+    {%- capture title %}{% include title.html entry=entry %}{% endcapture %}
+    {%- capture body %}{% include changes.html entry=entry %}{% endcapture %}
+    <title>{{ title | xml_escape }}</title>
+    <link>{{ entry.url }}</link>
+    <guid isPermaLink="false">{{ entry.id }}</guid>
+    <pubDate>{{ entry.date | date_to_rfc822 }}</pubDate>
+    <description>{{ body | xml_escape }}</description>
+  </item>
+  {%- endfor %}
+</channel>
+</rss>

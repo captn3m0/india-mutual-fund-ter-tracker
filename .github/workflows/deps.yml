@@ -10,18 +10,13 @@ permissions:
 jobs:
   dependabot:
     runs-on: ubuntu-latest
-    if: ${{ github.actor == 'dependabot[bot]' }}
+    if: github.event.pull_request.user.login == 'dependabot[bot]'
     steps:
       - name: Dependabot metadata
         id: metadata
-        uses: dependabot/fetch-metadata@v3.1.0
+        uses: dependabot/fetch-metadata@25dd0e34f4fe68f24cc83900b1fe3fe149efef98 # v3.1.0
         with:
           github-token: "${{ secrets.GITHUB_TOKEN }}"
-      - uses: actions/checkout@v7
-        name: Clone self repository
-        with:
-          ref: ${{ github.head_ref }}
-          submodules: true
       - name: Enable auto-merge for Dependabot PRs for release data
         run: gh pr merge --auto --rebase "$PR_URL"
         env:

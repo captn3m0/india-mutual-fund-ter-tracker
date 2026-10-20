@@ -1,0 +1,6 @@
+_site/
+.jekyll-cache/
+_data/changes.json
+vendor/
+.bundle/
+_pages.yml
