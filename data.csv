@@ -834,7 +834,7 @@
 "HSBC/O/O/FOO/11/02/0013","HSBC Brazil Fund",1.22,0.0,0.0,0.22,1.44,0.78,0.0,0.0,0.14,0.92
 "LTMF/O/E/THE/14/07/0025","HSBC Business Cycles Fund",1.88,0.04,0.0,0.42,2.34,0.86,0.04,0.0,0.24,1.14
 "HSBC/O/H/CHF/04/01/0006","HSBC Conservative Hybrid Fund",1.81,0.02,0.0,0.36,2.19,0.96,0.02,0.0,0.21,1.19
-"HSBC/O/E/THE/23/05/0036","HSBC Consumption Fund",1.79,0.03,0.0,0.38,2.2,0.67,0.03,0.0,0.18,0.88
+"HSBC/O/E/THE/23/05/0036","HSBC Consumption Fund",1.8,0.03,0.0,0.38,2.21,0.68,0.03,0.0,0.18,0.89
 "LTMF/O/D/CBF/97/01/0001","HSBC Corporate Bond Fund",0.51,0.0,0.0,0.09,0.6,0.28,0.0,0.0,0.05,0.33
 "LTMF/O/D/CRF/09/04/0015","HSBC Credit Risk Fund",1.39,0.01,0.0,0.26,1.66,0.7,0.01,0.0,0.13,0.84
 "HSBC/O/D/DIN/22/03/0029","HSBC CRISIL IBX 50:50 Gilt Plus SDL APR 2028 Index Fund",0.33,0.0,0.0,0.06,0.39,0.16,0.0,0.0,0.03,0.19
@@ -2008,7 +2008,7 @@
 "UNFI/O/H/DAA/25/01/0001","Unifi Dynamic Asset Allocation Fund",1.29,0.06,0.02,0.62,1.99,0.79,0.06,0.02,0.53,1.4
 "UNFI/O/E/FCF/25/03/0002","Unifi Flexi Cap Fund",2.1,0.06,0.0,0.54,2.7,1.0,0.06,0.0,0.36,1.42
 "UNFI/O/D/LIF/25/04/0003","Unifi Liquid Fund",0.13,0.0,0.0,0.02,0.15,0.08,0.0,0.0,0.01,0.09
-"UNIN/O/E/THE/24/08/0027","Union Active Momentum Fund",2.09,0.35,0.02,1.26,3.72,0.92,0.35,0.02,1.05,2.34
+"UNIN/O/E/THE/24/08/0027","Union Active Momentum Fund",2.08,0.35,0.02,1.26,3.71,0.92,0.35,0.02,1.05,2.34
 "UNIN/O/H/AHF/20/03/0017","Union Aggressive Hybrid Fund",2.03,0.12,0.01,0.66,2.82,0.99,0.12,0.01,0.47,1.59
 "UNIN/O/H/ARB/18/12/0011","Union Arbitrage Fund",0.87,0.13,0.04,1.2,2.24,0.34,0.13,0.04,1.1,1.61
 "UNIN/O/H/BAF/17/11/0007","Union Balanced Advantage Fund",1.87,0.08,0.01,0.58,2.54,0.96,0.08,0.01,0.42,1.47
