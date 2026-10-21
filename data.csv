@@ -143,7 +143,7 @@
 "AXIS/O/O/EET/22/09/0073","Axis BSE SENSEX ETF",0.03,0.0,0.0,0.01,0.04,0.0,0.0,0.0,0.0,0.0
 "AXIS/O/O /EIN/23/12/0084","Axis BSE SENSEX Index Fund",0.61,0.02,0.0,0.2,0.83,0.09,0.02,0.0,0.1,0.21
 "AXIS/O/E/THE/22/12/0070","Axis Business Cycles Fund",1.76,0.09,0.0,0.52,2.37,1.15,0.09,0.0,0.39,1.63
-"Lock-IN - AXIS/O/S/CHI/15/09/0020","Axis Children's Fund",1.97,0.02,0.0,0.4,2.39,1.2,0.02,0.0,0.26,1.48
+"Lock-IN - AXIS/O/S/CHI/15/09/0020","Axis Children's Fund",1.98,0.02,0.0,0.4,2.4,1.21,0.02,0.0,0.26,1.49
 "AXIS/O/H/CHF/10/05/0006","Axis Conservative Hybrid Fund",1.85,0.0,0.0,0.33,2.18,0.98,0.0,0.0,0.18,1.16
 "AXIS/O/E/THE/24/06/0088","Axis Consumption Fund",1.72,0.05,0.0,0.39,2.16,0.61,0.05,0.0,0.2,0.86
 "AXIS/O/D/CBF/17/05/0023","Axis Corporate Bond Fund",0.81,0.01,0.0,0.15,0.97,0.3,0.01,0.0,0.05,0.36
@@ -158,10 +158,10 @@
 "AXIS/O/D/DBF/11/03/0010","Axis Dynamic Term Fund",0.53,0.01,0.01,0.1,0.65,0.27,0.01,0.01,0.05,0.34
 "AXIS/O/E/ELS/09/11/0005","Axis ELSS- Tax Saver Fund",1.35,0.06,0.0,0.35,1.76,0.74,0.06,0.0,0.25,1.05
 "AXIS/O/H/ESF/15/06/0019","Axis Equity Savings Fund",1.95,0.11,0.0,0.64,2.7,0.99,0.11,0.0,0.46,1.56
-"AXIS/O/E/THE/19/12/0042","Axis ESG Integration Strategy Fund",1.92,0.16,0.0,0.65,2.73,1.19,0.16,0.0,0.52,1.87
-"AXIS/O/E/FCF/17/05/0025","Axis Flexi Cap Fund",1.46,0.04,0.0,0.33,1.83,0.62,0.04,0.0,0.18,0.84
+"AXIS/O/E/THE/19/12/0042","Axis ESG Integration Strategy Fund",1.93,0.16,0.0,0.66,2.75,1.2,0.16,0.0,0.52,1.88
+"AXIS/O/E/FCF/17/05/0025","Axis Flexi Cap Fund",1.47,0.04,0.0,0.33,1.84,0.63,0.04,0.0,0.18,0.85
 "AXIS/O/D/FLF/21/03/0053","Axis Floating Interest Rates Fund",0.43,0.01,0.01,0.08,0.53,0.17,0.01,0.01,0.03,0.22
-"AXIS/O/E/FOC/12/02/0014","Axis Focused Fund",1.49,0.05,0.0,0.35,1.89,0.74,0.05,0.0,0.22,1.01
+"AXIS/O/E/FOC/12/02/0014","Axis Focused Fund",1.5,0.05,0.0,0.36,1.91,0.75,0.05,0.0,0.22,1.02
 "AXIS/O/D/GIL/11/12/0013","Axis Gilt Fund",0.71,0.0,0.02,0.13,0.86,0.37,0.0,0.02,0.07,0.46
 "AXIS/O/O/FOO/20/07/0045","Axis Global Equity Alpha Fund of Fund",1.35,0.0,0.0,0.24,1.59,0.68,0.0,0.0,0.12,0.8
 "AXIS/O/O/FOO/20/12/0049","Axis Global Innovation Fund of Fund",1.35,0.0,0.0,0.24,1.59,0.72,0.0,0.0,0.13,0.85
@@ -173,18 +173,18 @@
 "AXIS/O/O/FOD/25/09/0101","Axis Income Plus Arbitrage Passive FoF",0.35,0.0,0.0,0.06,0.41,0.05,0.0,0.0,0.01,0.06
 "AXIS/O/E/THE/23/09/0079","Axis India Manufacturing Fund",1.59,0.07,0.0,0.42,2.08,0.61,0.07,0.0,0.24,0.92
 "AXIS/O/E/THE/20/07/0046","Axis Innovation Fund",1.84,0.05,0.0,0.4,2.29,1.04,0.05,0.0,0.26,1.35
-"AXIS/O/E/LMF/18/05/0028","Axis Large & Mid Cap Fund",1.43,0.06,0.0,0.37,1.86,0.54,0.06,0.0,0.21,0.81
-"AXIS/O/E/LCF/09/10/0003","Axis Large Cap Fund",1.34,0.05,0.0,0.36,1.75,0.63,0.05,0.0,0.23,0.91
+"AXIS/O/E/LMF/18/05/0028","Axis Large & Mid Cap Fund",1.44,0.06,0.0,0.37,1.87,0.55,0.06,0.0,0.22,0.83
+"AXIS/O/E/LCF/09/10/0003","Axis Large Cap Fund",1.35,0.05,0.0,0.36,1.76,0.64,0.05,0.0,0.23,0.92
 "AXIS/O/D/LIF/09/09/0002","Axis Liquid Fund",0.2,0.0,0.0,0.03,0.23,0.11,0.0,0.0,0.02,0.13
 "AXIS/O/D/LON/22/11/0068","Axis Long Term Fund",0.66,0.0,0.0,0.12,0.78,0.28,0.0,0.0,0.05,0.33
 "AXIS/O/D/MDF/11/09/0012","Axis Medium Term Fund",1.12,0.0,0.0,0.2,1.32,0.6,0.0,0.0,0.11,0.71
-"AXIS/O/E/MIF/10/12/0009","Axis Midcap Fund",1.32,0.07,0.0,0.38,1.77,0.5,0.07,0.0,0.23,0.8
+"AXIS/O/E/MIF/10/12/0009","Axis Midcap Fund",1.33,0.07,0.0,0.38,1.78,0.5,0.07,0.0,0.23,0.8
 "AXIS/O/E/THE/24/09/0092","Axis Momentum Fund",1.99,0.41,0.0,1.25,3.65,0.77,0.41,0.0,1.03,2.21
 "AXIS/O/D/MMF/19/07/0036","Axis Money Market Fund",0.29,0.01,0.0,0.05,0.35,0.15,0.01,0.0,0.02,0.18
 "AXIS/O/H/MAA/10/05/0007","Axis Multi Asset Allocation Fund",1.57,0.15,0.0,0.56,2.28,0.65,0.15,0.0,0.4,1.2
 "AXIS/O/O/FOD/21/07/0056","Axis Multi Factor Passive FoF",0.55,0.0,0.0,0.1,0.65,0.05,0.0,0.0,0.01,0.06
 "AXIS/O/O/FOD/25/09/0102","Axis Multi-Asset Omni FoF",1.12,0.01,0.0,0.21,1.34,0.12,0.01,0.0,0.03,0.16
-"AXIS/O/E/MCF/21/09/0058","Axis Multicap Fund",1.47,0.08,0.0,0.42,1.97,0.58,0.08,0.0,0.26,0.92
+"AXIS/O/E/MCF/21/09/0058","Axis Multicap Fund",1.48,0.08,0.0,0.42,1.98,0.59,0.08,0.0,0.26,0.93
 "AXIS/O/O/FOO/22/09/0066","Axis NASDAQ 100 US Specific Equity Passive FoF",0.54,0.0,0.0,0.1,0.64,0.25,0.0,0.0,0.04,0.29
 "AXIS/O/O/EIN/19/07/0040","Axis Nifty 100 Index Fund",0.79,0.01,0.0,0.18,0.98,0.18,0.01,0.0,0.07,0.26
 "AXIS/O/O/EET/17/01/0022","Axis Nifty 50 ETF",0.03,0.02,0.0,0.11,0.16,0.0,0.0,0.0,0.0,0.0
@@ -223,7 +223,7 @@
 "AXIS/O/D/USD/18/08/0029","Axis Ultra Short Term Fund",1.06,0.01,0.0,0.19,1.26,0.3,0.01,0.0,0.05,0.36
 "AXIS/O/D/LOW/09/09/0001","Axis Ultra Short to Short Term Fund",0.6,0.02,0.0,0.11,0.73,0.3,0.02,0.0,0.05,0.37
 "AXIS/O/O/FOO/23/11/0081","Axis US Specific Treasury Dynamic Debt Passive FoF",0.13,0.0,0.0,0.02,0.15,0.08,0.0,0.0,0.01,0.09
-"AXIS/O/E/VAF/20/09/0048","Axis Value Fund",1.77,0.06,0.0,0.43,2.26,0.59,0.06,0.0,0.22,0.87
+"AXIS/O/E/VAF/20/09/0048","Axis Value Fund",1.78,0.06,0.0,0.43,2.27,0.6,0.06,0.0,0.22,0.88
 "BFAM/O/E/ARB/23/05/0005","Bajaj Finserv Arbitrage Fund",0.9,0.19,0.04,0.86,1.99,0.31,0.19,0.04,0.75,1.29
 "BFAM/O/H/BAF/23/05/0007","Bajaj Finserv Balanced Advantage Fund",1.84,0.15,0.01,0.61,2.61,0.48,0.15,0.01,0.36,1.0
 "BFAM/O/E /SEC/25/09/0022","Bajaj Finserv Banking and Financial Services Fund",2.09,0.11,0.01,0.6,2.81,0.66,0.11,0.01,0.34,1.12
