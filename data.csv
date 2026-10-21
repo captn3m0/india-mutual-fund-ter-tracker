@@ -871,7 +871,7 @@
 "LTMF/O/D/LOW/10/10/0019","HSBC Ultra Short to Short Term Fund",0.81,0.01,0.0,0.14,0.96,0.33,0.01,0.0,0.06,0.4
 "LTMF/O/E/VAF/09/09/0016","HSBC Value Fund",1.45,0.04,0.0,0.35,1.84,0.64,0.04,0.0,0.2,0.88
 "ICIC/O/D/GTN/14/06/0050","ICICI Prudential 10 Year Constant Maturity Gilt Fund",0.37,0.0,0.01,0.07,0.45,0.24,0.0,0.01,0.04,0.29
-"ICIC/O/E/THE/25/01/0196","ICICI Prudential Active Momentum Fund",1.75,0.18,0.02,0.91,2.86,0.82,0.18,0.02,0.79,1.81
+"ICIC/O/E/THE/25/01/0196","ICICI Prudential Active Momentum Fund",1.76,0.18,0.02,0.91,2.87,0.83,0.18,0.02,0.79,1.82
 "ICIC/O/O/FOD/03/10/0022","ICICI Prudential Aggressive Hybrid Active FoF",1.29,0.0,0.0,0.21,1.5,0.32,0.0,0.0,0.06,0.38
 "ICIC/O/H/AHF/99/09/0013","ICICI Prudential Aggressive Hybrid Fund",1.24,0.03,0.0,0.34,1.61,0.79,0.03,0.0,0.26,1.08
 "ICIC/O/H/ARB/06/09/0029","ICICI Prudential Arbitrage Fund",0.79,0.12,0.05,1.2,2.16,0.34,0.12,0.05,1.12,1.63
@@ -907,15 +907,15 @@
 "ICIC/O/D/DBF/98/05/0004","ICICI Prudential Dynamic Term Fund",1.13,0.0,0.0,0.19,1.32,0.54,0.0,0.0,0.09,0.63
 "ICIC/O/E/ELS/99/07/0011","ICICI Prudential ELSS - Tax Saver Fund",1.46,0.02,0.0,0.3,1.78,0.96,0.02,0.0,0.23,1.21
 "ICIC/O/E/THE/24/06/0179","ICICI Prudential Energy Opportunities Fund",1.53,0.07,0.01,0.51,2.12,0.64,0.07,0.01,0.39,1.11
-"ICIC/O/E/THE/24/10/0184","ICICI Prudential Equity Minimum Variance Fund",1.71,0.2,0.02,0.95,2.88,0.81,0.2,0.02,0.82,1.85
+"ICIC/O/E/THE/24/10/0184","ICICI Prudential Equity Minimum Variance Fund",1.72,0.2,0.02,0.95,2.89,0.82,0.2,0.02,0.82,1.86
 "ICIC/O/H/ESF/14/11/0051","ICICI Prudential Equity Savings Fund",0.83,0.13,0.03,0.6,1.59,0.43,0.13,0.03,0.53,1.12
-"ICIC/O/E/THE/20/02/0119","ICICI Prudential ESG Exclusionary Strategy Fund",1.85,0.04,0.0,0.46,2.35,0.97,0.04,0.0,0.32,1.33
+"ICIC/O/E/THE/20/02/0119","ICICI Prudential ESG Exclusionary Strategy Fund",1.86,0.04,0.0,0.46,2.36,0.98,0.04,0.0,0.32,1.34
 "ICIC/O/E/THE/05/06/0028","ICICI Prudential Exports & Services Fund",1.82,0.04,0.0,0.46,2.32,1.38,0.04,0.0,0.39,1.81
 "ICIC/C/D/FTP/18/10/0098","ICICI Prudential Fixed Maturity Plan - Series 85 - 10 Years Plan I",0.31,0.0,0.0,0.04,0.35,0.09,0.0,0.0,0.01,0.1
 "ICIC/C/D/FTP/22/11/0168","ICICI Prudential Fixed Maturity Plan - Series 88 - 1303 Days Plan S",0.3,0.0,0.0,0.06,0.36,0.09,0.0,0.0,0.01,0.1
 "ICIC/O/E/FCF/21/02/0122","ICICI Prudential Flexi Cap Fund",1.38,0.03,0.0,0.32,1.73,0.65,0.03,0.0,0.2,0.88
 "ICIC/O/D/FLF/13/12/0047","ICICI Prudential Floating Interest Rates Fund",0.73,0.0,0.0,0.12,0.85,0.25,0.0,0.0,0.04,0.29
-"ICIC/O/E/SEC/99/02/0010","ICICI Prudential FMCG Fund",1.81,0.05,0.01,0.53,2.4,1.18,0.05,0.01,0.43,1.67
+"ICIC/O/E/SEC/99/02/0010","ICICI Prudential FMCG Fund",1.82,0.05,0.01,0.53,2.41,1.19,0.05,0.01,0.43,1.68
 "ICIC/O/E/FOC/22/02/0140","ICICI Prudential Focused Fund",1.43,0.1,0.01,0.59,2.13,0.57,0.1,0.01,0.44,1.12
 "ICIC/O/D/GIL/99/07/0012","ICICI Prudential Gilt Fund",0.94,0.0,0.0,0.17,1.11,0.49,0.0,0.0,0.09,0.58
 "ICIC/O/O/FOD/19/06/0109","ICICI Prudential Global Advantage Fund (FoF)",1.14,0.0,0.0,0.21,1.35,0.54,0.0,0.0,0.1,0.64
@@ -927,7 +927,7 @@
 "ICIC/O/O/FOD/03/10/0024","ICICI Prudential Income Plus Arbitrage Omni FoF",0.22,0.0,0.0,0.05,0.27,0.06,0.0,0.0,0.02,0.08
 "ICIC/O/E/THE/18/10/0090","ICICI Prudential India Opportunities Fund",1.31,0.04,0.0,0.37,1.72,0.62,0.04,0.0,0.26,0.92
 "ICIC/O/E/THE/05/06/0027","ICICI Prudential Infrastructure Fund",1.53,0.03,0.0,0.36,1.92,1.0,0.03,0.0,0.28,1.31
-"ICIC/O/E/THE/23/02/0171","ICICI Prudential Innovation Fund",1.53,0.1,0.01,0.53,2.17,0.7,0.1,0.01,0.42,1.23
+"ICIC/O/E/THE/23/02/0171","ICICI Prudential Innovation Fund",1.54,0.1,0.01,0.53,2.18,0.71,0.1,0.01,0.42,1.24
 "ICIC/O/E/LMF/98/05/0001","ICICI Prudential Large & Mid Cap Fund",1.34,0.1,0.01,0.56,2.01,0.69,0.1,0.01,0.45,1.25
 "ICIC/O/E/LCF/98/05/0006","ICICI Prudential Large Cap Fund (Erstwhile Bluechip Fund)",1.14,0.03,0.0,0.33,1.5,0.72,0.03,0.0,0.26,1.01
 "ICIC/O/L/LCY/26/06/0206","ICICI Prudential Life Cycle Fund 2031",1.83,0.39,0.08,2.57,4.87,0.81,0.39,0.08,2.39,3.67
