@@ -50,7 +50,7 @@
 "ABSL/O/O/DIN/24/11/0168","Aditya Birla Sun Life CRISIL-IBX Financial Services 9-12 Months Debt Index Fund",0.3,0.01,0.0,0.05,0.36,0.13,0.01,0.0,0.02,0.16
 "ABSL/O/E/SEC/99/12/0012","Aditya Birla Sun Life Digital India Fund",1.62,0.05,0.0,0.37,2.04,0.77,0.05,0.0,0.24,1.06
 "ABSL/O/E/DYF/03/01/0020","Aditya Birla Sun Life Dividend Yield Fund",1.84,0.16,0.01,0.65,2.66,1.16,0.16,0.01,0.53,1.86
-"ABSL/O/O/FOD/10/10/0040","Aditya Birla Sun Life Dynamic Asset Allocation Omni FoF",1.0,0.0,0.0,0.18,1.18,0.34,0.0,0.0,0.06,0.4
+"ABSL/O/O/FOD/10/10/0040","Aditya Birla Sun Life Dynamic Asset Allocation Omni FoF",0.99,0.0,0.0,0.18,1.17,0.33,0.0,0.0,0.06,0.39
 "ABSL/O/D/DBF/04/08/0024","Aditya Birla Sun Life Dynamic Term Fund",1.04,0.0,0.0,0.18,1.22,0.55,0.0,0.0,0.09,0.64
 "ABSL/O/E/ELS/96/01/0004","Aditya Birla Sun Life ELSS Tax Saver Fund",1.46,0.02,0.0,0.29,1.77,0.85,0.02,0.0,0.2,1.07
 "ABSL/O/H/ESF/14/10/0047","Aditya Birla Sun Life Equity Savings Fund",0.86,0.15,0.03,0.63,1.67,0.45,0.15,0.03,0.56,1.19
@@ -68,7 +68,7 @@
 "ABSL/O/O/FOD/06/09/0030","Aditya Birla Sun Life Income Plus Arbitrage Active FoF",0.36,0.0,0.0,0.06,0.42,0.05,0.0,0.0,0.01,0.06
 "ABSL/O/E/SEC/06/01/0027","Aditya Birla Sun Life Infrastructure Fund",1.87,0.05,0.0,0.42,2.34,1.14,0.05,0.0,0.31,1.5
 "ABSL/O/E/SEC/07/08/0032","Aditya Birla Sun Life International Equity Fund",2.08,0.11,0.0,0.36,2.55,1.6,0.11,0.0,0.29,2.0
-"ABSL/O/E/LMF/95/02/0002","Aditya Birla Sun Life Large & Mid Cap Fund",1.58,0.04,0.0,0.37,1.99,0.95,0.04,0.0,0.27,1.26
+"ABSL/O/E/LMF/95/02/0002","Aditya Birla Sun Life Large & Mid Cap Fund",1.59,0.04,0.0,0.37,2.0,0.96,0.04,0.0,0.27,1.27
 "ABSL/O/E/LCF/02/09/0019","Aditya Birla Sun Life Large Cap Fund",1.36,0.03,0.0,0.3,1.69,0.81,0.03,0.0,0.21,1.05
 "ABSL/O/D/LIF/97/06/0006","Aditya Birla Sun Life Liquid Fund",0.3,0.0,0.0,0.05,0.35,0.18,0.0,0.0,0.03,0.21
 "ABSL/O/D/LON/21/10/0117","Aditya Birla Sun Life Long Term Fund",0.84,0.0,0.01,0.13,0.98,0.36,0.0,0.01,0.06,0.43
@@ -112,7 +112,7 @@
 "ABSL/O/O/OET/21/12/0103","Aditya Birla Sun Life Silver ETF",0.3,0.0,0.0,0.05,0.35,0.0,0.0,0.0,0.0,0.0
 "ABSL/O/O/FOD/21/12/0104","Aditya Birla Sun Life Silver ETF FoF",0.56,0.0,0.0,0.09,0.65,0.27,0.0,0.0,0.05,0.32
 "ABSL/O/E/SCF/06/02/0028","Aditya Birla Sun Life Small Cap Fund",1.57,0.05,0.0,0.38,2.0,0.77,0.05,0.0,0.25,1.07
-"ABSL/O/E/SEC/20/07/0092","Aditya Birla Sun Life Special Opportunities Fund",1.83,0.05,0.0,0.39,2.27,0.87,0.05,0.0,0.26,1.18
+"ABSL/O/E/SEC/20/07/0092","Aditya Birla Sun Life Special Opportunities Fund",1.83,0.05,0.0,0.39,2.27,0.86,0.05,0.0,0.26,1.17
 "ABSL/O/E/THE/23/07/0149","Aditya Birla Sun Life Transportation and Logistics Fund",1.79,0.05,0.0,0.37,2.21,0.75,0.05,0.0,0.24,1.04
 "ABSL/O/D/USD/01/11/0015","Aditya Birla Sun Life Ultra Short Term Fund",0.5,0.0,0.0,0.08,0.58,0.27,0.0,0.0,0.05,0.32
 "ABSL/O/D/LOW/98/07/0007","Aditya Birla Sun Life Ultra Short to Short Term Fund",1.04,0.0,0.0,0.16,1.2,0.36,0.0,0.0,0.06,0.42
