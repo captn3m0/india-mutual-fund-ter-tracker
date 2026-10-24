@@ -418,7 +418,7 @@
 "CANA/O/D/DBF/09/02/0012","Canara Robeco Dynamic Term Fund",1.44,0.01,0.01,0.25,1.71,0.61,0.01,0.01,0.11,0.74
 "CANA/O/E/ELS/93/03/0003","Canara Robeco ELSS - Tax Saver Fund",1.53,0.02,0.0,0.3,1.85,0.57,0.02,0.0,0.14,0.73
 "CANA/O/E/FCF/03/07/0008","Canara Robeco Flexi Cap Fund",1.47,0.03,0.0,0.33,1.83,0.52,0.03,0.0,0.16,0.71
-"CANA/O/E/FOC/21/02/0020","Canara Robeco Focused Fund",1.69,0.07,0.0,0.42,2.18,0.52,0.07,0.0,0.23,0.82
+"CANA/O/E/FOC/21/02/0020","Canara Robeco Focused Fund",1.7,0.07,0.0,0.42,2.19,0.53,0.07,0.0,0.23,0.83
 "CANA/O/D/GIL/99/10/0004","Canara Robeco Gilt Fund",1.05,0.0,0.0,0.18,1.23,0.37,0.0,0.0,0.06,0.43
 "CANA/O/E/THE/05/08/0011","Canara Robeco Infrastructure Fund",1.96,0.04,0.0,0.41,2.41,0.91,0.04,0.0,0.24,1.19
 "CANA/O/E/LMF/05/02/0010","Canara Robeco Large and Mid Cap Fund",1.39,0.05,0.0,0.34,1.78,0.54,0.05,0.0,0.19,0.78
@@ -427,14 +427,14 @@
 "CANA/O/E/THE/23/12/0025","Canara Robeco Manufacturing Fund",1.8,0.06,0.0,0.41,2.27,0.71,0.06,0.0,0.24,1.01
 "CANA/O/D/MLD/02/05/0006","Canara Robeco Medium to Long Term Fund",1.59,0.0,0.0,0.25,1.84,0.61,0.0,0.0,0.11,0.72
 "CANA/O/E/MIF/21/12/0023","Canara Robeco Mid Cap Fund",1.61,0.09,0.0,0.43,2.13,0.55,0.09,0.0,0.27,0.91
-"CANA/O/H/MAA/25/02/0027","Canara Robeco Multi Asset Allocation Fund",1.8,0.07,0.01,0.46,2.34,0.62,0.07,0.01,0.27,0.97
-"CANA/O/E/MCF/23/02/0024","Canara Robeco Multi Cap Fund",1.58,0.05,0.0,0.37,2.0,0.44,0.05,0.0,0.18,0.67
+"CANA/O/H/MAA/25/02/0027","Canara Robeco Multi Asset Allocation Fund",1.81,0.07,0.01,0.46,2.35,0.63,0.07,0.01,0.27,0.98
+"CANA/O/E/MCF/23/02/0024","Canara Robeco Multi Cap Fund",1.59,0.05,0.0,0.37,2.01,0.45,0.05,0.0,0.18,0.68
 "CANA/O/D/ONF/19/06/0019","Canara Robeco Overnight Fund",0.1,0.0,0.0,0.01,0.11,0.07,0.0,0.0,0.01,0.08
 "CANA/O/D/SDF/10/10/0015","Canara Robeco Short Term Fund",0.85,0.0,0.0,0.14,0.99,0.31,0.0,0.0,0.05,0.36
-"CANA/O/E/SCF/18/12/0018","Canara Robeco Small Cap Fund",1.46,0.06,0.0,0.36,1.88,0.48,0.06,0.0,0.19,0.73
+"CANA/O/E/SCF/18/12/0018","Canara Robeco Small Cap Fund",1.47,0.06,0.0,0.36,1.89,0.49,0.06,0.0,0.19,0.74
 "CANA/O/D/USD/03/03/0007","Canara Robeco Ultra Short Term Fund",0.8,0.0,0.0,0.12,0.92,0.27,0.0,0.0,0.04,0.31
 "CANA/O/D/LOW/04/12/0009","Canara Robeco Ultra Short to Short Term Fund",0.43,0.0,0.0,0.07,0.5,0.18,0.0,0.0,0.03,0.21
-"CANA/O/E/VAF/21/02/0021","Canara Robeco Value Fund",1.87,0.03,0.0,0.38,2.28,0.65,0.03,0.0,0.18,0.86
+"CANA/O/E/VAF/21/02/0021","Canara Robeco Value Fund",1.88,0.03,0.0,0.38,2.29,0.66,0.03,0.0,0.18,0.87
 "CMND/O/H/ARB/26/01/0004","Capitalmind Arbitrage Fund",0.86,0.12,0.07,0.91,1.96,0.18,0.12,0.07,0.81,1.18
 "CMND/O/E /FCF/25/06/0001","Capitalmind Flexi Cap Fund",2.08,0.12,0.02,0.94,3.16,0.83,0.12,0.02,0.75,1.72
 "CMND/O/D/LIF/25/11/0002","Capitalmind Liquid Fund",0.25,0.01,0.01,0.04,0.31,0.08,0.01,0.01,0.01,0.11
@@ -2039,7 +2039,7 @@
 "UNIN/O/D/ONF/19/02/0012","Union Overnight Fund",0.15,0.0,0.06,0.03,0.24,0.06,0.0,0.06,0.02,0.14
 "UNIN/O/S/RET/22/05/0020","Union Retirement Fund",2.1,0.06,0.0,0.51,2.67,0.98,0.06,0.0,0.32,1.36
 "UNIN/O/D/SDF/24/12/0028","Union Short Term Fund",0.66,0.01,0.01,0.12,0.8,0.28,0.01,0.01,0.05,0.35
-"UNIN/O/E/SCF/14/03/0005","Union Small Cap Fund",1.7,0.05,0.0,0.42,2.17,0.78,0.05,0.0,0.26,1.09
+"UNIN/O/E/SCF/14/03/0005","Union Small Cap Fund",1.7,0.05,0.0,0.42,2.17,0.78,0.05,0.0,0.27,1.1
 "UNIN/O/D/LOW/25/05/0032","Union Ultra Short to Short Term Fund",0.72,0.01,0.0,0.13,0.86,0.21,0.01,0.0,0.04,0.26
 "UNIN/O/E/VAF/18/05/0009","Union Value Fund",2.1,0.07,0.0,0.39,2.56,1.08,0.07,0.0,0.36,1.51
 "UTIM/O/H/ARB/06/01/0026","UTI - Arbitrage Fund",0.73,0.12,0.0,0.96,1.81,0.26,0.12,0.0,0.88,1.26
