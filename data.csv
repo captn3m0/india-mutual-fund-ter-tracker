@@ -720,7 +720,7 @@
 "HDFC/C/D/FTP/23/02/0125","HDFC Charity Fund For Cancer Cure",0.03,0.0,0.0,0.01,0.04,0.03,0.0,0.0,0.0,0.03
 "HDFC/O/S/CHI/01/01/0007","HDFC Children's Fund",1.5,0.01,0.0,0.3,1.81,0.84,0.01,0.0,0.18,1.03
 "HDFC/O/H/CHF/03/10/0011","HDFC Conservative Hybrid Fund",1.44,0.0,0.0,0.26,1.7,1.0,0.0,0.0,0.18,1.18
-"HDFC/O/E/THE/23/04/0124","HDFC Consumption Fund",1.94,0.04,0.01,0.43,2.42,1.05,0.04,0.01,0.3,1.4
+"HDFC/O/E/THE/23/04/0124","HDFC Consumption Fund",1.95,0.04,0.01,0.43,2.43,1.06,0.04,0.01,0.3,1.41
 "HDFC/O/D/CBF/18/03/0040","HDFC Corporate Bond Fund",0.53,0.0,0.0,0.1,0.63,0.32,0.0,0.0,0.06,0.38
 "HDFC/O/D/CRF/18/03/0042","HDFC Credit Risk Fund",1.29,0.0,0.0,0.22,1.51,0.86,0.0,0.0,0.15,1.01
 "HDFC/O/O/DIN/25/03/0140","HDFC CRISIL-IBX Financial Services 3-6 Months Debt Index Fund",0.2,0.01,0.0,0.04,0.25,0.07,0.01,0.0,0.01,0.09
@@ -747,16 +747,16 @@
 "HDFC/O/E/THE/17/09/0029","HDFC Housing Opportunities Fund",1.91,0.01,0.0,0.35,2.27,1.17,0.01,0.0,0.24,1.42
 "HDFC/O/O/FOD/18/03/0041","HDFC Income Plus Arbitrage Active FoF",0.29,0.0,0.0,0.05,0.34,0.02,0.0,0.0,0.0,0.02
 "HDFC/O/O/FOD/25/10/0146","HDFC Income Plus Arbitrage Omni FoF",0.37,0.0,0.0,0.04,0.41,0.05,0.0,0.0,0.01,0.06
-"HDFC/O/E/THE/08/01/0018","HDFC Infrastructure Fund",1.74,0.04,0.01,0.42,2.21,0.99,0.04,0.01,0.3,1.34
+"HDFC/O/E/THE/08/01/0018","HDFC Infrastructure Fund",1.75,0.04,0.01,0.42,2.22,1.0,0.04,0.01,0.3,1.35
 "HDFC/O/E/THE/25/02/0141","HDFC Innovation Fund",1.67,0.03,0.01,0.38,2.09,0.76,0.03,0.01,0.22,1.02
-"HDFC/O/E/LMF/94/02/0001","HDFC Large & Mid Cap Fund",1.36,0.0,0.0,0.25,1.61,0.77,0.0,0.0,0.15,0.92
+"HDFC/O/E/LMF/94/02/0001","HDFC Large & Mid Cap Fund",1.36,0.0,0.0,0.26,1.62,0.77,0.0,0.0,0.15,0.92
 "HDFC/O/E/LCF/96/10/0004","HDFC Large Cap Fund",1.31,0.01,0.0,0.26,1.58,0.84,0.01,0.0,0.17,1.02
 "HDFC/O/D/LIF/00/10/0006","HDFC Liquid Fund",0.25,0.0,0.0,0.05,0.3,0.17,0.0,0.0,0.03,0.2
 "HDFC/O/D/LON/22/07/0109","HDFC Long Term Fund",0.53,0.0,0.0,0.09,0.62,0.24,0.0,0.0,0.04,0.28
-"HDFC/O/E/THE/24/02/0133","HDFC Manufacturing Fund",1.5,0.02,0.01,0.32,1.85,0.73,0.02,0.01,0.19,0.95
+"HDFC/O/E/THE/24/02/0133","HDFC Manufacturing Fund",1.51,0.02,0.01,0.32,1.86,0.74,0.02,0.01,0.19,0.96
 "HDFC/O/D/MDF/18/03/0035","HDFC Medium Term Fund",1.11,0.0,0.0,0.19,1.3,0.59,0.0,0.0,0.11,0.7
 "HDFC/O/D/MLD/00/07/0005","HDFC Medium to Long Term Fund",1.17,0.0,0.0,0.19,1.36,0.68,0.0,0.0,0.12,0.8
-"HDFC/O/E/MIF/07/04/0015","HDFC Mid Cap Fund",1.09,0.01,0.0,0.21,1.31,0.6,0.01,0.0,0.13,0.74
+"HDFC/O/E/MIF/07/04/0015","HDFC Mid Cap Fund",1.1,0.01,0.0,0.21,1.32,0.61,0.01,0.0,0.13,0.75
 "HDFC/O/E/THE/22/08/0114","HDFC MNC Fund",2.1,0.1,0.03,0.66,2.89,1.2,0.1,0.03,0.53,1.86
 "HDFC/O/D/MMF/18/03/0033","HDFC Money Market Fund",0.35,0.0,0.0,0.06,0.41,0.19,0.0,0.0,0.03,0.22
 "HDFC/O/H/MAA/18/03/0037","HDFC Multi Asset Allocation Fund",1.58,0.02,0.01,0.41,2.02,0.73,0.02,0.01,0.25,1.01
@@ -781,6 +781,7 @@
 "HDFC/O/O/EIN/24/09/0137","HDFC Nifty India Digital Index Fund",0.71,0.0,0.0,0.17,0.88,0.3,0.0,0.0,0.11,0.41
 "HDFC/O/O/OET/21/12/0099","HDFC Nifty IT ETF",0.17,0.0,0.0,0.05,0.22,0.0,0.0,0.0,0.0,0.0
 "HDFC/O/O/EIN/24/06/0136","HDFC Nifty Largemidcap 250 Index Fund",0.58,0.0,0.0,0.15,0.73,0.18,0.0,0.0,0.09,0.27
+"HDFC/O/O/OIN/26/07/0154","HDFC Nifty Largemidcap250 Plus 8-13 Yr G-SEC 70:30 Index Fund",0.82,0.0,0.0,0.15,0.97,0.3,0.0,0.0,0.05,0.35
 "HDFC/O/O/EET/26/05/0151","HDFC Nifty Metal ETF",0.3,0.01,0.01,0.27,0.59,0.0,0.0,0.0,0.0,0.0
 "HDFC/O/O/FOD/26/05/0150","HDFC Nifty Metal ETF FoF",0.6,0.0,0.0,0.11,0.71,0.1,0.0,0.0,0.03,0.13
 "HDFC/O/O/EET/22/10/0112","HDFC Nifty Midcap 150 ETF",0.17,0.0,0.0,0.08,0.25,0.0,0.0,0.0,0.0,0.0
@@ -809,13 +810,13 @@
 "HDFC/O/E/SEC/23/03/0129","HDFC Pharma and Healthcare Fund",1.65,0.05,0.01,0.42,2.13,0.71,0.05,0.01,0.28,1.05
 "HDFC/O/S/RET/15/08/0024","HDFC Retirement Fund - Equity Plan",1.55,0.01,0.0,0.31,1.87,0.74,0.01,0.0,0.17,0.92
 "HDFC/O/S/RET/15/08/0026","HDFC Retirement Fund - Hybrid-Debt Plan",1.85,0.02,0.02,0.45,2.34,0.99,0.02,0.02,0.33,1.36
-"HDFC/O/S/RET/15/08/0025","HDFC Retirement Fund - Hybrid-Equity Plan",1.81,0.01,0.0,0.32,2.14,0.92,0.01,0.0,0.19,1.12
+"HDFC/O/S/RET/15/08/0025","HDFC Retirement Fund - Hybrid-Equity Plan",1.82,0.01,0.0,0.32,2.15,0.93,0.01,0.0,0.19,1.13
 "HDFC/O/D/SDF/18/03/0039","HDFC Short Term Fund",0.57,0.0,0.0,0.1,0.67,0.33,0.0,0.0,0.06,0.39
 "HDFC/O/O/OET/22/03/0092","HDFC Silver ETF",0.42,0.0,0.0,0.08,0.5,0.0,0.0,0.0,0.0,0.0
 "HDFC/O/O/FOD/22/08/0096","HDFC Silver ETF Fund of Fund",0.47,0.0,0.0,0.08,0.55,0.18,0.0,0.0,0.03,0.21
 "HDFC/O/E/SCF/07/03/0014","HDFC Small Cap Fund",1.3,0.01,0.0,0.26,1.57,0.65,0.01,0.0,0.14,0.8
 "HDFC/O/E/SEC/23/02/0128","HDFC Technology Fund",1.81,0.01,0.0,0.32,2.14,0.91,0.01,0.0,0.18,1.1
-"HDFC/O/E/THE/23/02/0126","HDFC Transportation and Logistics Fund",1.76,0.03,0.01,0.36,2.16,0.88,0.03,0.01,0.24,1.16
+"HDFC/O/E/THE/23/02/0126","HDFC Transportation and Logistics Fund",1.77,0.03,0.01,0.36,2.17,0.89,0.03,0.01,0.24,1.17
 "HDFC/O/D/USD/18/08/0048","HDFC Ultra Short Term Fund",0.6,0.0,0.0,0.11,0.71,0.33,0.0,0.0,0.06,0.39
 "HDFC/O/D/LOW/18/03/0032","HDFC Ultra Short to Short Term Fund",0.87,0.0,0.0,0.16,1.03,0.39,0.0,0.0,0.07,0.46
 "HDFC/O/E/VAF/18/03/0030","HDFC Value Fund",1.53,0.02,0.01,0.32,1.88,0.87,0.02,0.01,0.21,1.11
@@ -891,19 +892,19 @@
 "ICIC/O/O/EET/16/03/0053","ICICI Prudential BSE Midcap Select ETF",0.13,0.01,0.0,0.11,0.25,0.0,0.0,0.0,0.0,0.0
 "ICIC/O/O/EET/02/12/0019","ICICI Prudential BSE SENSEX ETF",0.0209,0.0009,0.0002,0.0093,0.0313,0.0,0.0,0.0,0.0,0.0
 "ICIC/O/O/EIN/17/06/0056","ICICI Prudential BSE SENSEX Index Fund",0.26,0.0,0.0,0.07,0.33,0.17,0.0,0.0,0.05,0.22
-"ICIC/O/E/THE/19/12/0118","ICICI Prudential Business Cycle Fund",1.44,0.04,0.01,0.38,1.87,0.74,0.04,0.01,0.26,1.05
+"ICIC/O/E/THE/19/12/0118","ICICI Prudential Business Cycle Fund",1.43,0.04,0.01,0.38,1.86,0.73,0.04,0.01,0.26,1.04
 "ICIC/O/S/CHI/01/06/0015","ICICI Prudential Children's Fund",1.84,0.21,0.02,1.0,3.07,1.21,0.21,0.02,0.92,2.36
-"ICIC/O/E/SEC/19/07/0111","ICICI Prudential Commodities Fund",1.64,0.01,0.0,0.32,1.97,0.85,0.01,0.0,0.19,1.05
+"ICIC/O/E/SEC/19/07/0111","ICICI Prudential Commodities Fund",1.63,0.01,0.0,0.32,1.96,0.84,0.01,0.0,0.19,1.04
 "ICIC/O/E/THE/25/04/0200","ICICI Prudential Conglomerate Fund",2.04,0.03,0.0,0.4,2.47,1.12,0.03,0.0,0.28,1.43
 "ICIC/O/H/CHF/10/10/0039","ICICI Prudential Conservative Hybrid Fund",1.43,0.01,0.0,0.29,1.73,0.84,0.01,0.0,0.19,1.04
-"ICIC/O/E/COF/26/06/0210","ICICI Prudential Contra Fund",1.82,0.0,0.0,0.33,2.15,0.83,0.0,0.0,0.15,0.98
+"ICIC/O/E/COF/26/06/0210","ICICI Prudential Contra Fund",1.82,0.0,0.0,0.32,2.14,0.83,0.0,0.0,0.14,0.97
 "ICIC/O/D/CBF/09/06/0034","ICICI Prudential Corporate Bond Fund",0.51,0.0,0.0,0.09,0.6,0.32,0.0,0.0,0.05,0.37
 "ICIC/O/D/CRF/10/10/0040","ICICI Prudential Credit Risk Fund",1.22,0.0,0.0,0.21,1.43,0.68,0.0,0.0,0.12,0.8
 "ICIC/O/O/DIN/25/02/0191","ICICI Prudential CRISIL-IBX Financial Services 3-6 Months Debt Index Fund",0.14,0.01,0.0,0.03,0.18,0.08,0.01,0.0,0.02,0.11
 "ICIC/O/O/FOD/03/10/0023","ICICI Prudential Diversified Debt Strategy Active FoF",0.55,0.0,0.0,0.1,0.65,0.38,0.0,0.0,0.07,0.45
 "ICIC/O/O/FOD/26/01/0201","ICICI Prudential Diversified Equity All Cap Active FoF",1.27,0.0,0.0,0.19,1.46,0.41,0.0,0.0,0.08,0.49
 "ICIC/O/O/FOD/19/08/0112","ICICI Prudential Diversified Equity All Cap Omni FoF",0.92,0.0,0.0,0.16,1.08,0.49,0.0,0.0,0.09,0.58
-"ICIC/O/E/DYF/14/02/0048","ICICI Prudential Dividend Yield Fund",1.57,0.02,0.0,0.34,1.93,0.57,0.02,0.0,0.17,0.76
+"ICIC/O/E/DYF/14/02/0048","ICICI Prudential Dividend Yield Fund",1.56,0.02,0.0,0.34,1.92,0.57,0.02,0.0,0.17,0.76
 "ICIC/O/O/FOD/03/10/0021","ICICI Prudential Dynamic Asset Allocation Active FoF",1.15,0.0,0.0,0.2,1.35,0.34,0.0,0.0,0.07,0.41
 "ICIC/O/O/FOD/26/07/0209","ICICI Prudential Dynamic Asset Allocation Passive FoF",0.22,0.13,0.08,0.44,0.87,0.07,0.13,0.08,0.41,0.69
 "ICIC/O/D/DBF/98/05/0004","ICICI Prudential Dynamic Term Fund",1.13,0.0,0.0,0.19,1.32,0.54,0.0,0.0,0.09,0.63
@@ -924,10 +925,10 @@
 "ICIC/O/O/FOO/13/06/0046","ICICI Prudential Global Stable Equity Fund (FoF)",1.17,0.0,0.0,0.2,1.37,0.53,0.0,0.0,0.09,0.62
 "ICIC/O/O/GET/10/04/0038","ICICI Prudential Gold ETF",0.42,0.0,0.0,0.07,0.49,0.0,0.0,0.0,0.0,0.0
 "ICIC/O/O/FOD/11/08/0041","ICICI Prudential Gold ETF FoF",0.48,0.0,0.0,0.08,0.56,0.12,0.0,0.0,0.02,0.14
-"ICIC/O/E/THE/18/05/0064","ICICI Prudential Healthcare Fund",1.55,0.07,0.01,0.45,2.08,0.89,0.07,0.01,0.35,1.32
+"ICIC/O/E/THE/18/05/0064","ICICI Prudential Healthcare Fund",1.55,0.07,0.01,0.44,2.07,0.89,0.07,0.01,0.34,1.31
 "ICIC/O/E/THE/22/03/0141","ICICI Prudential Housing Opportunities Fund",1.7,0.02,0.0,0.35,2.07,0.95,0.02,0.0,0.25,1.22
 "ICIC/O/O/FOD/03/10/0024","ICICI Prudential Income Plus Arbitrage Omni FoF",0.22,0.0,0.0,0.05,0.27,0.06,0.0,0.0,0.02,0.08
-"ICIC/O/E/THE/18/10/0090","ICICI Prudential India Opportunities Fund",1.32,0.04,0.0,0.37,1.73,0.63,0.04,0.0,0.26,0.93
+"ICIC/O/E/THE/18/10/0090","ICICI Prudential India Opportunities Fund",1.31,0.04,0.0,0.37,1.72,0.62,0.04,0.0,0.26,0.92
 "ICIC/O/E/THE/05/06/0027","ICICI Prudential Infrastructure Fund",1.53,0.03,0.0,0.36,1.92,1.0,0.03,0.0,0.28,1.31
 "ICIC/O/E/THE/23/02/0171","ICICI Prudential Innovation Fund",1.54,0.1,0.01,0.53,2.18,0.71,0.1,0.01,0.42,1.24
 "ICIC/O/E/LMF/98/05/0001","ICICI Prudential Large & Mid Cap Fund",1.35,0.1,0.01,0.57,2.03,0.7,0.1,0.01,0.46,1.27
@@ -1016,9 +1017,9 @@
 "ICIC/O/D/SDF/98/05/0003","ICICI Prudential Short Term Fund",0.89,0.0,0.0,0.16,1.05,0.38,0.0,0.0,0.07,0.45
 "ICIC/O/O/OET/21/12/0137","ICICI Prudential Silver ETF",0.34,0.0,0.0,0.06,0.4,0.0,0.0,0.0,0.0,0.0
 "ICIC/O/O/FOD/21/12/0138","ICICI Prudential Silver ETF FoF",0.56,0.0,0.0,0.1,0.66,0.17,0.0,0.0,0.03,0.2
-"ICIC/O/E/SCF/07/06/0031","ICICI Prudential Small Cap Fund",1.51,0.08,0.01,0.5,2.1,0.71,0.08,0.01,0.37,1.17
+"ICIC/O/E/SCF/07/06/0031","ICICI Prudential Small Cap Fund",1.51,0.08,0.01,0.49,2.09,0.71,0.08,0.01,0.37,1.17
 "ICIC/O/O/FOO/21/11/0133","ICICI Prudential Strategic Metal and Energy Equity Fund of Fund",0.85,0.0,0.0,0.13,0.98,0.19,0.0,0.0,0.03,0.22
-"ICIC/O/E/SEC/00/01/0014","ICICI Prudential Technology Fund",1.47,0.04,0.0,0.37,1.88,0.9,0.04,0.0,0.28,1.22
+"ICIC/O/E/SEC/00/01/0014","ICICI Prudential Technology Fund",1.46,0.04,0.0,0.37,1.87,0.89,0.04,0.0,0.28,1.21
 "ICIC/O/E/THE/22/09/0155","ICICI Prudential Transportation and Logistics Fund",1.64,0.04,0.0,0.4,2.08,0.93,0.04,0.0,0.3,1.27
 "ICIC/O/D/USD/09/06/0035","ICICI Prudential Ultra Short Term Fund",0.68,0.0,0.0,0.12,0.8,0.34,0.0,0.0,0.06,0.4
 "ICIC/O/D/LOW/98/05/0005","ICICI Prudential Ultra Short to Short Term Fund",0.45,0.0,0.0,0.08,0.53,0.36,0.0,0.0,0.06,0.42
@@ -1301,11 +1302,11 @@
 "MAHM/O/D /DBF/18/05/0007","Mahindra Manulife Dynamic Term Fund",1.35,0.0,0.01,0.23,1.59,0.35,0.0,0.01,0.06,0.42
 "MAHM/O/E /ELS/16/07/0002","Mahindra Manulife ELSS Tax Saver Fund",2.0,0.07,0.0,0.42,2.49,0.72,0.07,0.0,0.26,1.05
 "MAHM/O/H /ESF/16/10/0003","Mahindra Manulife Equity Savings Fund",2.09,0.17,0.0,0.57,2.83,0.75,0.17,0.0,0.36,1.28
-"MAHM/O/E /FCF/21/06/0018","Mahindra Manulife Flexi Cap Fund",1.83,0.13,0.01,0.52,2.49,0.52,0.13,0.01,0.34,1.0
+"MAHM/O/E /FCF/21/06/0018","Mahindra Manulife Flexi Cap Fund",1.82,0.13,0.01,0.52,2.48,0.51,0.13,0.01,0.34,0.99
 "MAHM/O/E /FOC/20/05/0014","Mahindra Manulife Focused Fund",1.77,0.09,0.0,0.46,2.32,0.55,0.09,0.0,0.27,0.91
 "MAHM/O/O/FOD/25/06/0026","Mahindra Manulife Income Plus Arbitrage Active FoF",0.56,0.0,0.0,0.09,0.65,0.16,0.0,0.0,0.03,0.19
 "MAHM/O/E/THE/25/08/0027","Mahindra Manulife Innovation Opportunities Fund",2.1,0.05,0.0,0.42,2.57,0.7,0.05,0.0,0.23,0.98
-"MAHM/O/E /LMF/19/07/0013","Mahindra Manulife Large & Mid Cap Fund",1.7,0.08,0.0,0.42,2.2,0.52,0.08,0.0,0.24,0.84
+"MAHM/O/E /LMF/19/07/0013","Mahindra Manulife Large & Mid Cap Fund",1.7,0.08,0.0,0.41,2.19,0.52,0.08,0.0,0.24,0.84
 "MAHM/O/E /LCF/18/09/0009","Mahindra Manulife Large Cap Fund",2.05,0.08,0.0,0.47,2.6,0.72,0.08,0.0,0.29,1.09
 "MAHM/O/D /LIF/16/06/0001","Mahindra Manulife Liquid Fund",0.22,0.0,0.0,0.04,0.26,0.13,0.0,0.0,0.02,0.15
 "MAHM/O/E/THE/24/04/0023","Mahindra Manulife Manufacturing Fund",2.06,0.08,0.0,0.45,2.59,0.8,0.08,0.0,0.3,1.18
