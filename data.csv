@@ -14,7 +14,7 @@
 "ABKS/O/E/FCF/25/11/0002","Abakkus Flexi Cap Fund",1.53,0.11,0.01,0.48,2.13,0.43,0.11,0.01,0.31,0.86
 "ABKS/O/E/LMF/26/06/0005","Abakkus Large & Mid Cap Fund",2.09,0.42,0.03,1.22,3.76,0.8,0.42,0.03,1.02,2.27
 "ABKS/O/D/LIF/25/11/0001","Abakkus Liquid Fund",0.24,0.0,0.01,0.04,0.29,0.17,0.0,0.01,0.03,0.21
-"ABKS/O/E/SCF/26/01/0003","Abakkus Small Cap Fund",1.66,0.2,0.01,0.67,2.54,0.52,0.2,0.01,0.5,1.23
+"ABKS/O/E/SCF/26/01/0003","Abakkus Small Cap Fund",1.65,0.2,0.01,0.67,2.53,0.51,0.2,0.01,0.5,1.22
 "ABSL/O/H/BHF/95/01/0001","Aditya Birla Sun Life Aggressive Hybrid Fund",1.55,0.03,0.0,0.32,1.9,0.92,0.03,0.0,0.22,1.17
 "ABSL/O/O/FOD/10/10/0042","Aditya Birla Sun Life Aggressive Hybrid Omni FoF",0.95,0.0,0.0,0.17,1.12,0.47,0.0,0.0,0.09,0.56
 "ABSL/O/H/ARB/09/04/0039","Aditya Birla Sun Life Arbitrage Fund",0.88,0.11,0.04,0.91,1.94,0.27,0.11,0.04,0.81,1.23
@@ -248,7 +248,7 @@
 "BFAM/O/O/EET/23/12/0009","Bajaj Finserv Nifty Bank ETF",0.12,0.0,0.0,0.02,0.14,0.0,0.0,0.0,0.0,0.0
 "BFAM/O/O /EIN/25/03/0018","Bajaj Finserv Nifty Next 50 Index Fund",0.9,0.01,0.0,0.27,1.18,0.3,0.01,0.0,0.16,0.47
 "BFAM/O/D/ONF/23/05/0002","Bajaj Finserv Overnight Fund",0.11,0.0,0.03,0.02,0.16,0.07,0.0,0.03,0.01,0.11
-"BFAM/O/E /SCF/25/04/0020","Bajaj Finserv Small Cap Fund",1.7,0.12,0.01,0.54,2.37,0.52,0.12,0.01,0.33,0.98
+"BFAM/O/E /SCF/25/04/0020","Bajaj Finserv Small Cap Fund",1.69,0.12,0.01,0.54,2.36,0.52,0.12,0.01,0.33,0.98
 "BFAM/O/D /LOW/25/12/0023","Bajaj Finserv Ultra Short to Short Term Fund",0.85,0.02,0.0,0.15,1.02,0.19,0.02,0.0,0.03,0.24
 "BNDN/O/D/GTN/02/02/0005","Bandhan 10 Year Constant Maturity Gilt Fund",0.41,0.0,0.0,0.07,0.48,0.22,0.0,0.0,0.04,0.26
 "BNDN/O/H/AHF/16/11/0030","Bandhan Aggressive Hybrid Fund",1.69,0.1,0.0,0.45,2.24,0.51,0.1,0.0,0.26,0.87
@@ -491,7 +491,7 @@
 "DSPM/O/O/EET/25/06/0087","DSP MSCI India ETF",0.0,0.0,0.0,0.0,0.0,0.11,0.0,0.0,0.05,0.16
 "DSPM/O/H/MAA/23/06/0065","DSP Multi Asset Allocation Fund",1.18,0.05,0.01,0.34,1.58,0.37,0.05,0.01,0.19,0.62
 "DSPM/O/O/FOD/25/12/0095","DSP Multi Asset Omni Fund of Funds",1.11,0.01,0.0,0.13,1.25,0.48,0.01,0.0,0.03,0.52
-"DSPM/O/E/MCF/23/07/0071","DSP Multi Cap Fund",1.69,0.03,0.0,0.37,2.09,0.49,0.03,0.0,0.17,0.69
+"DSPM/O/E/MCF/23/07/0071","DSP Multi Cap Fund",1.69,0.03,0.0,0.36,2.08,0.49,0.03,0.0,0.17,0.69
 "DSPM/O/E/SEC/08/02/0019","DSP Natural Resources and New Energy Fund",1.71,0.03,0.0,0.37,2.11,0.76,0.03,0.0,0.21,1.0
 "DSPM/O/O/DET/26/02/0099","DSP Nifty 10 Yr Benchmark G-SEC ETF",0.0,0.0,0.0,0.0,0.0,0.13,0.0,0.01,0.02,0.16
 "DSPM/O/O/OET/17/08/0032","DSP Nifty 1D Rate Liquid ETF",0.0,0.0,0.0,0.0,0.0,0.26,0.0,0.01,0.05,0.32
@@ -530,7 +530,7 @@
 "DSPM/O/D/SDF/02/08/0008","DSP Short Term Fund",0.8,0.01,0.01,0.14,0.96,0.3,0.01,0.01,0.05,0.37
 "DSPM/O/O/OET/22/02/0051","DSP Silver ETF",0.0,0.0,0.0,0.0,0.0,0.34,0.0,0.0,0.06,0.4
 "DSPM/O/O/FOD/25/03/0081","DSP Silver ETF Fund of Fund",0.9,0.0,0.0,0.09,0.99,0.54,0.0,0.0,0.04,0.58
-"DSPM/O/E/SCF/06/09/0015","DSP Small Cap Fund",1.41,0.02,0.0,0.29,1.72,0.66,0.02,0.0,0.16,0.84
+"DSPM/O/E/SCF/06/09/0015","DSP Small Cap Fund",1.41,0.02,0.0,0.29,1.72,0.66,0.02,0.0,0.15,0.83
 "DSPM/O/D/USD/06/05/0013","DSP Ultra Short Term Fund",0.86,0.01,0.0,0.14,1.01,0.25,0.01,0.0,0.04,0.3
 "DSPM/O/D/LOW/14/11/0029","DSP Ultra Short to Short Term Fund",0.52,0.01,0.01,0.09,0.63,0.25,0.01,0.01,0.04,0.31
 "DSPM/O/O/FOO/24/01/0072","DSP US Specific Debt Passive FoF",0.21,0.02,0.0,0.02,0.25,0.16,0.02,0.0,0.01,0.19
@@ -829,10 +829,10 @@
 "HELI/O/D/ONF/23/09/0002","Helios Overnight Fund",0.18,0.0,0.04,0.03,0.25,0.14,0.0,0.04,0.02,0.2
 "HELI/O/E /SCF/25/07/0007","Helios Small Cap Fund",1.77,0.11,0.01,0.51,2.4,0.47,0.11,0.01,0.3,0.89
 "HSBC/O/O/FOD/13/12/0016","HSBC Aggressive Hybrid Active FoF (Erstwhile HSBC Managed Solutions India - Growth Fund)",1.24,0.0,0.0,0.22,1.46,0.2,0.0,0.0,0.04,0.24
-"LTMF/O/H/AHF/10/10/0018","HSBC Aggressive Hybrid Fund",1.59,0.04,0.0,0.36,1.99,0.73,0.04,0.0,0.21,0.98
+"LTMF/O/H/AHF/10/10/0018","HSBC Aggressive Hybrid Fund",1.58,0.04,0.0,0.36,1.98,0.72,0.04,0.0,0.21,0.97
 "LTMF/O/H/ARB/14/06/0024","HSBC Arbitrage Fund",0.75,0.14,0.05,1.13,2.07,0.22,0.14,0.05,1.04,1.45
 "HSBC/O/O/FOO/13/09/0014","HSBC Asia Pacific (Ex Japan) Dividend Yield Fund",1.17,0.0,0.0,0.21,1.38,0.7,0.0,0.0,0.12,0.82
-"LTMF/O/H/DAA/10/10/0017","HSBC Balanced Advantage Fund",1.83,0.07,0.01,0.57,2.48,0.71,0.07,0.01,0.37,1.16
+"LTMF/O/H/DAA/10/10/0017","HSBC Balanced Advantage Fund",1.82,0.07,0.01,0.57,2.47,0.7,0.07,0.01,0.37,1.15
 "LTMF/O/D/BPF/12/02/0022","HSBC Banking and PSU Debt Fund",0.51,0.01,0.0,0.09,0.61,0.23,0.01,0.0,0.04,0.28
 "HSBC/O/O/FOO/11/02/0013","HSBC Brazil Fund",1.22,0.0,0.0,0.22,1.44,0.78,0.0,0.0,0.14,0.92
 "LTMF/O/E/THE/14/07/0025","HSBC Business Cycles Fund",1.89,0.04,0.0,0.43,2.36,0.87,0.04,0.0,0.24,1.15
@@ -843,28 +843,28 @@
 "HSBC/O/D/DIN/22/03/0029","HSBC CRISIL IBX 50:50 Gilt Plus SDL APR 2028 Index Fund",0.33,0.0,0.0,0.06,0.39,0.16,0.0,0.0,0.03,0.19
 "HSBC/O/D/DIN/23/01/0035","HSBC CRISIL IBX Gilt June 2027 Index Fund",0.3,0.0,0.0,0.05,0.35,0.13,0.0,0.0,0.02,0.15
 "LTMF/O/D/DBF/06/07/0011","HSBC Dynamic Term Fund",0.68,0.02,0.01,0.12,0.83,0.23,0.02,0.01,0.04,0.3
-"LTMF/O/E/ELS/05/09/0009","HSBC ELSS Tax Saver Fund",1.64,0.02,0.0,0.34,2.0,0.98,0.02,0.0,0.22,1.22
+"LTMF/O/E/ELS/05/09/0009","HSBC ELSS Tax Saver Fund",1.63,0.02,0.0,0.34,1.99,0.97,0.02,0.0,0.22,1.21
 "LTMF/O/H/ESF/11/03/0020","HSBC Equity Savings Fund",1.35,0.16,0.03,0.86,2.4,0.51,0.16,0.03,0.71,1.41
 "HSBC/O/E/SEC/24/12/0039","HSBC Financial Services Fund",1.97,0.04,0.0,0.43,2.44,0.74,0.04,0.0,0.21,0.99
 "HSBC/O/E/FCF/04/01/0005","HSBC Flexi Cap Fund",1.58,0.07,0.0,0.44,2.09,0.91,0.07,0.0,0.32,1.3
-"HSBC/O/E/FOC/20/03/0025","HSBC Focused Fund",1.8,0.05,0.0,0.42,2.27,0.8,0.05,0.0,0.24,1.09
+"HSBC/O/E/FOC/20/03/0025","HSBC Focused Fund",1.79,0.05,0.0,0.42,2.26,0.79,0.05,0.0,0.24,1.08
 "LTMF/O/D/GIL/00/03/0004","HSBC Gilt Fund",1.34,0.01,0.01,0.24,1.6,0.41,0.01,0.01,0.07,0.5
 "HSBC/O/O/FOO/07/08/0012","HSBC Global Emerging Markets Fund",1.22,0.0,0.0,0.22,1.44,0.63,0.0,0.0,0.11,0.74
 "HSBC/O/O/GET/26/02/0041","HSBC Gold ETF",0.0,0.0,0.0,0.0,0.0,0.53,0.0,0.0,0.09,0.62
 "HSBC/O/O/FOD/26/03/0042","HSBC Gold ETF Fund of Fund",0.37,0.0,0.0,0.07,0.44,0.06,0.0,0.0,0.01,0.07
 "HSBC/O/O/FOD/13/12/0015","HSBC Income Plus Arbitrage Active FoF (Erstwhile HSBC Managed Solution India - Conservative Plan)",0.43,0.0,0.0,0.08,0.51,0.13,0.0,0.0,0.02,0.15
-"HSBC/O/E/THE/24/07/0038","HSBC India Export Opportunities Fund",1.86,0.06,0.0,0.46,2.38,0.73,0.06,0.0,0.26,1.05
+"HSBC/O/E/THE/24/07/0038","HSBC India Export Opportunities Fund",1.85,0.06,0.0,0.46,2.37,0.72,0.06,0.0,0.26,1.04
 "LTMF/O/E/SEC/07/05/0013","HSBC Infrastructure Fund",1.73,0.03,0.0,0.38,2.14,0.87,0.03,0.0,0.22,1.12
-"HSBC/O/E/LMF/19/02/0022","HSBC Large & Mid Cap Fund",1.58,0.17,0.01,0.67,2.43,0.66,0.17,0.01,0.51,1.35
-"HSBC/O/E/LCF/02/08/0003","HSBC Large Cap Fund",1.79,0.07,0.0,0.46,2.32,1.03,0.07,0.0,0.32,1.42
+"HSBC/O/E/LMF/19/02/0022","HSBC Large & Mid Cap Fund",1.58,0.17,0.01,0.67,2.43,0.66,0.17,0.01,0.5,1.34
+"HSBC/O/E/LCF/02/08/0003","HSBC Large Cap Fund",1.78,0.07,0.0,0.46,2.31,1.02,0.07,0.0,0.32,1.41
 "HSBC/O/D/LIF/02/08/0001","HSBC Liquid Fund",0.19,0.0,0.0,0.03,0.22,0.11,0.0,0.0,0.02,0.13
 "LTMF/O/D/MDF/15/01/0026","HSBC Medium Term Fund",0.94,0.01,0.0,0.17,1.12,0.34,0.01,0.0,0.06,0.41
 "HSBC/O/D/MLD/02/08/0002","HSBC Medium to Long Term Fund",1.08,0.02,0.01,0.19,1.3,0.51,0.02,0.01,0.09,0.63
-"LTMF/O/E/MIF/04/06/0006","HSBC Midcap Fund",1.44,0.14,0.01,0.59,2.18,0.54,0.14,0.01,0.42,1.11
+"LTMF/O/E/MIF/04/06/0006","HSBC Midcap Fund",1.44,0.14,0.01,0.58,2.17,0.54,0.14,0.01,0.42,1.11
 "LTMF/O/D/MMF/05/08/0008","HSBC Money Market Fund",0.29,0.01,0.0,0.05,0.35,0.12,0.01,0.0,0.02,0.15
 "HSBC/O/O/FOD/13/12/0017","HSBC Multi Asset Active FoF (Erstwhile HSBC Managed Solutions India - Moderate Fund)",1.19,0.0,0.0,0.21,1.4,0.5,0.0,0.0,0.09,0.59
 "HSBC/O/H/MAA/24/01/0037","HSBC Multi Asset Allocation Fund",1.56,0.12,0.01,0.57,2.26,0.46,0.12,0.01,0.37,0.96
-"HSBC/O/E/MCF/22/12/0034","HSBC Multi Cap Fund",1.57,0.06,0.0,0.41,2.04,0.52,0.06,0.0,0.22,0.8
+"HSBC/O/E/MCF/22/12/0034","HSBC Multi Cap Fund",1.56,0.06,0.0,0.41,2.03,0.51,0.06,0.0,0.22,0.79
 "LTMF/O/O/EIN/19/10/0032","HSBC Nifty 50 Index Fund",0.3,0.0,0.0,0.09,0.39,0.15,0.0,0.0,0.07,0.22
 "LTMF/O/O/EIN/19/10/0033","HSBC Nifty Next 50 Index Fund",0.58,0.01,0.0,0.22,0.81,0.28,0.01,0.0,0.17,0.46
 "HSBC/O/D/ONF/19/03/0023","HSBC Overnight Fund",0.11,0.0,0.01,0.02,0.14,0.05,0.0,0.01,0.01,0.07
@@ -872,7 +872,7 @@
 "LTMF/O/E/SCF/14/02/0023","HSBC Small Cap Fund",1.43,0.03,0.0,0.33,1.79,0.57,0.03,0.0,0.18,0.78
 "HSBC/O/D/USD/19/12/0024","HSBC Ultra Short Term Fund",0.31,0.02,0.0,0.05,0.38,0.14,0.02,0.0,0.02,0.18
 "LTMF/O/D/LOW/10/10/0019","HSBC Ultra Short to Short Term Fund",0.81,0.01,0.0,0.14,0.96,0.33,0.01,0.0,0.06,0.4
-"LTMF/O/E/VAF/09/09/0016","HSBC Value Fund",1.46,0.04,0.0,0.35,1.85,0.65,0.04,0.0,0.2,0.89
+"LTMF/O/E/VAF/09/09/0016","HSBC Value Fund",1.45,0.04,0.0,0.35,1.84,0.64,0.04,0.0,0.2,0.88
 "ICIC/O/D/GTN/14/06/0050","ICICI Prudential 10 Year Constant Maturity Gilt Fund",0.37,0.0,0.01,0.07,0.45,0.24,0.0,0.01,0.04,0.29
 "ICIC/O/E/THE/25/01/0196","ICICI Prudential Active Momentum Fund",1.77,0.18,0.02,0.91,2.88,0.84,0.18,0.02,0.79,1.83
 "ICIC/O/O/FOD/03/10/0022","ICICI Prudential Aggressive Hybrid Active FoF",1.29,0.0,0.0,0.21,1.5,0.32,0.0,0.0,0.06,0.38
@@ -1088,12 +1088,12 @@
 "ITIM/O/E/LMF/24/06/0019","ITI Large & Mid Cap Fund",2.05,0.1,0.01,0.49,2.65,0.63,0.1,0.01,0.32,1.06
 "ITIM/O/E/LCF/19/12/0007","ITI Large Cap Fund",2.09,0.08,0.0,0.44,2.61,0.59,0.08,0.0,0.26,0.93
 "ITIM/O/D/LIF/19/02/0003","ITI Liquid Fund",0.2,0.0,0.01,0.03,0.24,0.13,0.0,0.01,0.02,0.16
-"ITIM/O/E/MIF/20/07/0010","ITI Mid Cap Fund",1.83,0.11,0.01,0.49,2.44,0.49,0.11,0.01,0.3,0.91
+"ITIM/O/E/MIF/20/07/0010","ITI Mid Cap Fund",1.82,0.11,0.01,0.49,2.43,0.49,0.11,0.01,0.3,0.91
 "ITIM/O/H/MAA/26/04/0022","ITI Multi Asset Allocation Fund",1.82,0.49,0.05,1.25,3.61,0.34,0.49,0.05,1.04,1.92
-"ITIM/O/E/MCF/19/02/0001","ITI Multi Cap Fund",1.82,0.07,0.0,0.42,2.31,0.54,0.07,0.0,0.24,0.85
+"ITIM/O/E/MCF/19/02/0001","ITI Multi Cap Fund",1.82,0.07,0.0,0.41,2.3,0.54,0.07,0.0,0.24,0.85
 "ITIM/O/D/ONF/19/09/0005","ITI Overnight Fund",0.17,0.0,0.04,0.02,0.23,0.1,0.0,0.04,0.01,0.15
 "ITIM/O/E/SEC/21/09/0014","ITI Pharma and Healthcare Fund",2.1,0.07,0.0,0.42,2.59,0.58,0.07,0.0,0.24,0.89
-"ITIM/O/E/SCF/19/12/0008","ITI Small Cap Fund",1.65,0.1,0.01,0.45,2.21,0.45,0.1,0.01,0.28,0.84
+"ITIM/O/E/SCF/19/12/0008","ITI Small Cap Fund",1.64,0.1,0.01,0.45,2.2,0.45,0.1,0.01,0.28,0.84
 "TIM/O/D/USD/21/02/0011","ITI Ultra Short Term Fund",0.79,0.01,0.0,0.11,0.91,0.17,0.01,0.0,0.03,0.21
 "ITIM/O/E/VAF/21/02/0012","ITI Value Fund",2.1,0.21,0.01,0.72,3.04,0.6,0.21,0.01,0.52,1.34
 "JBMF/O/H/ARB/25/11/0011","Jioblackrock Arbitrage Fund",0.9,0.24,0.09,2.03,3.26,0.28,0.17,0.06,1.48,1.99
@@ -1122,13 +1122,13 @@
 "JMFI/O/E/LCF/94/02/0001","JM Large Cap Fund",2.1,0.07,0.0,0.5,2.67,0.82,0.07,0.0,0.3,1.19
 "JMFI/O/D/LIF/97/02/0004","JM Liquid Fund",0.22,0.0,0.0,0.04,0.26,0.14,0.0,0.0,0.02,0.16
 "JMFI/O/D/MLD/94/11/0002","JM Medium to Long Term Fund",0.88,0.0,0.0,0.15,1.03,0.51,0.0,0.0,0.09,0.6
-"JMFI/O/E/MIF/21/09/0014","JM Mid Cap Fund",1.87,0.09,0.01,0.5,2.47,0.56,0.09,0.01,0.29,0.95
+"JMFI/O/E/MIF/21/09/0014","JM Mid Cap Fund",1.86,0.09,0.01,0.5,2.46,0.56,0.09,0.01,0.29,0.95
 "JMFI/O/H/MAA/26/01/0018","JM Multi Asset Allocation Fund",1.81,0.18,0.02,0.71,2.72,0.39,0.18,0.02,0.45,1.04
 "JMFI/O/D/ONF/19/11/0012","JM Overnight Fund",0.13,0.0,0.03,0.02,0.18,0.07,0.0,0.03,0.01,0.11
 "JMFI/O/D/SDF/21/11/0013","JM Short Term Fund",0.94,0.0,0.0,0.15,1.09,0.33,0.0,0.0,0.06,0.39
-"JMFI/O/E/SCF/23/11/0016","JM Small Cap Fund",1.98,0.08,0.0,0.5,2.56,0.63,0.08,0.0,0.29,1.0
+"JMFI/O/E/SCF/23/11/0016","JM Small Cap Fund",1.97,0.08,0.0,0.5,2.55,0.62,0.08,0.0,0.28,0.98
 "JMFI/O/D/LOW/06/08/0008","JM Ultra Short to Short Term Fund",0.73,0.0,0.0,0.11,0.84,0.35,0.0,0.0,0.06,0.41
-"JMFI/O/E/VAF/97/03/0005","JM Value Fund",2.04,0.12,0.01,0.58,2.75,1.04,0.12,0.01,0.42,1.59
+"JMFI/O/E/VAF/97/03/0005","JM Value Fund",2.03,0.12,0.01,0.58,2.74,1.03,0.12,0.01,0.42,1.58
 "KOTM/O/E/THE/25/07/0151","Kotak Active Momentum Fund",1.82,0.083,0.0181,0.933,2.8541,0.7,0.083,0.0181,0.73,1.5311
 "KOTM/O/H/AHF/99/10/0004","Kotak Aggressive Hybrid Fund",1.52,0.0248,0.0027,0.3501,1.8976,0.45,0.0248,0.0027,0.16,0.6375
 "KOTM/O/H/ARB/05/06/0016","Kotak Arbitrage Fund",0.83,0.1434,0.0855,1.835,2.8939,0.33,0.1434,0.0855,1.75,2.3089
@@ -1888,7 +1888,7 @@
 "SUND/O/O/FOD/25/09/0056","Sundaram Income Plus Arbitrage Active FoF",0.56,0.0,0.0,0.03,0.59,0.32,0.0,0.0,0.02,0.34
 "SUND/O/E/THE/05/06/0017","Sundaram Infrastructure Advantage Fund (Erstwhile Sundaram Capex Opportunities)",1.97,0.01,0.0,0.36,2.34,1.51,0.01,0.0,0.29,1.81
 "SUND/O/E/LMF/06/12/0019","Sundaram Large and Midcap Fund",1.55,0.16,0.01,0.59,2.31,0.67,0.16,0.01,0.45,1.29
-"SUND/O/E/LCF/20/01/0051","Sundaram Large Cap Fund ( Formerly Know as Sundaram Blue Chip Fund)",1.68,0.04,0.0,0.35,2.07,0.64,0.04,0.0,0.19,0.87
+"SUND/O/E/LCF/20/01/0051","Sundaram Large Cap Fund ( Formerly Know as Sundaram Blue Chip Fund)",1.68,0.04,0.0,0.35,2.07,0.63,0.04,0.0,0.19,0.86
 "SUND/O/D/LIF/00/09/0007","Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund)",0.31,0.0,0.0,0.05,0.36,0.12,0.0,0.0,0.02,0.14
 "SUND/C/E/ELS/16/06/0028","Sundaram Long Term Micro Cap Tax Advantage Fund Series Iii",1.0,0.02,0.0,0.21,1.23,0.83,0.02,0.0,0.19,1.04
 "SUND/C/E/ELS/16/06/0029","Sundaram Long Term Micro Cap Tax Advantage Fund Series Iv",1.0,0.02,0.0,0.21,1.23,0.9,0.02,0.0,0.2,1.12
@@ -1900,13 +1900,13 @@
 "SUND/O/E/MIF/02/06/0010","Sundaram Mid Cap Fund",1.46,0.05,0.0,0.36,1.87,0.76,0.05,0.0,0.25,1.06
 "SUND/O/D/MMF/18/07/0048","Sundaram Money Market Fund",0.32,0.01,0.0,0.05,0.38,0.16,0.01,0.0,0.03,0.2
 "SUND/O/H/MAA/23/12/0053","Sundaram Multi Asset Allocation Fund",1.58,0.08,0.01,0.43,2.1,0.44,0.08,0.01,0.26,0.79
-"SUND/O/E/MCF/00/09/0006","Sundaram Multi Cap Fund (Formerly Known as Principal Multi Cap Growth Fund)",1.69,0.1,0.01,0.5,2.3,0.78,0.1,0.01,0.36,1.25
+"SUND/O/E/MCF/00/09/0006","Sundaram Multi Cap Fund (Formerly Known as Principal Multi Cap Growth Fund)",1.69,0.1,0.01,0.49,2.29,0.78,0.1,0.01,0.36,1.25
 "SUND/O/E/THE/25/04/0055","Sundaram Multi-Factor Fund",2.02,0.25,0.02,0.84,3.13,0.71,0.25,0.02,0.68,1.66
 "SUND/O/O/OIN/99/05/0003","Sundaram Nifty 100 Equal Weight Fund (Formerly Known as Principal Nifty 100 Equal Weight Fund)",0.9,0.06,0.0,0.28,1.24,0.49,0.06,0.0,0.21,0.76
 "SUND/O/D/ONF/18/12/0049","Sundaram Overnight Fund",0.14,0.0,0.01,0.02,0.17,0.06,0.0,0.01,0.01,0.08
 "SUND/O/E/THE/18/07/0047","Sundaram Services Fund",1.61,0.03,0.0,0.31,1.95,0.65,0.03,0.0,0.18,0.86
 "SUND/O/D/SDF/02/03/0009","Sundaram Short Term Fund (Formerly Known as Sundaram Short Duration Fund)",0.69,0.0,0.0,0.11,0.8,0.24,0.0,0.0,0.04,0.28
-"SUND/O/E/SCF/04/12/0013","Sundaram Small Cap Fund",1.64,0.04,0.0,0.35,2.03,0.73,0.04,0.0,0.22,0.99
+"SUND/O/E/SCF/04/12/0013","Sundaram Small Cap Fund",1.63,0.04,0.0,0.35,2.02,0.73,0.04,0.0,0.22,0.99
 "SUND/O/D/USD/07/07/0021","Sundaram Ultra Short Term Fund (Formerly Known as Sundaram Ultra Short Duration Fund)",1.25,0.0,0.0,0.13,1.38,0.19,0.0,0.0,0.03,0.22
 "SUND/O/D/LOW/04/08/0011","Sundaram Ultra Short to Short Term Fund (Formerly Known as Sundaram Low Duration Fund)",0.99,0.0,0.0,0.15,1.14,0.34,0.0,0.0,0.06,0.4
 "SUND/O/E/ELS/99/08/0004","Sundaram Value Fund",1.87,0.03,0.0,0.39,2.29,1.42,0.03,0.0,0.32,1.77
@@ -2013,42 +2013,42 @@
 "UNFI/O/H/DAA/25/01/0001","Unifi Dynamic Asset Allocation Fund",1.29,0.06,0.02,0.62,1.99,0.79,0.06,0.02,0.53,1.4
 "UNFI/O/E/FCF/25/03/0002","Unifi Flexi Cap Fund",2.1,0.06,0.0,0.54,2.7,1.0,0.06,0.0,0.36,1.42
 "UNFI/O/D/LIF/25/04/0003","Unifi Liquid Fund",0.13,0.0,0.0,0.02,0.15,0.08,0.0,0.0,0.01,0.09
-"UNIN/O/E/THE/24/08/0027","Union Active Momentum Fund",2.09,0.35,0.02,1.14,3.6,0.92,0.35,0.02,1.05,2.34
-"UNIN/O/H/AHF/20/03/0017","Union Aggressive Hybrid Fund",2.03,0.12,0.01,0.63,2.79,0.99,0.12,0.01,0.47,1.59
+"UNIN/O/E/THE/24/08/0027","Union Active Momentum Fund",2.09,0.35,0.02,1.26,3.72,0.92,0.35,0.02,1.05,2.34
+"UNIN/O/H/AHF/20/03/0017","Union Aggressive Hybrid Fund",2.03,0.12,0.01,0.66,2.82,0.99,0.12,0.01,0.47,1.59
 "UNIN/O/H/ARB/18/12/0011","Union Arbitrage Fund",0.87,0.13,0.04,1.19,2.23,0.34,0.13,0.04,1.1,1.61
-"UNIN/O/H/BAF/17/11/0007","Union Balanced Advantage Fund",1.88,0.08,0.01,0.59,2.56,0.96,0.08,0.01,0.42,1.47
+"UNIN/O/H/BAF/17/11/0007","Union Balanced Advantage Fund",1.88,0.08,0.01,0.58,2.55,0.96,0.08,0.01,0.42,1.47
 "UNIN/O/E/THE/24/01/0025","Union Business Cycle Fund",2.09,0.18,0.01,0.78,3.06,1.03,0.18,0.01,0.59,1.81
 "UNIN/O/S/CHI/23/07/0024","Union Children's Fund",2.1,0.04,0.0,0.46,2.6,1.11,0.04,0.0,0.3,1.45
 "UNIN/O/E/THE/25/10/0034","Union Consumption Fund",2.1,0.08,0.0,0.51,2.69,0.94,0.08,0.0,0.35,1.37
 "UNIN/O/D/CBF/18/04/0008","Union Corporate Bond Fund",0.61,0.01,0.0,0.09,0.71,0.34,0.01,0.0,0.06,0.41
 "UNIN/O/O/FOD/25/04/0033","Union Diversified Equity All Cap Active FoF",1.24,0.0,0.0,0.22,1.46,0.48,0.0,0.0,0.09,0.57
 "UNIN/O/D/DBF/12/01/0004","Union Dynamic Term Fund",1.31,0.0,0.0,0.22,1.53,1.11,0.0,0.0,0.2,1.31
-"UNIN/O/E/ELS/11/08/0003","Union ELSS Tax Saver Fund (Formerly Union Tax Saver (ELSS) Fund",2.0,0.08,0.0,0.47,2.55,1.23,0.08,0.0,0.4,1.71
+"UNIN/O/E/ELS/11/08/0003","Union ELSS Tax Saver Fund (Formerly Union Tax Saver (ELSS) Fund",2.0,0.08,0.0,0.54,2.62,1.23,0.08,0.0,0.4,1.71
 "UNIN/O/H/ESF/18/05/0010","Union Equity Savings Fund",1.66,0.13,0.02,0.79,2.6,1.25,0.13,0.02,0.71,2.11
-"UNIN/O/E/FCF/11/04/0001","Union Flexi Cap Fund",1.73,0.15,0.01,0.65,2.54,0.85,0.15,0.01,0.51,1.52
+"UNIN/O/E/FCF/11/04/0001","Union Flexi Cap Fund",1.73,0.15,0.01,0.66,2.55,0.84,0.15,0.01,0.5,1.5
 "UNIN/O/E/FOC/19/06/0013","Union Focused Fund",2.1,0.02,0.0,0.43,2.55,1.25,0.02,0.0,0.28,1.55
 "UNIN/O/D/GIL/22/01/0019","Union Gilt Fund",0.92,0.0,0.0,0.16,1.08,0.55,0.0,0.0,0.1,0.65
 "UNIN/O/O/GET/24/12/0030","Union Gold ETF",0.0,0.0,0.0,0.0,0.0,0.42,0.0,0.0,0.07,0.49
 "UNIN/O/O/FOD/24/12/0029","Union Gold ETF Fund of Fund",0.48,0.0,0.0,0.08,0.56,0.27,0.0,0.0,0.05,0.32
 "UNIN/O/O/FOD/25/04/0031","Union Income Plus Arbitrage Active FoF",0.49,0.0,0.0,0.09,0.58,0.19,0.0,0.0,0.04,0.23
-"UNIN/O/E/THE/23/02/0023","Union Innovation & Opportunities Fund",1.86,0.05,0.0,0.44,2.35,0.7,0.05,0.0,0.24,0.99
-"UNIN/O/E/LMF/19/09/0014","Union Large & Midcap Fund",1.94,0.08,0.01,0.5,2.53,0.88,0.08,0.01,0.35,1.32
+"UNIN/O/E/THE/23/02/0023","Union Innovation & Opportunities Fund",1.85,0.05,0.0,0.45,2.35,0.7,0.05,0.0,0.24,0.99
+"UNIN/O/E/LMF/19/09/0014","Union Large & Midcap Fund",1.94,0.08,0.01,0.54,2.57,0.88,0.08,0.01,0.35,1.32
 "UNIN/O/E/LCF/17/04/0006","Union Largecap Fund",2.1,0.03,0.0,0.45,2.58,1.34,0.03,0.0,0.31,1.68
 "UNIN/O/D/LIF/11/06/0002","Union Liquid Fund",0.15,0.0,0.0,0.02,0.17,0.06,0.0,0.0,0.01,0.07
-"UNIN/O/E/MIF/19/12/0016","Union Midcap Fund",1.78,0.09,0.01,0.51,2.39,0.66,0.09,0.01,0.32,1.08
+"UNIN/O/E/MIF/19/12/0016","Union Midcap Fund",1.77,0.09,0.01,0.52,2.39,0.66,0.09,0.01,0.32,1.08
 "UNIN/O/D/MMF/21/06/0018","Union Money Market Fund",0.53,0.01,0.0,0.1,0.64,0.14,0.01,0.0,0.02,0.17
-"UNIN/O/H /MAA/24/07/0026","Union Multi Asset Allocation Fund",1.85,0.07,0.01,0.47,2.4,0.91,0.07,0.01,0.33,1.32
-"UNIN/O/E/MCF/22/07/0021","Union Multicap Fund",1.82,0.12,0.01,0.6,2.55,0.83,0.12,0.01,0.43,1.39
+"UNIN/O/H /MAA/24/07/0026","Union Multi Asset Allocation Fund",1.85,0.07,0.01,0.49,2.42,0.91,0.07,0.01,0.33,1.32
+"UNIN/O/E/MCF/22/07/0021","Union Multicap Fund",1.81,0.12,0.01,0.6,2.54,0.83,0.12,0.01,0.43,1.39
 "UNIN/O/D/ONF/19/02/0012","Union Overnight Fund",0.15,0.0,0.06,0.03,0.24,0.06,0.0,0.06,0.02,0.14
 "UNIN/O/S/RET/22/05/0020","Union Retirement Fund",2.1,0.06,0.0,0.51,2.67,0.98,0.06,0.0,0.32,1.36
 "UNIN/O/D/SDF/24/12/0028","Union Short Term Fund",0.66,0.01,0.01,0.12,0.8,0.28,0.01,0.01,0.05,0.35
-"UNIN/O/E/SCF/14/03/0005","Union Small Cap Fund",1.7,0.05,0.0,0.42,2.17,0.78,0.05,0.0,0.26,1.09
+"UNIN/O/E/SCF/14/03/0005","Union Small Cap Fund",1.7,0.05,0.0,0.43,2.18,0.77,0.05,0.0,0.26,1.08
 "UNIN/O/D/LOW/25/05/0032","Union Ultra Short to Short Term Fund",0.72,0.01,0.0,0.13,0.86,0.21,0.01,0.0,0.04,0.26
-"UNIN/O/E/VAF/18/05/0009","Union Value Fund",2.1,0.07,0.0,0.39,2.56,1.08,0.07,0.0,0.36,1.51
-"UTIM/O/H/ARB/06/01/0026","UTI - Arbitrage Fund",0.73,0.12,0.0,0.96,1.81,0.26,0.12,0.0,0.88,1.26
+"UNIN/O/E/VAF/18/05/0009","Union Value Fund",2.1,0.07,0.0,0.54,2.71,1.08,0.07,0.0,0.36,1.51
+"UTIM/O/H/ARB/06/01/0026","UTI - Arbitrage Fund",0.72,0.12,0.0,0.96,1.8,0.25,0.12,0.0,0.88,1.25
 "UTIM/O/E/SEC/04/01/0022","UTI - Banking and Financial Services Fund",1.82,0.09,0.0,0.47,2.38,0.99,0.09,0.0,0.37,1.45
 "UTIM/O/O/OET/08/09/0074","UTI - BSE SENSEX Next 50 Exchange Traded Fund",0.2,0.01,0.0,0.1,0.31,0.0,0.0,0.0,0.0,0.0
-"UTIM/O/D/CBF/18/06/0063","UTI - Corporate Bond Fund",0.52,0.0,0.0,0.09,0.61,0.27,0.0,0.0,0.05,0.32
+"UTIM/O/D/CBF/18/06/0063","UTI - Corporate Bond Fund",0.52,0.0,0.0,0.09,0.61,0.27,0.0,0.0,0.04,0.31
 "UTIM/O/D/CRF/12/06/0053","UTI - Credit Risk Fund.",1.24,0.0,0.0,0.19,1.43,0.65,0.0,0.0,0.11,0.76
 "UTIM/O/E/DYF/05/03/0024","UTI - Dividend Yield Fund",1.64,0.03,0.0,0.32,1.99,1.23,0.03,0.0,0.28,1.54
 "UTIM/O/H/ESF/18/06/0064","UTI - Equity Savings Fund",1.52,0.04,0.0,0.5,2.06,0.62,0.04,0.0,0.38,1.04
@@ -2056,7 +2056,7 @@
 "UTIM/O/D/GIL/02/01/0014","UTI - Gilt Fund",0.72,0.01,0.01,0.11,0.85,0.38,0.01,0.01,0.07,0.47
 "UTIM/O/O/GET/07/01/0027","UTI - Gold Exchange Traded Fund",0.5,0.0,0.0,0.09,0.59,0.0,0.0,0.0,0.0,0.0
 "UTIM/O/E/SEC/99/05/0009","UTI - Healthcare Fund",1.83,0.03,0.0,0.36,2.22,1.05,0.03,0.0,0.26,1.34
-"UTIM/O/E/THE/07/05/0033","UTI - India Consumer Fund",2.05,0.02,0.0,0.36,2.43,1.4,0.02,0.0,0.3,1.72
+"UTIM/O/E/THE/07/05/0033","UTI - India Consumer Fund",2.04,0.02,0.0,0.36,2.42,1.39,0.02,0.0,0.29,1.7
 "UTIM/O/E/THE/04/01/0021","UTI - Infrastructure Fund",1.76,0.04,0.0,0.38,2.18,1.59,0.04,0.0,0.37,2.0
 "UTIM/O/E/LCF/86/10/0001","UTI - Large Cap Fund",1.48,0.05,0.0,0.33,1.86,0.87,0.05,0.0,0.27,1.19
 "UTIM/O/D/LIF/03/06/0016","UTI - Liquid Fund",0.21,0.0,0.0,0.04,0.25,0.13,0.0,0.0,0.02,0.15
@@ -2068,7 +2068,7 @@
 "UTIM/O/O/EIN/18/04/0062","UTI - Nifty Next 50 Index Fund",0.7,0.0,0.0,0.21,0.91,0.31,0.0,0.0,0.15,0.46
 "UTIM/O/D/ONF/99/07/0011","UTI - Overnight Fund",0.1,0.01,0.01,0.01,0.13,0.06,0.01,0.01,0.01,0.09
 "UTIM/O/E/SEC/04/01/0023","UTI - Transportation and Logistics Fund",1.63,0.01,0.0,0.27,1.91,0.8,0.01,0.0,0.17,0.98
-"NSDL Code not allocated","UTI - Unit Linked Insurance Plan",1.37,0.01,0.0,0.22,1.6,0.92,0.01,0.0,0.18,1.11
+"NSDL Code not allocated","UTI - Unit Linked Insurance Plan",1.35,0.01,0.0,0.21,1.57,0.9,0.01,0.0,0.18,1.09
 "UTIM/O/D/GTN/21/07/0100","UTI 10 Year Constant Maturity Gilt Fund",0.68,0.0,0.0,0.09,0.77,0.28,0.0,0.0,0.05,0.33
 "UTIM/O/H/AHF/95/01/0005","UTI Aggressive Hybrid Fund",1.54,0.04,0.0,0.32,1.9,1.03,0.04,0.0,0.26,1.33
 "UTIM/I/D/XXX/07/05/0030","UTI Annual Interval Fund - I",0.16,0.0,0.01,0.03,0.2,0.15,0.0,0.01,0.02,0.18
@@ -2089,17 +2089,17 @@
 "UTIM/O/D/DBF/07/11/0042","UTI Dynamic Term Fund",1.1,0.01,0.0,0.17,1.28,0.47,0.01,0.0,0.08,0.56
 "UTIM/O/E/ELS/99/10/0012","UTI ELSS Tax Saver Fund",1.66,0.02,0.0,0.28,1.96,0.95,0.02,0.0,0.22,1.19
 "UTIM/C/D/FTP/23/01/0108","UTI Fixed Term Income Fund Series Xxxvi - I (1574 Days)",0.47,0.0,0.0,0.06,0.53,0.15,0.0,0.0,0.02,0.17
-"UTIM/O/D/FLF/18/07/0073","UTI Floating Interest Rates Fund",0.75,0.01,0.0,0.1,0.86,0.37,0.01,0.0,0.06,0.44
-"UTIM/O/E/FOC/21/05/0096","UTI Focused Fund (30 Stocks)",1.73,0.09,0.0,0.45,2.27,0.73,0.09,0.0,0.33,1.15
+"UTIM/O/D/FLF/18/07/0073","UTI Floating Interest Rates Fund",0.76,0.01,0.0,0.1,0.87,0.38,0.01,0.0,0.06,0.45
+"UTIM/O/E/FOC/21/05/0096","UTI Focused Fund (30 Stocks)",1.72,0.09,0.0,0.45,2.26,0.72,0.09,0.0,0.33,1.14
 "UTIM/O/O/FOD/22/08/0101","UTI Gold ETF Fund of Fund",0.4,0.0,0.0,0.06,0.46,0.05,0.0,0.0,0.02,0.07
 "UTIM/O/D/FOD/25/02/0129","UTI Income Plus Arbitrage Active Fund of Fund",0.39,0.0,0.0,0.06,0.45,0.1,0.0,0.0,0.02,0.12
-"UTIM/O/E/THE/23/03/0118","UTI Innovation Fund",2.03,0.04,0.0,0.35,2.42,0.95,0.04,0.0,0.26,1.25
+"UTIM/O/E/THE/23/03/0118","UTI Innovation Fund",2.03,0.04,0.0,0.35,2.42,0.95,0.04,0.0,0.25,1.24
 "UTIM/O/E/LMF/09/05/0052","UTI Large & Mid Cap Fund",1.57,0.05,0.0,0.34,1.96,0.83,0.05,0.0,0.26,1.14
 "UTIM/O/D/LON/22/11/0110","UTI Long Term Fund",1.1,0.0,0.01,0.16,1.27,0.07,0.0,0.01,0.01,0.09
 "UTIM/O/D/MDF/13/05/0054","UTI Medium Term Fund",1.33,0.0,0.0,0.21,1.54,0.8,0.0,0.0,0.14,0.94
 "UTIM/O/D/MLD/98/05/0007","UTI Medium to Long Term Fund",1.41,0.0,0.0,0.23,1.64,1.12,0.0,0.0,0.2,1.32
 "UTIM/O/H/MAA/08/09/0051","UTI Multi Asset Allocation Fund",1.47,0.01,0.0,0.34,1.82,0.64,0.01,0.0,0.24,0.89
-"UTIM/O/E/MCF/24/12/0130","UTI Multi Cap Fund",1.76,0.09,0.0,0.41,2.26,0.69,0.09,0.0,0.32,1.1
+"UTIM/O/E/MCF/24/12/0130","UTI Multi Cap Fund",1.75,0.09,0.0,0.41,2.25,0.68,0.09,0.0,0.32,1.09
 "UTIM/O/D/DET/23/07/0121","UTI Nifty 10 Yr Benchmark G-SEC ETF",0.25,0.0,0.0,0.04,0.29,0.0,0.0,0.0,0.0,0.0
 "UTIM/O/O/DET/26/03/0132","UTI Nifty 1D Rate Liquid ETF - Growth",0.18,0.0,0.02,0.03,0.23,0.0,0.0,0.0,0.0,0.0
 "UTIM/O/O/EIN/20/12/0095","UTI Nifty 200 Momentum 30 Index Fund",0.79,0.01,0.0,0.49,1.29,0.38,0.01,0.0,0.43,0.82
@@ -2127,7 +2127,7 @@
 "UTIM/O/D/SDF/03/06/0017","UTI Short Term Fund",0.69,0.01,0.0,0.11,0.81,0.34,0.01,0.0,0.06,0.41
 "UTIM/O/O/FOD/22/11/0112","UTI Silver ETF Fund of Fund",0.4,0.0,0.0,0.06,0.46,0.11,0.0,0.0,0.03,0.14
 "UTIM/O/O/OET/22/11/0111","UTI Silver Exchange Traded Fund",0.5,0.0,0.0,0.09,0.59,0.0,0.0,0.0,0.0,0.0
-"UTIM/O/E/SCF/20/03/0094","UTI Small Cap Fund",1.61,0.06,0.0,0.36,2.03,0.74,0.06,0.0,0.27,1.07
+"UTIM/O/E/SCF/20/03/0094","UTI Small Cap Fund",1.6,0.06,0.0,0.36,2.02,0.73,0.06,0.0,0.27,1.06
 "UTIM/O/D/USD/03/08/0018","UTI Ultra Short Term Fund",0.86,0.01,0.0,0.11,0.98,0.31,0.01,0.0,0.05,0.37
 "UTIM/O/D/LOW/99/07/0010","UTI Ultra Short to Short Term Fund",0.55,0.01,0.0,0.09,0.65,0.31,0.01,0.0,0.05,0.37
 "UTIM/O/E/VAF/05/06/0025","UTI Value Fund",1.51,0.04,0.0,0.32,1.87,1.05,0.04,0.0,0.26,1.35
