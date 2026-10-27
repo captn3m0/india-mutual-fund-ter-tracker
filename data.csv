@@ -479,7 +479,7 @@
 "DSPM/O/O/FOO/21/08/0048","DSP Global Innovation Overseas Equity Omni FoF",1.85,0.0,0.0,0.2,2.05,1.11,0.0,0.0,0.07,1.18
 "DSPM/O/O/GET/23/02/0060","DSP Gold ETF",0.0,0.0,0.0,0.0,0.0,0.38,0.0,0.0,0.07,0.45
 "DSPM/O/O/FOD/23/05/0066","DSP Gold ETF Fund of Fund",0.9,0.0,0.0,0.1,1.0,0.59,0.0,0.0,0.05,0.64
-"DSPM/O/E/SEC/18/05/0035","DSP Healthcare Fund",1.65,0.04,0.0,0.37,2.06,0.54,0.04,0.0,0.18,0.76
+"DSPM/O/E/SEC/18/05/0035","DSP Healthcare Fund",1.64,0.04,0.0,0.37,2.05,0.53,0.04,0.0,0.18,0.75
 "DSPM/O/O/FOO/14/06/0028","DSP Income Plus Arbitrage Omni FoF",0.77,0.0,0.0,0.09,0.86,0.41,0.0,0.0,0.02,0.43
 "DSPM/O/E/SEC/04/04/0011","DSP India T.I.G.E.R. Fund",1.57,0.05,0.01,0.4,2.03,0.74,0.05,0.01,0.26,1.06
 "DSPM/O/E/LMF/00/02/0007","DSP Large & Mid Cap Fund",1.4,0.04,0.0,0.36,1.8,0.51,0.04,0.0,0.2,0.75
@@ -1443,9 +1443,9 @@
 "MOTO/O/E/THE/25/04/0082","Motilal Oswal Consumption Fund",1.89,0.08,0.01,0.36,2.34,0.48,0.08,0.01,0.28,0.85
 "MOTO/O/E/COF/26/02/0092","Motilal Oswal Contra Fund",2.1,0.38,0.03,1.34,3.85,0.61,0.38,0.03,1.16,2.18
 "MOTO/O/O/FOO/23/07/0042","Motilal Oswal Developed Market Ex US Etfs Overseas Equity Passive FoF",0.48,0.0,0.0,0.09,0.57,0.04,0.0,0.0,0.01,0.05
-"MOTO/O/E/THE/24/07/0057","Motilal Oswal Digital India Fund",1.93,0.05,0.0,0.37,2.35,0.74,0.05,0.0,0.27,1.06
+"MOTO/O/E/THE/24/07/0057","Motilal Oswal Digital India Fund",1.93,0.05,0.0,0.36,2.34,0.74,0.05,0.0,0.27,1.06
 "MOTO/O/O/FOD/25/09/0088","Motilal Oswal Diversified Equity Flexicap Passive Fund of Funds",0.59,0.0,0.0,0.09,0.68,0.09,0.0,0.0,0.02,0.11
-"MOTO/O/E/ELS/14/12/0008","Motilal Oswal ELSS Tax Saver Fund",1.62,0.07,0.01,0.41,2.11,0.61,0.07,0.01,0.28,0.97
+"MOTO/O/E/ELS/14/12/0008","Motilal Oswal ELSS Tax Saver Fund",1.61,0.07,0.01,0.41,2.1,0.6,0.07,0.01,0.28,0.96
 "MOTO/O/E/SEC/25/12/0089","Motilal Oswal Financial Services Fund",2.1,0.1,0.01,0.49,2.7,0.78,0.1,0.01,0.43,1.32
 "MOTO/O/E/FCF/14/02/0007","Motilal Oswal Flexi Cap Fund",1.45,0.09,0.01,0.47,2.02,0.72,0.09,0.01,0.37,1.19
 "MOTO/O/E/FOC/13/03/0004","Motilal Oswal Focused Fund",1.78,0.17,0.01,0.72,2.68,0.84,0.17,0.01,0.59,1.61
@@ -1860,7 +1860,7 @@
 "SBIM/O/O/FOO/20/04/0115","SBI US Specific Equity Active FoF",1.4,0.0,0.0,0.24,1.64,0.88,0.0,0.0,0.15,1.03
 "SHRI/O/H/AHF/13/10/0001","Shriram Aggressive Hybrid Fund",2.08,0.02,0.0,0.37,2.47,0.68,0.02,0.0,0.17,0.87
 "SHRI/O/H/BAF/19/03/0004","Shriram Balanced Advantage Fund",2.09,0.04,0.01,0.43,2.57,0.64,0.04,0.01,0.21,0.9
-"SHRI/O/E/ELS/18/11/0003","Shriram ELSS Tax Saver Fund",2.09,0.06,0.0,0.42,2.57,0.66,0.06,0.0,0.23,0.95
+"SHRI/O/E/ELS/18/11/0003","Shriram ELSS Tax Saver Fund",2.09,0.06,0.0,0.42,2.57,0.66,0.06,0.0,0.24,0.96
 "SHRI/O/E/FCF/18/04/0002","Shriram Flexi Cap Fund",2.1,0.06,0.0,0.43,2.59,0.75,0.06,0.0,0.25,1.06
 "SHRI/O/O/FOD/26/04/0011","Shriram Gold ETF Passive FoF",0.58,4.04,0.04,0.86,5.52,0.16,4.04,0.04,0.79,5.03
 "SHRI/O/D/LIF/24/06/0008","Shriram Liquid Fund",0.24,0.0,0.01,0.04,0.29,0.13,0.0,0.01,0.02,0.16
