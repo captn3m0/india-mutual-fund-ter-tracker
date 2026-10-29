@@ -1042,7 +1042,7 @@
 "INVM/O/E/COF/06/11/0003","Invesco India Contra Fund",1.42,0.06,0.0,0.37,1.85,0.49,0.06,0.0,0.21,0.76
 "INVM/O/D/CBF/07/07/0010","Invesco India Corporate Bond Fund",0.58,0.01,0.0,0.1,0.69,0.24,0.01,0.0,0.04,0.29
 "INVM/O/D/CRF/14/02/0025","Invesco India Credit Risk Fund",1.24,0.0,0.0,0.22,1.46,0.24,0.0,0.0,0.04,0.28
-"INVM/O/E/ELS/06/11/0002","Invesco India ELSS Tax Saver Fund",1.71,0.1,0.01,0.48,2.3,0.76,0.1,0.01,0.33,1.2
+"INVM/O/E/ELS/06/11/0002","Invesco India ELSS Tax Saver Fund",1.7,0.1,0.01,0.48,2.29,0.75,0.1,0.01,0.33,1.19
 "INVM/O/H/ESF/18/12/0031","Invesco India Equity Savings Fund",2.06,0.17,0.02,0.72,2.97,0.79,0.17,0.02,0.53,1.51
 "INVM/O/E/THE/21/02/0035","Invesco India ESG Integration Strategy Fund",2.09,0.04,0.0,0.43,2.56,0.98,0.04,0.0,0.26,1.28
 "INVM/O/E/SEC/07/11/0014","Invesco India Financial Services Fund",1.78,0.04,0.0,0.36,2.18,0.71,0.04,0.0,0.21,0.96
@@ -1060,18 +1060,18 @@
 "INVM/O/D/MDF/21/05/0036","Invesco India Medium Term Fund",0.99,0.0,0.0,0.15,1.14,0.27,0.0,0.0,0.05,0.32
 "INVM/O/E/MIF/07/01/0006","Invesco India Mid Cap Fund",1.44,0.06,0.0,0.36,1.86,0.49,0.06,0.0,0.21,0.76
 "INVM/O/D/MMF/09/06/0016","Invesco India Money Market Fund",0.36,0.01,0.0,0.06,0.43,0.13,0.01,0.0,0.02,0.16
-"INVM/O/H/MAA/24/09/0047","Invesco India Multi Asset Allocation Fund",1.42,0.02,0.0,0.24,1.68,0.42,0.02,0.0,0.1,0.54
+"INVM/O/H/MAA/24/09/0047","Invesco India Multi Asset Allocation Fund",1.43,0.02,0.0,0.24,1.69,0.42,0.02,0.0,0.1,0.54
 "INVM/O/E/MCF/07/09/0012","Invesco India Multi Cap Fund",1.62,0.07,0.0,0.39,2.08,0.62,0.07,0.0,0.24,0.93
 "INVM/O/O/OET/11/05/0020","Invesco India Nifty 50 Exchange Traded Fund",0.09,0.0,0.0,0.03,0.12,0.0,0.0,0.0,0.0,0.0
 "INVM/O/O/EET/26/06/0056","Invesco India Nifty Bank ETF",0.11,0.11,0.03,1.19,1.44,0.0,0.0,0.0,0.0,0.0
 "INVM/O/O/EIN/26/04/0053","Invesco India Nifty Bank Index Fund",0.66,0.05,0.01,0.55,1.27,0.15,0.05,0.01,0.46,0.67
 "INVM/O/O/EIN/26/07/0058","Invesco India Nifty Chemical Index Fund",0.9,0.0,0.0,0.16,1.06,0.25,0.0,0.0,0.04,0.29
-"INVM/O/O/DIN/23/03/0043","Invesco India Nifty G-SEC JUL 2027 Index Fund",0.25,0.0,0.0,0.04,0.29,0.12,0.0,0.0,0.02,0.14
+"INVM/O/O/DIN/23/03/0043","Invesco India Nifty G-SEC JUL 2027 Index Fund",0.25,0.0,0.0,0.04,0.29,0.13,0.0,0.0,0.02,0.15
 "INVM/O/O/DIN/23/03/0044","Invesco India Nifty G-SEC SEP 2032 Index Fund",0.24,0.0,0.0,0.04,0.28,0.13,0.0,0.0,0.02,0.15
 "INVM/O/O/EIN/26/07/0057","Invesco India Nifty India Defence Index Fund",0.9,0.0,0.0,0.16,1.06,0.25,0.0,0.0,0.04,0.29
 "INVM/O/D/ONF/19/12/0032","Invesco India Overnight Fund",0.1,0.0,0.03,0.02,0.15,0.05,0.0,0.03,0.01,0.09
 "INVM/O/E/SEC/26/02/0054","Invesco India Pharma and Healthcare Fund",2.1,0.86,0.05,2.18,5.19,0.5,0.86,0.05,1.89,3.3
-"INVM/O/E/THE/09/09/0017","Invesco India PSU Equity Fund",1.85,0.09,0.0,0.47,2.41,0.83,0.09,0.0,0.31,1.23
+"INVM/O/E/THE/09/09/0017","Invesco India PSU Equity Fund",1.84,0.09,0.0,0.47,2.4,0.82,0.09,0.0,0.31,1.22
 "INVM/O/D/SDF/07/03/0007","Invesco India Short Term Fund",0.89,0.03,0.0,0.15,1.07,0.3,0.03,0.0,0.06,0.39
 "INVM/O/E/SCF/18/07/0030","Invesco India Small Cap Fund",1.44,0.05,0.0,0.35,1.84,0.41,0.05,0.0,0.18,0.64
 "INVM/O/E/SEC/24/08/0046","Invesco India Technology Fund",2.1,0.03,0.0,0.36,2.49,0.79,0.03,0.0,0.19,1.01
@@ -1299,11 +1299,11 @@
 "MAHM/O/H /AHF/19/01/0010","Mahindra Manulife Aggressive Hybrid Fund",1.67,0.09,0.0,0.41,2.17,0.49,0.09,0.0,0.26,0.84
 "MAHM/O/H /ARB/20/07/0015","Mahindra Manulife Arbitrage Fund",0.95,0.2,0.0,0.76,1.91,0.3,0.2,0.0,0.65,1.15
 "MAHM/O/O /FOO/21/03/0017","Mahindra Manulife Asia Pacific Reits FoF",1.17,0.0,0.0,0.21,1.38,0.44,0.0,0.0,0.08,0.52
-"MAHM/O/H /BAF/21/11/0019","Mahindra Manulife Balanced Advantage Fund",1.97,0.04,0.0,0.39,2.4,0.61,0.04,0.0,0.19,0.84
+"MAHM/O/H /BAF/21/11/0019","Mahindra Manulife Balanced Advantage Fund",1.97,0.04,0.0,0.39,2.4,0.61,0.04,0.0,0.18,0.83
 "MAHM/O/E /THE/23/06/0021","Mahindra Manulife Business Cycle Fund",1.86,0.1,0.01,0.47,2.44,0.54,0.1,0.01,0.29,0.94
 "MAHM/O/E /THE/18/08/0008","Mahindra Manulife Consumption Fund",2.1,0.08,0.0,0.48,2.66,0.73,0.08,0.0,0.28,1.09
 "MAHM/O/D /DBF/18/05/0007","Mahindra Manulife Dynamic Term Fund",1.35,0.0,0.01,0.23,1.59,0.35,0.0,0.01,0.06,0.42
-"MAHM/O/E /ELS/16/07/0002","Mahindra Manulife ELSS Tax Saver Fund",2.0,0.07,0.0,0.42,2.49,0.72,0.07,0.0,0.26,1.05
+"MAHM/O/E /ELS/16/07/0002","Mahindra Manulife ELSS Tax Saver Fund",1.99,0.07,0.0,0.42,2.48,0.71,0.07,0.0,0.26,1.04
 "MAHM/O/H /ESF/16/10/0003","Mahindra Manulife Equity Savings Fund",2.09,0.17,0.0,0.57,2.83,0.75,0.17,0.0,0.36,1.28
 "MAHM/O/E /FCF/21/06/0018","Mahindra Manulife Flexi Cap Fund",1.82,0.13,0.01,0.52,2.48,0.51,0.13,0.01,0.34,0.99
 "MAHM/O/E /FOC/20/05/0014","Mahindra Manulife Focused Fund",1.77,0.09,0.0,0.46,2.32,0.55,0.09,0.0,0.27,0.91
@@ -1318,10 +1318,10 @@
 "MAHM/O/E /MCF/17/01/0005","Mahindra Manulife Multi Cap Fund",1.54,0.13,0.01,0.5,2.18,0.46,0.13,0.01,0.34,0.94
 "MAHM/O/D /ONF/19/02/0011","Mahindra Manulife Overnight Fund",0.14,0.0,0.03,0.03,0.2,0.06,0.0,0.03,0.01,0.1
 "MAHM/O/D /SDF/20/11/0016","Mahindra Manulife Short Term Fund",1.09,0.01,0.0,0.14,1.24,0.27,0.01,0.0,0.05,0.33
-"MAHM/O/E/SCF/22/07/0020","Mahindra Manulife Small Cap Fund",1.6,0.12,0.01,0.48,2.21,0.48,0.12,0.01,0.32,0.93
+"MAHM/O/E/SCF/22/07/0020","Mahindra Manulife Small Cap Fund",1.59,0.12,0.01,0.48,2.2,0.47,0.12,0.01,0.32,0.92
 "MAHM/O/D /USD/19/06/0012","Mahindra Manulife Ultra Short Term Fund",0.62,0.01,0.0,0.1,0.73,0.26,0.01,0.0,0.04,0.31
 "MAHM/O/D /LOW/16/12/0004","Mahindra Manulife Ultra Short to Short Term Fund",0.94,0.0,0.0,0.13,1.07,0.29,0.0,0.0,0.05,0.34
-"MAHM/O/E/VAF/24/12/0024","Mahindra Manulife Value Fund",1.93,0.12,0.01,0.52,2.58,0.59,0.12,0.01,0.34,1.06
+"MAHM/O/E/VAF/24/12/0024","Mahindra Manulife Value Fund",1.92,0.12,0.01,0.52,2.57,0.58,0.12,0.01,0.34,1.05
 "MAHM/O/E/SEC/25/05/0025","Mahindramanulife Banking & Financial Services Fund",2.1,0.12,0.01,0.54,2.77,0.65,0.12,0.01,0.35,1.13
 "MIRA/O/H/AHF/15/05/0006","Mirae Asset Aggressive Hybrid Fund",1.51,0.04,0.0,0.38,1.93,0.41,0.04,0.0,0.18,0.63
 "MIRA/O/H/ARB/20/04/0019","Mirae Asset Arbitrage Fund",0.78,0.2,0.09,2.18,3.25,0.13,0.2,0.09,2.06,2.48
