@@ -640,7 +640,7 @@
 "FTMF/O/S/RET/97/03/0005","Franklin India Retirement Fund",1.84,0.03,0.0,0.38,2.25,1.21,0.03,0.0,0.28,1.52
 "FTMF/O/D /STF/26/06/0053","Franklin India Short Term Fund",0.8,0.03,0.0,0.13,0.96,0.26,0.03,0.0,0.05,0.34
 "FTMF/O/E/SCF/05/10/0024","Franklin India Small Cap Fund",1.46,0.05,0.0,0.36,1.87,0.76,0.05,0.0,0.25,1.06
-"FTMF/O/E/THE/98/08/0008","Franklin India Technology Fund",1.78,0.01,0.0,0.34,2.13,0.92,0.01,0.0,0.2,1.13
+"FTMF/O/E/THE/98/08/0008","Franklin India Technology Fund",1.79,0.01,0.0,0.34,2.14,0.92,0.01,0.0,0.2,1.13
 "FTMF/O/D/USD/24/07/0048","Franklin India Ultra Short Term Fund",0.61,0.01,0.0,0.1,0.72,0.24,0.01,0.0,0.04,0.29
 "FTMF/O/D /LOW/25/02/0050","Franklin India Ultra Short to Short Term Fund",0.61,0.01,0.0,0.1,0.72,0.22,0.01,0.0,0.04,0.27
 "FTMF/O/O/FOO/11/08/0029","Franklin U. S. Opportunities Equity Active Fund of Funds",1.25,0.0,0.0,0.21,1.46,0.45,0.0,0.0,0.08,0.53
@@ -1324,7 +1324,7 @@
 "MIRA/O/H/AHF/15/05/0006","Mirae Asset Aggressive Hybrid Fund",1.51,0.04,0.0,0.38,1.93,0.41,0.04,0.0,0.18,0.63
 "MIRA/O/H/ARB/20/04/0019","Mirae Asset Arbitrage Fund",0.78,0.2,0.09,2.18,3.25,0.13,0.2,0.09,2.06,2.48
 "MIRA/O/H/BAF/22/05/0038","Mirae Asset Balanced Advantage Fund",1.75,0.05,0.01,0.48,2.29,0.64,0.05,0.01,0.28,0.98
-"MIRA/O/E/SEC/20/09/0024","Mirae Asset Banking and Financial Services Fund",1.74,0.03,0.0,0.38,2.15,0.59,0.03,0.0,0.18,0.8
+"MIRA/O/E/SEC/20/09/0024","Mirae Asset Banking and Financial Services Fund",1.74,0.03,0.0,0.38,2.15,0.58,0.03,0.0,0.18,0.79
 "MIRA/O/D/BPF/20/03/0018","Mirae Asset Banking and PSU Debt Fund",0.69,0.01,0.0,0.12,0.82,0.31,0.01,0.0,0.05,0.37
 "MIRA/O/O/EET/24/12/0078","Mirae Asset BSE 200 Equal Weight ETF",0.29,0.01,0.0,0.21,0.51,0.0,0.0,0.0,0.0,0.0
 "MIRA/O/O/FOD/24/12/0079","Mirae Asset BSE 200 Equal Weight ETF Fund of Fund",0.53,0.01,0.0,0.1,0.64,0.08,0.01,0.0,0.02,0.11
@@ -1332,9 +1332,9 @@
 "MIRA/O/O/OET/25/09/0097","Mirae Asset BSE India Defence ETF",0.28,0.02,0.01,0.33,0.64,0.0,0.0,0.0,0.0,0.0
 "MIRA/O/O/FOD/25/10/0095","Mirae Asset BSE India Defence ETF FoF",0.56,0.03,0.01,0.12,0.72,0.11,0.03,0.01,0.04,0.19
 "MIRA/O/O/OIN/26/08/0106","Mirae Asset BSE Information Technology Index Fund",0.9,0.33,0.2,7.38,8.81,0.18,0.33,0.2,7.25,7.96
-"MIRA/O/O/EET/26/07/0105","Mirae Asset BSE Largemid (60:40) Stable Dividend 50 ETF",0.07,0.05,0.03,1.1,1.25,0.0,0.0,0.0,0.0,0.0
-"MIRA/O/O/OET/26/06/0102","Mirae Asset BSE Midcap 150 Momentum 30 ETF",0.21,0.07,0.04,1.46,1.78,0.0,0.0,0.0,0.0,0.0
-"MIRA/O/O/FOD/26/06/0101","Mirae Asset BSE Midcap 150 Momentum 30 ETF FoF",0.42,0.09,0.02,0.13,0.66,0.05,0.09,0.02,0.07,0.23
+"MIRA/O/O/EET/26/07/0105","Mirae Asset BSE Largemid (60:40) Stable Dividend 50 ETF",0.09,0.05,0.03,1.11,1.28,0.0,0.0,0.0,0.0,0.0
+"MIRA/O/O/OET/26/06/0102","Mirae Asset BSE Midcap 150 Momentum 30 ETF",0.3,0.07,0.04,1.48,1.89,0.0,0.0,0.0,0.0,0.0
+"MIRA/O/O/FOD/26/06/0101","Mirae Asset BSE Midcap 150 Momentum 30 ETF FoF",0.6,0.09,0.02,0.16,0.87,0.05,0.09,0.02,0.07,0.23
 "MIRA/O/O/EET/24/12/0080","Mirae Asset BSE Select IPO ETF",0.32,0.01,0.01,0.25,0.59,0.0,0.0,0.0,0.0,0.0
 "MIRA/O/O/FOD/24/12/0081","Mirae Asset BSE Select IPO ETF Fund of Fund",0.53,0.01,0.0,0.1,0.64,0.09,0.01,0.0,0.02,0.12
 "MIRA/O/O/EET/23/08/0056","Mirae Asset BSE SENSEX ETF",0.05,0.0,0.0,0.07,0.12,0.0,0.0,0.0,0.0,0.0
@@ -1343,8 +1343,9 @@
 "MIRA/O/O/DIN/25/05/0083","Mirae Asset CRISIL-IBX Financial Services 9-12 Months Debt Index Fund",0.24,0.02,0.0,0.05,0.31,0.07,0.02,0.0,0.02,0.11
 "MIRA/O/O/FOD/20/08/0021","Mirae Asset Diversified Equity Allocator Passive FoF",0.08,0.0,0.0,0.02,0.1,0.03,0.0,0.0,0.01,0.04
 "MIRA/O/D/DBF/17/01/0008","Mirae Asset Dynamic Term Fund",0.84,0.0,0.01,0.15,1.0,0.14,0.0,0.01,0.02,0.17
-"MIRA/O/E/ELS/15/10/0007","Mirae Asset ELSS Tax Saver Fund",1.39,0.1,0.01,0.46,1.96,0.59,0.1,0.01,0.32,1.02
+"MIRA/O/E/ELS/15/10/0007","Mirae Asset ELSS Tax Saver Fund",1.38,0.1,0.01,0.46,1.95,0.59,0.1,0.01,0.32,1.02
 "MIRA/O/H/ESF/18/05/0011","Mirae Asset Equity Savings Fund",1.16,0.07,0.02,0.48,1.73,0.31,0.07,0.02,0.33,0.73
+"MIRA/C/D/FTP/26/09/0108","Mirae Asset Fixed Maturity Plan – Series Vi– 3 to 6 Months",0.15,0.0,0.0,0.02,0.17,0.05,0.0,0.0,0.01,0.06
 "MIRA/O/E/FCF/23/01/0044","Mirae Asset Flexi Cap Fund",1.62,0.05,0.0,0.43,2.1,0.46,0.05,0.0,0.23,0.74
 "MIRA/O/E/FOC/19/03/0014","Mirae Asset Focused Fund",1.56,0.1,0.01,0.49,2.16,0.57,0.1,0.01,0.31,0.99
 "MIRA/O/O/FOO/22/05/0039","Mirae Asset Global Electric & Autonomous Vehicles Equity Passive FoF",0.37,0.0,0.0,0.06,0.43,0.09,0.0,0.0,0.01,0.1
@@ -1406,8 +1407,8 @@
 "MIRA/O/O/OET/25/06/0093","Mirae Asset Nifty Top 20 Equal Weight ETF",0.09,0.01,0.0,0.16,0.26,0.0,0.0,0.0,0.0,0.0
 "MIRA/O/O/OIN/24/05/0071","Mirae Asset Nifty Total Market Index Fund",0.8,0.0,0.0,0.19,0.99,0.26,0.0,0.0,0.09,0.35
 "MIRA/O/O/FOD/24/02/0064","Mirae Asset Nifty200 Alpha 30 ETF Fund of Fund",0.52,0.0,0.0,0.1,0.62,0.06,0.0,0.0,0.01,0.07
-"MIRA/O/E/OET/26/06/0104","Mirae Asset Nifty200 Momentum 30 Plus 8-13 Yr G-SEC 50:50 ETF",0.09,0.02,0.01,0.39,0.51,0.0,0.0,0.0,0.0,0.0
-"MIRA/O/E/OIN/26/06/0103","Mirae Asset Nifty200 Momentum 30 Plus 8-13Yr G-SEC 75:25 Index Fund",0.73,0.02,0.02,0.64,1.41,0.12,0.02,0.02,0.53,0.69
+"MIRA/O/E/OET/26/06/0104","Mirae Asset Nifty200 Momentum 30 Plus 8-13 Yr G-SEC 50:50 ETF",0.12,0.02,0.01,0.39,0.54,0.0,0.0,0.0,0.0,0.0
+"MIRA/O/E/OIN/26/06/0103","Mirae Asset Nifty200 Momentum 30 Plus 8-13Yr G-SEC 75:25 Index Fund",0.86,0.02,0.02,0.66,1.56,0.26,0.02,0.02,0.55,0.85
 "MIRA/O/O/EET/25/04/0082","Mirae Asset Nifty50 Equal Weight ETF",0.08,0.02,0.01,0.24,0.35,0.0,0.0,0.0,0.0,0.0
 "MIRA/O/O/OET/24/02/0066","Mirae Asset Nifty500 Multicap 50:25:25 ETF",0.13,0.01,0.0,0.12,0.26,0.0,0.0,0.0,0.0,0.0
 "MIRA/O/O/FOD/21/03/0027","Mirae Asset NYSE FANG + ETF Fund of Fund",0.35,0.0,0.0,0.06,0.41,0.03,0.0,0.0,0.01,0.04
@@ -1424,11 +1425,11 @@
 "MNMF/O/D/ONF/26/08/0001","Monarch Overnight Fund",0.2,0.0,0.04,0.04,0.28,0.15,0.0,0.04,0.03,0.22
 "MOTO/O/O/FOD/21/08/0026","Motilal Oswal 5 Year G-SEC Fund of Fund",0.2,0.01,0.0,0.04,0.25,0.13,0.01,0.0,0.03,0.17
 "MOTO/O/E/THE/24/12/0066","Motilal Oswal Active Momentum Fund",1.82,0.27,0.02,1.04,3.15,1.73,0.27,0.02,1.02,3.04
-"MOTO/O/H/ARB/24/07/0064","Motilal Oswal Arbitrage Fund",1.0,0.11,0.04,0.83,1.98,0.1,0.11,0.04,0.74,0.99
+"MOTO/O/H/ARB/24/07/0064","Motilal Oswal Arbitrage Fund",0.99,0.11,0.04,0.84,1.98,0.14,0.11,0.04,0.75,1.04
 "MOTO/O/O/FOD/20/09/0024","Motilal Oswal Asset Allocation Fund of Fund- Conservative",0.49,0.0,0.0,0.09,0.58,0.06,0.0,0.0,0.01,0.07
 "MOTO/O/H/DAA/16/08/0009","Motilal Oswal Balanced Advantage Fund",2.04,0.12,0.01,0.64,2.81,0.93,0.12,0.01,0.49,1.55
 "MOTO/O/O/OIN/25/04/0073","Motilal Oswal BSE 1000 Index Fund",0.9,0.01,0.0,0.2,1.11,0.35,0.01,0.0,0.1,0.46
-"MOTO/O/O/OIN/26/04/0093","Motilal Oswal BSE Clean Environment Index Fund",0.9,0.05,0.02,0.75,1.72,0.35,0.05,0.02,0.65,1.07
+"MOTO/O/O/OIN/26/04/0093","Motilal Oswal BSE Clean Environment Index Fund",0.9,0.05,0.02,0.75,1.72,0.38,0.05,0.02,0.65,1.1
 "MOTO/O/O/EET/22/03/0035","Motilal Oswal BSE Enhanced Value ETF",0.3,0.02,0.0,0.16,0.48,0.0,0.0,0.0,0.0,0.0
 "MOTO/O/O/OIN/22/03/0036","Motilal Oswal BSE Enhanced Value Index Fund",0.9,0.02,0.0,0.24,1.16,0.35,0.02,0.0,0.18,0.55
 "MOTO/O/O/OIN/22/03/0033","Motilal Oswal BSE Financials Ex Bank 30 Index Fund",0.9,0.01,0.0,0.21,1.12,0.37,0.01,0.0,0.16,0.54
@@ -1436,32 +1437,32 @@
 "MOTO/O/O/OET/25/04/0072","Motilal Oswal BSE India Infrastructure ETF",0.45,0.01,0.0,0.19,0.65,0.0,0.0,0.0,0.0,0.0
 "MOTO/O/O/EET/22/02/0031","Motilal Oswal BSE Low Volatility ETF",0.32,0.05,0.01,0.4,0.78,0.0,0.0,0.0,0.0,0.0
 "MOTO/O/O/EIN/21/12/0029","Motilal Oswal BSE Low Volatility Index Fund",0.9,0.04,0.01,0.38,1.33,0.31,0.04,0.01,0.28,0.64
-"MOTO/O/O/OIN/26/04/0094","Motilal Oswal BSE Midcap 150 Momentum 30 Index Fund",0.9,0.16,0.04,1.49,2.59,0.38,0.16,0.04,1.4,1.98
+"MOTO/O/O/OIN/26/04/0094","Motilal Oswal BSE Midcap 150 Momentum 30 Index Fund",0.9,0.16,0.04,1.49,2.59,0.3,0.16,0.04,1.39,1.89
 "MOTO/O/O/EET/21/10/0034","Motilal Oswal BSE Quality ETF",0.34,0.05,0.01,0.39,0.79,0.0,0.0,0.0,0.0,0.0
 "MOTO/O/O/OIN/22/03/0037","Motilal Oswal BSE Quality Index Fund",0.9,0.02,0.0,0.27,1.19,0.35,0.02,0.0,0.18,0.55
 "MOTO/O/O/EET/25/10/0086","Motilal Oswal BSE Select IPO ETF",0.45,0.02,0.0,0.24,0.71,0.0,0.0,0.0,0.0,0.0
 "MOTO/O/O/EET/26/03/0091","Motilal Oswal BSE Top 10 Banks ETF",0.1,0.15,0.05,1.74,2.04,0.0,0.0,0.0,0.0,0.0
-"MOTO/O/E/THE/24/06/0053","Motilal Oswal Business Cycle Fund",1.84,0.11,0.01,0.55,2.51,0.87,0.11,0.01,0.44,1.43
-"MOTO/O/E/THE/25/04/0082","Motilal Oswal Consumption Fund",1.89,0.08,0.01,0.35,2.33,0.48,0.08,0.01,0.28,0.85
+"MOTO/O/E/THE/24/06/0053","Motilal Oswal Business Cycle Fund",1.83,0.11,0.01,0.55,2.5,0.89,0.11,0.01,0.45,1.46
+"MOTO/O/E/THE/25/04/0082","Motilal Oswal Consumption Fund",1.89,0.08,0.01,0.36,2.34,0.53,0.08,0.01,0.29,0.91
 "MOTO/O/E/COF/26/02/0092","Motilal Oswal Contra Fund",2.1,0.38,0.03,1.34,3.85,0.61,0.38,0.03,1.16,2.18
 "MOTO/O/O/FOO/23/07/0042","Motilal Oswal Developed Market Ex US Etfs Overseas Equity Passive FoF",0.48,0.0,0.0,0.09,0.57,0.04,0.0,0.0,0.01,0.05
-"MOTO/O/E/THE/24/07/0057","Motilal Oswal Digital India Fund",1.93,0.05,0.0,0.36,2.34,0.74,0.05,0.0,0.27,1.06
+"MOTO/O/E/THE/24/07/0057","Motilal Oswal Digital India Fund",1.93,0.05,0.0,0.37,2.35,0.75,0.05,0.0,0.27,1.07
 "MOTO/O/O/FOD/25/09/0088","Motilal Oswal Diversified Equity Flexicap Passive Fund of Funds",0.59,0.0,0.0,0.09,0.68,0.09,0.0,0.0,0.02,0.11
 "MOTO/O/E/ELS/14/12/0008","Motilal Oswal ELSS Tax Saver Fund",1.61,0.07,0.01,0.41,2.1,0.6,0.07,0.01,0.28,0.96
 "MOTO/O/E/SEC/25/12/0089","Motilal Oswal Financial Services Fund",2.1,0.1,0.01,0.49,2.7,0.78,0.1,0.01,0.43,1.32
 "MOTO/O/E/FCF/14/02/0007","Motilal Oswal Flexi Cap Fund",1.45,0.09,0.01,0.47,2.02,0.72,0.09,0.01,0.37,1.19
-"MOTO/O/E/FOC/13/03/0004","Motilal Oswal Focused Fund",1.77,0.17,0.01,0.72,2.67,0.83,0.17,0.01,0.59,1.6
+"MOTO/O/E/FOC/13/03/0004","Motilal Oswal Focused Fund",1.77,0.17,0.01,0.71,2.66,0.8,0.17,0.01,0.59,1.57
 "MOTO/O/O/FOD/22/08/0038","Motilal Oswal Gold and Silver Passive Fund of Funds",0.39,0.0,0.0,0.07,0.46,0.15,0.0,0.0,0.03,0.18
 "MOTO/O/O/GET/25/06/0080","Motilal Oswal Gold ETF",0.5,0.0,0.0,0.09,0.59,0.0,0.0,0.0,0.0,0.0
-"MOTO/O/E/THE/24/12/0068","Motilal Oswal Infrastructure Fund",2.1,0.16,0.01,0.69,2.96,0.82,0.16,0.01,0.62,1.61
-"MOTO/O/E/THE/24/11/0065","Motilal Oswal Innovation Opportunities Fund",1.98,0.1,0.01,0.49,2.58,0.74,0.1,0.01,0.43,1.28
-"MOTO/O/E/LMF/19/03/0013","Motilal Oswal Large and Midcap Fund",1.41,0.05,0.0,0.33,1.79,0.59,0.05,0.0,0.25,0.89
+"MOTO/O/E/THE/24/12/0068","Motilal Oswal Infrastructure Fund",2.1,0.16,0.01,0.68,2.95,0.76,0.16,0.01,0.61,1.54
+"MOTO/O/E/THE/24/11/0065","Motilal Oswal Innovation Opportunities Fund",1.98,0.1,0.01,0.49,2.58,0.7,0.1,0.01,0.42,1.23
+"MOTO/O/E/LMF/19/03/0013","Motilal Oswal Large and Midcap Fund",1.41,0.05,0.0,0.34,1.8,0.62,0.05,0.0,0.26,0.93
 "MOTO/O/E/LCF/23/12/0045","Motilal Oswal Large Cap Fund",1.68,0.05,0.0,0.35,2.08,0.68,0.05,0.0,0.25,0.98
 "MOTO/O/D/LIF/18/11/0012","Motilal Oswal Liquid Fund",0.35,0.0,0.0,0.06,0.41,0.17,0.0,0.0,0.03,0.2
 "MOTO/O/E/THE/24/06/0052","Motilal Oswal Manufacturing Fund",2.05,0.23,0.02,0.91,3.21,0.86,0.23,0.02,0.81,1.92
-"MOTO/O/E/MIF/14/01/0006","Motilal Oswal Midcap Fund",1.29,0.04,0.0,0.29,1.62,0.65,0.04,0.0,0.22,0.91
+"MOTO/O/E/MIF/14/01/0006","Motilal Oswal Midcap Fund",1.29,0.04,0.0,0.29,1.62,0.67,0.04,0.0,0.22,0.93
 "MOTO/O/O/FOD/20/09/0023","Motilal Oswal Multi Asset Passive Fund of Fund",0.5,0.09,0.02,0.15,0.76,0.09,0.09,0.02,0.09,0.29
-"MOTO/O/E/MCF/23/12/0048","Motilal Oswal Multi Cap Fund",1.61,0.13,0.01,0.55,2.3,0.6,0.13,0.01,0.45,1.19
+"MOTO/O/E/MCF/23/12/0048","Motilal Oswal Multi Cap Fund",1.61,0.13,0.01,0.55,2.3,0.62,0.13,0.01,0.45,1.21
 "MOTO/O/O /FOD/26/01/0090","Motilal Oswal Multi Factor Passive Fund of Funds",0.57,0.02,0.0,0.12,0.71,0.05,0.02,0.0,0.03,0.1
 "MOTO/O/O/EET/11/03/0003","Motilal Oswal NASDAQ 100 ETF",0.5,0.01,0.0,0.09,0.6,0.0,0.0,0.0,0.0,0.0
 "MOTO/O/O/FOD/18/10/0011","Motilal Oswal NASDAQ 100 Fund of Fund",0.4,0.0,0.0,0.07,0.47,0.16,0.0,0.0,0.03,0.19
@@ -1472,7 +1473,7 @@
 "MOTO/O/O/EET/20/07/0022","Motilal Oswal Nifty 5 Year Benchmark G-SEC ETF",0.21,0.04,0.0,0.04,0.29,0.0,0.0,0.0,0.0,0.0
 "MOTO/O/O/OET/25/04/0071","Motilal Oswal Nifty 50 Equal Weight ETF",0.1,0.02,0.0,0.16,0.28,0.0,0.0,0.0,0.0,0.0
 "MOTO/O/O/EET/10/06/0001","Motilal Oswal Nifty 50 ETF",0.05,0.02,0.0,0.17,0.24,0.0,0.0,0.0,0.0,0.0
-"MOTO/O/O/EIN/19/09/0018","Motilal Oswal Nifty 50 Index Fund",0.5,0.01,0.0,0.1,0.61,0.13,0.01,0.0,0.05,0.19
+"MOTO/O/O/EIN/19/09/0018","Motilal Oswal Nifty 50 Index Fund",0.5,0.01,0.0,0.1,0.61,0.16,0.01,0.0,0.06,0.23
 "MOTO/O/O/EET/23/09/0043","Motilal Oswal Nifty 500 ETF",0.18,0.02,0.0,0.19,0.39,0.0,0.0,0.0,0.0,0.0
 "MOTO/O/O/EIN/19/06/0014","Motilal Oswal Nifty 500 Index Fund",0.79,0.02,0.0,0.16,0.97,0.13,0.02,0.0,0.08,0.23
 "MOTO/O/O/EET/24/07/0055","Motilal Oswal Nifty 500 Momentum 50 ETF",0.35,0.06,0.01,0.46,0.88,0.0,0.0,0.0,0.0,0.0
@@ -1508,11 +1509,11 @@
 "MOTO/O/E/THE/26/07/0098","Motilal Oswal Quality Fund",2.09,0.61,0.06,2.14,4.9,1.99,0.61,0.06,2.12,4.78
 "MOTO/O/E/THE/24/05/0049","Motilal Oswal Quant Fund",0.8,0.24,0.02,0.71,1.77,0.71,0.24,0.02,0.7,1.67
 "MOTO/O/O/EIN/20/03/0020","Motilal Oswal S&P 500 Index Fund",0.9,0.0,0.0,0.14,1.04,0.54,0.0,0.0,0.1,0.64
-"MOTO/O/E/SEC/25/04/0074","Motilal Oswal Services Fund",2.1,0.09,0.01,0.47,2.67,0.86,0.09,0.01,0.42,1.38
+"MOTO/O/E/SEC/25/04/0074","Motilal Oswal Services Fund",2.1,0.09,0.01,0.46,2.66,0.81,0.09,0.01,0.41,1.32
 "MOTO/O/O/OET/25/07/0081","Motilal Oswal Silver ETF",0.5,0.0,0.0,0.09,0.59,0.0,0.0,0.0,0.0,0.0
-"MOTO/O/E/SCF/23/10/0044","Motilal Oswal Small Cap Fund",1.53,0.06,0.0,0.34,1.93,0.56,0.06,0.0,0.24,0.86
+"MOTO/O/E/SCF/23/10/0044","Motilal Oswal Small Cap Fund",1.53,0.06,0.0,0.34,1.93,0.57,0.06,0.0,0.25,0.88
 "MOTO/O/E/THE/24/02/0079","Motilal Oswal Special Opportunities Fund",2.1,0.12,0.01,0.75,2.98,2.0,0.12,0.01,0.73,2.86
-"MOTO/O/D/USD/13/08/0005","Motilal Oswal Ultra Short Term Fund",1.0,0.01,0.0,0.1,1.11,0.21,0.01,0.0,0.03,0.25
+"MOTO/O/D/USD/13/08/0005","Motilal Oswal Ultra Short Term Fund",1.0,0.01,0.0,0.11,1.12,0.31,0.01,0.0,0.05,0.37
 "NAVI/O/H /BHF/18/03/0008","Navi Aggressive Hybrid Fund",2.1,0.04,0.0,0.44,2.58,0.49,0.04,0.0,0.16,0.69
 "NAVI/O/E/EIN/23/07/0023","Navi BSE SENSEX Index Fund",0.89,0.01,0.0,0.2,1.1,0.38,0.01,0.0,0.11,0.5
 "NAVI/O/E/ELS/23/02/0020","Navi ELSS Tax Saver Nifty 50 Index Fund",0.9,0.0,0.0,0.18,1.08,0.2,0.0,0.0,0.05,0.25
@@ -1863,7 +1864,7 @@
 "SBIM/O/O/FOO/20/04/0115","SBI US Specific Equity Active FoF",1.4,0.0,0.0,0.24,1.64,0.88,0.0,0.0,0.15,1.03
 "SHRI/O/H/AHF/13/10/0001","Shriram Aggressive Hybrid Fund",2.08,0.02,0.0,0.37,2.47,0.68,0.02,0.0,0.17,0.87
 "SHRI/O/H/BAF/19/03/0004","Shriram Balanced Advantage Fund",2.09,0.04,0.01,0.43,2.57,0.64,0.04,0.01,0.21,0.9
-"SHRI/O/E/ELS/18/11/0003","Shriram ELSS Tax Saver Fund",2.09,0.06,0.0,0.42,2.57,0.66,0.06,0.0,0.24,0.96
+"SHRI/O/E/ELS/18/11/0003","Shriram ELSS Tax Saver Fund",2.09,0.06,0.0,0.42,2.57,0.66,0.06,0.0,0.23,0.95
 "SHRI/O/E/FCF/18/04/0002","Shriram Flexi Cap Fund",2.1,0.06,0.0,0.43,2.59,0.75,0.06,0.0,0.25,1.06
 "SHRI/O/O/FOD/26/04/0011","Shriram Gold ETF Passive FoF",0.58,4.04,0.04,0.86,5.52,0.16,4.04,0.04,0.79,5.03
 "SHRI/O/D/LIF/24/06/0008","Shriram Liquid Fund",0.24,0.0,0.01,0.04,0.29,0.13,0.0,0.01,0.02,0.16
