@@ -1101,6 +1101,7 @@
 "JBMF/O/H/ARB/25/11/0011","Jioblackrock Arbitrage Fund",0.9,0.24,0.09,2.03,3.26,0.28,0.17,0.06,1.48,1.99
 "JBMF/O/H/BAF/26/05/0016","Jioblackrock Balanced Advantage Fund",1.76,0.0,0.0,0.31,2.07,0.48,0.0,0.0,0.08,0.56
 "JBMF/O/E/FCF/25/08/0009","Jioblackrock Flexi Cap Fund",1.5,0.14,0.01,0.69,2.34,0.5,0.13,0.01,0.47,1.11
+"JBMF/O/O/FOD/26/04/0017","Jioblackrock Income Plus Arbitrage Omni FoF",0.31,0.0,0.0,0.06,0.37,0.06,0.0,0.0,0.01,0.07
 "JBMF/O/E/LCF/26/02/0014","Jioblackrock Large Cap Fund",1.61,0.12,0.01,0.67,2.41,0.5,0.17,0.02,0.64,1.33
 "JBMF/O/D /LIF/25/06/0001","Jioblackrock Liquid Fund",0.2,0.0,0.0,0.03,0.23,0.09,0.0,0.0,0.01,0.1
 "JBMF/O/D /MMF/25/06/0002","Jioblackrock Money Market Fund",0.3,0.01,0.0,0.05,0.36,0.13,0.01,0.0,0.02,0.16
@@ -1682,35 +1683,38 @@
 "PGIM/O/S/RET/23/09/0027","PGIM India Retirement Fund",2.1,0.04,0.0,0.45,2.59,0.85,0.04,0.0,0.23,1.12
 "PGIM/O/E/SCF/21/06/0023","PGIM India Small Cap Fund",1.79,0.08,0.01,0.49,2.37,0.58,0.08,0.01,0.27,0.94
 "PGIM/O/D/USD/03/07/0005","PGIM India Ultra Short Term Fund",0.79,0.0,0.0,0.14,0.93,0.28,0.0,0.0,0.05,0.33
-"QNTM/O/H/AHF/01/02/0005","Quant Aggressive Hybrid Fund",1.75,0.11,0.02,0.84,2.72,0.71,0.11,0.02,0.65,1.49
+"QNTM/O/H/AHF/01/02/0005","Quant Aggressive Hybrid Fund",1.75,0.11,0.02,0.84,2.72,0.7,0.11,0.02,0.65,1.48
 "QNTM/O/H/ARB/25/02/0028","Quant Arbitrage Fund",0.83,0.09,0.05,1.28,2.25,0.3,0.09,0.05,1.18,1.62
 "QNTM/O/E/THE/23/03/0020","Quant Bfsi Fund",1.99,0.21,0.04,1.34,3.58,0.71,0.21,0.04,1.11,2.07
-"QNTM/O/E/THE/23/03/0019","Quant Business Cycle Fund",1.97,0.11,0.03,0.88,2.99,0.68,0.11,0.03,0.65,1.47
+"QNTM/O/E/THE/23/03/0019","Quant Business Cycle Fund",1.96,0.11,0.03,0.88,2.98,0.68,0.11,0.03,0.65,1.47
 "QNTM/O/E/THE/23/11/0025","Quant Commodities Fund",2.1,0.11,0.03,0.96,3.2,0.9,0.11,0.03,0.74,1.78
 "QNTM/O/E/THE/23/11/0026","Quant Consumption Fund",2.1,0.13,0.03,1.02,3.28,0.87,0.13,0.03,0.8,1.83
-"QNTM/O/E/DAA/23/02/0018","Quant Dynamic Asset Allocation Fund",2.01,0.11,0.02,0.87,3.01,0.77,0.11,0.02,0.65,1.55
+"QNTM/O/E/DAA/23/02/0018","Quant Dynamic Asset Allocation Fund",2.0,0.11,0.02,0.87,3.0,0.77,0.11,0.02,0.65,1.55
 "QNTM/O/E/ELS/00/03/0002","Quant ELSS Tax Saver Fund",1.47,0.08,0.01,0.6,2.16,0.76,0.08,0.01,0.48,1.33
-"QNTM/O/H/ESF/25/06/0029","Quant Equity Savings Fund",2.01,0.21,0.04,1.47,3.73,0.53,0.21,0.04,1.21,1.99
+"QNTM/O/H/ESF/25/06/0029","Quant Equity Savings Fund",2.02,0.21,0.04,1.47,3.74,0.53,0.21,0.04,1.21,1.99
 "QNTM/O/E/THE/20/09/0012","Quant ESG Integration Strategy Fund",2.1,0.13,0.03,1.07,3.33,0.84,0.13,0.03,0.84,1.84
-"QNTM/O/E/FCF/08/08/0011","Quant Flexi Cap Fund",1.54,0.06,0.02,0.58,2.2,0.63,0.06,0.02,0.42,1.13
+"QNTM/O/E/FCF/08/08/0011","Quant Flexi Cap Fund",1.54,0.06,0.02,0.58,2.2,0.62,0.06,0.02,0.42,1.12
 "QNTM/O/E/FOC/08/07/0010","Quant Focused Fund",2.0,0.17,0.03,1.15,3.35,0.8,0.17,0.03,0.93,1.93
 "QNTM/O/D/GIL/22/11/0017","Quant Gilt Fund",1.35,0.0,0.0,0.24,1.59,0.34,0.0,0.0,0.06,0.4
 "QNTM/O/E/THE/23/04/0021","Quant Healthcare Fund",2.1,0.12,0.03,0.94,3.19,0.77,0.12,0.03,0.7,1.62
 "QNTM/O/O/FOD/26/06/0031","Quant Income Plus Arbitrage Active FoF",0.54,0.0,0.0,0.17,0.71,0.23,0.0,0.0,0.11,0.34
 "QNTM/O/E/THE/07/07/0009","Quant Infrastructure Fund",1.68,0.05,0.01,0.55,2.29,0.71,0.05,0.01,0.37,1.14
-"QNTM/O/E/LMF/06/11/0008","Quant Large & Mid Cap Fund",1.66,0.07,0.02,0.68,2.43,0.67,0.07,0.02,0.5,1.26
+"QNTM/O/E/LMF/06/11/0008","Quant Large & Mid Cap Fund",1.66,0.07,0.02,0.67,2.42,0.66,0.07,0.02,0.5,1.25
 "QNTM/O/E/LCF/22/05/0015","Quant Large Cap Fund",1.64,0.16,0.03,1.04,2.87,0.49,0.16,0.03,0.83,1.51
 "QNTM/O/D/LIF/05/09/0007","Quant Liquid Fund",0.5,0.0,0.0,0.09,0.59,0.26,0.0,0.0,0.05,0.31
 "QNTM/O/E/THE/23/04/0022","Quant Manufacturing Fund",2.05,0.07,0.02,0.75,2.89,0.86,0.07,0.02,0.54,1.49
 "QNTM/O/E/MIF/01/02/0003","Quant Mid Cap Fund",1.54,0.06,0.01,0.58,2.19,0.71,0.06,0.01,0.43,1.21
-"QNTM/O/E/THE/23/09/0024","Quant Momentum Fund",1.87,0.12,0.03,0.96,2.98,0.9,0.12,0.03,0.79,1.84
+"QNTM/O/E/THE/23/09/0024","Quant Momentum Fund",1.87,0.12,0.03,0.96,2.98,0.89,0.12,0.03,0.79,1.83
 "QNTM/O/H/MAA/01/02/0006","Quant Multi Asset Allocation Fund",1.49,0.08,0.02,0.65,2.24,0.6,0.08,0.02,0.49,1.19
-"QNTM/O/E/MCF/01/02/0004","Quant Multi Cap Fund",1.54,0.05,0.01,0.51,2.11,0.68,0.05,0.01,0.36,1.1
+"QNTM/O/E/MCF/01/02/0004","Quant Multi Cap Fund",1.54,0.05,0.01,0.51,2.11,0.67,0.05,0.01,0.36,1.09
+"QNTM/O/O/EIN/26/09/0034","Quant Nifty 100 Index Fund",0.42,0.0,0.0,0.08,0.5,0.09,0.0,0.0,0.02,0.11
+"QNTM/O/O/EIN/26/09/0032","Quant Nifty 50 Index Fund",0.32,0.0,0.0,0.06,0.38,0.06,0.0,0.0,0.01,0.07
+"QNTM/O/O/EIN/26/09/0033","Quant Nifty Midcap 150 Index Fund",0.66,0.0,0.0,0.12,0.78,0.11,0.0,0.0,0.02,0.13
 "QNTM/O/D/ONF/22/11/0016","Quant Overnight Fund",0.22,0.0,0.0,0.04,0.26,0.16,0.0,0.0,0.03,0.19
 "QNTM/O/E/THE/23/11/0027","Quant PSU Fund",2.1,0.16,0.03,1.21,3.5,1.0,0.16,0.03,1.02,2.21
-"QNTM/O/E/THE/21/03/0013","Quant Quantamental Fund",1.82,0.12,0.03,0.92,2.89,0.71,0.12,0.03,0.72,1.58
+"QNTM/O/E/THE/21/03/0013","Quant Quantamental Fund",1.82,0.12,0.03,0.92,2.89,0.7,0.12,0.03,0.72,1.57
 "QNTM/O/O/OET/26/06/0030","Quant Silver ETF",0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.09,0.59
-"QNTM/O/E/SCF/96/09/0001","Quant Small Cap Fund",1.33,0.03,0.0,0.38,1.74,0.69,0.03,0.0,0.27,0.99
+"QNTM/O/E/SCF/96/09/0001","Quant Small Cap Fund",1.32,0.03,0.0,0.38,1.73,0.69,0.03,0.0,0.27,0.99
 "QNTM/O/E/THE/23/03/0023","Quant Teck Fund",2.1,0.22,0.04,1.45,3.81,0.86,0.22,0.04,1.23,2.35
 "QNTM/O/E/VAF/21/10/0014","Quant Value Fund",1.78,0.05,0.02,0.61,2.46,0.52,0.05,0.02,0.38,0.97
 "QTMM/O/E/FOD/09/05/0006","Quantum Diversified Equity All Cap Active FoF",1.19,0.0,0.0,0.22,1.41,0.35,0.0,0.0,0.07,0.42
