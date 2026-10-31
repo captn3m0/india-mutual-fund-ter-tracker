@@ -1326,7 +1326,7 @@
 "MIRA/O/H/AHF/15/05/0006","Mirae Asset Aggressive Hybrid Fund",1.51,0.04,0.0,0.38,1.93,0.41,0.04,0.0,0.18,0.63
 "MIRA/O/H/ARB/20/04/0019","Mirae Asset Arbitrage Fund",0.78,0.2,0.09,2.18,3.25,0.13,0.2,0.09,2.06,2.48
 "MIRA/O/H/BAF/22/05/0038","Mirae Asset Balanced Advantage Fund",1.75,0.05,0.01,0.48,2.29,0.64,0.05,0.01,0.28,0.98
-"MIRA/O/E/SEC/20/09/0024","Mirae Asset Banking and Financial Services Fund",1.74,0.03,0.0,0.38,2.15,0.58,0.03,0.0,0.17,0.78
+"MIRA/O/E/SEC/20/09/0024","Mirae Asset Banking and Financial Services Fund",1.74,0.03,0.0,0.38,2.15,0.58,0.03,0.0,0.18,0.79
 "MIRA/O/D/BPF/20/03/0018","Mirae Asset Banking and PSU Debt Fund",0.69,0.01,0.0,0.12,0.82,0.31,0.01,0.0,0.05,0.37
 "MIRA/O/O/EET/24/12/0078","Mirae Asset BSE 200 Equal Weight ETF",0.29,0.01,0.0,0.21,0.51,0.0,0.0,0.0,0.0,0.0
 "MIRA/O/O/FOD/24/12/0079","Mirae Asset BSE 200 Equal Weight ETF Fund of Fund",0.53,0.01,0.0,0.1,0.64,0.08,0.01,0.0,0.02,0.11
@@ -1355,10 +1355,10 @@
 "MIRA/O/O/GET/23/01/0045","Mirae Asset Gold ETF",0.3,0.0,0.0,0.05,0.35,0.0,0.0,0.0,0.0,0.0
 "MIRA/O/O/FOD/24/09/0072","Mirae Asset Gold ETF Fund of Fund",0.57,0.01,0.0,0.11,0.69,0.08,0.01,0.0,0.02,0.11
 "MIRA/O/O/FOD/25/07/0087","Mirae Asset Gold Silver Passive FoF",0.57,0.01,0.0,0.11,0.69,0.09,0.01,0.0,0.02,0.12
-"MIRA/O/E/SEC/09/08/0004","Mirae Asset Great Consumer Fund",1.62,0.05,0.0,0.41,2.08,0.44,0.05,0.0,0.2,0.69
+"MIRA/O/E/SEC/09/08/0004","Mirae Asset Great Consumer Fund",1.62,0.05,0.0,0.41,2.08,0.45,0.05,0.0,0.2,0.7
 "MIRA/O/O/EET/21/10/0033","Mirae Asset Hang Seng Tech ETF",0.5,0.02,0.0,0.13,0.65,0.0,0.0,0.0,0.0,0.0
 "MIRA/O/O/FOD/21/10/0032","Mirae Asset Hang Seng Tech ETF Fund of Fund",0.4,0.0,0.0,0.07,0.47,0.03,0.0,0.0,0.01,0.04
-"MIRA/O/E/SEC/18/05/0010","Mirae Asset Healthcare Fund",1.65,0.03,0.0,0.36,2.04,0.45,0.03,0.0,0.14,0.62
+"MIRA/O/E/SEC/18/05/0010","Mirae Asset Healthcare Fund",1.65,0.03,0.0,0.36,2.04,0.44,0.03,0.0,0.14,0.61
 "MIRA/O/H/FOD/25/05/0084","Mirae Asset Income Plus Arbitrage Active FoF",0.29,0.0,0.0,0.06,0.35,0.11,0.0,0.0,0.02,0.13
 "MIRA/O/E/THE/25/09/0088","Mirae Asset Infrastructure Fund",2.1,0.04,0.0,0.5,2.64,0.56,0.04,0.0,0.22,0.82
 "MIRA/O/E/LMF/09/11/0005","Mirae Asset Large & Midcap Fund",1.28,0.08,0.0,0.4,1.76,0.52,0.08,0.0,0.27,0.87
@@ -1368,9 +1368,9 @@
 "MIRA/O/D/LON/24/10/0074","Mirae Asset Long Term Fund",0.66,0.0,0.0,0.12,0.78,0.17,0.0,0.0,0.03,0.2
 "MIRA/O/E/MIF/19/05/0015","Mirae Asset Midcap Fund",1.42,0.1,0.01,0.48,2.01,0.53,0.1,0.01,0.32,0.96
 "MIRA/O/D/MMF/21/06/0029","Mirae Asset Money Market Fund",0.35,0.01,0.0,0.06,0.42,0.09,0.01,0.0,0.01,0.11
-"MIRA/O/H/MAA/23/12/0059","Mirae Asset Multi Asset Allocation Fund",1.63,0.05,0.01,0.46,2.15,0.35,0.05,0.01,0.23,0.64
+"MIRA/O/H/MAA/23/12/0059","Mirae Asset Multi Asset Allocation Fund",1.63,0.05,0.01,0.46,2.15,0.36,0.05,0.01,0.23,0.65
 "MIRA/O/O/FOD/25/06/0086","Mirae Asset Multi Factor Passive FoF",0.52,0.02,0.01,0.11,0.66,0.04,0.02,0.01,0.02,0.09
-"MIRA/O/E/MCF/23/01/0052","Mirae Asset Multicap Fund",1.6,0.12,0.01,0.54,2.27,0.42,0.12,0.01,0.32,0.87
+"MIRA/O/E/MCF/23/01/0052","Mirae Asset Multicap Fund",1.6,0.12,0.01,0.54,2.27,0.43,0.12,0.01,0.32,0.88
 "MIRA/O/O/EET/20/08/0022","Mirae Asset Nifty 100 ESG Sector Leaders ETF",0.35,0.0,0.0,0.1,0.45,0.0,0.0,0.0,0.0,0.0
 "MIRA/O/O/FOD/20/09/0023","Mirae Asset Nifty 100 ESG Sector Leaders Fund of Fund",0.4,0.0,0.0,0.07,0.47,0.08,0.0,0.0,0.02,0.1
 "MIRA/O/O/EET/22/11/0047","Mirae Asset Nifty 100 Low Volatility 30 ETF",0.3,0.01,0.0,0.17,0.48,0.0,0.0,0.0,0.0,0.0
