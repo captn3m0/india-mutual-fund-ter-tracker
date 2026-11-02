@@ -1,15 +1,15 @@
 "NSDL Scheme Code","Scheme Name","Regular Plan - Base Expense Ratio (BER) (%)","Regular Plan - Brokerage cost (%)","Regular Plan - Transaction Cost incurred for the purpose of execution of trade (%)","Regular Plan - Statutory Levies (including GST) (%)","Regular Plan - Total TER (%)","Direct Plan - Base Expense Ratio (BER) (%)","Direct Plan - Brokerage cost (%)","Direct Plan - Transaction Cost incurred for the purpose of execution of trade (%)","Direct Plan - Statutory Levies (including GST) (%)","Direct Plan - Total TER (%)"
 "360O/O/H/BHF/23/07/0007","360 One Balanced Hybrid Fund",1.78,0.03,0.0,0.38,2.19,0.49,0.03,0.0,0.15,0.67
 "360O/O/D/DBF/13/02/0001","360 One Dynamic Term Fund",0.5,0.0,0.0,0.09,0.59,0.29,0.0,0.0,0.05,0.34
-"360O/O/E/ELS/22/10/0005","360 One ELSS Tax Saver Nifty 50 Index Fund",0.52,0.0,0.0,0.1,0.62,0.31,0.0,0.0,0.06,0.37
-"360O/O/E/FCF/23/02/0006","360 One Flexicap Fund",1.73,0.11,0.01,0.52,2.37,0.5,0.11,0.01,0.3,0.92
-"360O/O/E/FOC/14/08/0003","360 One Focused Fund",1.54,0.12,0.01,0.51,2.18,0.76,0.12,0.01,0.36,1.25
+"360O/O/E/ELS/22/10/0005","360 One ELSS Tax Saver Nifty 50 Index Fund",0.52,0.01,0.0,0.1,0.63,0.31,0.01,0.0,0.07,0.39
+"360O/O/E/FCF/23/02/0006","360 One Flexicap Fund",1.73,0.1,0.01,0.5,2.34,0.5,0.1,0.01,0.28,0.89
+"360O/O/E/FOC/14/08/0003","360 One Focused Fund",1.54,0.1,0.01,0.47,2.12,0.76,0.1,0.01,0.33,1.2
 "360O/O/O/GET/25/01/0008","360 One Gold ETF",0.4,0.0,0.0,0.07,0.47,0.0,0.0,0.0,0.0,0.0
 "360O/O/D/LIF/13/05/0002","360 One Liquid Fund",0.3,0.0,0.0,0.05,0.35,0.2,0.0,0.0,0.03,0.23
-"360O/O/O/OET/26/04/0012","360 One MSCI India ETF",0.39,0.03,0.01,0.44,0.87,0.0,0.0,0.0,0.0,0.0
-"360O/O/H /MAA/25/04/0011","360 One Multi Asset Allocation Fund",1.69,0.07,0.01,0.37,2.14,0.45,0.07,0.01,0.15,0.68
+"360O/O/O/OET/26/04/0012","360 One MSCI India ETF",0.39,0.03,0.01,0.37,0.8,0.0,0.0,0.0,0.0,0.0
+"360O/O/H /MAA/25/04/0011","360 One Multi Asset Allocation Fund",1.69,0.06,0.01,0.36,2.12,0.45,0.06,0.01,0.14,0.66
 "360O/O/D /ONF/25/05/0010","360 One Overnight Fund",0.15,0.0,0.03,0.03,0.21,0.08,0.0,0.03,0.02,0.13
-"360O/O/E/THE/21/10/0004","360 One Quant Fund",1.79,0.12,0.01,0.57,2.49,0.62,0.12,0.01,0.36,1.11
+"360O/O/E/THE/21/10/0004","360 One Quant Fund",1.79,0.11,0.01,0.54,2.45,0.62,0.11,0.01,0.33,1.07
 "360O/O/O/OET/25/01/0009","360 One Silver ETF",0.39,0.0,0.0,0.07,0.46,0.0,0.0,0.0,0.0,0.0
 "ABKS/O/E/FCF/25/11/0002","Abakkus Flexi Cap Fund",1.53,0.1,0.01,0.46,2.1,0.43,0.1,0.01,0.29,0.83
 "ABKS/O/E/LMF/26/06/0005","Abakkus Large & Mid Cap Fund",2.09,0.29,0.02,0.95,3.35,0.8,0.29,0.02,0.75,1.86
@@ -127,12 +127,12 @@
 "AOMF/O/O/GET/25/07/0006","Angel One Gold ETF",0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.05,0.35
 "AOMF/O/O/FOD/25/07/0007","Angel One Gold ETF FoF",0.58,0.01,0.01,0.1,0.7,0.15,0.01,0.01,0.03,0.2
 "AOMF/O/O /DET/25/02/0003","Angel One Nifty 1D Rate Liquid ETF - Growth",0.0,0.0,0.0,0.0,0.0,0.23,0.0,0.07,0.04,0.34
-"AOMF/O/O /EET/25/02/0004","Angel One Nifty 50 ETF",0.0,0.0,0.0,0.0,0.0,0.08,0.01,0.01,0.08,0.18
-"AOMF/O/O /EIN/25/02/0005","Angel One Nifty 50 Index Fund",0.59,0.0,0.01,0.15,0.75,0.17,0.0,0.01,0.07,0.25
+"AOMF/O/O /EET/25/02/0004","Angel One Nifty 50 ETF",0.0,0.0,0.0,0.0,0.0,0.07,0.01,0.01,0.06,0.15
+"AOMF/O/O /EIN/25/02/0005","Angel One Nifty 50 Index Fund",0.59,0.0,0.01,0.14,0.74,0.17,0.0,0.01,0.06,0.24
 "AOMF/O/O/EET/25/01/0002","Angel One Nifty Total Market ETF",0.0,0.0,0.0,0.0,0.0,0.24,0.0,0.0,0.05,0.29
-"AOMF/O/O/EIN/24/12/0001","Angel One Nifty Total Market Index Fund",0.88,0.01,0.01,0.2,1.1,0.24,0.01,0.01,0.08,0.34
-"AOMF/O/O/EET/25/09/0009","Angel One Nifty Total Market Momentum Quality 50 ETF",0.0,0.0,0.0,0.0,0.0,0.29,0.06,0.05,0.5,0.9
-"AOMF/O/O/EIN/25/09/0008","Angel One Nifty Total Market Momentum Quality 50 Index Fund",0.88,0.04,0.03,0.41,1.36,0.29,0.04,0.03,0.3,0.66
+"AOMF/O/O/EIN/24/12/0001","Angel One Nifty Total Market Index Fund",0.88,0.0,0.01,0.19,1.08,0.24,0.0,0.01,0.07,0.32
+"AOMF/O/O/EET/25/09/0009","Angel One Nifty Total Market Momentum Quality 50 ETF",0.0,0.0,0.0,0.0,0.0,0.29,0.05,0.04,0.41,0.79
+"AOMF/O/O/EIN/25/09/0008","Angel One Nifty Total Market Momentum Quality 50 Index Fund",0.88,0.04,0.03,0.38,1.33,0.29,0.04,0.03,0.27,0.63
 "AOMF/O/O/OET/25/11/0010","Angel One Silver ETF",0.0,0.0,0.0,0.0,0.0,0.35,0.0,0.0,0.06,0.41
 "AOMF/O/O/FOD/25/12/0011","Angel One Silver ETF FoF",0.55,0.01,0.01,0.1,0.67,0.12,0.01,0.01,0.02,0.16
 "ASKM/O/D /LIF/26/07/0001","Ask Liquid Fund",0.21,0.01,0.01,0.04,0.27,0.08,0.01,0.01,0.02,0.12
@@ -1752,9 +1752,9 @@
 "SBIM/O/O/EET/18/06/0052","SBI BSE SENSEX Next 50 ETF",0.2,0.0,0.0,0.1,0.3,0.0,0.0,0.0,0.0,0.0
 "SBIM/O/S/CHI/20/06/0116","SBI Children's Fund - Investment Plan",1.53,0.05,0.01,0.41,2.0,0.72,0.05,0.01,0.28,1.06
 "SBIM/O/S/CHI/01/07/0018","SBI Children's Fund - Savings Plan",1.07,0.01,0.0,0.21,1.29,0.74,0.01,0.0,0.16,0.91
-"SBIM/O/E/SEC/05/06/0024","SBI Comma Fund",1.87,0.03,0.0,0.42,2.32,0.95,0.03,0.0,0.26,1.24
+"SBIM/O/E/SEC/05/06/0024","SBI Comma Fund",1.88,0.03,0.0,0.42,2.33,0.96,0.03,0.0,0.26,1.25
 "SBIM/O/H/CHF/01/04/0017","SBI Conservative Hybrid Fund",1.23,0.01,0.0,0.25,1.49,0.8,0.01,0.0,0.17,0.98
-"SBIM/O/E/THE/99/04/0006","SBI Consumption Opportunities Fund",1.71,0.04,0.0,0.44,2.19,0.84,0.04,0.0,0.29,1.17
+"SBIM/O/E/THE/99/04/0006","SBI Consumption Opportunities Fund",1.72,0.04,0.0,0.44,2.2,0.85,0.04,0.0,0.29,1.18
 "SBIM/O/E/COF/99/04/0009","SBI Contra Fund",1.27,0.02,0.01,0.32,1.62,0.63,0.02,0.01,0.21,0.87
 "SBIM/O/D/CBF/18/08/0057","SBI Corporate Bond Fund",0.64,0.01,0.0,0.11,0.76,0.31,0.01,0.0,0.05,0.37
 "SBIM/O/D/CRF/18/08/0056","SBI Credit Risk Fund",1.31,0.0,0.0,0.23,1.54,0.76,0.0,0.0,0.14,0.9
@@ -1804,7 +1804,7 @@
 "SBIM/O/D/LON/22/11/0162","SBI Long Term Fund",0.57,0.0,0.01,0.1,0.68,0.26,0.0,0.01,0.05,0.32
 "SBIM/O/D/MDF/03/11/0020","SBI Medium Term Fund",1.04,0.0,0.0,0.18,1.22,0.61,0.0,0.0,0.11,0.72
 "SBIM/O/D/MLD/98/09/0004","SBI Medium to Long Term Fund",1.26,0.0,0.0,0.22,1.48,0.66,0.0,0.0,0.12,0.78
-"SBIM/O/E/MIF/05/01/0023","SBI Midcap Fund",1.39,0.04,0.0,0.37,1.8,0.72,0.04,0.0,0.26,1.02
+"SBIM/O/E/MIF/05/01/0023","SBI Midcap Fund",1.4,0.04,0.0,0.38,1.82,0.73,0.04,0.0,0.26,1.03
 "SBIM/O/E/THE/99/08/0013","SBI MNC Fund",1.57,0.04,0.0,0.4,2.01,1.03,0.04,0.0,0.31,1.38
 "SBIM/O/D/MMF/98/11/0005","SBI Money Market Fund",0.54,0.0,0.0,0.09,0.63,0.22,0.0,0.0,0.04,0.26
 "SBIM/O/H/MAA/05/06/0025","SBI Multi Asset Allocation Fund",1.1,0.02,0.0,0.27,1.39,0.48,0.02,0.0,0.16,0.66
@@ -1841,8 +1841,8 @@
 "SBIM/O/O/EIN/24/01/0175","SBI Nifty50 Equal Weight Index Fund",0.78,0.0,0.0,0.19,0.97,0.38,0.0,0.0,0.12,0.5
 "SBIM/O/D/ONF/99/05/0011","SBI Overnight Fund",0.1,0.0,0.01,0.02,0.13,0.07,0.0,0.01,0.01,0.09
 "SBIM/O/E/SEC/10/02/0035","SBI PSU Fund",1.56,0.03,0.0,0.36,1.95,0.73,0.03,0.0,0.21,0.97
-"SBIM/O/E/THE/25/09/0196","SBI Quality Fund",1.68,0.1,0.01,0.61,2.4,0.75,0.1,0.01,0.46,1.32
-"SBIM/O/E/THE/24/06/0185","SBI Quant Fund",1.71,0.04,0.02,0.86,2.63,0.83,0.04,0.02,0.72,1.61
+"SBIM/O/E/THE/25/09/0196","SBI Quality Fund",1.69,0.1,0.01,0.61,2.41,0.76,0.1,0.01,0.46,1.33
+"SBIM/O/E/THE/24/06/0185","SBI Quant Fund",1.7,0.04,0.02,0.86,2.62,0.82,0.04,0.02,0.72,1.6
 "SBIM/O/S/RET/20/01/0112","SBI Retirement Benefit Fund - Aggressive Hybrid Plan",1.72,0.03,0.0,0.4,2.15,0.89,0.03,0.0,0.25,1.17
 "SBIM/O/S/RET/20/01/0111","SBI Retirement Benefit Fund - Aggressive Plan",1.67,0.04,0.0,0.39,2.1,0.84,0.04,0.0,0.25,1.13
 "SBIM/O/S/RET/20/01/0113","SBI Retirement Benefit Fund - Conservative Hybrid Plan",1.45,0.02,0.0,0.3,1.77,1.02,0.02,0.0,0.22,1.26
