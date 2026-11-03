@@ -407,13 +407,13 @@
 "EDEL/O/O/FOD/20/07/0032","Bharat Bond FoF- April 2031",0.03,0.0,0.0,0.01,0.04,0.03,0.0,0.0,0.01,0.04
 "CANA/O/H/BHF/93/02/0002","Canara Robeco Aggressive Hybrid Fund",1.49,0.02,0.0,0.29,1.8,0.54,0.02,0.0,0.13,0.69
 "CANA/O/H/BAF/24/04/0026","Canara Robeco Balanced Advantage Fund",1.92,0.04,0.0,0.42,2.38,0.76,0.04,0.0,0.23,1.03
-"CANA/O/E/SEC/26/01/0028","Canara Robeco Banking and Financial Services Fund",2.06,0.07,0.0,0.52,2.65,0.7,0.07,0.0,0.28,1.05
+"CANA/O/E/SEC/26/01/0028","Canara Robeco Banking and Financial Services Fund",2.06,0.07,0.0,0.51,2.64,0.7,0.07,0.0,0.28,1.05
 "CANA/O/D/BPF/22/02/0022","Canara Robeco Banking and PSU Debt Fund",0.6,0.0,0.0,0.1,0.7,0.36,0.0,0.0,0.06,0.42
 "CANA/O/H/CHF/88/04/0001","Canara Robeco Conservative Hybrid Fund",1.54,0.03,0.0,0.32,1.89,0.59,0.03,0.0,0.15,0.77
 "CANA/O/E/THE/09/05/0013","Canara Robeco Consumption Fund",1.77,0.03,0.0,0.36,2.16,0.72,0.03,0.0,0.2,0.95
 "CANA/O/D/CBF/13/11/0016","Canara Robeco Corporate Bond Fund",0.85,0.0,0.0,0.14,0.99,0.3,0.0,0.0,0.05,0.35
 "CANA/O/D/DBF/09/02/0012","Canara Robeco Dynamic Term Fund",1.44,0.01,0.01,0.25,1.71,0.61,0.01,0.01,0.11,0.74
-"CANA/O/E/ELS/93/03/0003","Canara Robeco ELSS - Tax Saver Fund",1.52,0.02,0.0,0.31,1.85,0.56,0.02,0.0,0.15,0.73
+"CANA/O/E/ELS/93/03/0003","Canara Robeco ELSS - Tax Saver Fund",1.52,0.02,0.0,0.3,1.84,0.56,0.02,0.0,0.15,0.73
 "CANA/O/E/FCF/03/07/0008","Canara Robeco Flexi Cap Fund",1.47,0.04,0.0,0.33,1.84,0.52,0.04,0.0,0.16,0.72
 "CANA/O/E/FOC/21/02/0020","Canara Robeco Focused Fund",1.69,0.06,0.0,0.41,2.16,0.52,0.06,0.0,0.22,0.8
 "CANA/O/D/GIL/99/10/0004","Canara Robeco Gilt Fund",1.05,0.0,0.0,0.18,1.23,0.37,0.0,0.0,0.06,0.43
@@ -821,7 +821,7 @@
 "HELI/O/E /LMF/24/06/0005","Helios Large & Mid Cap Fund",1.81,0.12,0.01,0.54,2.48,0.5,0.12,0.01,0.33,0.96
 "HELI/O/E/MIF/24/08/0006","Helios Mid Cap Fund",1.71,0.11,0.01,0.5,2.33,0.48,0.11,0.01,0.3,0.9
 "HELI/O/D/ONF/23/09/0002","Helios Overnight Fund",0.18,0.0,0.04,0.03,0.25,0.14,0.0,0.04,0.02,0.2
-"HELI/O/E /SCF/25/07/0007","Helios Small Cap Fund",1.77,0.09,0.01,0.49,2.36,0.47,0.09,0.01,0.28,0.85
+"HELI/O/E /SCF/25/07/0007","Helios Small Cap Fund",1.77,0.09,0.01,0.48,2.35,0.47,0.09,0.01,0.28,0.85
 "HSBC/O/O/FOD/13/12/0016","HSBC Aggressive Hybrid Active FoF (Erstwhile HSBC Managed Solutions India - Growth Fund)",1.24,0.0,0.0,0.22,1.46,0.2,0.0,0.0,0.04,0.24
 "LTMF/O/H/AHF/10/10/0018","HSBC Aggressive Hybrid Fund",1.58,0.04,0.0,0.35,1.97,0.72,0.04,0.0,0.2,0.96
 "LTMF/O/H/ARB/14/06/0024","HSBC Arbitrage Fund",0.75,0.13,0.05,1.1,2.03,0.22,0.13,0.05,1.01,1.41
@@ -831,7 +831,7 @@
 "HSBC/O/O/FOO/11/02/0013","HSBC Brazil Fund",1.22,0.0,0.0,0.22,1.44,0.78,0.0,0.0,0.14,0.92
 "LTMF/O/E/THE/14/07/0025","HSBC Business Cycles Fund",1.88,0.04,0.0,0.42,2.34,0.86,0.04,0.0,0.23,1.13
 "HSBC/O/H/CHF/04/01/0006","HSBC Conservative Hybrid Fund",1.81,0.02,0.0,0.36,2.19,0.96,0.02,0.0,0.21,1.19
-"HSBC/O/E/THE/23/05/0036","HSBC Consumption Fund",1.8,0.03,0.0,0.38,2.21,0.68,0.03,0.0,0.18,0.89
+"HSBC/O/E/THE/23/05/0036","HSBC Consumption Fund",1.79,0.03,0.0,0.38,2.2,0.67,0.03,0.0,0.18,0.88
 "LTMF/O/D/CBF/97/01/0001","HSBC Corporate Bond Fund",0.51,0.0,0.0,0.09,0.6,0.28,0.0,0.0,0.05,0.33
 "LTMF/O/D/CRF/09/04/0015","HSBC Credit Risk Fund",1.39,0.01,0.0,0.26,1.66,0.7,0.01,0.0,0.13,0.84
 "HSBC/O/D/DIN/22/03/0029","HSBC CRISIL IBX 50:50 Gilt Plus SDL APR 2028 Index Fund",0.33,0.0,0.0,0.06,0.39,0.16,0.0,0.0,0.03,0.19
@@ -848,7 +848,7 @@
 "HSBC/O/O/FOD/26/03/0042","HSBC Gold ETF Fund of Fund",0.37,0.0,0.0,0.07,0.44,0.06,0.0,0.0,0.01,0.07
 "HSBC/O/O/FOD/13/12/0015","HSBC Income Plus Arbitrage Active FoF (Erstwhile HSBC Managed Solution India - Conservative Plan)",0.43,0.0,0.0,0.08,0.51,0.13,0.0,0.0,0.02,0.15
 "HSBC/O/E/THE/24/07/0038","HSBC India Export Opportunities Fund",1.85,0.06,0.0,0.46,2.37,0.72,0.06,0.0,0.26,1.04
-"LTMF/O/E/SEC/07/05/0013","HSBC Infrastructure Fund",1.73,0.03,0.0,0.37,2.13,0.87,0.03,0.0,0.21,1.11
+"LTMF/O/E/SEC/07/05/0013","HSBC Infrastructure Fund",1.72,0.03,0.0,0.37,2.12,0.86,0.03,0.0,0.21,1.1
 "HSBC/O/E/LMF/19/02/0022","HSBC Large & Mid Cap Fund",1.57,0.16,0.01,0.66,2.4,0.65,0.16,0.01,0.49,1.31
 "HSBC/O/E/LCF/02/08/0003","HSBC Large Cap Fund",1.78,0.07,0.0,0.46,2.31,1.02,0.07,0.0,0.32,1.41
 "HSBC/O/D/LIF/02/08/0001","HSBC Liquid Fund",0.19,0.0,0.0,0.03,0.22,0.11,0.0,0.0,0.02,0.13
