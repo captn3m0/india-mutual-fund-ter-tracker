@@ -470,12 +470,12 @@
 "DSPM/C/D/FTP/22/09/0058","DSP Fmp Series - 270 - 1172 Days",0.17,0.01,0.0,0.03,0.21,0.09,0.01,0.0,0.01,0.11
 "DSPM/O/E/FOC/10/03/0022","DSP Focused Fund",1.71,0.03,0.0,0.37,2.11,0.86,0.03,0.0,0.22,1.11
 "DSPM/O/D/GIL/99/09/0005","DSP Gilt Fund",0.99,0.01,0.01,0.17,1.18,0.49,0.01,0.01,0.08,0.59
-"DSPM/O/O/FOO/09/06/0020","DSP Global Clean Energy Overseas Equity Omni FoF",2.09,0.0,0.0,0.21,2.3,1.65,0.0,0.0,0.13,1.78
+"DSPM/O/O/FOO/09/06/0020","DSP Global Clean Energy Overseas Equity Omni FoF",2.09,0.0,0.0,0.21,2.3,1.75,0.0,0.0,0.15,1.9
 "DSPM/O/O/FOO/21/08/0048","DSP Global Innovation Overseas Equity Omni FoF",1.85,0.0,0.0,0.2,2.05,1.11,0.0,0.0,0.07,1.18
 "DSPM/O/O/GET/23/02/0060","DSP Gold ETF",0.0,0.0,0.0,0.0,0.0,0.38,0.0,0.0,0.07,0.45
 "DSPM/O/O/FOD/23/05/0066","DSP Gold ETF Fund of Fund",0.9,0.0,0.0,0.1,1.0,0.59,0.0,0.0,0.05,0.64
-"DSPM/O/E/SEC/18/05/0035","DSP Healthcare Fund",1.64,0.04,0.0,0.37,2.05,0.53,0.04,0.0,0.18,0.75
-"DSPM/O/O/FOO/14/06/0028","DSP Income Plus Arbitrage Omni FoF",0.77,0.0,0.0,0.09,0.86,0.41,0.0,0.0,0.02,0.43
+"DSPM/O/E/SEC/18/05/0035","DSP Healthcare Fund",1.64,0.04,0.0,0.37,2.05,0.54,0.04,0.0,0.18,0.76
+"DSPM/O/O/FOO/14/06/0028","DSP Income Plus Arbitrage Omni FoF",0.75,0.0,0.0,0.08,0.83,0.42,0.0,0.0,0.02,0.44
 "DSPM/O/E/SEC/04/04/0011","DSP India T.I.G.E.R. Fund",1.57,0.05,0.01,0.4,2.03,0.75,0.05,0.01,0.26,1.07
 "DSPM/O/E/LMF/00/02/0007","DSP Large & Mid Cap Fund",1.4,0.04,0.0,0.36,1.8,0.52,0.04,0.0,0.2,0.76
 "DSPM/O/E/LCF/03/01/0009","DSP Large Cap Fund",1.54,0.06,0.01,0.45,2.06,0.78,0.06,0.01,0.32,1.17
@@ -484,7 +484,7 @@
 "DSPM/O/E/MIF/06/09/0014","DSP Midcap Fund",1.42,0.02,0.0,0.3,1.74,0.66,0.02,0.0,0.16,0.84
 "DSPM/O/D/MMF/99/09/0006","DSP Money Market Fund",0.34,0.01,0.0,0.05,0.4,0.15,0.01,0.0,0.02,0.18
 "DSPM/O/O/EET/25/06/0087","DSP MSCI India ETF",0.0,0.0,0.0,0.0,0.0,0.11,0.0,0.0,0.05,0.16
-"DSPM/O/H/MAA/23/06/0065","DSP Multi Asset Allocation Fund",1.18,0.05,0.01,0.34,1.58,0.37,0.05,0.01,0.19,0.62
+"DSPM/O/H/MAA/23/06/0065","DSP Multi Asset Allocation Fund",1.18,0.05,0.01,0.34,1.58,0.38,0.05,0.01,0.19,0.63
 "DSPM/O/O/FOD/25/12/0095","DSP Multi Asset Omni Fund of Funds",1.11,0.01,0.0,0.13,1.25,0.48,0.01,0.0,0.03,0.52
 "DSPM/O/E/MCF/23/07/0071","DSP Multi Cap Fund",1.69,0.03,0.0,0.37,2.09,0.52,0.03,0.0,0.18,0.73
 "DSPM/O/E/SEC/08/02/0019","DSP Natural Resources and New Energy Fund",1.71,0.03,0.0,0.37,2.11,0.76,0.03,0.0,0.21,1.0
@@ -529,10 +529,10 @@
 "DSPM/O/D/USD/06/05/0013","DSP Ultra Short Term Fund",0.86,0.01,0.0,0.14,1.01,0.25,0.01,0.0,0.04,0.3
 "DSPM/O/D/LOW/14/11/0029","DSP Ultra Short to Short Term Fund",0.52,0.01,0.01,0.09,0.63,0.25,0.01,0.01,0.04,0.31
 "DSPM/O/O/FOO/24/01/0072","DSP US Specific Debt Passive FoF",0.21,0.02,0.0,0.02,0.25,0.16,0.02,0.0,0.01,0.19
-"DSPM/O/O/FOO/12/05/0024","DSP US Specific Equity Omni FoF",2.1,0.0,0.0,0.24,2.34,1.39,0.0,0.0,0.11,1.5
+"DSPM/O/O/FOO/12/05/0024","DSP US Specific Equity Omni FoF",2.1,0.0,0.0,0.24,2.34,1.4,0.0,0.0,0.11,1.51
 "DSPM/O/E/VAF/19/11/0042","DSP Value Fund",1.72,0.08,0.01,0.59,2.4,0.96,0.08,0.01,0.45,1.5
-"DSPM/O/O/FOO/07/07/0018","DSP World Gold Mining Overseas Equity Omni FoF",2.1,0.0,0.0,0.21,2.31,1.62,0.0,0.0,0.13,1.75
-"DSPM/O/O/FOO/09/06/0021","DSP World Mining Overseas Equity Omni FoF",2.09,0.0,0.0,0.19,2.28,1.57,0.0,0.0,0.09,1.66
+"DSPM/O/O/FOO/07/07/0018","DSP World Gold Mining Overseas Equity Omni FoF",2.1,0.0,0.0,0.21,2.31,1.63,0.0,0.0,0.13,1.76
+"DSPM/O/O/FOO/09/06/0021","DSP World Mining Overseas Equity Omni FoF",2.09,0.0,0.0,0.19,2.28,1.61,0.0,0.0,0.1,1.71
 "EDEL/O/H/AHF/09/04/0007","Edelweiss Aggressive Hybrid Fund",1.57,0.06,0.01,0.42,2.06,0.38,0.06,0.01,0.22,0.67
 "EDEL/O/H/ARB/14/05/0016","Edelweiss Arbitrage Fund",0.9,0.12,0.05,1.13,2.2,0.33,0.12,0.05,1.03,1.53
 "EDEL/O/O/FOO/11/01/0010","Edelweiss ASEAN Equity Off-shore Fund",1.18,0.0,0.0,0.2,1.38,0.64,0.0,0.0,0.11,0.75
@@ -596,7 +596,7 @@
 "EDEL/O/O/OET/23/10/0057","Edelweiss Silver ETF",0.42,0.0,0.0,0.08,0.5,0.0,0.0,0.0,0.0,0.0
 "EDEL/O/O/FOD/25/11/0077","Edelweiss Silver ETF Fund of Fund",0.48,0.0,0.0,0.07,0.55,0.09,0.0,0.0,0.02,0.11
 "EDEL/O/E/SCF/18/08/0022","Edelweiss Small Cap Fund",1.55,0.04,0.0,0.36,1.95,0.43,0.04,0.0,0.16,0.63
-"EDEL/O/E/THE/23/11/0058","Edelweiss Technology Fund",2.0,0.01,0.0,0.35,2.36,0.64,0.01,0.0,0.13,0.78
+"EDEL/O/E/THE/23/11/0058","Edelweiss Technology Fund",2.0,0.03,0.0,0.39,2.42,0.64,0.03,0.0,0.17,0.84
 "EDEL/O/D/UST/26/07/0085","Edelweiss Ultra Short Term Fund",0.55,0.01,0.0,0.1,0.66,0.14,0.01,0.0,0.02,0.17
 "EDEL/O/D/LOW/25/02/0068","Edelweiss Ultra Short to Short Term Fund",0.83,0.01,0.0,0.13,0.97,0.21,0.01,0.0,0.03,0.25
 "EDEL/O/O/FOO/19/12/0029","Edelweiss US Technology Equity Fund of Fund",1.31,0.0,0.0,0.23,1.54,0.61,0.0,0.0,0.11,0.72
@@ -609,7 +609,7 @@
 "FTMF/O/D/BPF/14/01/0030","Franklin India Banking & PSU Debt Fund",0.41,0.01,0.0,0.07,0.49,0.19,0.01,0.0,0.03,0.23
 "FTMF/O/H/CHF/00/09/0014","Franklin India Conservative Hybrid Fund",1.14,0.02,0.0,0.23,1.39,0.64,0.02,0.0,0.15,0.81
 "FTMF/O/D/CBF/97/06/0006","Franklin India Corporate Bond Fund",0.65,0.01,0.0,0.11,0.77,0.21,0.01,0.0,0.04,0.26
-"FTMF/O/E/DYF/06/03/0025","Franklin India Dividend Yield Fund",1.74,0.05,0.01,0.41,2.21,1.03,0.05,0.01,0.3,1.39
+"FTMF/O/E/DYF/06/03/0025","Franklin India Dividend Yield Fund",1.74,0.04,0.01,0.4,2.19,1.02,0.04,0.01,0.29,1.36
 "FTMF/O/O/FOD/03/10/0017","Franklin India Dynamic Asset Allocation Active Fund of Funds",1.62,0.0,0.0,0.28,1.9,0.87,0.0,0.0,0.16,1.03
 "FTMF/O/E/ELS/99/04/0009","Franklin India ELSS Tax Saver Fund",1.57,0.03,0.0,0.32,1.92,0.9,0.03,0.0,0.22,1.15
 "FTMF/O/H/ESF/18/05/0034","Franklin India Equity Savings Fund",1.0,0.07,0.03,0.5,1.6,0.32,0.07,0.03,0.39,0.81
@@ -634,7 +634,7 @@
 "FTMF/O/S/RET/97/03/0005","Franklin India Retirement Fund",1.84,0.03,0.0,0.38,2.25,1.21,0.03,0.0,0.28,1.52
 "FTMF/O/D /STF/26/06/0053","Franklin India Short Term Fund",0.8,0.03,0.0,0.13,0.96,0.26,0.03,0.0,0.05,0.34
 "FTMF/O/E/SCF/05/10/0024","Franklin India Small Cap Fund",1.46,0.05,0.0,0.36,1.87,0.76,0.05,0.0,0.25,1.06
-"FTMF/O/E/THE/98/08/0008","Franklin India Technology Fund",1.79,0.01,0.0,0.34,2.14,0.92,0.01,0.0,0.2,1.13
+"FTMF/O/E/THE/98/08/0008","Franklin India Technology Fund",1.79,0.02,0.0,0.36,2.17,0.92,0.02,0.0,0.23,1.17
 "FTMF/O/D/USD/24/07/0048","Franklin India Ultra Short Term Fund",0.61,0.01,0.0,0.1,0.72,0.24,0.01,0.0,0.04,0.29
 "FTMF/O/D /LOW/25/02/0050","Franklin India Ultra Short to Short Term Fund",0.61,0.01,0.0,0.1,0.72,0.22,0.01,0.0,0.04,0.27
 "FTMF/O/O/FOO/11/08/0029","Franklin U. S. Opportunities Equity Active Fund of Funds",1.25,0.0,0.0,0.21,1.46,0.45,0.0,0.0,0.08,0.53
