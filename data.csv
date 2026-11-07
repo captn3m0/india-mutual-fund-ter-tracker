@@ -610,7 +610,7 @@
 "FTMF/O/D/BPF/14/01/0030","Franklin India Banking & PSU Debt Fund",0.41,0.01,0.0,0.07,0.49,0.19,0.01,0.0,0.03,0.23
 "FTMF/O/H/CHF/00/09/0014","Franklin India Conservative Hybrid Fund",1.14,0.02,0.0,0.23,1.39,0.64,0.02,0.0,0.15,0.81
 "FTMF/O/D/CBF/97/06/0006","Franklin India Corporate Bond Fund",0.65,0.01,0.0,0.11,0.77,0.21,0.01,0.0,0.04,0.26
-"FTMF/O/E/DYF/06/03/0025","Franklin India Dividend Yield Fund",1.74,0.04,0.01,0.4,2.19,1.02,0.04,0.01,0.29,1.36
+"FTMF/O/E/DYF/06/03/0025","Franklin India Dividend Yield Fund",1.73,0.04,0.01,0.4,2.18,1.02,0.04,0.01,0.29,1.36
 "FTMF/O/O/FOD/03/10/0017","Franklin India Dynamic Asset Allocation Active Fund of Funds",1.62,0.0,0.0,0.28,1.9,0.87,0.0,0.0,0.16,1.03
 "FTMF/O/E/ELS/99/04/0009","Franklin India ELSS Tax Saver Fund",1.56,0.03,0.0,0.32,1.91,0.89,0.03,0.0,0.22,1.14
 "FTMF/O/H/ESF/18/05/0034","Franklin India Equity Savings Fund",1.0,0.07,0.03,0.5,1.6,0.32,0.07,0.03,0.39,0.81
@@ -1442,16 +1442,16 @@
 "MOTO/O/E/THE/25/04/0082","Motilal Oswal Consumption Fund",1.88,0.07,0.01,0.34,2.3,0.52,0.07,0.01,0.27,0.87
 "MOTO/O/E/COF/26/02/0092","Motilal Oswal Contra Fund",2.1,0.32,0.03,1.16,3.61,0.61,0.32,0.03,0.98,1.94
 "MOTO/O/O/FOO/23/07/0042","Motilal Oswal Developed Market Ex US Etfs Overseas Equity Passive FoF",0.48,0.0,0.0,0.09,0.57,0.04,0.0,0.0,0.01,0.05
-"MOTO/O/E/THE/24/07/0057","Motilal Oswal Digital India Fund",1.92,0.09,0.01,0.47,2.49,0.74,0.09,0.01,0.38,1.22
+"MOTO/O/E/THE/24/07/0057","Motilal Oswal Digital India Fund",1.93,0.09,0.01,0.47,2.5,0.75,0.09,0.01,0.38,1.23
 "MOTO/O/O/FOD/25/09/0088","Motilal Oswal Diversified Equity Flexicap Passive Fund of Funds",0.59,0.0,0.0,0.09,0.68,0.09,0.0,0.0,0.02,0.11
 "MOTO/O/E/ELS/14/12/0008","Motilal Oswal ELSS Tax Saver Fund",1.61,0.06,0.0,0.4,2.07,0.6,0.06,0.0,0.26,0.92
 "MOTO/O/E/SEC/25/12/0089","Motilal Oswal Financial Services Fund",2.1,0.11,0.01,0.51,2.73,0.78,0.11,0.01,0.46,1.36
 "MOTO/O/E/FCF/14/02/0007","Motilal Oswal Flexi Cap Fund",1.44,0.08,0.01,0.44,1.97,0.71,0.08,0.01,0.34,1.14
-"MOTO/O/E/FOC/13/03/0004","Motilal Oswal Focused Fund",1.76,0.17,0.01,0.71,2.65,0.79,0.17,0.01,0.58,1.55
+"MOTO/O/E/FOC/13/03/0004","Motilal Oswal Focused Fund",1.77,0.17,0.01,0.71,2.66,0.8,0.17,0.01,0.58,1.56
 "MOTO/O/O/FOD/22/08/0038","Motilal Oswal Gold and Silver Passive Fund of Funds",0.39,0.0,0.0,0.07,0.46,0.15,0.0,0.0,0.03,0.18
 "MOTO/O/O/GET/25/06/0080","Motilal Oswal Gold ETF",0.5,0.0,0.0,0.09,0.59,0.0,0.0,0.0,0.0,0.0
 "MOTO/O/E/THE/24/12/0068","Motilal Oswal Infrastructure Fund",2.1,0.15,0.01,0.64,2.9,0.76,0.15,0.01,0.57,1.49
-"MOTO/O/E/THE/24/11/0065","Motilal Oswal Innovation Opportunities Fund",1.97,0.12,0.01,0.52,2.62,0.69,0.12,0.01,0.46,1.28
+"MOTO/O/E/THE/24/11/0065","Motilal Oswal Innovation Opportunities Fund",1.96,0.12,0.01,0.52,2.61,0.68,0.12,0.01,0.46,1.27
 "MOTO/O/E/LMF/19/03/0013","Motilal Oswal Large and Midcap Fund",1.41,0.05,0.0,0.33,1.79,0.62,0.05,0.0,0.25,0.92
 "MOTO/O/E/LCF/23/12/0045","Motilal Oswal Large Cap Fund",1.67,0.05,0.0,0.34,2.06,0.67,0.05,0.0,0.24,0.96
 "MOTO/O/D/LIF/18/11/0012","Motilal Oswal Liquid Fund",0.35,0.0,0.0,0.06,0.41,0.17,0.0,0.0,0.03,0.2
@@ -1460,6 +1460,7 @@
 "MOTO/O/O/FOD/20/09/0023","Motilal Oswal Multi Asset Passive Fund of Fund",0.5,0.08,0.02,0.14,0.74,0.09,0.08,0.02,0.08,0.27
 "MOTO/O/E/MCF/23/12/0048","Motilal Oswal Multi Cap Fund",1.61,0.12,0.01,0.53,2.27,0.62,0.12,0.01,0.43,1.18
 "MOTO/O/O /FOD/26/01/0090","Motilal Oswal Multi Factor Passive Fund of Funds",0.57,0.01,0.0,0.12,0.7,0.05,0.01,0.0,0.03,0.09
+"MOTO/O/O/FOD/26/01/0090","Motilal Oswal Multi Factor Passive Fund of Funds",0.57,0.01,0.0,0.12,0.7,0.05,0.01,0.0,0.03,0.09
 "MOTO/O/O/EET/11/03/0003","Motilal Oswal NASDAQ 100 ETF",0.5,0.01,0.0,0.09,0.6,0.0,0.0,0.0,0.0,0.0
 "MOTO/O/O/FOD/18/10/0011","Motilal Oswal NASDAQ 100 Fund of Fund",0.4,0.0,0.0,0.07,0.47,0.16,0.0,0.0,0.03,0.19
 "MOTO/O/O/EET/21/10/0027","Motilal Oswal NASDAQ Q50 ETF",0.4,0.06,0.0,0.1,0.56,0.0,0.0,0.0,0.0,0.0
