@@ -1112,17 +1112,17 @@
 "JMFI/O/H/ARB/06/04/0007","JM Arbitrage Fund",0.91,0.13,0.05,1.02,2.11,0.35,0.13,0.05,0.93,1.46
 "JMFI/O/D/DBF/03/04/0006","JM Dynamic Term Fund",0.8,0.0,0.0,0.13,0.93,0.37,0.0,0.0,0.07,0.44
 "JMFI/O/E/ELS/07/11/0009","JM ELSS - Tax Saver Fund",2.1,0.07,0.0,0.49,2.66,0.93,0.07,0.0,0.31,1.31
-"JMFI/O/E/FCF/08/02/0011","JM Flexi Cap Fund",1.6,0.12,0.01,0.54,2.27,0.56,0.12,0.01,0.37,1.06
+"JMFI/O/E/FCF/08/02/0011","JM Flexi Cap Fund",1.6,0.12,0.01,0.54,2.27,0.55,0.12,0.01,0.36,1.04
 "JMFI/O/E/FOC/07/12/0010","JM Focused Fund",2.1,0.13,0.01,0.61,2.85,0.72,0.13,0.01,0.39,1.25
 "JMFI/O/E/LMF/25/04/0017","JM Large & Mid Cap Fund",2.1,0.08,0.01,0.53,2.72,0.66,0.08,0.01,0.29,1.04
 "JMFI/O/E/LCF/94/02/0001","JM Large Cap Fund",2.1,0.08,0.0,0.51,2.69,0.82,0.08,0.0,0.3,1.2
 "JMFI/O/D/LIF/97/02/0004","JM Liquid Fund",0.22,0.0,0.0,0.04,0.26,0.14,0.0,0.0,0.02,0.16
 "JMFI/O/D/MLD/94/11/0002","JM Medium to Long Term Fund",0.88,0.0,0.0,0.15,1.03,0.51,0.0,0.0,0.09,0.6
-"JMFI/O/E/MIF/21/09/0014","JM Mid Cap Fund",1.85,0.09,0.01,0.49,2.44,0.54,0.09,0.01,0.28,0.92
+"JMFI/O/E/MIF/21/09/0014","JM Mid Cap Fund",1.84,0.09,0.01,0.49,2.43,0.54,0.09,0.01,0.28,0.92
 "JMFI/O/H/MAA/26/01/0018","JM Multi Asset Allocation Fund",1.82,0.14,0.01,0.63,2.6,0.4,0.14,0.01,0.37,0.92
 "JMFI/O/D/ONF/19/11/0012","JM Overnight Fund",0.13,0.0,0.03,0.02,0.18,0.07,0.0,0.03,0.01,0.11
 "JMFI/O/D/SDF/21/11/0013","JM Short Term Fund",0.94,0.0,0.0,0.15,1.09,0.33,0.0,0.0,0.06,0.39
-"JMFI/O/E/SCF/23/11/0016","JM Small Cap Fund",1.96,0.09,0.01,0.51,2.57,0.61,0.09,0.01,0.29,1.0
+"JMFI/O/E/SCF/23/11/0016","JM Small Cap Fund",1.95,0.09,0.01,0.51,2.56,0.6,0.09,0.01,0.29,0.99
 "JMFI/O/D/LOW/06/08/0008","JM Ultra Short to Short Term Fund",0.73,0.0,0.0,0.11,0.84,0.35,0.0,0.0,0.06,0.41
 "JMFI/O/E/VAF/97/03/0005","JM Value Fund",2.02,0.11,0.01,0.57,2.71,1.02,0.11,0.01,0.41,1.55
 "KOTM/O/E/THE/25/07/0151","Kotak Active Momentum Fund",1.8,0.0708,0.0154,0.8428,2.729,0.7,0.0708,0.0154,0.64,1.4262
@@ -1317,7 +1317,7 @@
 "MAHM/O/D /LOW/16/12/0004","Mahindra Manulife Ultra Short to Short Term Fund",0.94,0.0,0.0,0.13,1.07,0.29,0.0,0.0,0.05,0.34
 "MAHM/O/E/VAF/24/12/0024","Mahindra Manulife Value Fund",1.9,0.11,0.01,0.49,2.51,0.56,0.11,0.01,0.32,1.0
 "MAHM/O/E/SEC/25/05/0025","Mahindramanulife Banking & Financial Services Fund",2.1,0.12,0.01,0.54,2.77,0.67,0.12,0.01,0.36,1.16
-"MIRA/O/H/AHF/15/05/0006","Mirae Asset Aggressive Hybrid Fund",1.51,0.04,0.0,0.37,1.92,0.41,0.04,0.0,0.18,0.63
+"MIRA/O/H/AHF/15/05/0006","Mirae Asset Aggressive Hybrid Fund",1.5,0.04,0.0,0.37,1.91,0.41,0.04,0.0,0.18,0.63
 "MIRA/O/H/ARB/20/04/0019","Mirae Asset Arbitrage Fund",0.78,0.2,0.09,2.12,3.19,0.13,0.2,0.09,2.01,2.43
 "MIRA/O/H/BAF/22/05/0038","Mirae Asset Balanced Advantage Fund",1.74,0.05,0.01,0.47,2.27,0.63,0.05,0.01,0.27,0.96
 "MIRA/O/E/SEC/20/09/0024","Mirae Asset Banking and Financial Services Fund",1.72,0.03,0.0,0.38,2.13,0.56,0.03,0.0,0.18,0.77
