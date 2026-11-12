@@ -605,7 +605,7 @@
 "EDEL/O/D/LOW/25/02/0068","Edelweiss Ultra Short to Short Term Fund",0.83,0.01,0.0,0.13,0.97,0.21,0.01,0.0,0.03,0.25
 "EDEL/O/O/FOO/19/12/0029","Edelweiss US Technology Equity Fund of Fund",1.31,0.0,0.0,0.23,1.54,0.61,0.0,0.0,0.11,0.72
 "EDEL/O/O/FOO/13/07/0011","Edelweiss US Value Equity Offshore Fund",1.35,0.0,0.0,0.24,1.59,0.67,0.0,0.0,0.12,0.79
-"FTMF/O/E/THE/07/08/0027","Franklin Asian Equity Fund",1.95,0.04,0.06,0.42,2.47,0.86,0.04,0.06,0.24,1.2
+"FTMF/O/E/THE/07/08/0027","Franklin Asian Equity Fund",1.95,0.04,0.06,0.42,2.47,0.85,0.04,0.06,0.24,1.19
 "FTMF/O/E/THE/09/06/0028","Franklin Build India Fund",1.67,0.05,0.0,0.41,2.13,0.8,0.05,0.0,0.28,1.13
 "FTMF/O/H/AHF/00/05/0012","Franklin India Aggressive Hybrid Fund",1.72,0.06,0.0,0.45,2.23,0.76,0.06,0.0,0.3,1.12
 "FTMF/O/H/ARB/24/10/0049","Franklin India Arbitrage Fund",0.89,0.11,0.06,0.98,2.04,0.23,0.11,0.06,0.88,1.28
@@ -638,7 +638,7 @@
 "FTMF/O/S/RET/97/03/0005","Franklin India Retirement Fund",1.84,0.03,0.0,0.38,2.25,1.21,0.03,0.0,0.28,1.52
 "FTMF/O/D /STF/26/06/0053","Franklin India Short Term Fund",0.8,0.03,0.0,0.13,0.96,0.26,0.03,0.0,0.05,0.34
 "FTMF/O/E/SCF/05/10/0024","Franklin India Small Cap Fund",1.46,0.05,0.0,0.36,1.87,0.76,0.05,0.0,0.25,1.06
-"FTMF/O/E/THE/98/08/0008","Franklin India Technology Fund",1.78,0.02,0.0,0.36,2.16,0.92,0.02,0.0,0.23,1.17
+"FTMF/O/E/THE/98/08/0008","Franklin India Technology Fund",1.78,0.02,0.0,0.36,2.16,0.92,0.02,0.0,0.22,1.16
 "FTMF/O/D/USD/24/07/0048","Franklin India Ultra Short Term Fund",0.61,0.01,0.0,0.09,0.71,0.24,0.01,0.0,0.04,0.29
 "FTMF/O/D /LOW/25/02/0050","Franklin India Ultra Short to Short Term Fund",0.61,0.01,0.0,0.1,0.72,0.22,0.01,0.0,0.04,0.27
 "FTMF/O/O/FOO/11/08/0029","Franklin U. S. Opportunities Equity Active Fund of Funds",1.25,0.0,0.0,0.21,1.46,0.45,0.0,0.0,0.08,0.53
@@ -1920,11 +1920,11 @@
 "TATA/O/H/ARB/18/06/0030","Tata Arbitrage Fund",0.91,0.14,0.05,1.1,2.2,0.26,0.14,0.05,1.07,1.52
 "TATA/O/H/BAF/18/07/0031","Tata Balanced Advantage Fund",1.51,0.02,0.0,0.32,1.85,0.49,0.02,0.0,0.17,0.68
 "TATA/O/E/SEC/15/10/0024","Tata Banking & Financial Services Fund",1.65,0.1,0.01,0.46,2.22,0.49,0.1,0.01,0.32,0.92
-"TATA/O/O/OIN/25/11/0079","Tata BSE Multicap Consumption 50:30:20 Index Fund",0.9,0.02,0.0,0.26,1.18,0.23,0.02,0.0,0.2,0.45
+"TATA/O/O/OIN/25/11/0079","Tata BSE Multicap Consumption 50:30:20 Index Fund",0.9,0.02,0.0,0.26,1.18,0.24,0.02,0.0,0.2,0.46
 "TATA/O/O/OIN/25/02/0075","Tata BSE Quality Index Fund",0.9,0.02,0.0,0.26,1.18,0.3,0.02,0.0,0.19,0.51
 "TATA/O/O/OIN/24/11/0073","Tata BSE Select Business Groups Index Fund",0.9,0.02,0.0,0.16,1.08,0.25,0.02,0.0,0.14,0.41
 "TATA/O/O/EIN/02/11/0015","Tata BSE SENSEX Index Fund",0.51,0.0,0.0,0.07,0.58,0.27,0.0,0.0,0.06,0.33
-"TATA/O/E/THE/21/06/0045","Tata Business Cycle Fund",1.7,0.06,0.0,0.41,2.17,0.62,0.06,0.0,0.23,0.91
+"TATA/O/E/THE/21/06/0045","Tata Business Cycle Fund",1.7,0.06,0.0,0.41,2.17,0.61,0.06,0.0,0.23,0.9
 "TATA/O/S/CHI/95/07/0004","Tata Childrens Fund",2.08,0.0,0.0,0.37,2.45,1.56,0.0,0.0,0.28,1.84
 "TATA/O/D/CBF/21/05/0044","Tata Corporate Bond Fund",0.74,0.01,0.0,0.07,0.82,0.26,0.01,0.0,0.05,0.32
 "TATA/O/O/OIN/26/08/0081","Tata CRISIL-IBX Financial Services 3-6 Months Debt Index Fund",0.3,0.02,0.0,0.02,0.34,0.07,0.02,0.0,0.02,0.11
@@ -1976,11 +1976,11 @@
 "TATA/O/E/SEC/15/10/0028","Tata Resources & Energy Fund",1.82,0.05,0.0,0.35,2.22,0.58,0.05,0.0,0.21,0.84
 "TATA/O/S/RET/11/06/0021","Tata Retirement Savings Fund-Conservative Plan",1.83,0.02,0.0,0.32,2.17,0.85,0.02,0.0,0.19,1.06
 "TATA/O/S/RET/11/06/0022","Tata Retirement Savings Fund-Moderate Plan",1.73,0.05,0.0,0.38,2.16,0.58,0.05,0.0,0.21,0.84
-"TATA/O/S/RET/11/06/0023","Tata Retirement Savings Fund-Progressive Plan",1.73,0.06,0.0,0.41,2.2,0.55,0.06,0.0,0.22,0.83
+"TATA/O/S/RET/11/06/0023","Tata Retirement Savings Fund-Progressive Plan",1.73,0.06,0.0,0.41,2.2,0.54,0.06,0.0,0.22,0.82
 "TATA/O/D/SDF/02/07/0012","Tata Short Term Fund",1.02,0.01,0.0,0.08,1.11,0.3,0.01,0.0,0.06,0.37
 "TATA/O/O/FOD/23/12/0056","Tata Silver ETF Fund of Fund",0.51,0.0,0.0,0.07,0.58,0.18,0.0,0.0,0.04,0.22
 "TATA/O/O/OET/23/12/0059","Tata Silver Exchange Traded Fund",0.0,0.0,0.0,0.0,0.0,0.39,0.0,0.0,0.07,0.46
-"TATA/O/E/SCF/18/08/0033","Tata Small Cap Fund",1.46,0.01,0.0,0.22,1.69,0.42,0.01,0.0,0.09,0.52
+"TATA/O/E/SCF/18/08/0033","Tata Small Cap Fund",1.46,0.01,0.0,0.22,1.69,0.41,0.01,0.0,0.09,0.51
 "TATA/O/D/USD/18/11/0035","Tata Ultra Short Term Fund",1.0,0.02,0.0,0.09,1.11,0.26,0.02,0.0,0.05,0.33
 "TATA/O/D/LOW/05/08/0020","Tata Ultra Short to Short Term Fund",0.5,0.02,0.0,0.05,0.57,0.21,0.02,0.0,0.04,0.27
 "TATA/O/E/VAF/04/02/0018","Tata Value Fund",1.51,0.07,0.0,0.4,1.98,0.68,0.07,0.0,0.28,1.03
