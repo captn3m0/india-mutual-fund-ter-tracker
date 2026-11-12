@@ -1028,7 +1028,7 @@
 "INVM/O/O/FOO/13/11/0024","Invesco India - Invesco Global Equity Income Fund of Fund",1.12,0.0,0.0,0.19,1.31,0.78,0.0,0.0,0.14,0.92
 "INVM/O/O/FOO/13/11/0023","Invesco India - Invesco Pan European Equity Fund of Fund",0.72,0.0,0.0,0.12,0.84,0.43,0.0,0.0,0.07,0.5
 "INVM/O/H/AHF/18/04/0027","Invesco India Aggressive Hybrid Fund",2.0,0.03,0.0,0.39,2.42,0.7,0.03,0.0,0.18,0.91
-"INVM/O/H/ARB/06/12/0005","Invesco India Arbitrage Fund",0.91,0.15,0.06,1.7,2.82,0.34,0.15,0.06,1.61,2.16
+"INVM/O/H/ARB/06/12/0005","Invesco India Arbitrage Fund",0.91,0.15,0.06,1.7,2.82,0.34,0.15,0.06,1.6,2.15
 "INVM/O/H/DAA/07/06/0009","Invesco India Balanced Advantage Fund",1.84,0.08,0.01,0.47,2.4,0.76,0.08,0.01,0.31,1.16
 "INVM/O/D/BPF/12/09/0022","Invesco India Banking and PSU Debt Fund",0.54,0.0,0.0,0.09,0.63,0.22,0.0,0.0,0.04,0.26
 "INVM/O/O/EET/26/06/0055","Invesco India BSE SENSEX ETF",0.05,0.11,0.03,1.01,1.2,0.0,0.0,0.0,0.0,0.0
@@ -1041,8 +1041,8 @@
 "INVM/O/E/ELS/06/11/0002","Invesco India ELSS Tax Saver Fund",1.69,0.11,0.01,0.49,2.3,0.74,0.11,0.01,0.34,1.2
 "INVM/O/H/ESF/18/12/0031","Invesco India Equity Savings Fund",2.06,0.17,0.02,0.71,2.96,0.79,0.17,0.02,0.52,1.5
 "INVM/O/E/THE/21/02/0035","Invesco India ESG Integration Strategy Fund",2.09,0.04,0.0,0.43,2.56,0.98,0.04,0.0,0.26,1.28
-"INVM/O/E/SEC/07/11/0014","Invesco India Financial Services Fund",1.76,0.04,0.0,0.36,2.16,0.69,0.04,0.0,0.21,0.94
-"INVM/O/E/FCF/21/09/0037","Invesco India Flexi Cap Fund",1.57,0.09,0.0,0.42,2.08,0.51,0.09,0.0,0.27,0.87
+"INVM/O/E/SEC/07/11/0014","Invesco India Financial Services Fund",1.76,0.04,0.0,0.36,2.16,0.69,0.04,0.0,0.2,0.93
+"INVM/O/E/FCF/21/09/0037","Invesco India Flexi Cap Fund",1.57,0.09,0.0,0.42,2.08,0.51,0.09,0.0,0.26,0.86
 "INVM/O/E/FOC/20/07/0033","Invesco India Focused Fund",1.54,0.04,0.0,0.33,1.91,0.47,0.04,0.0,0.15,0.66
 "INVM/O/D/GIL/07/09/0013","Invesco India Gilt Fund",1.06,0.0,0.02,0.17,1.25,0.39,0.0,0.02,0.07,0.48
 "INVM/O/O/FOD/11/06/0021","Invesco India Gold ETF Fund of Fund",0.47,0.01,0.0,0.08,0.56,0.09,0.01,0.0,0.02,0.12
@@ -1060,16 +1060,16 @@
 "INVM/O/E/MCF/07/09/0012","Invesco India Multi Cap Fund",1.61,0.06,0.0,0.39,2.06,0.61,0.06,0.0,0.23,0.9
 "INVM/O/O/OET/11/05/0020","Invesco India Nifty 50 Exchange Traded Fund",0.09,0.0,0.0,0.02,0.11,0.0,0.0,0.0,0.0,0.0
 "INVM/O/O/EET/26/06/0056","Invesco India Nifty Bank ETF",0.11,0.07,0.02,0.77,0.97,0.0,0.0,0.0,0.0,0.0
-"INVM/O/O/EIN/26/04/0053","Invesco India Nifty Bank Index Fund",0.66,0.04,0.01,0.51,1.22,0.15,0.04,0.01,0.42,0.62
+"INVM/O/O/EIN/26/04/0053","Invesco India Nifty Bank Index Fund",0.66,0.04,0.01,0.51,1.22,0.14,0.04,0.01,0.42,0.61
 "INVM/O/O/EIN/26/07/0058","Invesco India Nifty Chemical Index Fund",0.9,0.14,0.05,1.95,3.04,0.25,0.14,0.05,1.83,2.27
-"INVM/O/O/DIN/23/03/0043","Invesco India Nifty G-SEC JUL 2027 Index Fund",0.25,0.0,0.0,0.04,0.29,0.12,0.0,0.0,0.02,0.14
-"INVM/O/O/DIN/23/03/0044","Invesco India Nifty G-SEC SEP 2032 Index Fund",0.24,0.0,0.0,0.04,0.28,0.12,0.0,0.0,0.02,0.14
+"INVM/O/O/DIN/23/03/0043","Invesco India Nifty G-SEC JUL 2027 Index Fund",0.25,0.0,0.0,0.04,0.29,0.13,0.0,0.0,0.02,0.15
+"INVM/O/O/DIN/23/03/0044","Invesco India Nifty G-SEC SEP 2032 Index Fund",0.25,0.0,0.0,0.04,0.29,0.13,0.0,0.0,0.02,0.15
 "INVM/O/O/EIN/26/07/0057","Invesco India Nifty India Defence Index Fund",0.9,0.15,0.05,1.95,3.05,0.25,0.15,0.05,1.84,2.29
 "INVM/O/D/ONF/19/12/0032","Invesco India Overnight Fund",0.1,0.0,0.02,0.02,0.14,0.05,0.0,0.02,0.01,0.08
 "INVM/O/E/SEC/26/02/0054","Invesco India Pharma and Healthcare Fund",2.09,0.42,0.03,1.26,3.8,0.49,0.42,0.03,0.97,1.91
 "INVM/O/E/THE/09/09/0017","Invesco India PSU Equity Fund",1.83,0.08,0.0,0.46,2.37,0.81,0.08,0.0,0.3,1.19
 "INVM/O/D/SDF/07/03/0007","Invesco India Short Term Fund",0.89,0.03,0.0,0.15,1.07,0.3,0.03,0.0,0.06,0.39
-"INVM/O/E/SCF/18/07/0030","Invesco India Small Cap Fund",1.43,0.05,0.0,0.35,1.83,0.4,0.05,0.0,0.18,0.63
+"INVM/O/E/SCF/18/07/0030","Invesco India Small Cap Fund",1.42,0.05,0.0,0.35,1.82,0.39,0.05,0.0,0.18,0.62
 "INVM/O/E/SEC/24/08/0046","Invesco India Technology Fund",2.1,0.03,0.0,0.37,2.5,0.79,0.03,0.0,0.2,1.02
 "INVM/O/D/USD/10/11/0019","Invesco India Ultra Short Term Fund",0.67,0.02,0.0,0.1,0.79,0.21,0.02,0.0,0.04,0.27
 "INVM/O/D/LOW/06/11/0004","Invesco India Ultra Short to Short Term Fund",0.54,0.02,0.0,0.09,0.65,0.27,0.02,0.0,0.05,0.34
@@ -2020,26 +2020,26 @@
 "UNFI/O/H/DAA/25/01/0001","Unifi Dynamic Asset Allocation Fund",1.29,0.06,0.02,0.62,1.99,0.79,0.06,0.02,0.53,1.4
 "UNFI/O/E/FCF/25/03/0002","Unifi Flexi Cap Fund",2.1,0.06,0.0,0.53,2.69,1.0,0.06,0.0,0.35,1.41
 "UNFI/O/D/LIF/25/04/0003","Unifi Liquid Fund",0.13,0.0,0.0,0.02,0.15,0.08,0.0,0.0,0.01,0.09
-"UNIN/O/E/THE/24/08/0027","Union Active Momentum Fund",2.08,0.41,0.03,1.37,3.89,0.91,0.41,0.03,1.16,2.51
+"UNIN/O/E/THE/24/08/0027","Union Active Momentum Fund",2.07,0.41,0.03,1.37,3.88,0.91,0.41,0.03,1.16,2.51
 "UNIN/O/H/AHF/20/03/0017","Union Aggressive Hybrid Fund",2.02,0.1,0.01,0.62,2.75,0.99,0.1,0.01,0.43,1.53
 "UNIN/O/H/ARB/18/12/0011","Union Arbitrage Fund",0.87,0.13,0.04,1.25,2.29,0.33,0.13,0.04,1.15,1.65
 "UNIN/O/H/BAF/17/11/0007","Union Balanced Advantage Fund",1.87,0.07,0.01,0.55,2.5,0.94,0.07,0.01,0.39,1.41
-"UNIN/O/E/THE/24/01/0025","Union Business Cycle Fund",2.09,0.17,0.01,0.76,3.03,1.03,0.17,0.01,0.57,1.78
+"UNIN/O/E/THE/24/01/0025","Union Business Cycle Fund",2.09,0.17,0.01,0.77,3.04,1.03,0.17,0.01,0.57,1.78
 "UNIN/O/S/CHI/23/07/0024","Union Children's Fund",2.1,0.04,0.0,0.45,2.59,1.11,0.04,0.0,0.29,1.44
 "UNIN/O/E/THE/25/10/0034","Union Consumption Fund",2.1,0.07,0.0,0.51,2.68,0.94,0.07,0.0,0.34,1.35
 "UNIN/O/D/CBF/18/04/0008","Union Corporate Bond Fund",0.61,0.01,0.0,0.09,0.71,0.34,0.01,0.0,0.06,0.41
 "UNIN/O/O/FOD/25/04/0033","Union Diversified Equity All Cap Active FoF",1.24,0.0,0.0,0.22,1.46,0.48,0.0,0.0,0.09,0.57
 "UNIN/O/D/DBF/12/01/0004","Union Dynamic Term Fund",1.31,0.0,0.0,0.22,1.53,1.11,0.0,0.0,0.2,1.31
-"UNIN/O/E/ELS/11/08/0003","Union ELSS Tax Saver Fund (Formerly Union Tax Saver (ELSS) Fund",1.98,0.08,0.0,0.53,2.59,1.18,0.08,0.0,0.39,1.65
+"UNIN/O/E/ELS/11/08/0003","Union ELSS Tax Saver Fund (Formerly Union Tax Saver (ELSS) Fund",1.97,0.08,0.0,0.53,2.58,1.18,0.08,0.0,0.39,1.65
 "UNIN/O/H/ESF/18/05/0010","Union Equity Savings Fund",1.66,0.13,0.02,0.77,2.58,1.27,0.13,0.02,0.7,2.12
-"UNIN/O/E/FCF/11/04/0001","Union Flexi Cap Fund",1.71,0.14,0.01,0.63,2.49,0.83,0.14,0.01,0.47,1.45
+"UNIN/O/E/FCF/11/04/0001","Union Flexi Cap Fund",1.71,0.14,0.01,0.63,2.49,0.82,0.14,0.01,0.47,1.44
 "UNIN/O/E/FOC/19/06/0013","Union Focused Fund",2.1,0.02,0.0,0.43,2.55,1.25,0.02,0.0,0.28,1.55
 "UNIN/O/D/GIL/22/01/0019","Union Gilt Fund",0.92,0.0,0.0,0.16,1.08,0.55,0.0,0.0,0.1,0.65
 "UNIN/O/O/GET/24/12/0030","Union Gold ETF",0.0,0.0,0.0,0.0,0.0,0.42,0.0,0.0,0.07,0.49
 "UNIN/O/O/FOD/24/12/0029","Union Gold ETF Fund of Fund",0.48,0.0,0.0,0.08,0.56,0.27,0.0,0.0,0.05,0.32
 "UNIN/O/O/FOD/25/04/0031","Union Income Plus Arbitrage Active FoF",0.49,0.0,0.0,0.09,0.58,0.19,0.0,0.0,0.04,0.23
-"UNIN/O/E/THE/23/02/0023","Union Innovation & Opportunities Fund",1.84,0.04,0.0,0.43,2.31,0.68,0.04,0.0,0.22,0.94
-"UNIN/O/E/LMF/19/09/0014","Union Large & Midcap Fund",1.91,0.08,0.01,0.54,2.54,0.85,0.08,0.01,0.35,1.29
+"UNIN/O/E/THE/23/02/0023","Union Innovation & Opportunities Fund",1.83,0.04,0.0,0.43,2.3,0.68,0.04,0.0,0.22,0.94
+"UNIN/O/E/LMF/19/09/0014","Union Large & Midcap Fund",1.91,0.08,0.01,0.54,2.54,0.84,0.08,0.01,0.35,1.28
 "UNIN/O/E/LCF/17/04/0006","Union Largecap Fund",2.1,0.03,0.0,0.45,2.58,1.34,0.03,0.0,0.31,1.68
 "UNIN/O/D/LIF/11/06/0002","Union Liquid Fund",0.15,0.0,0.0,0.02,0.17,0.06,0.0,0.0,0.01,0.07
 "UNIN/O/E/MIF/19/12/0016","Union Midcap Fund",1.76,0.08,0.0,0.51,2.35,0.66,0.08,0.0,0.31,1.05
@@ -2049,7 +2049,7 @@
 "UNIN/O/D/ONF/19/02/0012","Union Overnight Fund",0.15,0.0,0.06,0.03,0.24,0.06,0.0,0.06,0.02,0.14
 "UNIN/O/S/RET/22/05/0020","Union Retirement Fund",2.1,0.06,0.0,0.51,2.67,0.95,0.06,0.0,0.31,1.32
 "UNIN/O/D/SDF/24/12/0028","Union Short Term Fund",0.66,0.01,0.01,0.12,0.8,0.33,0.01,0.01,0.06,0.41
-"UNIN/O/E/SCF/14/03/0005","Union Small Cap Fund",1.69,0.05,0.0,0.43,2.17,0.71,0.05,0.0,0.26,1.02
+"UNIN/O/E/SCF/14/03/0005","Union Small Cap Fund",1.68,0.05,0.0,0.43,2.16,0.71,0.05,0.0,0.26,1.02
 "UNIN/O/D/LOW/25/05/0032","Union Ultra Short to Short Term Fund",0.72,0.02,0.0,0.13,0.87,0.21,0.02,0.0,0.04,0.27
 "UNIN/O/E/VAF/18/05/0009","Union Value Fund",2.1,0.07,0.0,0.53,2.7,1.08,0.07,0.0,0.35,1.5
 "UTIM/O/H/ARB/06/01/0026","UTI - Arbitrage Fund",0.73,0.12,0.04,0.91,1.8,0.24,0.12,0.04,0.83,1.23
