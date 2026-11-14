@@ -606,7 +606,7 @@
 "EDEL/O/D/LOW/25/02/0068","Edelweiss Ultra Short to Short Term Fund",0.83,0.01,0.0,0.13,0.97,0.21,0.01,0.0,0.03,0.25
 "EDEL/O/O/FOO/19/12/0029","Edelweiss US Technology Equity Fund of Fund",1.31,0.0,0.0,0.23,1.54,0.61,0.0,0.0,0.11,0.72
 "EDEL/O/O/FOO/13/07/0011","Edelweiss US Value Equity Offshore Fund",1.35,0.0,0.0,0.24,1.59,0.67,0.0,0.0,0.12,0.79
-"FTMF/O/E/THE/07/08/0027","Franklin Asian Equity Fund",1.95,0.04,0.06,0.42,2.47,0.85,0.04,0.06,0.24,1.19
+"FTMF/O/E/THE/07/08/0027","Franklin Asian Equity Fund",1.95,0.04,0.06,0.42,2.47,0.86,0.04,0.06,0.24,1.2
 "FTMF/O/E/THE/09/06/0028","Franklin Build India Fund",1.67,0.05,0.0,0.41,2.13,0.8,0.05,0.0,0.28,1.13
 "FTMF/O/H/AHF/00/05/0012","Franklin India Aggressive Hybrid Fund",1.72,0.06,0.0,0.45,2.23,0.76,0.06,0.0,0.3,1.12
 "FTMF/O/H/ARB/24/10/0049","Franklin India Arbitrage Fund",0.89,0.11,0.06,0.98,2.04,0.23,0.11,0.06,0.88,1.28
@@ -1941,12 +1941,12 @@
 "TATA/O/D/GIL/99/07/0011","Tata Gilt Fund",1.18,0.0,0.01,0.13,1.32,0.24,0.0,0.01,0.05,0.3
 "TATA/O/O/FOD/23/12/0057","Tata Gold ETF Fund of Fund",0.57,0.0,0.0,0.07,0.64,0.2,0.0,0.0,0.04,0.24
 "TATA/O/O/GET/23/12/0058","Tata Gold Exchange Traded Fund",0.0,0.0,0.0,0.0,0.0,0.33,0.0,0.0,0.06,0.39
-"TATA/O/E/THE/22/07/0049","Tata Housing Opportunities Fund",2.09,0.05,0.0,0.45,2.59,0.75,0.05,0.0,0.24,1.04
+"TATA/O/E/THE/22/07/0049","Tata Housing Opportunities Fund",2.09,0.05,0.0,0.46,2.6,0.75,0.05,0.0,0.24,1.04
 "TATA/O/O/FOD/25/04/0076","Tata Income Plus Arbitrage Active FoF",0.54,0.0,0.0,0.04,0.58,0.08,0.0,0.0,0.02,0.1
 "TATA/O/E/SEC/15/10/0026","Tata India Consumer Fund",1.67,0.06,0.0,0.39,2.12,0.62,0.06,0.0,0.24,0.92
 "TATA/O/E/THE/24/10/0072","Tata India Innovation Fund",1.84,0.07,0.01,0.47,2.39,0.64,0.07,0.01,0.27,0.99
 "TATA/O/E/SEC/15/10/0027","Tata India Pharma & Healthcare Fund",1.79,0.11,0.01,0.49,2.4,0.62,0.11,0.01,0.35,1.09
-"TATA/O/E/SEC/04/08/0019","Tata Infrastructure Fund",1.75,0.02,0.0,0.33,2.1,0.98,0.02,0.0,0.22,1.22
+"TATA/O/E/SEC/04/08/0019","Tata Infrastructure Fund",1.75,0.02,0.0,0.33,2.1,0.99,0.02,0.0,0.22,1.23
 "TATA/O/E/LMF/93/01/0001","Tata Large & Mid Cap Fund",1.53,0.01,0.0,0.29,1.83,0.62,0.01,0.0,0.14,0.77
 "TATA/O/E/LCF/98/02/0009","Tata Large Cap Fund",1.68,0.07,0.0,0.44,2.19,0.82,0.07,0.0,0.31,1.2
 "TATA/O/D/LIF/03/11/0017","Tata Liquid Fund",0.29,0.0,0.0,0.03,0.32,0.15,0.0,0.0,0.03,0.18
@@ -1954,7 +1954,7 @@
 "TATA/O/D/MMF/98/07/0010","Tata Money Market Fund",0.37,0.0,0.0,0.03,0.4,0.15,0.0,0.0,0.03,0.18
 "TATA/O/H/MAA/19/09/0039","Tata Multi Asset Allocation Fund",1.57,0.03,0.01,0.34,1.95,0.45,0.03,0.01,0.16,0.65
 "TATA/O/O/FOD/26/02/0080","Tata Multi Sector Passive FoF",0.51,0.02,0.01,0.12,0.66,0.14,0.02,0.01,0.06,0.23
-"TATA/O/E /MCF/22/10/0053","Tata Multicap Fund",1.63,0.08,0.01,0.46,2.18,0.47,0.08,0.01,0.26,0.82
+"TATA/O/E /MCF/22/10/0053","Tata Multicap Fund",1.64,0.08,0.01,0.46,2.19,0.47,0.08,0.01,0.26,0.82
 "TATA/O/O/OET/18/09/0034","Tata Nifty 50 Exchange Traded Fund",0.0,0.0,0.0,0.0,0.0,0.07,0.0,0.0,0.02,0.09
 "TATA/O/O/EIN/02/11/0014","Tata Nifty 50 Index Fund",0.45,0.0,0.0,0.08,0.53,0.19,0.0,0.0,0.07,0.26
 "TATA/O/O/OIN/24/02/0063","Tata Nifty Auto Index Fund",0.9,0.01,0.0,0.16,1.07,0.4,0.01,0.0,0.13,0.54
@@ -1979,7 +1979,7 @@
 "TATA/O/E/SEC/15/10/0028","Tata Resources & Energy Fund",1.82,0.05,0.0,0.35,2.22,0.58,0.05,0.0,0.21,0.84
 "TATA/O/S/RET/11/06/0021","Tata Retirement Savings Fund-Conservative Plan",1.83,0.02,0.0,0.32,2.17,0.85,0.02,0.0,0.19,1.06
 "TATA/O/S/RET/11/06/0022","Tata Retirement Savings Fund-Moderate Plan",1.73,0.05,0.0,0.38,2.16,0.57,0.05,0.0,0.21,0.83
-"TATA/O/S/RET/11/06/0023","Tata Retirement Savings Fund-Progressive Plan",1.73,0.06,0.0,0.4,2.19,0.54,0.06,0.0,0.22,0.82
+"TATA/O/S/RET/11/06/0023","Tata Retirement Savings Fund-Progressive Plan",1.73,0.06,0.0,0.41,2.2,0.54,0.06,0.0,0.22,0.82
 "TATA/O/D/SDF/02/07/0012","Tata Short Term Fund",1.02,0.01,0.0,0.08,1.11,0.3,0.01,0.0,0.06,0.37
 "TATA/O/O/FOD/23/12/0056","Tata Silver ETF Fund of Fund",0.51,0.0,0.0,0.07,0.58,0.18,0.0,0.0,0.04,0.22
 "TATA/O/O/OET/23/12/0059","Tata Silver Exchange Traded Fund",0.0,0.0,0.0,0.0,0.0,0.39,0.0,0.0,0.07,0.46
