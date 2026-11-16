@@ -30,7 +30,7 @@
 "ABSL/O/O/EET/26/08/0174","Aditya Birla Sun Life BSE Total Market ETF",0.24,0.13,0.08,2.8,3.25,0.0,0.0,0.0,0.0,0.0
 "ABSL/O/O/EIN/26/08/0175","Aditya Birla Sun Life BSE Total Market Index Fund",0.88,0.29,0.16,5.62,6.95,0.22,0.29,0.16,5.5,6.17
 "ABSL/O/E/SEC/21/08/0101","Aditya Birla Sun Life Business Cycle Fund",1.78,0.12,0.01,0.55,2.46,0.94,0.12,0.01,0.43,1.5
-"ABSL/O/E/THE/24/10/0166","Aditya Birla Sun Life Conglomerate Fund",1.8,0.07,0.0,0.43,2.3,0.68,0.07,0.0,0.28,1.03
+"ABSL/O/E/THE/24/10/0166","Aditya Birla Sun Life Conglomerate Fund",1.8,0.07,0.0,0.43,2.3,0.69,0.07,0.0,0.28,1.04
 "ABSL/O/O/FOD/10/10/0041","Aditya Birla Sun Life Conservative Hybrid Active FoF",0.76,0.0,0.0,0.13,0.89,0.4,0.0,0.0,0.07,0.47
 "ABSL/O/H/CHF/04/02/0023","Aditya Birla Sun Life Conservative Hybrid Fund",1.54,0.0,0.0,0.26,1.8,0.82,0.0,0.0,0.14,0.96
 "ABSL/O/E/SEC/05/05/0026","Aditya Birla Sun Life Consumption Fund",1.57,0.03,0.0,0.33,1.93,0.71,0.03,0.0,0.2,0.94
@@ -59,7 +59,7 @@
 "ABSL/O/D/SEC/26/07/0176","Aditya Birla Sun Life Financial Services Sectoral Debt Fund",0.35,0.07,0.0,0.07,0.49,0.17,0.07,0.0,0.04,0.28
 "ABSL/C/D/FTP/26/06/0177","Aditya Birla Sun Life Fixed Maturity Plan-Series Vb (136 Days)",0.13,0.03,0.0,0.03,0.19,0.05,0.03,0.0,0.01,0.09
 "ABSL/C/D/FTP/21/08/0099","Aditya Birla Sun Life Fixed Term Plan - Series Tq (1879 Days)",0.13,0.0,0.0,0.02,0.15,0.04,0.0,0.0,0.0,0.04
-"ABSL/O/E/FCF/98/08/0008","Aditya Birla Sun Life Flexi Cap Fund",1.35,0.03,0.0,0.28,1.66,0.69,0.03,0.0,0.18,0.9
+"ABSL/O/E/FCF/98/08/0008","Aditya Birla Sun Life Flexi Cap Fund",1.34,0.03,0.0,0.28,1.65,0.69,0.03,0.0,0.18,0.9
 "ABSL/O/D/FLF/03/05/0021","Aditya Birla Sun Life Floating Interest Rates Fund",0.36,0.01,0.0,0.06,0.43,0.21,0.01,0.0,0.03,0.25
 "ABSL/O/E/FOC/05/05/0025","Aditya Birla Sun Life Focused Fund",1.52,0.04,0.0,0.35,1.91,0.75,0.04,0.0,0.22,1.01
 "ABSL/O/D/GIL/99/10/0011","Aditya Birla Sun Life Gilt Fund",0.97,0.01,0.01,0.17,1.16,0.42,0.01,0.01,0.07,0.51
@@ -1765,7 +1765,7 @@
 "SBIM/O/O/EET/18/06/0052","SBI BSE SENSEX Next 50 ETF",0.2,0.0,0.0,0.09,0.29,0.0,0.0,0.0,0.0,0.0
 "SBIM/O/S/CHI/20/06/0116","SBI Children's Fund - Investment Plan",1.52,0.05,0.0,0.39,1.96,0.71,0.05,0.0,0.26,1.02
 "SBIM/O/S/CHI/01/07/0018","SBI Children's Fund - Savings Plan",1.08,0.01,0.0,0.21,1.3,0.74,0.01,0.0,0.15,0.9
-"SBIM/O/E/SEC/05/06/0024","SBI Comma Fund",1.86,0.03,0.0,0.42,2.31,1.19,0.03,0.0,0.29,1.51
+"SBIM/O/E/SEC/05/06/0024","SBI Comma Fund",1.86,0.03,0.0,0.42,2.31,1.19,0.03,0.0,0.3,1.52
 "SBIM/O/H/CHF/01/04/0017","SBI Conservative Hybrid Fund",1.23,0.01,0.0,0.25,1.49,0.83,0.01,0.0,0.17,1.01
 "SBIM/O/E/THE/99/04/0006","SBI Consumption Opportunities Fund",1.7,0.05,0.0,0.47,2.22,0.86,0.05,0.0,0.32,1.23
 "SBIM/O/E/COF/99/04/0009","SBI Contra Fund",1.25,0.02,0.01,0.32,1.6,0.65,0.02,0.01,0.22,0.9
@@ -1781,7 +1781,7 @@
 "SBIM/O/E/DYF/23/01/0168","SBI Dividend Yield Fund",1.52,0.06,0.01,0.45,2.04,0.75,0.06,0.01,0.32,1.14
 "SBIM/O/O/FOD/25/04/0195","SBI Dynamic Asset Allocation Active FoF",1.16,0.0,0.0,0.19,1.35,0.25,0.0,0.0,0.05,0.3
 "SBIM/O/D/DBF/04/01/0022","SBI Dynamic Term Fund",1.15,0.01,0.01,0.2,1.37,0.53,0.01,0.01,0.09,0.64
-"SBIM/O/E/ELS/99/09/0014","SBI ELSS Tax Saver Fund",1.33,0.06,0.01,0.42,1.82,0.83,0.06,0.01,0.34,1.24
+"SBIM/O/E/ELS/99/09/0014","SBI ELSS Tax Saver Fund",1.34,0.06,0.01,0.42,1.83,0.84,0.06,0.01,0.34,1.25
 "SBIM/O/E/THE/24/01/0177","SBI Energy Opportunities Fund",1.53,0.03,0.0,0.33,1.89,0.73,0.03,0.0,0.2,0.96
 "SBIM/O/E/THE/18/09/0058","SBI Equity Minimum Variance Fund",0.62,0.01,0.0,0.19,0.82,0.36,0.01,0.0,0.15,0.52
 "SBIM/O/H/ESF/15/01/0045","SBI Equity Savings Fund",1.26,0.08,0.02,0.64,2.0,0.78,0.08,0.02,0.55,1.43
@@ -1800,7 +1800,7 @@
 "SBIM/C/D/FTP/21/12/0145","SBI Fixed Maturity Plan (Fmp) - Series 61 (1927 Days)",0.25,0.0,0.0,0.04,0.29,0.18,0.0,0.0,0.03,0.21
 "SBIM/O/E/FCF/05/07/0026","SBI Flexicap Fund",1.39,0.09,0.01,0.54,2.03,0.73,0.09,0.01,0.42,1.25
 "SBIM/O/D/FLF/20/07/0119","SBI Floating Interest Rates Fund",0.35,0.01,0.01,0.06,0.43,0.22,0.01,0.01,0.04,0.28
-"SBIM/O/E/FOC/99/04/0010","SBI Focused Fund",1.21,0.03,0.0,0.3,1.54,0.6,0.03,0.0,0.19,0.82
+"SBIM/O/E/FOC/99/04/0010","SBI Focused Fund",1.22,0.03,0.0,0.3,1.55,0.61,0.03,0.0,0.19,0.83
 "SBIM/O/D/GIL/00/11/0015","SBI Gilt Fund",0.82,0.01,0.02,0.15,1.0,0.4,0.01,0.02,0.07,0.5
 "SBIM/O/O/GET/09/01/0032","SBI Gold ETF",0.55,0.0,0.0,0.1,0.65,0.0,0.0,0.0,0.0,0.0
 "SBIM/O/O/FOD/11/08/0036","SBI Gold Fund",0.35,0.0,0.0,0.07,0.42,0.21,0.0,0.0,0.04,0.25
@@ -1809,7 +1809,7 @@
 "SBIM/O/E/SEC/07/04/0029","SBI Infrastructure Fund",1.6,0.04,0.0,0.43,2.07,0.85,0.04,0.0,0.29,1.18
 "SBIM/O/E/THE/24/05/0182","SBI Innovative Opportunities Fund",1.59,0.04,0.0,0.37,2.0,0.76,0.04,0.0,0.23,1.03
 "SBIM/O/E/LMF/98/04/0003","SBI Large & Midcap Fund",1.28,0.03,0.0,0.33,1.64,0.62,0.03,0.0,0.21,0.86
-"SBIM/O/E/LCF/05/12/0027","SBI Large Cap Fund",1.2,0.01,0.0,0.26,1.47,0.67,0.01,0.0,0.17,0.85
+"SBIM/O/E/LCF/05/12/0027","SBI Large Cap Fund",1.21,0.01,0.0,0.26,1.48,0.68,0.01,0.0,0.17,0.86
 "SBIM/O/D/LIF/03/11/0021","SBI Liquid Fund",0.25,0.0,0.0,0.04,0.29,0.17,0.0,0.0,0.03,0.2
 "SBIM/C/E/ELS/16/12/0049","SBI Long Term Advantage Fund - Series Iv",1.0,0.06,0.01,0.36,1.43,0.83,0.06,0.01,0.33,1.23
 "SBIM/C/E/ELS/17/12/0050","SBI Long Term Advantage Fund - Series V",1.0,0.05,0.0,0.3,1.35,0.91,0.05,0.0,0.29,1.25
@@ -1820,7 +1820,7 @@
 "SBIM/O/E/MIF/05/01/0023","SBI Midcap Fund",1.39,0.04,0.0,0.37,1.8,0.72,0.04,0.0,0.25,1.01
 "SBIM/O/E/THE/99/08/0013","SBI MNC Fund",1.56,0.05,0.0,0.4,2.01,1.02,0.05,0.0,0.31,1.38
 "SBIM/O/D/MMF/98/11/0005","SBI Money Market Fund",0.55,0.0,0.0,0.09,0.64,0.22,0.0,0.0,0.04,0.26
-"SBIM/O/H/MAA/05/06/0025","SBI Multi Asset Allocation Fund",1.09,0.02,0.0,0.26,1.37,0.49,0.02,0.0,0.16,0.67
+"SBIM/O/H/MAA/05/06/0025","SBI Multi Asset Allocation Fund",1.1,0.02,0.0,0.26,1.38,0.5,0.02,0.0,0.16,0.68
 "SBIM/O/E/MCF/21/11/0144","SBI Multicap Fund",1.38,0.05,0.0,0.39,1.82,0.71,0.05,0.0,0.28,1.04
 "SBIM/O/O/DET/15/12/0047","SBI Nifty 10 Yr Benchmark G-SEC ETF",0.12,0.0,0.0,0.02,0.14,0.0,0.0,0.0,0.0,0.0
 "SBIM/O/O/DET/25/04/0194","SBI Nifty 1D Rate Liquid ETF - Growth",0.21,0.0,0.04,0.04,0.29,0.0,0.0,0.0,0.0,0.0
@@ -1854,7 +1854,7 @@
 "SBIM/O/O/EIN/24/01/0175","SBI Nifty50 Equal Weight Index Fund",0.78,0.0,0.0,0.19,0.97,0.38,0.0,0.0,0.12,0.5
 "SBIM/O/D/ONF/99/05/0011","SBI Overnight Fund",0.1,0.0,0.01,0.02,0.13,0.07,0.0,0.01,0.01,0.09
 "SBIM/O/E/SEC/10/02/0035","SBI PSU Fund",1.55,0.03,0.0,0.37,1.95,0.72,0.03,0.0,0.22,0.97
-"SBIM/O/E/THE/25/09/0196","SBI Quality Fund",1.67,0.11,0.01,0.64,2.43,0.73,0.11,0.01,0.49,1.34
+"SBIM/O/E/THE/25/09/0196","SBI Quality Fund",1.68,0.11,0.01,0.64,2.44,0.74,0.11,0.01,0.49,1.35
 "SBIM/O/E/THE/24/06/0185","SBI Quant Fund",1.69,0.04,0.02,0.87,2.62,0.81,0.04,0.02,0.72,1.59
 "SBIM/O/S/RET/20/01/0112","SBI Retirement Benefit Fund - Aggressive Hybrid Plan",1.72,0.03,0.0,0.39,2.14,0.89,0.03,0.0,0.24,1.16
 "SBIM/O/S/RET/20/01/0111","SBI Retirement Benefit Fund - Aggressive Plan",1.66,0.03,0.0,0.38,2.07,0.8,0.03,0.0,0.23,1.06
