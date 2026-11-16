@@ -257,7 +257,7 @@
 "BNDN/O/E/EIN/24/03/0075","Bandhan BSE Healthcare Index Fund",0.88,0.01,0.0,0.25,1.14,0.19,0.01,0.0,0.13,0.33
 "BNDN/O/E/EIN/25/07/0086","Bandhan BSE India Sector Leaders Index Fund",0.9,0.01,0.0,0.19,1.1,0.24,0.01,0.0,0.12,0.37
 "BNDN/O/O/EIN/16/03/0029","Bandhan BSE SENSEX ETF",0.27,0.0,0.0,0.05,0.32,0.0,0.0,0.0,0.0,0.0
-"BNDN/O/E/THE/24/08/0074","Bandhan Business Cycle Fund",1.9,0.08,0.0,0.45,2.43,0.66,0.08,0.0,0.27,1.01
+"BNDN/O/E/THE/24/08/0074","Bandhan Business Cycle Fund",1.91,0.08,0.0,0.45,2.44,0.67,0.08,0.0,0.27,1.02
 "BNDN/O/H/CHF/09/12/0023","Bandhan Conservative Hybrid Fund",1.65,0.01,0.0,0.28,1.94,0.74,0.01,0.0,0.14,0.89
 "BNDN/O/O/FOD/09/11/0020","Bandhan Conservative Hybrid Passive FoF",0.25,0.0,0.0,0.04,0.29,0.04,0.0,0.0,0.01,0.05
 "BNDN/O/E/COF/26/06/0092","Bandhan Contra Fund",1.77,0.36,0.03,1.13,3.29,0.42,0.36,0.03,0.91,1.72
@@ -273,9 +273,9 @@
 "BNDN/O/D/DBF/02/05/0006","Bandhan Dynamic Term Fund",1.38,0.02,0.01,0.24,1.65,0.64,0.02,0.01,0.12,0.79
 "BNDN/O/E/ELS/08/11/0018","Bandhan ELSS - Tax Saver Fund",1.54,0.06,0.0,0.37,1.97,0.62,0.06,0.0,0.23,0.91
 "BNDN/O/H/ESF/08/03/0017","Bandhan Equity Savings Fund",0.93,0.09,0.02,0.52,1.56,0.15,0.09,0.02,0.4,0.66
-"BNDN/O/E/SEC/23/01/0063","Bandhan Financial Services Fund",1.88,0.08,0.0,0.47,2.43,0.64,0.08,0.0,0.28,1.0
+"BNDN/O/E/SEC/23/01/0063","Bandhan Financial Services Fund",1.88,0.08,0.0,0.48,2.44,0.64,0.08,0.0,0.28,1.0
 "IDF268","Bandhan Fixed Term Plan Series - 179 (3652 Days)",0.25,0.0,0.0,0.04,0.29,0.04,0.0,0.0,0.0,0.04
-"BNDN/O/E/FCF/05/06/0011","Bandhan Flexi Cap Fund",1.53,0.12,0.01,0.52,2.18,0.96,0.12,0.01,0.41,1.5
+"BNDN/O/E/FCF/05/06/0011","Bandhan Flexi Cap Fund",1.53,0.12,0.01,0.52,2.18,0.96,0.12,0.01,0.42,1.51
 "BNDN/O/D/FLF/20/03/0044","Bandhan Floating Interest Rates Fund",0.66,0.0,0.0,0.1,0.76,0.12,0.0,0.0,0.02,0.14
 "BNDN/O/E/FOC/05/10/0013","Bandhan Focused Fund",1.73,0.08,0.0,0.47,2.28,0.68,0.08,0.0,0.3,1.06
 "BNDN/O/D/GIL/02/02/0004","Bandhan Gilt Fund",1.0,0.01,0.01,0.18,1.2,0.47,0.01,0.01,0.08,0.57
@@ -295,8 +295,8 @@
 "BNDN/O/D/MMF/02/10/0007","Bandhan Money Market Fund",0.3,0.01,0.0,0.05,0.36,0.09,0.01,0.0,0.01,0.11
 "BNDN/O/H/MAA/23/12/0068","Bandhan Multi Asset Allocation Fund",1.57,0.08,0.01,0.5,2.16,0.43,0.08,0.01,0.31,0.83
 "BNDN/O/E/MCF/21/09/0048","Bandhan Multi Cap Fund",1.67,0.1,0.01,0.46,2.24,0.54,0.1,0.01,0.29,0.94
-"BNDN/O/O/FOD/09/11/0021","Bandhan Multi-Asset Passive FoF",0.52,0.0,0.0,0.09,0.61,0.04,0.0,0.0,0.03,0.07
-"BNDN/O/E/THE/25/05/0085","Bandhan Multi-Factor Fund",2.06,0.39,0.04,1.67,4.16,0.77,0.39,0.04,1.48,2.68
+"BNDN/O/O/FOD/09/11/0021","Bandhan Multi-Asset Passive FoF",0.52,0.0,0.0,0.09,0.61,0.03,0.0,0.0,0.03,0.06
+"BNDN/O/E/THE/25/05/0085","Bandhan Multi-Factor Fund",2.06,0.39,0.04,1.67,4.16,0.78,0.39,0.04,1.48,2.69
 "BNDN/O/O/EIN/21/12/0049","Bandhan Nifty 100 Index Fund",0.53,0.01,0.0,0.17,0.71,0.1,0.01,0.0,0.09,0.2
 "BNDN/O/E/EIN/24/08/0079","Bandhan Nifty 200 Quality 30 Index Fund",0.87,0.02,0.0,0.29,1.18,0.31,0.02,0.0,0.2,0.53
 "BNDN/O/O/EET/16/03/0028","Bandhan Nifty 50 ETF",0.07,0.0,0.0,0.02,0.09,0.0,0.0,0.0,0.0,0.0
