@@ -374,7 +374,7 @@
 "BBNP/O/E/THE/24/12/0050","Baroda BNP Paribas Health and Wellness Fund",2.1,0.08,0.0,0.52,2.7,1.12,0.08,0.0,0.35,1.55
 "BBNP/O/H/FOD/25/04/0049","Baroda BNP Paribas Income Plus Arbitrage Active Fund of Funds",0.19,0.0,0.0,0.04,0.23,0.05,0.0,0.0,0.01,0.06
 "BBNP/O/E/THE/18/04/0018","Baroda BNP Paribas India Consumption Fund",1.82,0.08,0.0,0.47,2.37,0.61,0.08,0.0,0.26,0.95
-"BBNP/O/E/THE/23/12/0039","Baroda BNP Paribas Innovation Fund",1.95,0.08,0.0,0.49,2.52,0.89,0.08,0.0,0.31,1.28
+"BBNP/O/E/THE/23/12/0039","Baroda BNP Paribas Innovation Fund",1.95,0.08,0.0,0.49,2.52,0.89,0.08,0.0,0.32,1.29
 "BBNP/O/E/LMF/19/11/0025","Baroda BNP Paribas Large and Mid Cap Fund",1.77,0.08,0.0,0.46,2.31,0.71,0.08,0.0,0.29,1.08
 "BBNP/O/E/LCF/04/07/0006","Baroda BNP Paribas Large Cap Fund",1.69,0.02,0.0,0.35,2.06,0.69,0.02,0.0,0.17,0.88
 "BBNP/O/D/LIF/02/01/0001","Baroda BNP Paribas Liquid Fund",0.14,0.0,0.0,0.02,0.16,0.07,0.0,0.0,0.01,0.08
@@ -382,7 +382,7 @@
 "BBNP/O/E/MIF/06/01/0009","Baroda BNP Paribas Mid Cap Fund",1.7,0.07,0.0,0.43,2.2,0.49,0.07,0.0,0.22,0.78
 "BBNP/O/D/MMF/19/03/0023","Baroda BNP Paribas Money Market Fund",0.33,0.01,0.0,0.06,0.4,0.14,0.01,0.0,0.02,0.17
 "BBNP/O/H/FOD/25/04/0048","Baroda BNP Paribas Multi Asset Active Fund of Funds",0.93,0.0,0.0,0.17,1.1,0.23,0.0,0.0,0.04,0.27
-"BBNP/O/E/MAA/22/09/0030","Baroda BNP Paribas Multi Asset Fund",1.71,0.01,0.0,0.32,2.04,0.73,0.01,0.0,0.16,0.9
+"BBNP/O/E/MAA/22/09/0030","Baroda BNP Paribas Multi Asset Fund",1.71,0.01,0.0,0.32,2.04,0.73,0.01,0.0,0.15,0.89
 "BBNP/O/E/MCF/03/02/0003","Baroda BNP Paribas Multi Cap Fund",1.65,0.09,0.01,0.47,2.22,0.75,0.09,0.01,0.31,1.16
 "BBNP/O/O/EIN/23/10/0038","Baroda BNP Paribas Nifty 50 Index Fund",0.48,0.02,0.0,0.26,0.76,0.23,0.02,0.0,0.22,0.47
 "BBNP/O/O/EET/23/12/0042","Baroda BNP Paribas Nifty Bank ETF",0.32,0.02,0.0,0.17,0.51,0.0,0.0,0.0,0.0,0.0
@@ -893,8 +893,8 @@
 "ICIC/O/O/EET/02/12/0019","ICICI Prudential BSE SENSEX ETF",0.0209,0.0008,0.0001,0.0085,0.0303,0.0,0.0,0.0,0.0,0.0
 "ICIC/O/O/EIN/17/06/0056","ICICI Prudential BSE SENSEX Index Fund",0.26,0.0,0.0,0.07,0.33,0.17,0.0,0.0,0.05,0.22
 "ICIC/O/E/THE/19/12/0118","ICICI Prudential Business Cycle Fund",1.42,0.04,0.01,0.37,1.84,0.72,0.04,0.01,0.26,1.03
-"ICIC/O/S/CHI/01/06/0015","ICICI Prudential Children's Fund",1.83,0.22,0.02,1.05,3.12,1.19,0.22,0.02,0.97,2.4
-"ICIC/O/E/SEC/19/07/0111","ICICI Prudential Commodities Fund",1.62,0.01,0.0,0.31,1.94,0.83,0.01,0.0,0.19,1.03
+"ICIC/O/S/CHI/01/06/0015","ICICI Prudential Children's Fund",1.83,0.22,0.02,1.05,3.12,1.2,0.22,0.02,0.97,2.41
+"ICIC/O/E/SEC/19/07/0111","ICICI Prudential Commodities Fund",1.63,0.01,0.0,0.31,1.95,0.84,0.01,0.0,0.19,1.04
 "ICIC/O/E/THE/25/04/0200","ICICI Prudential Conglomerate Fund",2.02,0.03,0.0,0.36,2.41,1.1,0.03,0.0,0.28,1.41
 "ICIC/O/H/CHF/10/10/0039","ICICI Prudential Conservative Hybrid Fund",1.43,0.01,0.0,0.29,1.73,0.84,0.01,0.0,0.19,1.04
 "ICIC/O/E/COF/26/06/0210","ICICI Prudential Contra Fund",1.78,0.73,0.08,2.96,5.55,0.79,0.73,0.08,2.78,4.38
@@ -926,9 +926,9 @@
 "ICIC/O/O/GET/10/04/0038","ICICI Prudential Gold ETF",0.42,0.0,0.0,0.07,0.49,0.0,0.0,0.0,0.0,0.0
 "ICIC/O/O/FOD/11/08/0041","ICICI Prudential Gold ETF FoF",0.47,0.0,0.0,0.08,0.55,0.12,0.0,0.0,0.02,0.14
 "ICIC/O/E/THE/18/05/0064","ICICI Prudential Healthcare Fund",1.53,0.06,0.01,0.44,2.04,0.87,0.06,0.01,0.34,1.28
-"ICIC/O/E/THE/22/03/0141","ICICI Prudential Housing Opportunities Fund",1.68,0.02,0.0,0.35,2.05,0.93,0.02,0.0,0.25,1.2
+"ICIC/O/E/THE/22/03/0141","ICICI Prudential Housing Opportunities Fund",1.69,0.02,0.0,0.35,2.06,0.94,0.02,0.0,0.25,1.21
 "ICIC/O/O/FOD/03/10/0024","ICICI Prudential Income Plus Arbitrage Omni FoF",0.22,0.0,0.0,0.04,0.26,0.06,0.0,0.0,0.01,0.07
-"ICIC/O/E/THE/18/10/0090","ICICI Prudential India Opportunities Fund",1.29,0.05,0.0,0.37,1.71,0.6,0.05,0.0,0.26,0.91
+"ICIC/O/E/THE/18/10/0090","ICICI Prudential India Opportunities Fund",1.3,0.05,0.0,0.37,1.72,0.61,0.05,0.0,0.26,0.92
 "ICIC/O/E/THE/05/06/0027","ICICI Prudential Infrastructure Fund",1.52,0.03,0.0,0.35,1.9,0.99,0.03,0.0,0.27,1.29
 "ICIC/O/E/THE/23/02/0171","ICICI Prudential Innovation Fund",1.53,0.1,0.01,0.52,2.16,0.7,0.1,0.01,0.41,1.22
 "ICIC/O/E/LMF/98/05/0001","ICICI Prudential Large & Mid Cap Fund",1.33,0.1,0.01,0.54,1.98,0.68,0.1,0.01,0.43,1.22
@@ -1589,10 +1589,10 @@
 "NIMF/O/H/FOD/26/07/0168","Nippon India Income Plus Arbitrage Omni Fund of Fund",0.5,0.0,0.0,0.12,0.62,0.05,0.0,0.0,0.04,0.09
 "NIMF/O/O/EIN/10/03/0041","Nippon India Index Fund - BSE SENSEX Plan",0.42,0.0,0.0,0.09,0.51,0.17,0.0,0.0,0.04,0.21
 "NIMF/O/O/EIN/10/03/0040","Nippon India Index Fund - Nifty 50 Plan",0.35,0.01,0.0,0.13,0.49,0.06,0.01,0.0,0.08,0.15
-"NIMF/O/E/THE/23/02/0140","Nippon India Innovation Fund",1.67,0.06,0.0,0.36,2.09,0.61,0.06,0.0,0.23,0.9
+"NIMF/O/E/THE/23/02/0140","Nippon India Innovation Fund",1.67,0.06,0.0,0.36,2.09,0.62,0.06,0.0,0.23,0.91
 "NIMF/I/D/XXX/07/02/0035","Nippon India Interval Fund-Quarterly Interval Fund Serie-Ii",0.14,0.0,0.0,0.03,0.17,0.1,0.0,0.0,0.02,0.12
 "NIMF/O/E/THE/14/06/0051","Nippon India Japan Equity Fund",2.08,0.08,0.0,0.33,2.49,1.2,0.08,0.0,0.21,1.49
-"NIMF/O/E/LCF/06/01/0028","Nippon India Large Cap Fund",1.21,0.05,0.0,0.32,1.58,0.56,0.05,0.0,0.21,0.82
+"NIMF/O/E/LCF/06/01/0028","Nippon India Large Cap Fund",1.2,0.05,0.0,0.32,1.57,0.56,0.05,0.0,0.21,0.82
 "NIMF/O/D/LIF/00/12/0005","Nippon India Liquid Fund",0.32,0.0,0.0,0.06,0.38,0.17,0.0,0.0,0.03,0.2
 "NIMF/O/D/MDF/14/03/0050","Nippon India Medium Term Fund (Existing Number of Segregated Portfolios - 1)",0.92,0.0,0.0,0.16,1.08,0.43,0.0,0.0,0.07,0.5
 "NIMF/O/D/MLD/97/12/0003","Nippon India Medium to Long Term Fund",1.22,0.0,0.0,0.22,1.44,0.57,0.0,0.0,0.1,0.67
@@ -1600,7 +1600,7 @@
 "NIMF/O/D/MMF/05/03/0026","Nippon India Money Market Fund",0.33,0.0,0.0,0.06,0.39,0.19,0.0,0.0,0.03,0.22
 "NIMF/O/O/FOD/20/01/0105","Nippon India Multi - Asset Omni FoF",0.97,0.0,0.0,0.18,1.15,0.14,0.0,0.0,0.03,0.17
 "NIMF/O/H/MAA/20/01/0106","Nippon India Multi Asset Allocation Fund",1.13,0.04,0.0,0.26,1.43,0.29,0.04,0.0,0.13,0.46
-"NIMF/O/E/MCF/05/01/0025","Nippon India Multi Cap Fund",1.2,0.05,0.0,0.32,1.57,0.59,0.05,0.0,0.22,0.86
+"NIMF/O/E/MCF/05/01/0025","Nippon India Multi Cap Fund",1.21,0.05,0.0,0.32,1.58,0.59,0.05,0.0,0.22,0.86
 "NIMF/O/O/DET/25/06/0161","Nippon India Nifty 1D Rate Liquid ETF- Growth",0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.01,0.04,0.25
 "NIMF/O/O/EIN/20/03/0110","Nippon India Nifty 50 Value 20 Index Fund",0.64,0.02,0.01,0.33,1.0,0.21,0.02,0.01,0.25,0.49
 "NIMF/O/O/EIN/24/07/0148","Nippon India Nifty 500 Equal Weight Index Fund",0.79,0.03,0.0,0.29,1.11,0.3,0.03,0.0,0.2,0.53
@@ -1635,8 +1635,8 @@
 "NIMF/O/D/SDF/02/10/0008","Nippon India Short Term Fund",0.79,0.01,0.0,0.14,0.94,0.33,0.01,0.0,0.06,0.4
 "NIMF/O/O/OET/21/12/0121","Nippon India Silver ETF",0.0,0.0,0.0,0.0,0.0,0.49,0.0,0.0,0.09,0.58
 "NIMF/O/O/FOD/21/12/0120","Nippon India Silver ETF FoF",0.41,0.0,0.0,0.08,0.49,0.18,0.0,0.0,0.04,0.22
-"NIMF/O/E/SCF/10/07/0044","Nippon India Small Cap Fund",1.13,0.02,0.0,0.24,1.39,0.52,0.02,0.0,0.14,0.68
-"NIMF/O/E/THE/21/10/0118","Nippon India Taiwan Equity Fund",1.97,0.05,0.0,0.38,2.4,0.86,0.05,0.0,0.22,1.13
+"NIMF/O/E/SCF/10/07/0044","Nippon India Small Cap Fund",1.13,0.02,0.0,0.24,1.39,0.53,0.02,0.0,0.14,0.69
+"NIMF/O/E/THE/21/10/0118","Nippon India Taiwan Equity Fund",2.01,0.05,0.0,0.39,2.45,0.89,0.05,0.0,0.23,1.17
 "NIMF/O/D/USD/00/12/0006","Nippon India Ultra Short Term Fund",0.87,0.0,0.0,0.15,1.02,0.28,0.0,0.0,0.05,0.33
 "NIMF/O/D/LOW/06/10/0029","Nippon India Ultra Short to Short Term Fund",0.82,0.0,0.0,0.14,0.96,0.32,0.0,0.0,0.06,0.38
 "NIMF/O/E/THE/15/01/0056","Nippon India US Equity Opportunities Fund",2.0,0.02,0.0,0.35,2.37,1.09,0.02,0.0,0.19,1.3
@@ -1678,7 +1678,7 @@
 "PGIM/O/D/LIF/02/12/0001","PGIM India Liquid Fund",0.19,0.0,0.0,0.03,0.22,0.1,0.0,0.0,0.01,0.11
 "PGIM/O/E/MIF/13/08/0014","PGIM India Midcap Fund",1.48,0.07,0.0,0.41,1.96,0.48,0.07,0.0,0.23,0.78
 "PGIM/O/D/MMF/19/12/0021","PGIM India Money Market Fund",0.33,0.0,0.0,0.06,0.39,0.14,0.0,0.0,0.02,0.16
-"PGIM/O/H/MAA/25/08/0030","PGIM India Multi Asset Allocation Fund",1.99,0.04,0.01,0.49,2.53,0.54,0.04,0.01,0.23,0.82
+"PGIM/O/H/MAA/25/08/0030","PGIM India Multi Asset Allocation Fund",1.99,0.04,0.01,0.5,2.54,0.54,0.04,0.01,0.23,0.82
 "PGIM/O/E/MCF/24/07/0028","PGIM India Multi Cap Fund",2.1,0.03,0.0,0.43,2.56,0.61,0.03,0.0,0.17,0.81
 "PGIM/O/D/ONF/19/02/0020","PGIM India Overnight Fund",0.14,0.0,0.03,0.03,0.2,0.12,0.0,0.03,0.03,0.18
 "PGIM/O/S/RET/23/09/0027","PGIM India Retirement Fund",2.1,0.04,0.0,0.45,2.59,0.85,0.04,0.0,0.23,1.12
