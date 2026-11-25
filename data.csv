@@ -440,7 +440,7 @@
 "CMND/O/H/MAA/26/01/0003","Capitalmind Multi Asset Allocation Fund",1.8,0.09,0.02,0.73,2.64,0.5,0.09,0.02,0.54,1.15
 "CARN/O/D/LIF/26/09/0001","Carnelian Liquid Fund",0.18,0.0,0.04,0.03,0.25,0.12,0.0,0.04,0.02,0.18
 "Carnelian Liquid Fund","Carnelian Liquid Fund",0.18,0.0,0.04,0.03,0.25,0.12,0.0,0.04,0.02,0.18
-"CARN/O/E/SCF/26/09/0002","Carnelian Small Cap Fund",2.04,0.0,0.0,0.36,2.4,0.83,0.0,0.0,0.14,0.97
+"CARN/O/E/SCF/26/09/0002","Carnelian Small Cap Fund",2.03,0.0,0.0,0.36,2.39,0.82,0.0,0.0,0.14,0.96
 "Carnelian Small Cap Fund","Carnelian Small Cap Fund",2.06,0.0,0.0,0.37,2.43,0.85,0.0,0.0,0.15,1.0
 "CHMF/O/O /GET/25/10/0001","Choice Gold ETF",0.0,0.0,0.0,0.0,0.0,0.43,0.0,0.0,0.08,0.51
 "CHMF/O/E/LMF/26/10/0006","Choice Large & Mid Cap Fund",2.05,0.0,0.0,0.37,2.42,0.62,0.0,0.0,0.11,0.73
@@ -2013,7 +2013,7 @@
 "TWCF/O/E/LMF/26/03/0011","The Wealth Company Large & Mid Cap Fund",2.1,0.42,0.02,1.28,3.82,0.39,0.42,0.02,0.97,1.8
 "TWCF/O/D /LIF/25/08/0003","The Wealth Company Liquid Fund",0.23,0.0,0.0,0.04,0.27,0.08,0.0,0.0,0.02,0.1
 "TWCF/O/E/MIF/26/06/0012","The Wealth Company Mid Cap Fund",2.1,0.44,0.03,1.39,3.96,0.4,0.44,0.03,1.09,1.96
-"TWCF/O/H/MAA/25/09/0005","The Wealth Company Multi Asset Allocation Fund",1.81,0.24,0.01,0.73,2.79,0.35,0.24,0.01,0.58,1.18
+"TWCF/O/H/MAA/25/09/0005","The Wealth Company Multi Asset Allocation Fund",1.81,0.24,0.01,0.73,2.79,0.35,0.24,0.01,0.57,1.17
 "TWCF/O/E/MCF/26/07/0013","The Wealth Company Multi Cap Fund",2.1,0.57,0.04,1.87,4.58,0.4,0.57,0.04,1.57,2.58
 "TWCF/O/E/SCF/25/12/0010","The Wealth Company Small Cap Fund",2.1,0.4,0.02,1.08,3.6,0.34,0.4,0.02,0.91,1.67
 "TRUS/O/E/ARB/25/07/0013","TRUSTMF Arbitrage Fund",0.85,0.2,0.0,1.07,2.12,0.17,0.2,0.0,0.98,1.35
