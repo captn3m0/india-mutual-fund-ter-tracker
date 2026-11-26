@@ -877,7 +877,7 @@
 "LTMF/O/E/VAF/09/09/0016","HSBC Value Fund",1.44,0.04,0.0,0.35,1.83,0.63,0.04,0.0,0.2,0.87
 "ICIC/O/D/GTN/14/06/0050","ICICI Prudential 10 Year Constant Maturity Gilt Fund",0.37,0.0,0.01,0.07,0.45,0.24,0.0,0.01,0.04,0.29
 "ICIC/O/E/THE/25/01/0196","ICICI Prudential Active Momentum Fund",1.75,0.17,0.02,0.87,2.81,0.82,0.17,0.02,0.76,1.77
-"ICIC/O/O/FOD/03/10/0022","ICICI Prudential Aggressive Hybrid Active FoF",1.29,0.0,0.0,0.21,1.5,0.32,0.0,0.0,0.06,0.38
+"ICIC/O/O/FOD/03/10/0022","ICICI Prudential Aggressive Hybrid Active FoF",1.31,0.0,0.0,0.21,1.52,0.34,0.0,0.0,0.06,0.4
 "ICIC/O/H/AHF/99/09/0013","ICICI Prudential Aggressive Hybrid Fund",1.22,0.03,0.0,0.33,1.58,0.77,0.03,0.0,0.25,1.05
 "ICIC/O/H/ARB/06/09/0029","ICICI Prudential Arbitrage Fund",0.78,0.12,0.05,1.17,2.12,0.34,0.12,0.05,1.1,1.61
 "ICIC/O/H/BAF/06/09/0030","ICICI Prudential Balanced Advantage Fund",1.14,0.04,0.01,0.33,1.52,0.7,0.04,0.01,0.26,1.01
@@ -900,7 +900,7 @@
 "ICIC/O/E/SEC/19/07/0111","ICICI Prudential Commodities Fund",1.63,0.01,0.0,0.31,1.95,0.84,0.01,0.0,0.19,1.04
 "ICIC/O/E/THE/25/04/0200","ICICI Prudential Conglomerate Fund",2.03,0.03,0.0,0.37,2.43,1.11,0.03,0.0,0.29,1.43
 "ICIC/O/H/CHF/10/10/0039","ICICI Prudential Conservative Hybrid Fund",1.43,0.01,0.0,0.29,1.73,0.84,0.01,0.0,0.19,1.04
-"ICIC/O/E/COF/26/06/0210","ICICI Prudential Contra Fund",1.76,0.73,0.08,2.96,5.53,0.77,0.73,0.08,2.78,4.36
+"ICIC/O/E/COF/26/06/0210","ICICI Prudential Contra Fund",1.75,0.73,0.08,2.96,5.52,0.76,0.73,0.08,2.78,4.35
 "ICIC/O/D/CBF/09/06/0034","ICICI Prudential Corporate Bond Fund",0.51,0.0,0.0,0.09,0.6,0.32,0.0,0.0,0.05,0.37
 "ICIC/O/D/CRF/10/10/0040","ICICI Prudential Credit Risk Fund",1.22,0.0,0.0,0.21,1.43,0.68,0.0,0.0,0.12,0.8
 "ICIC/O/O/DIN/25/02/0191","ICICI Prudential CRISIL-IBX Financial Services 3-6 Months Debt Index Fund",0.14,0.01,0.0,0.03,0.18,0.08,0.01,0.0,0.02,0.11
@@ -908,7 +908,7 @@
 "ICIC/O/O/FOD/26/01/0201","ICICI Prudential Diversified Equity All Cap Active FoF",1.27,0.0,0.0,0.16,1.43,0.51,0.0,0.0,0.1,0.61
 "ICIC/O/O/FOD/19/08/0112","ICICI Prudential Diversified Equity All Cap Omni FoF",0.92,0.0,0.0,0.16,1.08,0.49,0.0,0.0,0.09,0.58
 "ICIC/O/E/DYF/14/02/0048","ICICI Prudential Dividend Yield Fund",1.55,0.02,0.0,0.33,1.9,0.56,0.02,0.0,0.16,0.74
-"ICIC/O/O/FOD/03/10/0021","ICICI Prudential Dynamic Asset Allocation Active FoF",1.16,0.0,0.0,0.2,1.36,0.36,0.0,0.0,0.07,0.43
+"ICIC/O/O/FOD/03/10/0021","ICICI Prudential Dynamic Asset Allocation Active FoF",1.21,0.0,0.0,0.21,1.42,0.41,0.0,0.0,0.08,0.49
 "ICIC/O/O/FOD/26/07/0209","ICICI Prudential Dynamic Asset Allocation Passive FoF",0.22,0.05,0.03,0.18,0.48,0.07,0.05,0.03,0.15,0.3
 "ICIC/O/D/DBF/98/05/0004","ICICI Prudential Dynamic Term Fund",1.11,0.0,0.0,0.18,1.29,0.54,0.0,0.0,0.09,0.63
 "ICIC/O/E/ELS/99/07/0011","ICICI Prudential ELSS - Tax Saver Fund",1.45,0.02,0.0,0.3,1.77,0.95,0.02,0.0,0.23,1.2
@@ -921,7 +921,7 @@
 "ICIC/C/D/FTP/22/11/0168","ICICI Prudential Fixed Maturity Plan - Series 88 - 1303 Days Plan S",0.3,0.0,0.0,0.06,0.36,0.09,0.0,0.0,0.01,0.1
 "ICIC/O/E/FCF/21/02/0122","ICICI Prudential Flexi Cap Fund",1.36,0.03,0.0,0.31,1.7,0.63,0.03,0.0,0.2,0.86
 "ICIC/O/D/FLF/13/12/0047","ICICI Prudential Floating Interest Rates Fund",0.7,0.0,0.0,0.11,0.81,0.24,0.0,0.0,0.04,0.28
-"ICIC/O/E/SEC/99/02/0010","ICICI Prudential FMCG Fund",1.8,0.05,0.01,0.52,2.38,1.17,0.05,0.01,0.42,1.65
+"ICIC/O/E/SEC/99/02/0010","ICICI Prudential FMCG Fund",1.79,0.05,0.01,0.52,2.37,1.16,0.05,0.01,0.42,1.64
 "ICIC/O/E/FOC/22/02/0140","ICICI Prudential Focused Fund",1.42,0.1,0.01,0.57,2.1,0.56,0.1,0.01,0.42,1.09
 "ICIC/O/D/GIL/99/07/0012","ICICI Prudential Gilt Fund",0.94,0.0,0.0,0.16,1.1,0.49,0.0,0.0,0.09,0.58
 "ICIC/O/O/FOD/19/06/0109","ICICI Prudential Global Advantage Fund (FoF)",1.14,0.0,0.0,0.21,1.35,0.54,0.0,0.0,0.1,0.64
@@ -931,11 +931,11 @@
 "ICIC/O/E/THE/18/05/0064","ICICI Prudential Healthcare Fund",1.53,0.06,0.01,0.44,2.04,0.87,0.06,0.01,0.34,1.28
 "ICIC/O/E/THE/22/03/0141","ICICI Prudential Housing Opportunities Fund",1.69,0.02,0.0,0.35,2.06,0.94,0.02,0.0,0.25,1.21
 "ICIC/O/O/FOD/03/10/0024","ICICI Prudential Income Plus Arbitrage Omni FoF",0.22,0.0,0.0,0.05,0.27,0.06,0.0,0.0,0.01,0.07
-"ICIC/O/E/THE/18/10/0090","ICICI Prudential India Opportunities Fund",1.3,0.05,0.0,0.37,1.72,0.61,0.05,0.0,0.26,0.92
+"ICIC/O/E/THE/18/10/0090","ICICI Prudential India Opportunities Fund",1.29,0.05,0.0,0.37,1.71,0.6,0.05,0.0,0.26,0.91
 "ICIC/O/E/THE/05/06/0027","ICICI Prudential Infrastructure Fund",1.53,0.03,0.0,0.36,1.92,1.0,0.03,0.0,0.27,1.3
 "ICIC/O/E/THE/23/02/0171","ICICI Prudential Innovation Fund",1.53,0.1,0.01,0.52,2.16,0.7,0.1,0.01,0.41,1.22
-"ICIC/O/E/LMF/98/05/0001","ICICI Prudential Large & Mid Cap Fund",1.34,0.1,0.01,0.54,1.99,0.69,0.1,0.01,0.43,1.23
-"ICIC/O/E/LCF/98/05/0006","ICICI Prudential Large Cap Fund (Erstwhile Bluechip Fund)",1.13,0.03,0.0,0.32,1.48,0.72,0.03,0.0,0.25,1.0
+"ICIC/O/E/LMF/98/05/0001","ICICI Prudential Large & Mid Cap Fund",1.33,0.1,0.01,0.54,1.98,0.68,0.1,0.01,0.43,1.22
+"ICIC/O/E/LCF/98/05/0006","ICICI Prudential Large Cap Fund (Erstwhile Bluechip Fund)",1.12,0.03,0.0,0.32,1.47,0.71,0.03,0.0,0.25,0.99
 "ICIC/O/L/LCY/26/06/0206","ICICI Prudential Life Cycle Fund 2031",1.82,0.28,0.05,1.66,3.81,0.88,0.28,0.05,1.53,2.74
 "ICIC/O/L/LCY/26/05/0207","ICICI Prudential Life Cycle Fund 2036",2.07,0.18,0.03,1.23,3.51,0.99,0.18,0.03,1.11,2.31
 "ICIC/O/L/LCY/26/06/0208","ICICI Prudential Life Cycle Fund 2041",2.07,0.16,0.03,1.08,3.34,0.96,0.16,0.03,0.96,2.11
@@ -945,13 +945,13 @@
 "ICIC/O/E/THE/18/05/0066","ICICI Prudential Manufacturing Fund",1.54,0.07,0.01,0.45,2.07,0.73,0.07,0.01,0.34,1.15
 "ICIC/O/D/MDF/12/02/0042","ICICI Prudential Medium Term Fund",1.16,0.0,0.0,0.2,1.36,0.62,0.0,0.0,0.11,0.73
 "ICIC/O/D/MLD/08/05/0033","ICICI Prudential Medium to Long Term Fund",0.85,0.0,0.0,0.14,0.99,0.5,0.0,0.0,0.09,0.59
-"ICIC/O/E/MIF/04/06/0026","ICICI Prudential Mid Cap Fund",1.52,0.01,0.0,0.3,1.83,0.88,0.01,0.0,0.2,1.09
-"ICIC/O/E/THE/18/12/0106","ICICI Prudential MNC Fund",1.79,0.02,0.0,0.33,2.14,0.98,0.02,0.0,0.25,1.25
+"ICIC/O/E/MIF/04/06/0026","ICICI Prudential Mid Cap Fund",1.53,0.01,0.0,0.3,1.84,0.89,0.01,0.0,0.2,1.1
+"ICIC/O/E/THE/18/12/0106","ICICI Prudential MNC Fund",1.78,0.02,0.0,0.33,2.13,0.97,0.02,0.0,0.25,1.24
 "ICIC/O/D/MMF/98/05/0008","ICICI Prudential Money Market Fund",0.26,0.0,0.0,0.04,0.3,0.18,0.0,0.0,0.03,0.21
 "ICIC/O/H/MAA/02/09/0018","ICICI Prudential Multi Asset Allocation Fund",1.06,0.03,0.01,0.31,1.41,0.56,0.03,0.01,0.23,0.83
 "ICIC/O/E/MCF/01/08/0016","ICICI Prudential Multi Cap Fund",1.42,0.02,0.0,0.3,1.74,0.78,0.02,0.0,0.2,1.0
 "ICIC/O/O/FOD/03/10/0020","ICICI Prudential Multi Sector Passive FoF",0.4,0.01,0.0,0.08,0.49,0.18,0.01,0.0,0.04,0.23
-"ICIC/O/O/FOD/26/01/0204","ICICI Prudential Multi-Asset Active FoF",1.13,0.01,0.0,0.18,1.32,0.18,0.01,0.0,0.06,0.25
+"ICIC/O/O/FOD/26/01/0204","ICICI Prudential Multi-Asset Active FoF",1.18,0.01,0.0,0.18,1.37,0.2,0.01,0.0,0.06,0.27
 "ICIC/O/O/EET/21/08/0128","ICICI Prudential NASDAQ 100 Index Fund",0.9,0.01,0.0,0.15,1.06,0.53,0.01,0.0,0.09,0.63
 "ICIC/O/O/DET/22/11/0163","ICICI Prudential Nifty 10 Yr Benchmark G-SEC ETF",0.12,0.0,0.0,0.02,0.14,0.0,0.0,0.0,0.0,0.0
 "ICIC/O/O/EET/13/01/0045","ICICI Prudential Nifty 100 ETF",0.41,0.0,0.0,0.09,0.5,0.0,0.0,0.0,0.0,0.0
@@ -1015,7 +1015,7 @@
 "ICIC/O/S/RET/18/10/0087","ICICI Prudential Retirement Fund Hybrid Conservative Plan",1.84,0.02,0.0,0.38,2.24,0.76,0.02,0.0,0.21,0.99
 "ICIC/O/S/RET/18/10/0088","ICICI Prudential Retirement Fund Pure Debt Plan",1.84,0.0,0.0,0.29,2.13,1.01,0.0,0.0,0.18,1.19
 "ICIC/O/S/RET/18/10/0089","ICICI Prudential Retirement Fund Pure Equity Plan",1.73,0.03,0.0,0.36,2.12,0.66,0.03,0.0,0.22,0.91
-"ICIC/O/E/THE/24/10/0186","ICICI Prudential Rural Opportunities Fund",1.76,0.05,0.0,0.41,2.22,0.86,0.05,0.0,0.32,1.23
+"ICIC/O/E/THE/24/10/0186","ICICI Prudential Rural Opportunities Fund",1.75,0.05,0.0,0.41,2.21,0.85,0.05,0.0,0.32,1.22
 "ICIC/O/D/SDF/98/05/0003","ICICI Prudential Short Term Fund",0.87,0.0,0.0,0.15,1.02,0.38,0.0,0.0,0.07,0.45
 "ICIC/O/O/OET/21/12/0137","ICICI Prudential Silver ETF",0.34,0.0,0.0,0.06,0.4,0.0,0.0,0.0,0.0,0.0
 "ICIC/O/O/FOD/21/12/0138","ICICI Prudential Silver ETF FoF",0.56,0.0,0.0,0.1,0.66,0.17,0.0,0.0,0.03,0.2
