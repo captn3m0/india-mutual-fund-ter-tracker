@@ -642,7 +642,7 @@
 "FTMF/O/S/RET/97/03/0005","Franklin India Retirement Fund",1.84,0.03,0.0,0.38,2.25,1.21,0.03,0.0,0.28,1.52
 "FTMF/O/D /STF/26/06/0053","Franklin India Short Term Fund",0.8,0.03,0.0,0.13,0.96,0.26,0.03,0.0,0.05,0.34
 "FTMF/O/E/SCF/05/10/0024","Franklin India Small Cap Fund",1.46,0.05,0.0,0.36,1.87,0.76,0.05,0.0,0.25,1.06
-"FTMF/O/E/THE/98/08/0008","Franklin India Technology Fund",1.78,0.02,0.0,0.36,2.16,0.92,0.02,0.0,0.23,1.17
+"FTMF/O/E/THE/98/08/0008","Franklin India Technology Fund",1.78,0.02,0.0,0.36,2.16,0.92,0.02,0.0,0.22,1.16
 "FTMF/O/D/USD/24/07/0048","Franklin India Ultra Short Term Fund",0.61,0.01,0.0,0.1,0.72,0.24,0.01,0.0,0.04,0.29
 "FTMF/O/D /LOW/25/02/0050","Franklin India Ultra Short to Short Term Fund",0.61,0.01,0.0,0.1,0.72,0.22,0.01,0.0,0.04,0.27
 "FTMF/O/O/FOO/11/08/0029","Franklin U. S. Opportunities Equity Active Fund of Funds",1.25,0.0,0.0,0.21,1.46,0.45,0.0,0.0,0.08,0.53
@@ -1714,7 +1714,7 @@
 "QNTM/O/E/THE/23/04/0022","Quant Manufacturing Fund",2.05,0.07,0.02,0.6,2.74,0.86,0.07,0.02,0.52,1.47
 "QNTM/O/E/MIF/01/02/0003","Quant Mid Cap Fund",1.53,0.06,0.01,0.46,2.06,0.7,0.06,0.01,0.4,1.17
 "QNTM/O/E/THE/23/09/0024","Quant Momentum Fund",1.86,0.12,0.03,0.84,2.85,0.89,0.12,0.03,0.77,1.81
-"QNTM/O/H/MAA/01/02/0006","Quant Multi Asset Allocation Fund",1.49,0.08,0.02,0.56,2.15,0.6,0.08,0.02,0.49,1.19
+"QNTM/O/H/MAA/01/02/0006","Quant Multi Asset Allocation Fund",1.49,0.08,0.02,0.55,2.14,0.59,0.08,0.02,0.49,1.18
 "QNTM/O/E/MCF/01/02/0004","Quant Multi Cap Fund",1.53,0.05,0.01,0.42,2.01,0.67,0.05,0.01,0.35,1.08
 "QNTM/O/O/EIN/26/09/0034","Quant Nifty 100 Index Fund",0.42,0.1,0.24,10.42,11.18,0.09,0.1,0.24,10.36,10.79
 "QNTM/O/O/EIN/26/09/0032","Quant Nifty 50 Index Fund",0.32,0.08,0.26,10.43,11.09,0.06,0.08,0.26,10.38,10.78
@@ -1942,14 +1942,14 @@
 "TATA/O/E/SEC/15/10/0025","Tata Digital India Fund",1.49,0.04,0.0,0.25,1.78,0.49,0.04,0.0,0.17,0.7
 "TATA/O/E/DYF/21/03/0042","Tata Dividend Yield Fund",1.87,0.03,0.0,0.39,2.29,0.56,0.03,0.0,0.17,0.76
 "TATA/O/E/ELS/95/11/0005","Tata ELSS - Tax Saver Fund",1.6,0.02,0.0,0.29,1.91,0.68,0.02,0.0,0.17,0.87
-"TATA/O/E/THE/96/02/0006","Tata Ethical Fund",1.62,0.04,0.0,0.3,1.96,0.6,0.04,0.0,0.19,0.83
+"TATA/O/E/THE/96/02/0006","Tata Ethical Fund",1.61,0.04,0.0,0.3,1.95,0.6,0.04,0.0,0.19,0.83
 "TATA/O/E/FCF/18/05/0029","Tata Flexi Cap Fund",1.63,0.06,0.0,0.41,2.1,0.58,0.06,0.0,0.24,0.88
 "TATA/O/D/FLF/21/04/0043","Tata Floating Interest Rates Fund",0.62,0.0,0.0,0.08,0.7,0.26,0.0,0.0,0.05,0.31
 "TATA/O/E/FOC/19/10/0040","Tata Focused Fund",1.77,0.06,0.0,0.43,2.26,0.61,0.06,0.0,0.24,0.91
 "TATA/O/D/GIL/99/07/0011","Tata Gilt Fund",1.18,0.0,0.01,0.13,1.32,0.24,0.0,0.01,0.05,0.3
 "TATA/O/O/FOD/23/12/0057","Tata Gold ETF Fund of Fund",0.57,0.0,0.0,0.07,0.64,0.2,0.0,0.0,0.04,0.24
 "TATA/O/O/GET/23/12/0058","Tata Gold Exchange Traded Fund",0.0,0.0,0.0,0.0,0.0,0.33,0.0,0.0,0.06,0.39
-"TATA/O/E/THE/22/07/0049","Tata Housing Opportunities Fund",2.09,0.05,0.0,0.46,2.6,0.75,0.05,0.0,0.24,1.04
+"TATA/O/E/THE/22/07/0049","Tata Housing Opportunities Fund",2.09,0.05,0.0,0.45,2.59,0.75,0.05,0.0,0.24,1.04
 "TATA/O/O/FOD/25/04/0076","Tata Income Plus Arbitrage Active FoF",0.54,0.0,0.0,0.04,0.58,0.08,0.0,0.0,0.02,0.1
 "TATA/O/E/SEC/15/10/0026","Tata India Consumer Fund",1.67,0.06,0.0,0.39,2.12,0.62,0.06,0.0,0.24,0.92
 "TATA/O/E/THE/24/10/0072","Tata India Innovation Fund",1.84,0.07,0.01,0.47,2.39,0.64,0.07,0.01,0.27,0.99
@@ -1960,7 +1960,7 @@
 "TATA/O/D/LIF/03/11/0017","Tata Liquid Fund",0.29,0.0,0.0,0.03,0.32,0.15,0.0,0.0,0.03,0.18
 "TATA/O/E/MIF/94/05/0002","Tata Mid Cap Fund",1.55,0.05,0.0,0.38,1.98,0.54,0.05,0.0,0.22,0.81
 "TATA/O/D/MMF/98/07/0010","Tata Money Market Fund",0.37,0.0,0.0,0.03,0.4,0.15,0.0,0.0,0.03,0.18
-"TATA/O/H/MAA/19/09/0039","Tata Multi Asset Allocation Fund",1.58,0.03,0.01,0.34,1.96,0.45,0.03,0.01,0.16,0.65
+"TATA/O/H/MAA/19/09/0039","Tata Multi Asset Allocation Fund",1.57,0.03,0.01,0.34,1.95,0.44,0.03,0.01,0.16,0.64
 "TATA/O/O/FOD/26/02/0080","Tata Multi Sector Passive FoF",0.51,0.02,0.01,0.12,0.66,0.14,0.02,0.01,0.06,0.23
 "TATA/O/E /MCF/22/10/0053","Tata Multicap Fund",1.63,0.08,0.01,0.46,2.18,0.47,0.08,0.01,0.26,0.82
 "TATA/O/O/OET/18/09/0034","Tata Nifty 50 Exchange Traded Fund",0.0,0.0,0.0,0.0,0.0,0.07,0.0,0.0,0.02,0.09
@@ -1987,11 +1987,11 @@
 "TATA/O/E/SEC/15/10/0028","Tata Resources & Energy Fund",1.83,0.05,0.0,0.35,2.23,0.59,0.05,0.0,0.21,0.85
 "TATA/O/S/RET/11/06/0021","Tata Retirement Savings Fund-Conservative Plan",1.83,0.02,0.0,0.32,2.17,0.85,0.02,0.0,0.19,1.06
 "TATA/O/S/RET/11/06/0022","Tata Retirement Savings Fund-Moderate Plan",1.73,0.05,0.0,0.38,2.16,0.58,0.05,0.0,0.21,0.84
-"TATA/O/S/RET/11/06/0023","Tata Retirement Savings Fund-Progressive Plan",1.73,0.06,0.0,0.41,2.2,0.54,0.06,0.0,0.22,0.82
+"TATA/O/S/RET/11/06/0023","Tata Retirement Savings Fund-Progressive Plan",1.73,0.06,0.0,0.4,2.19,0.54,0.06,0.0,0.22,0.82
 "TATA/O/D/SDF/02/07/0012","Tata Short Term Fund",1.02,0.01,0.0,0.08,1.11,0.3,0.01,0.0,0.06,0.37
 "TATA/O/O/FOD/23/12/0056","Tata Silver ETF Fund of Fund",0.51,0.0,0.0,0.07,0.58,0.18,0.0,0.0,0.04,0.22
 "TATA/O/O/OET/23/12/0059","Tata Silver Exchange Traded Fund",0.0,0.0,0.0,0.0,0.0,0.39,0.0,0.0,0.07,0.46
-"TATA/O/E/SCF/18/08/0033","Tata Small Cap Fund",1.46,0.01,0.0,0.22,1.69,0.42,0.01,0.0,0.09,0.52
+"TATA/O/E/SCF/18/08/0033","Tata Small Cap Fund",1.46,0.01,0.0,0.22,1.69,0.41,0.01,0.0,0.09,0.51
 "TATA/O/D/USD/18/11/0035","Tata Ultra Short Term Fund",1.0,0.02,0.0,0.09,1.11,0.26,0.02,0.0,0.05,0.33
 "TATA/O/D/LOW/05/08/0020","Tata Ultra Short to Short Term Fund",0.5,0.02,0.0,0.05,0.57,0.21,0.02,0.0,0.04,0.27
 "TATA/O/E/VAF/04/02/0018","Tata Value Fund",1.51,0.07,0.0,0.4,1.98,0.68,0.07,0.0,0.28,1.03
@@ -2150,7 +2150,7 @@
 "UTIM/O/D/USD/03/08/0018","UTI Ultra Short Term Fund",0.88,0.01,0.0,0.11,1.0,0.3,0.01,0.0,0.05,0.36
 "UTIM/O/D/LOW/99/07/0010","UTI Ultra Short to Short Term Fund",0.55,0.01,0.0,0.09,0.65,0.31,0.01,0.0,0.05,0.37
 "UTIM/O/E/VAF/05/06/0025","UTI Value Fund",1.5,0.04,0.0,0.32,1.86,1.04,0.04,0.0,0.26,1.34
-"WHIT/O/H/AHF/26/05/0023","WhiteOak Capital Aggressive Hybrid Fund",2.04,0.1,0.01,0.71,2.86,0.52,0.1,0.01,0.43,1.06
+"WHIT/O/H/AHF/26/05/0023","WhiteOak Capital Aggressive Hybrid Fund",2.04,0.1,0.01,0.7,2.85,0.52,0.1,0.01,0.43,1.06
 "WHIT/O/H/ARB/24/05/0017","WhiteOak Capital Arbitrage Fund",1.03,0.18,0.07,1.72,3.0,0.36,0.18,0.07,1.6,2.21
 "WHIT/O/H/BAF/22/10/0008","WhiteOak Capital Balanced Advantage Fund",1.72,0.03,0.01,0.47,2.23,0.52,0.03,0.01,0.25,0.81
 "WHIT/O/H/BHF/23/08/0012","WhiteOak Capital Balanced Hybrid Fund",1.85,0.02,0.0,0.38,2.25,0.54,0.02,0.0,0.15,0.71
